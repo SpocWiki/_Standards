@@ -30,13 +30,13 @@ information presented here for Acantheae.
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -92,12 +92,14 @@ Scientific Name ::     Aphelandra terryae Standl.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![](New_Acantheae/aph.jpg))
+--------------------------------------------------------------------------- 
+![](New_Acantheae/aph.jpg))
 Scientific Name ::     Aphelandra macrophylla Leonard
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
---------------------------------------------------------------------------![](New_Acantheae/geissomeria.jpg))
+-------------------------------------------------------------------------- 
+![](New_Acantheae/geissomeria.jpg))
 Scientific Name ::     Geissomeria tetragona Lindau
 Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 

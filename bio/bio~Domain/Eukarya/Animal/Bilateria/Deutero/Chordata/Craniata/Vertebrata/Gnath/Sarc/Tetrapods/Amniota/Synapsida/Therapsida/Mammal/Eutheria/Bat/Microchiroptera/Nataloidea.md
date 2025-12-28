@@ -7,10 +7,10 @@ title: Nataloidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Microchiroptera](../Microchiroptera.md))
-    -  [Bat](../../Bat.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Microchiroptera](../Microchiroptera.md) 
+    -  [Bat](../../Bat.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -21,9 +21,9 @@ title: Nataloidea
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Microchiroptera
@@ -43,7 +43,7 @@ title: Nataloidea
 
 Tree from Simmons (1998) and Simmons and Geisler (1998).
 
-Containing group:[Microchiroptera](../Microchiroptera.md))
+Containing group:[Microchiroptera](../Microchiroptera.md) 
 
 ## Introduction
 

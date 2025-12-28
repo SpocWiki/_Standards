@@ -7,14 +7,14 @@ title: Aegla
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Anomura](../Anomura.md))
-    -  [Decapoda](../../Decapoda.md))
-    -  [Malacostraca](../../../Malacostraca.md))
-    -  [Crustacea](../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Anomura](../Anomura.md) 
+    -  [Decapoda](../../Decapoda.md) 
+    -  [Malacostraca](../../../Malacostraca.md) 
+    -  [Crustacea](../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Anomura
@@ -99,7 +99,8 @@ Aegla
 
 ## Title Illustrations
 
--------------------------------------------------------------------------------![Aegla abtao](Aeglidae/abtao.jpg))
+------------------------------------------------------------------------------- 
+![Aegla abtao](Aeglidae/abtao.jpg))
 Scientific Name ::  Aegla abtao abtao
 Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 

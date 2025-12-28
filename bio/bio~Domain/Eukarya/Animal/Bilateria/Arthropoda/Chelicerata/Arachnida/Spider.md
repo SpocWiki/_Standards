@@ -232,22 +232,22 @@ UMLS_CUI: C0037913
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arachnida](../Arachnida.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Arachnida](../Arachnida.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arachnida
-    -  [Solifugae](Solifugae.md))
+    -  [Solifugae](Solifugae.md) 
     -   Spider
     -   [Mite](Mite.md)
-    -  [Scorpionida](Scorpionida.md))
+    -  [Scorpionida](Scorpionida.md) 
 
 -   » Sub-Groups
-    -  [Mygalomorphae](Spider/Mygalomorphae.md))
-    -  [Araneomorphae](Spider/Araneomorphae.md))
+    -  [Mygalomorphae](Spider/Mygalomorphae.md) 
+    -  [Araneomorphae](Spider/Araneomorphae.md) 
 
 
 ## Title Illustrations
@@ -261,7 +261,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
--------------------![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg))
+------------------- 
+![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg))
 Scientific Name ::     Theraphosa blondi
 Comments             Goliath birdeating tarantula
 Specimen Condition   Live Specimen

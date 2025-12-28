@@ -17,14 +17,14 @@ title: Plasmodiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Euapicomplexa](../Euapicomplexa.md))
-    -  [Alveolates](../../Alveolates.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Apicomplexa](../Apicomplexa.md) 
+    -  [Alveolate](../../Alveolate.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Euapicomplexa
     -   Plasmodiidae
-    -  [Piroplasmorida](Piroplasmorida.md)) 
+    -  [Piroplasmorida](Piroplasmorida.md)  
 
 -   » Sub-Groups 
 	-   *Billbraya*

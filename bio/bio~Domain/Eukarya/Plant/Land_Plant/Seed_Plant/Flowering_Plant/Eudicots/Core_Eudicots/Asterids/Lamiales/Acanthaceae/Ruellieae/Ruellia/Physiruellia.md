@@ -68,13 +68,13 @@ These ants may serve to guard and protect young, developing fruits.
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -129,7 +129,8 @@ These ants may serve to guard and protect young, developing fruits.
 
 ## Title Illustrations
 
------------------------------------------------------------------------![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg))
+----------------------------------------------------------------------- 
+![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg))
 Scientific Name ::     Ruellia biolleyi Lindau
 Location ::           La Selva Biological Station, Costa Rica
 Acknowledgements     Erin A. Tripp
@@ -139,14 +140,16 @@ Body Part            flower
 Collector            Tripp & McDade
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg))
+----------------------------------------------------------------------- 
+![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg))
 Scientific Name ::     Ruellia macrophylla var. lutea Leonard
 Location ::           Cultivated in DUKE Greenhouses
 Specimen Condition   Live Specimen
 Body Part            flower
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![](Physiruellia/Ruellia_jussieuoides.jpg))
+----------------------------------------------------------------------- 
+![](Physiruellia/Ruellia_jussieuoides.jpg))
 Scientific Name ::     Ruellia jussieuoides Schltdl. & Cham.
 Location ::           Chiapas, Mexico
 Specimen Condition   Live Specimen

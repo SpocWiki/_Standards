@@ -7,19 +7,19 @@ title: Oxyopidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Lycosoidea](../Lycosoidea.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Lycosoidea](../Lycosoidea.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Lycosoidea
-    -  [Lycosidae](Lycosidae.md))
+    -  [Lycosidae](Lycosidae.md) 
     -   Oxyopidae
 
 -   » Sub-Groups 
@@ -37,7 +37,7 @@ title: Oxyopidae
 -   *Tapinillus*
 -   *Tapponia*
 
-Containing group:[Lycosoidea](../Lycosoidea.md))
+Containing group:[Lycosoidea](../Lycosoidea.md) 
 
 ## Title Illustrations
 
@@ -49,6 +49,7 @@ Containing group:[Lycosoidea](../Lycosoidea.md))
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+ 
   ----------------------------------------------------------------------------
 
 

@@ -30,25 +30,25 @@ Birds, tyrannosaurs, velociraptors, etc.
     -   [Archosauria](../../../Archosauria.md)
     -   [Archosauromorpha](../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../Diapsida.md)
-    -  [Amniota](../../../../../../../../Amniota.md))
+    -  [Amniota](../../../../../../../../Amniota.md) 
     -   [Terrestrial Vertebrates](../../../../../../../Terrestrial.md)
-    -  [Sarcopterygii](../../../../../../../../../../Sarc.md))
-    -  [Gnathostomata](../../../../../../../../../../../Gnath.md))
-    -  [Vertebrata](../../../../../../../../../../../../Vertebrata.md))
-    -  [Craniata](../../../../../../../../../../../../../Craniata.md))
-    -  [Chordata](../../../../../../../../../../../../../../Chordata.md))
-    -  [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md))
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
-    -  [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md))
+    -  [Sarcopterygii](../../../../../../../../../../Sarc.md) 
+    -  [Gnathostomata](../../../../../../../../../../../Gnath.md) 
+    -  [Vertebrata](../../../../../../../../../../../../Vertebrata.md) 
+    -  [Craniata](../../../../../../../../../../../../../Craniata.md) 
+    -  [Chordata](../../../../../../../../../../../../../../Chordata.md) 
+    -  [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md) 
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
+    -  [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Theropoda
     -   Coelurosauria
 
 -   » Sub-Groups
     -   [Tyrannosauroidea](Coelurosauria/Tyrannosauroidea.md)
-    -  [Bird](../../../../../../../../Bird.md))
+    -  [Bird](../../../../../../../../Bird.md) 
 	-   *Compsognathidae* †
 	-   *Alvarezsauridae* †
 	-   *Ornithomimidae* †

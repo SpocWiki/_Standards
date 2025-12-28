@@ -25,13 +25,13 @@ title: Sclerochiton
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -77,12 +77,14 @@ more data and/or study of additional characters clarifies these enigmas.
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg))
+--------------------------------------------------------------------------- 
+![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg))
 Scientific Name ::     Sclerochiton harveyanus Nees
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Sclerochiton ilicifolius](Sclerochiton/Sclerochiton_ilicifolius.jpg)) 
+--------------------------------------------------------------------------- 
+![Sclerochiton ilicifolius](Sclerochiton/Sclerochiton_ilicifolius.jpg)) 
 Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
 Location ::           South Africa
 Reference            Lieden Herbarium (L)
@@ -91,7 +93,8 @@ Collection           L
 Collector            Meeuse 9657
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg))
+--------------------------------------------------------------------------- 
+![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg))
 Scientific Name ::  Sclerochiton bequaertii De Wild.
 Reference         Vollesen, Kaj. 1991. A revision of the African genus Sclerochiton (Acanthaceae: Acantheae). Kew Bulletin 46(1):38.
 Creator           Drawn by Eleanor Catherine

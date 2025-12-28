@@ -11,13 +11,13 @@ title: Bolitaena pygmaea
     -   [Bolitaenidae](../Bolitaenidae.md)
     -   [Incirrata](../../Incirrata.md)
     -   [Octopod](../../../Octopod.md)
-    -  [Octopodiformes](../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bolitaenidae
@@ -153,12 +153,14 @@ Nesis, 1982).
 ## Title Illustrations
 
 
--------------------------------------------------------------------------------![](Bolitaena_pygmaea/Eledonella.jpg))
+------------------------------------------------------------------------------- 
+![](Bolitaena_pygmaea/Eledonella.jpg))
 Scientific Name ::  Bolitaena pygmaea
 Location ::        off Hawaii
 Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
-------------![](Bolitaena_pygmaea/eledonellaFem.jpg))
+------------ 
+![](Bolitaena_pygmaea/eledonellaFem.jpg))
 Scientific Name ::  Bolitaena pygmaea
 Reference         modified from Chun, 1910
 

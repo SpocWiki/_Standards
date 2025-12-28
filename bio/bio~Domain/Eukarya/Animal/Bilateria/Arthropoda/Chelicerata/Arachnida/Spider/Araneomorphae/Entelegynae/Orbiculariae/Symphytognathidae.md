@@ -7,31 +7,31 @@ title: Symphytognathidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
-    -  [Anapidae](Anapidae.md))
-    -  [Mysmenidae](Mysmenidae.md))
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
-    -  [Araneidae](Araneidae.md))
-    -  [Theridiosomatidae](Theridiosomatidae.md))
+    -  [Anapidae](Anapidae.md) 
+    -  [Mysmenidae](Mysmenidae.md) 
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
+    -  [Araneidae](Araneidae.md) 
+    -  [Theridiosomatidae](Theridiosomatidae.md) 
     -   Symphytognathidae
-    -  [Linyphiidae](Linyphiidae.md))
-    -  [Pimoidae](Pimoidae.md))
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Linyphiidae](Linyphiidae.md) 
+    -  [Pimoidae](Pimoidae.md) 
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -40,7 +40,7 @@ title: Symphytognathidae
 [Jonathan Coddington]()
 ![ ](Symphytognathidae/anapistula03.jpg))
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ### References
 
@@ -74,6 +74,7 @@ Araneoidea). Zoologica Scripta 32:129-151.
   Identified By        Jonathan Coddington
   Behavior             web size ca. 4 cm. Note large number of radii that do not all reach hub.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

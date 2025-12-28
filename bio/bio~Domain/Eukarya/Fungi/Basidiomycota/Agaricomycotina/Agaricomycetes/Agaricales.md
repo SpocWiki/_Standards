@@ -7,18 +7,18 @@ title: Agaricales
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Agaricomycetes](../Agaricomycetes.md))
-    -  [Agaricomycotina](../../Agaricomycotina.md))
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Agaricomycetes](../Agaricomycetes.md) 
+    -  [Agaricomycotina](../../Agaricomycotina.md) 
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Agaricomycetes
     -   Agaricales
-    -  [Atheliales](Atheliales.md))
-    -  [Russulales](Russulales.md))
-    -  [Polyporales](Polyporales.md))
+    -  [Atheliales](Atheliales.md) 
+    -  [Russulales](Russulales.md) 
+    -  [Polyporales](Polyporales.md) 
     -   [Thelephorales](Thelephorales)
     -   [Corticiales](Corticiales)
     -   [Hymenochaetoid clade](Hymenochaetoid_clade)
@@ -42,7 +42,7 @@ are from Matheny et al. (2006) and are informal. The monophyly of these
 major clades receive significant support with Bayesian analyses with
 exception of the *pluteoid* clade.\
 
-Containing group:[Agaricomycetes](../Agaricomycetes.md))
+Containing group:[Agaricomycetes](../Agaricomycetes.md) 
 
 ### Information on the Internet
 
@@ -453,6 +453,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Specimen Condition   Live Specimen
   Source Collection    [MykoWeb](http://www.mykoweb.com/)
   Copyright ::            © [Taylor F. Lockwood](http://www.fungiphoto.com/) 
+ 
   -------------------------------------------------------------------------
 ![](Agaricales/squamanita_paradoxa.jpg))
 

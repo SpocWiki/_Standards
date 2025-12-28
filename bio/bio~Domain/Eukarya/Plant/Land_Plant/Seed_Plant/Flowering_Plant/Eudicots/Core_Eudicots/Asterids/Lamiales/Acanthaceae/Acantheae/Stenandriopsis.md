@@ -24,13 +24,13 @@ title: Stenandriopsis Clade
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -77,7 +77,8 @@ genus as distinct from *Stenandriopsis* may be unwarranted.
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Achyrocalyx](Stenandriopsis/Achyrocalyx.jpg))
+--------------------------------------------------------------------------- 
+![Achyrocalyx](Stenandriopsis/Achyrocalyx.jpg))
 Scientific Name ::     Achyrocalyx gossypinus Benoist
 Location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris
@@ -85,7 +86,8 @@ Specimen Condition   Dead Specimen
 Collector            Perrier de la Bathie
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
+--------------------------------------------------------------------------- 
+![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
 Scientific Name ::     Achyrocalyx pungens Benoist
 Location ::           Madagascar
 Specimen Condition   Dead Specimen
@@ -98,7 +100,8 @@ Specimen Condition   Live Specimen
 Identified By        K. Vollesen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
+--------------------------------------------------------------------------- 
+![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
 Scientific Name ::     Achyrocalyx pungens Benoist
 Location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris

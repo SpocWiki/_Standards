@@ -8,17 +8,17 @@ title: Polyplacophora
 
 ## Phylogeny 
 -   « Ancestral Groups  
-    -  [Mollusca](../Mollusca.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Mollusca](../Mollusca.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mollusca
     -   Polyplacophora
-    -  [Bivalvia](Bivalvia.md))
-    -  [Gastropoda](Gastropoda.md))
-    -  [Cephalopoda](Cephalopoda.md))
+    -  [Bivalvia](Bivalvia.md) 
+    -  [Gastropoda](Gastropoda.md) 
+    -  [Cephalopoda](Cephalopoda.md) 
 
 -   » Sub-Groups 
 	-   *Lepidopleurina*

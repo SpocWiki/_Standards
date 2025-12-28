@@ -7,23 +7,23 @@ title: Nynantheae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Actiniaria](../Actiniaria.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Actiniaria](../Actiniaria.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Actiniaria
-    -  [Protantheae](Protantheae.md))
-    -  [Endocoelantheae](Endocoelantheae.md))
+    -  [Protantheae](Protantheae.md) 
+    -  [Endocoelantheae](Endocoelantheae.md) 
     -   Nynantheae
 
 -   » Sub-Groups
-    -  [Athenaria](Nynantheae/Athenaria.md))
-    -  [Boloceroidaria](Nynantheae/Boloceroidaria.md))
-    -  [Thenaria](Nynantheae/Thenaria.md))
+    -  [Athenaria](Nynantheae/Athenaria.md) 
+    -  [Boloceroidaria](Nynantheae/Boloceroidaria.md) 
+    -  [Thenaria](Nynantheae/Thenaria.md) 
 
 # Nynantheae 
 ![ ](Nynantheae/diadumenidaesm.jpg))![ ](Nynantheae/haloclavidaesm.jpg))![](Nynantheae/boloceroididaesm.jpg))
@@ -32,7 +32,7 @@ title: Nynantheae
 -   [Boloceroidaria](Nynantheae/Boloceroidaria.md "go to ToL page"))*
 -   [Thenaria](Nynantheae/Thenaria.md "go to ToL page"))*
 
-Containing group:[Actiniaria](../Actiniaria.md))
+Containing group:[Actiniaria](../Actiniaria.md) 
 
 ### Characteristics
 

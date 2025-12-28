@@ -12,7 +12,7 @@ title: Magnapinna sp. B
 [Michael Vecchione and Richard E. Young]()
 ![ ](Magnapinna_B/MagnaPinMEtitle.jpg))
 
-Containing group:[Magnapinnidae](../Magnapinnidae.md))
+Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
 ## Introduction
 
@@ -60,14 +60,14 @@ proximal-arm suckers.
 -   « Ancestral Groups  
     -   [Magnapinna](Magnapinna)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Magnapinna
@@ -96,6 +96,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   View                 Ventral
   Size                 95 mm ML
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 
 

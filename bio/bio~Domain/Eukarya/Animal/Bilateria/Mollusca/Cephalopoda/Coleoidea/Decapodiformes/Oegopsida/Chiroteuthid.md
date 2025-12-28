@@ -7,34 +7,34 @@ title: Chiroteuthid families
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   Chiroteuthid families
-    -  [Cranchiidae](Cranchiidae.md))
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Neoteuthidae.md))
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
     -   [Batoteuthis skolops](Batoteuthis_skolops)
-    -  [Chiroteuthidae](Chiroteuthid/Chiroteuthidae.md))
+    -  [Chiroteuthidae](Chiroteuthid/Chiroteuthidae.md) 
     -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
     -   [Magnapinna](Magnapinna)
     -   [Mastigoteuthis](Mastigoteuthis)
@@ -46,7 +46,7 @@ title: Chiroteuthid families
 
 ![ ](ChiroFams.jpg)
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -119,6 +119,7 @@ Atlas.
   Scientific Name ::   Batoteuthis scolops, Chiroteuthis veranyi, Joubiniteuthis portieri, Magnapinna pacifica, Mastigoteuthis glaukopis, Promachoteuthis megaptera
   Acknowledgements   Batoteuthis scolops illustration by A. D. Hart, Chiroteuthis veranyi photograph copyright © 1996, E. McSweeny, Joubiniteuthis portieri photograph copyright © 1996, R. E. Young, Megapinna pacifica photograph copyright © 1998, Richard E. Young), Mastigoteuthis glaukopis from Chun, 1910, Promachoteuthis megaptera from Okutani, 1983.
   Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------------------------------------
 
 

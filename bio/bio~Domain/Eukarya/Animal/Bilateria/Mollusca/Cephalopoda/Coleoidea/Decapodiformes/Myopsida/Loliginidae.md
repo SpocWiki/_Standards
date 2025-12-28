@@ -7,14 +7,14 @@ title: Loliginidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Myopsida](../Myopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Myopsida](../Myopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Myopsida
@@ -22,16 +22,16 @@ title: Loliginidae
     -   Loliginidae
 
 -   » Sub-Groups
-    -  [Loligo](Loliginidae/Loligo.md))
+    -  [Loligo](Loliginidae/Loligo.md) 
     -   [Afrololigo mercatoris](Afrololigo_mercatoris)
-    -  [Alloteuthis](Loliginidae/Alloteuthis.md))
-    -  [Doryteuthis](Loliginidae/Doryteuthis.md))
+    -  [Alloteuthis](Loliginidae/Alloteuthis.md) 
+    -  [Doryteuthis](Loliginidae/Doryteuthis.md) 
     -   [Heterololigo bleekeri](Heterololigo_bleekeri)
-    -  [Loliolus](Loliginidae/Loliolus.md))
-    -  [Lolliguncula](Loliginidae/Lolliguncula.md))
-    -  [Pickfordiateuthis](Loliginidae/Pickfordiateuthis.md))
-    -  [Sepioteuthis](Loliginidae/Sepioteuthis.md))
-    -  [Uroteuthis](Loliginidae/Uroteuthis.md))
+    -  [Loliolus](Loliginidae/Loliolus.md) 
+    -  [Lolliguncula](Loliginidae/Lolliguncula.md) 
+    -  [Pickfordiateuthis](Loliginidae/Pickfordiateuthis.md) 
+    -  [Sepioteuthis](Loliginidae/Sepioteuthis.md) 
+    -  [Uroteuthis](Loliginidae/Uroteuthis.md) 
 
 # Loliginidae [Lesueur, 1821] 
 
@@ -43,7 +43,7 @@ At present the Loliginidae is divided into ten genera with 42 nominal
 species. The generic affinities of three species currently are not
 resolved.
 
-Containing group:[Myopsida](../Myopsida.md))
+Containing group:[Myopsida](../Myopsida.md) 
 
 ## Introduction
 
@@ -320,6 +320,7 @@ Phuket Mar. Biol. Center. Res. Bull. 66:23-36
   Comments             Loliginid swimming near egg mass
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+ 
   ---------------------------------------------------------------------------
 
 

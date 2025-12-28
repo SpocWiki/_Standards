@@ -7,17 +7,17 @@ title: Polyporales
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Agaricomycetes](../Agaricomycetes.md))
-    -  [Agaricomycotina](../../Agaricomycotina.md))
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Agaricomycetes](../Agaricomycetes.md) 
+    -  [Agaricomycotina](../../Agaricomycotina.md) 
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Agaricomycetes
-    -  [Agaricales](Agaricales.md))
-    -  [Atheliales](Atheliales.md))
-    -  [Russulales](Russulales.md))
+    -  [Agaricales](Agaricales.md) 
+    -  [Atheliales](Atheliales.md) 
+    -  [Russulales](Russulales.md) 
     -   Polyporales
     -   [Thelephorales](Thelephorales)
     -   [Corticiales](Corticiales)
@@ -30,7 +30,7 @@ title: Polyporales
 
 coming soon!
 
-Containing group:[Agaricomycetes](../Agaricomycetes.md))
+Containing group:[Agaricomycetes](../Agaricomycetes.md) 
 
 
 ## Confidential Links & Embeds: 

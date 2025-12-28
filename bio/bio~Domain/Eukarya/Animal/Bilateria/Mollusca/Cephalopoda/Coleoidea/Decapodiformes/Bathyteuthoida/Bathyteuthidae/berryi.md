@@ -8,14 +8,14 @@ title: Bathyteuthis berryi
 
 -   « Ancestral Groups  
     -   [Bathyteuthis](Bathyteuthis)
-    -  [Bathyteuthoida](../../Bathyteuthoida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Bathyteuthoida](../../Bathyteuthoida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bathyteuthis
@@ -33,7 +33,7 @@ title: Bathyteuthis berryi
 The holotype is housed at the Santa Barbara Museum of Natural History,
 California.
 
-Containing group:[Bathyteuthidae](../Bathyteuthidae.md))
+Containing group:[Bathyteuthidae](../Bathyteuthidae.md) 
 
 ## Introduction
 

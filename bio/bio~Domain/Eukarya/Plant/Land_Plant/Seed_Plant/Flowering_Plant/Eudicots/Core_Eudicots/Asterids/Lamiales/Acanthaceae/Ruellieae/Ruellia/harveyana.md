@@ -35,13 +35,13 @@ flowers and occur in S. South America, Central America, and Mexico.
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -64,7 +64,8 @@ flowers and occur in S. South America, Central America, and Mexico.
 
 ## Title Illustrations
 
------------------------------------------------------------------------![Ruellia nobilis](harveyana/Ruellia_nobilis.jpg)) 
+----------------------------------------------------------------------- 
+![Ruellia nobilis](harveyana/Ruellia_nobilis.jpg)) 
 Scientific Name ::     Ruellia nobilis (S. Moore) Lindau
 Specimen Condition   Dead Specimen
 Identified By        Erin A. Tripp

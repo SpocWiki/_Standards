@@ -7,31 +7,31 @@ title: Araneidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
-    -  [Anapidae](Anapidae.md))
-    -  [Mysmenidae](Mysmenidae.md))
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
+    -  [Anapidae](Anapidae.md) 
+    -  [Mysmenidae](Mysmenidae.md) 
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
     -   Araneidae
-    -  [Theridiosomatidae](Theridiosomatidae.md))
-    -  [Symphytognathidae](Symphytognathidae.md))
-    -  [Linyphiidae](Linyphiidae.md))
-    -  [Pimoidae](Pimoidae.md))
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Theridiosomatidae](Theridiosomatidae.md) 
+    -  [Symphytognathidae](Symphytognathidae.md) 
+    -  [Linyphiidae](Linyphiidae.md) 
+    -  [Pimoidae](Pimoidae.md) 
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -41,7 +41,7 @@ title: Araneidae
 
 ![Banded Argiope](Araneidae/Argiope_trifasciata.jpg)![](Araneidae/Araneus_diadematus_4-8001.jpg))![](Araneidae/micrathena_gracilis01b.jpg))
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
@@ -61,6 +61,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+ 
   ----------------------------------------------------------------------------
 ![](Araneidae/micrathena_gracilis01b.jpg))
 
@@ -72,6 +73,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Sex ::                Female
   Life Cycle Stage ::     adult
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

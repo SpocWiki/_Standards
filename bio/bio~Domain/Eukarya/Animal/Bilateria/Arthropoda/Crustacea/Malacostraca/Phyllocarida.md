@@ -24,19 +24,19 @@ Leptostraca or Sea fleas
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Malacostraca](../Malacostraca.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Malacostraca](../Malacostraca.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Malacostraca
     -   Leptostraca
-    -  [Stomatopoda](Stomatopoda.md))
-    -  [Decapoda](Decapoda.md))
-    -  [Peracarida](Peracarida.md))
+    -  [Stomatopoda](Stomatopoda.md) 
+    -  [Decapoda](Decapoda.md) 
+    -  [Peracarida](Peracarida.md) 
 
 -   » Sub-Groups 
 	-   *Nebaliopsis typica*

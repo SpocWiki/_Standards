@@ -31,13 +31,13 @@ title: Mimosoideae
     -   [Fabaceae](../../Fabaceae.md)
     -   [Fabales](../../../Fabales.md)
     -   [Rosids](../../../../Rosids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caesalpinieae s.l. & s.s., Cassieae sensu stricto,
@@ -132,18 +132,21 @@ Luckow et al., 2005).
 ## Title Illustrations
 
 
-------------------------------------![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg))
+------------------------------------ 
+![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg))
 Scientific Name ::     Albizia julibrissin Durazz.
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Mike Hogan, Todd Langston](http://www.forestry.auburn.edu/samuelson/dendrology/index.html)
 
------------------------------------------------------------------------------![Acacia tortilis](Mimosoideae/Acacia_tortilis.jpg))
+----------------------------------------------------------------------------- 
+![Acacia tortilis](Mimosoideae/Acacia_tortilis.jpg))
 Scientific Name ::     Acacia tortilis
 Location ::           Southern Serengeti near Ndutu, Tanzania
 Specimen Condition   Live Specimen
 Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
-------------------------------------------![](Mimosoideae/67.jpg))
+------------------------------------------ 
+![](Mimosoideae/67.jpg))
 Scientific Name ::     Mimosa pudica Mill.
 Specimen Condition   Live Specimen
 Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)

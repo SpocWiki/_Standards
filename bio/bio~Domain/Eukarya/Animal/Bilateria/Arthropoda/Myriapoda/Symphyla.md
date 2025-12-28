@@ -26,23 +26,23 @@ title: Symphyla
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
-    -  [Pauropoda](Pauropoda.md))
-    -  [Diplopoda](Diplopoda.md))
-    -  [Centipede](Centipede.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
+    -  [Pauropoda](Pauropoda.md) 
+    -  [Diplopoda](Diplopoda.md) 
+    -  [Centipede](Centipede.md) 
     -   Symphyla
-    -  [Arachnida](../Chelicerata/Arachnida.md))
+    -  [Arachnida](../Chelicerata/Arachnida.md) 
     -   [[Sea_Scorpion](../Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](../Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](../Chelicerata/Sea_Spider.md)
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups 
 	-   *Scutigerellidae*

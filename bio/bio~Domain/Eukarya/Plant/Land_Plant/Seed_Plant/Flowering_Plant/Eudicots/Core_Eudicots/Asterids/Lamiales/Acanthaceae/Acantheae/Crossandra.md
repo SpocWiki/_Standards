@@ -21,13 +21,13 @@ title: Crossandra
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acantheae
@@ -80,13 +80,15 @@ is apparently lacking or dimorphic in some Malagasy species (Vollesen
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Crossandra nilotica](Crossandra/crossandra.jpg))
+--------------------------------------------------------------------------- 
+![Crossandra nilotica](Crossandra/crossandra.jpg))
 Scientific Name ::     Crossandra nilotica Oliv.
 Location ::           Tsombitse Park, Tana, Malagasy Republic, Cultivated
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
---------------------------------------------------------------------------![Crossandra infundibuliformis](Crossandra/crossandra.jpg))
+-------------------------------------------------------------------------- 
+![Crossandra infundibuliformis](Crossandra/crossandra.jpg))
 Scientific Name ::     Crossandra infundibuliformis Nees
 Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 

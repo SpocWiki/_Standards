@@ -64,17 +64,17 @@ The lectotype is from the temperate South Indian Ocean at 43°13'S, 80°30'E.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Planctoteuthis](../Planctoteuthis.md))
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -  [Planctoteuthis](../Planctoteuthis.md) 
+    -  [Chiroteuthidae](../../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Planctoteuthis
@@ -95,7 +95,8 @@ Scientific Name ::  Planctoteuthis exopthalmica
 Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
 Size              9.5 mm ML
 
----------------------------------------------------![](exopthalmica/PExopthalmicaDors.jpg))
+--------------------------------------------------- 
+![](exopthalmica/PExopthalmicaDors.jpg))
 Scientific Name ::   Planctoteuthis exopthalmica
 Reference          Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
 Life Cycle Stage ::   Paralarva

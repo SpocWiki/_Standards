@@ -7,15 +7,15 @@ title: Aspidogastrea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Platyhelminthes](../Platyhelminthes.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Platyhelminthes](../Platyhelminthes.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Platyhelminthes
     -   Aspidogastrea
-    -  [Cestodaria](Cestodaria.md))
+    -  [Cestodaria](Cestodaria.md) 
 
 -   » Sub-Groups 
 
@@ -183,7 +183,8 @@ of the trematodes, has not been resolved (see discussion in Rohde 2001).
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif))
+--------------------------------------------------------------------------- 
+![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif))
 Scientific Name ::     Rugogaster hyrdolagi
 Creator              Shirley Dawson
 Specimen Condition   Dead Specimen

@@ -1,17 +1,19 @@
 ---
 aliases:
   - Alveolates
+  - Alveolate
+  - Alveolata
 title: Alveolates
 ---
 
-# [[Alveolates]] 
+# [[Alveolate]] 
 
 
 #is_a/bio-Kingdom 
 #is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
 
-![Ceratium dinoflagellate](Alveolates/ceratium_Dinoflagellates.jpg) ![](Alveolates/Ciliates~Stylonychia.jpg)
+![Ceratium dinoflagellate](Alveolate/ceratium_Dinoflagellates.jpg) ![](Alveolate/Ciliates~Stylonychia.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -25,7 +27,7 @@ title: Alveolates
 
 ## Introduction 
 
-[Brian S. Leander](Alveolates.md) 
+[Brian S. Leander](Alveolate.md) 
 
 This group of protists was hypothesized only relatively recently, 
 and confirmed by molecular studies by Gajadhar et al. (1991). 
@@ -60,20 +62,20 @@ abutting sacs or alveoli - or derived from such organisms.
     -   [The other protists](The_other_protists)
 
 -   »   Subgroups
-    -   [Euapicomplexa](Alveolates/Euapicomplexa.md)
+    -   [Apicomplexa](Alveolate/Apicomplexa.md)
 
 
 ## Title Illustrations
 
 -----------------------
-![Ceratium dinoflagellate](Alveolates/ceratium_Dinoflagellates.jpg)  
+![Ceratium dinoflagellate](Alveolate/ceratium_Dinoflagellates.jpg)  
 Scientific Name ::   Ceratium (Dinoflagellates)
 Acknowledgements   Image courtesy [BIODIDAC](http://biodidac.bio.uottawa.ca/)
 Copyright ::          © J. M. Cavanihac
 
 
 ---------------------------------------------------------------------------
-[Stylonychia(Ciliates)](Alveolates/Ciliates~Stylonychia.jpg) 
+[Stylonychia(Ciliates)](Alveolate/Ciliates~Stylonychia.jpg) 
 Scientific Name ::     Stylonychia (Ciliates)
 Comments             Scanning electron micrograph
 Specimen Condition   Dead Specimen

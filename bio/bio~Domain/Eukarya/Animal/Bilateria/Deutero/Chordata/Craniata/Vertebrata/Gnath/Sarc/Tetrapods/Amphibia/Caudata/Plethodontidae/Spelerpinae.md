@@ -176,9 +176,9 @@ geographically-structured genetic diversity.
     -   [Craniata](../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Plethodontidae
@@ -200,7 +200,8 @@ Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
-------------------------------------------------------------------![](Spelerpinae/112339021_ccfa125dfa_o.jpg))
+------------------------------------------------------------------ 
+![](Spelerpinae/112339021_ccfa125dfa_o.jpg))
 Scientific Name ::     Eurycea cirrigera
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Specimen Condition   Live Specimen

@@ -145,13 +145,13 @@ tropical and subtropical regions of the world\'s oceans (Nesis, 1982).
 -   « Ancestral Groups  
     -   [Incirrata](../Incirrata.md)
     -   [Octopod](../../Octopod.md)
-    -  [Octopodiformes](../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Incirrata
@@ -166,7 +166,8 @@ tropical and subtropical regions of the world\'s oceans (Nesis, 1982).
 
 ## Title Illustrations
 
--------------------------------------------------------------------------------![](Vitreledonellidae/Vitreledonella.JPG))
+------------------------------------------------------------------------------- 
+![](Vitreledonellidae/Vitreledonella.JPG))
 Scientific Name ::  Vitreledonellidae
 Location ::        off Hawaii
 Sex ::             Male

@@ -28,37 +28,37 @@ Rotifers
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
-    -  [Arthropoda](Arthropoda.md))
-    -  [Onychophora](Onychophora.md))
+    -  [Arthropoda](Arthropoda.md) 
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrade](Tardigrade.md)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
+    -  [Gastrotricha](Gastrotricha.md) 
     -   Rotifera
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups
     -   [Acanthocephala](Acanthocephala)
@@ -72,7 +72,8 @@ Rotifers
 
 ## Title Illustrations
 
----------------------------------------------------------------------------![Acanthocephala](Rotifera/Acanthocephala.jpg)) 
+--------------------------------------------------------------------------- 
+![Acanthocephala](Rotifera/Acanthocephala.jpg)) 
 Scientific Name ::     Acanthocephala
 Comments             with proboscis extended
 Creator              Houseman

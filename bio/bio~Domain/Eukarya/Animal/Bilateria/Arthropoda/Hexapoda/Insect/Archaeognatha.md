@@ -92,18 +92,18 @@ Styli may be remnants of ancestral limbs.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Insect](../Insect.md))
-    -  [Hexapoda](../../Hexapoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Insect](../Insect.md) 
+    -  [Hexapoda](../../Hexapoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Insecta
     -   Archaeognatha
-    -  [Thysanura](Thysanura.md))
-    -  [Pterygota](Pterygota.md))
+    -  [Thysanura](Thysanura.md) 
+    -  [Pterygota](Pterygota.md) 
 
 -   » Sub-Groups 
 
@@ -111,7 +111,8 @@ Styli may be remnants of ancestral limbs.
 ## Title Illustrations
 
 
----------------------------------------------------------------------------![Archaeognatha](Archaeognatha/Archaeognatha.jpg))
+--------------------------------------------------------------------------- 
+![Archaeognatha](Archaeognatha/Archaeognatha.jpg))
 Scientific Name ::     Archaeognatha
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen

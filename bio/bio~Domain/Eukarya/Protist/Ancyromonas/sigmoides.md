@@ -9,7 +9,7 @@ title: Ancyromonas sigmoides
 -   « Ancestral Groups  
     -   [Ancyromonas](../Ancyromonas.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ancyromonas
@@ -63,6 +63,7 @@ London.
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas sigmoides
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 ![](sigmoides/pancyrosc.jpg))
 
@@ -71,6 +72,7 @@ London.
   Comments             Phase contrast micrograph of living cell
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   ---------------------------------------------------------------------------------
 
 

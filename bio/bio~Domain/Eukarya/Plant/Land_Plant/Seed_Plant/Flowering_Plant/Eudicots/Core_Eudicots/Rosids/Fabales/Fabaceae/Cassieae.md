@@ -73,13 +73,13 @@ whether any of them are monophyletic or not.
     -   [Fabaceae](../Fabaceae.md)
     -   [Fabales](../../Fabales.md)
     -   [Rosids](../../../Rosids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fabaceae
@@ -95,19 +95,22 @@ whether any of them are monophyletic or not.
 ## Title Illustrations
 
 
------------------![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg))
+----------------- 
+![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg))
 Scientific Name ::     Labichea lanceolata Benth.
 Location ::           West Australia
 Specimen Condition   Live Specimen
 Copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
 
------------------------![Poeppigia procera](Cassieae/Poeppigia_procera.jpg)) 
+----------------------- 
+![Poeppigia procera](Cassieae/Poeppigia_procera.jpg)) 
 Scientific Name ::     Poeppigia procera Presl
 Location ::           Bolivia
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
------------------![Petalostylis labicheoides](Cassieae/Petalostylis_labicheoides.jpg))
+----------------- 
+![Petalostylis labicheoides](Cassieae/Petalostylis_labicheoides.jpg))
 Scientific Name ::     Petalostylis labicheoides R.Br.
 Location ::           West Australia
 Specimen Condition   Live Specimen

@@ -30,22 +30,22 @@ title: Peracarida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Malacostraca](../Malacostraca.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Malacostraca](../Malacostraca.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Malacostraca
     -   [Leptostraca](Leptostraca)
-    -  [Stomatopoda](Stomatopoda.md))
-    -  [Decapoda](Decapoda.md))
+    -  [Stomatopoda](Stomatopoda.md) 
+    -  [Decapoda](Decapoda.md) 
     -   Peracarida
 
 -   » Sub-Groups
-    -  [Isopoda](Peracarida/Isopoda.md))
+    -  [Isopoda](Peracarida/Isopoda.md) 
 
 
 ## Title Illustrations
@@ -65,7 +65,8 @@ Comments            Deep water giant red mysid.
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
---------------------------------------------------------------------------![](Peracarida/Gammarus_pulex.jpg))
+-------------------------------------------------------------------------- 
+![](Peracarida/Gammarus_pulex.jpg))
 Scientific Name ::  Gammarus pulex
 Creator           Photograph by Jean-François Cornuet
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 

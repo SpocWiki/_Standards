@@ -7,31 +7,31 @@ title: Mysmenidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
-    -  [Anapidae](Anapidae.md))
+    -  [Anapidae](Anapidae.md) 
     -   Mysmenidae
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
-    -  [Araneidae](Araneidae.md))
-    -  [Theridiosomatidae](Theridiosomatidae.md))
-    -  [Symphytognathidae](Symphytognathidae.md))
-    -  [Linyphiidae](Linyphiidae.md))
-    -  [Pimoidae](Pimoidae.md))
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
+    -  [Araneidae](Araneidae.md) 
+    -  [Theridiosomatidae](Theridiosomatidae.md) 
+    -  [Symphytognathidae](Symphytognathidae.md) 
+    -  [Linyphiidae](Linyphiidae.md) 
+    -  [Pimoidae](Pimoidae.md) 
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -41,7 +41,7 @@ title: Mysmenidae
 ![ ](Mysmenidae/mysmenaclosed.jpg))![ ](Mysmenidae/mysmenaopen.jpg))
 ![](Mysmenidae/maymena.jpg)
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
@@ -55,6 +55,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Behavior             Note completely 3D web with spherical symmetry and sticky spirals arranged on circumference
   Sex ::                Female
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Mysmenidae/mysmenaopen.jpg))
 
@@ -66,6 +67,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Behavior             The outer envelope of sticky spirals has been torn to reveal spherical symmetry of radii
   Sex ::                Female
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Mysmenidae/maymena.jpg))
 
@@ -77,6 +79,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Behavior             Note pendant, out of plane sticky lines, that not all radii reach the hub, and eggsacs grouped at hu
   Sex ::                Female
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

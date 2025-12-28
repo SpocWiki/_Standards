@@ -7,22 +7,22 @@ title: Dothideomycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pezizomycotina](../Pezizomycotina.md))
-    -  [Ascomycota](../../Ascomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Pezizomycotina](../Pezizomycotina.md) 
+    -  [Ascomycota](../../Ascomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pezizomycotina
-    -  [Lecanoromycetes](Lecanoromycetes.md))
-    -  [Eurotiomycetes](Eurotiomycetes.md))
-    -  [Leotiomycetes](Leotiomycetes.md))
-    -  [Geoglossaceae](Geoglossaceae.md))
+    -  [Lecanoromycetes](Lecanoromycetes.md) 
+    -  [Eurotiomycetes](Eurotiomycetes.md) 
+    -  [Leotiomycetes](Leotiomycetes.md) 
+    -  [Geoglossaceae](Geoglossaceae.md) 
     -   Dothideomycetes
 
 -   » Sub-Groups
-    -  [Dothideomycetidae](Dothideomycetes/Dothideomycetidae.md))
-    -  [Pleosporomycetidae](Dothideomycetes/Pleosporomycetidae.md))
+    -  [Dothideomycetidae](Dothideomycetes/Dothideomycetidae.md) 
+    -  [Pleosporomycetidae](Dothideomycetes/Pleosporomycetidae.md) 
     -   [Uncertainly placed orders and families of         Dothideomycetes](Uncertainly_placed_orders_and_families_of_Dothideomycetes)
 
 # Dothideomycetes 
@@ -36,7 +36,7 @@ Dothideomycete tree is based on DNA sequences from the large and small
 subunits of the  nuclear ribosome, RNA polymerase II second largest
 subunit (RPB2) and transcription elongation factor 1 alpha (EF1a)\
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md) 
 
 ### Information on the Internet
 

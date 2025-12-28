@@ -217,16 +217,16 @@ taxon of land plants (McCourt 1995; Melkonian and Surek, 1995).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eukarya](../Eukarya.md))
+    -  [Eukarya](../Eukarya.md) 
     -   [Tree of Life](../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eukaryotes
-    -  [Choanoflagellates](Choanoflagellates.md))
-    -  [Animals](Animals.md))
-    -  [Fungi](Fungi.md))
-    -  [Stramenopiles](Stramenopiles.md))
-    -  [Alveolates](Alveolates.md))
-    -  [Rhodophyta](Rhodophyta.md))
+    -  [Choanoflagellates](Choanoflagellates.md) 
+    -  [Animals](Animals.md) 
+    -  [Fungi](Fungi.md) 
+    -  [Stramenopiles](Stramenopiles.md) 
+    -  [Alveolate](Alveolate.md) 
+    -  [Rhodophyta](Rhodophyta.md) 
     -   Green plants
     -   [The other protists](The_other_protists)
 

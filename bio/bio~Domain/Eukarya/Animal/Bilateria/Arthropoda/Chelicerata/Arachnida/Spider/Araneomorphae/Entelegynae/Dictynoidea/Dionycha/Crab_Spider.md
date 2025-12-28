@@ -31,21 +31,21 @@ title: Thomisidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Dionycha](../Dionycha.md))
-    -  [Entelegynae](../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../Araneomorphae.md))
+    -  [Dionycha](../Dionycha.md) 
+    -  [Entelegynae](../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../Araneomorphae.md) 
     -   [Spider](../../../../../Spider.md)
-    -  [Arachnida](../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Dionycha
     -   [Jumping_Spider](Jumping_Spider.md)
     -   Thomisidae
-    -  [Clubionidae](Clubionidae.md))
+    -  [Clubionidae](Clubionidae.md) 
 
 -   » Sub-Groups 
 	-   *Acentroscelus*
@@ -223,12 +223,13 @@ title: Thomisidae
 
 ![](Crab_Spider/Xisticus_bifasciatus_2-8001.jpg))
 
-  ----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
   Scientific Name ::     Arachnida:Spider:Thomisidae: Xisticus bifasciatus
   Location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+ 
   ----------------------------------------------------------------------------
 ![Crab spider eating fly, Arizona](Crab_Spider/whitecrabspider.jpg))
 
@@ -242,6 +243,7 @@ title: Thomisidae
   View                 Dorsolateral
   Size                 c.8mm
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+  
   -------------------------------------------------------------------------
 
 

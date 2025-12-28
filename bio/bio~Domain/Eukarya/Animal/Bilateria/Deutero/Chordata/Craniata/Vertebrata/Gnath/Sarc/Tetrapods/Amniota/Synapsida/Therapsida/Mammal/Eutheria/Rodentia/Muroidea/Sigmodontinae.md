@@ -146,10 +146,10 @@ restricted to South America or the southern portion of Central America.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Muroidea](../Muroidea.md))
-    -  [Rodentia](../../Rodentia.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Muroidea](../Muroidea.md) 
+    -  [Rodentia](../../Rodentia.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -160,9 +160,9 @@ restricted to South America or the southern portion of Central America.
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Muroidea
@@ -172,18 +172,18 @@ restricted to South America or the southern portion of Central America.
     -   [Tylomyinae](Tylomyinae.md)
 
 -   » Sub-Groups
-    -  [Sigmodon](Sigmodontinae/Sigmodon.md))
-    -  [Ichthyomyini](Sigmodontinae/Ichthyomyini.md))
+    -  [Sigmodon](Sigmodontinae/Sigmodon.md) 
+    -  [Ichthyomyini](Sigmodontinae/Ichthyomyini.md) 
     -   [Thomasomyine group and Sigmodontinae incertae         sedis](Thomasomyine_group_and_Sigmodontinae_incertae_sedis)
-    -  [Wiedomyini](Sigmodontinae/Wiedomyini.md))
-    -  [Oryzomyini](Sigmodontinae/Oryzomyini.md))
-    -  [Phyllotini](Sigmodontinae/Phyllotini.md))
-    -  [Andinomys edax](Sigmodontinae/Andinomys_edax.md))
-    -  [Reithrodon](Sigmodontinae/Reithrodon.md))
-    -  [Irenomys tarsalis](Sigmodontinae/Irenomys_tarsalis.md))
-    -  [Euneomys](Sigmodontinae/Euneomys.md))
+    -  [Wiedomyini](Sigmodontinae/Wiedomyini.md) 
+    -  [Oryzomyini](Sigmodontinae/Oryzomyini.md) 
+    -  [Phyllotini](Sigmodontinae/Phyllotini.md) 
+    -  [Andinomys edax](Sigmodontinae/Andinomys_edax.md) 
+    -  [Reithrodon](Sigmodontinae/Reithrodon.md) 
+    -  [Irenomys tarsalis](Sigmodontinae/Irenomys_tarsalis.md) 
+    -  [Euneomys](Sigmodontinae/Euneomys.md) 
     -   [Abrothicine group](Abrothicine_group)
-    -  [Akodontini](Sigmodontinae/Akodontini.md))
+    -  [Akodontini](Sigmodontinae/Akodontini.md) 
 
 
 ## Title Illustrations

@@ -8,7 +8,7 @@ title: Sepiolida
 
 ![Sepioloidea](Sepiolida/SepiolidaFams.jpg) 
 
-Containing group:[Sepioidea](../Sepioidea.md))
+Containing group:[Sepioidea](../Sepioidea.md) 
 
 ## Introduction
 
@@ -46,28 +46,29 @@ A sepioid ...
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sepioidea](../Sepioidea.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Sepioidea](../Sepioidea.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sepioidea
-    -  [Sepiidae](Sepiidae.md))
+    -  [Sepiidae](Sepiidae.md) 
     -   Sepiolida
 
 -   » Sub-Groups
-    -  [Sepiolidae](Sepiolida/Sepiolidae.md))
-    -  [Sepiadariidae](Sepiolida/Sepiadariidae.md))
+    -  [Sepiolidae](Sepiolida/Sepiolidae.md) 
+    -  [Sepiadariidae](Sepiolida/Sepiadariidae.md) 
 
 
 ## Title Illustrations
 
-----------------![](Sepiolida/SepiolidaFams.jpg))
+---------------- 
+![](Sepiolida/SepiolidaFams.jpg))
 Scientific Name ::  Sepioloidea lineolata, Iridoteuthis iris
 Copyright ::         © 2004 Mark Noman, Thomas Burch
 

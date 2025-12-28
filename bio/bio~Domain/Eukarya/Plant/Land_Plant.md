@@ -71,8 +71,8 @@ taxon_name: Embryophytes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Green plants](../Plant.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Green plants](../Plant.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Green plants

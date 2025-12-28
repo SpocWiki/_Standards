@@ -59,13 +59,13 @@ taxon_common_name: 菊目
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
     -   [Green plants](../../../../../../../Plant.md)
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -87,21 +87,24 @@ taxon_common_name: 菊目
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![Menyanthes trifoliata](Asterales/Menyanthes_trifoliata.jpg))
+------------------------------------------------------------------------------ 
+![Menyanthes trifoliata](Asterales/Menyanthes_trifoliata.jpg))
 Scientific Name ::    Menyanthes trifoliata
 Comments            Menyanthaceae
 Creator             Photograph by Gladys Lucille Smith
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------![Legousia pentagonia](Asterales/Legousia_pentagonia.jpg))
+------------------------------------------------------------------------ 
+![Legousia pentagonia](Asterales/Legousia_pentagonia.jpg))
 Scientific Name ::   Legousia pentagonia
 Location ::         Samos, Greece
 Comments           Campanulaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
-------------------------------------------------------------------------![Erigeron annuus](Asterales/Erigeron_annuus.jpg))
+------------------------------------------------------------------------ 
+![Erigeron annuus](Asterales/Erigeron_annuus.jpg))
 Scientific Name ::   Erigeron annuus
 Location ::         Sevelen SG, Switzerland
 Comments           Asteraceae

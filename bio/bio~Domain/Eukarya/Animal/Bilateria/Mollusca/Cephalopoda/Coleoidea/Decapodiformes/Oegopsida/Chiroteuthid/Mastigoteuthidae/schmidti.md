@@ -9,14 +9,14 @@ title: Mastigoteuthis schmidti
 -   « Ancestral Groups  
     -   [Mastigoteuthis](Mastigoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mastigoteuthis
@@ -43,7 +43,7 @@ title: Mastigoteuthis schmidti
 [Michael Vecchione and Richard E. Young]()
 ![ ](schmidti/MShmidti.jpg))
 
-Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md))
+Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
 ## Introduction
 

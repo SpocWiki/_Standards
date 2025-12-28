@@ -32,13 +32,13 @@ title: Papilionoideae
     -   [Fabaceae](../Fabaceae.md)
     -   [Fabales](../../Fabales.md)
     -   [Rosids](../../../Rosids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fabaceae
@@ -129,20 +129,23 @@ Baphioid clade.
 
 ## Title Illustrations
 
-------------------------------------------------------------------------![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg))
+------------------------------------------------------------------------ 
+![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg))
 Scientific Name ::     Vigna speciosa (Kunth) Verdc.
 Location ::           Mesa, Arizona
 Comments             Commonly called Snail Vines.
 Specimen Condition   Live Specimen
 Copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
 
------------------------![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg))
+----------------------- 
+![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg))
 Scientific Name ::     Erythrina amazonica Krukoff
 Location ::           Ecuador
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
-------------------------------------------------------------------------------![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg))
+------------------------------------------------------------------------------ 
+![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg))
 Scientific Name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
 Location ::           Arizona State University campus
 Specimen Condition   Live Specimen

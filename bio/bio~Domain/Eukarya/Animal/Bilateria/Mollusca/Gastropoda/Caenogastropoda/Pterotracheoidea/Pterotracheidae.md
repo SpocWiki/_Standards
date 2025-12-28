@@ -95,16 +95,16 @@ following characters:
 
 -   « Ancestral Groups  
     -   [Carinarioidea](Carinarioidea)
-    -  [Caenogastropoda](../../Caenogastropoda.md))
-    -  [Gastropoda](../../../Gastropoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Caenogastropoda](../../Caenogastropoda.md) 
+    -  [Gastropoda](../../../Gastropoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Carinarioidea
-    -  [Atlantidae](Atlantidae.md))
+    -  [Atlantidae](Atlantidae.md) 
     -   Pterotracheidae
 
 -   » Sub-Groups

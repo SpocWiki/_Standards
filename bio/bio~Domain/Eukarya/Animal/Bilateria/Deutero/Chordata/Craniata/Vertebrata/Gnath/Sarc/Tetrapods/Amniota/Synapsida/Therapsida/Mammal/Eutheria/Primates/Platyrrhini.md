@@ -21,9 +21,9 @@ title: Platyrrhini
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Primates](../Primates.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Primates](../Primates.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -34,9 +34,9 @@ title: Platyrrhini
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Primates
@@ -71,7 +71,8 @@ title: Platyrrhini
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Platyrrhini/Callithrix_jacchus0122.jpg))
+------------------------------------------------------------------------------ 
+![](Platyrrhini/Callithrix_jacchus0122.jpg))
 Scientific Name ::     Callithrix jacchus
 Location ::           Brazil
 Creator              Lloyd Glenn Ingles
@@ -79,7 +80,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![](Platyrrhini/Saimiri_sciureus0113.jpg))
+------------------------------------------------------------------------------ 
+![](Platyrrhini/Saimiri_sciureus0113.jpg))
 Scientific Name ::     Saimiri sciureus
 Location ::           Brazil
 Creator              Lloyd Glenn Ingles
@@ -87,7 +89,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![](Platyrrhini/Ateles0115.jpg))
+------------------------------------------------------------------------------ 
+![](Platyrrhini/Ateles0115.jpg))
 Scientific Name ::     Ateles
 Location ::           Panama
 Creator              Lloyd Glenn Ingles

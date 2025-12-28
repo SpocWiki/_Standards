@@ -59,24 +59,24 @@ Sea spiders, Pantopoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
-    -  [Pauropoda](../Myriapoda/Pauropoda.md))
-    -  [Diplopoda](../Myriapoda/Diplopoda.md))
-    -  [Centipede](../Myriapoda/Centipede.md))
-    -  [Symphyla](../Myriapoda/Symphyla.md))
-    -  [Arachnida](Arachnida.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
+    -  [Pauropoda](../Myriapoda/Pauropoda.md) 
+    -  [Diplopoda](../Myriapoda/Diplopoda.md) 
+    -  [Centipede](../Myriapoda/Centipede.md) 
+    -  [Symphyla](../Myriapoda/Symphyla.md) 
+    -  [Arachnida](Arachnida.md) 
     -   [Sea_Scorpion](Sea_Scorpion.md)
     -   [Horseshoe_Crab](Horseshoe_Crab.md)
     -   Pycnogonida
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups 
 

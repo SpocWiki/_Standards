@@ -7,29 +7,29 @@ title: Cycloteuthidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Cranchiidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
     -   Cycloteuthidae
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Neoteuthidae.md))
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -44,7 +44,7 @@ title: Cycloteuthidae
 
 The Cycloteuthidae contains two rather dissimilar genera.
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -130,6 +130,7 @@ to Zoology No. 5:1-24.
   View              Ventral
   Size              42, 53 mm ML
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 
 

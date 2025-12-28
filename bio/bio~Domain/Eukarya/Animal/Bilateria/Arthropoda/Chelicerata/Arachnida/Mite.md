@@ -44,18 +44,18 @@ UMLS_CUI: C0000890
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arachnida](../Arachnida.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Arachnida](../Arachnida.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arachnida
-    -  [Solifugae](Solifugae.md))
+    -  [Solifugae](Solifugae.md) 
     -   [Spider](Spider.md)
     -   Acari
-    -  [Scorpionida](Scorpionida.md))
+    -  [Scorpionida](Scorpionida.md) 
 
 -   » Sub-Groups
     -   [Acariformes](Mite/Acariformes.md)

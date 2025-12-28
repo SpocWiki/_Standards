@@ -55,10 +55,10 @@ Africa, Australia, and Eurasia.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Muroidea](../../Muroidea.md))
-    -  [Rodentia](../../../Rodentia.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Muroidea](../../Muroidea.md) 
+    -  [Rodentia](../../../Rodentia.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -69,9 +69,9 @@ Africa, Australia, and Eurasia.
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Muroidea
@@ -81,15 +81,16 @@ Africa, Australia, and Eurasia.
     -   [Tylomyinae](Tylomyinae.md)
 
 -   » Sub-Groups
-    -  [Praomys group](Murinae/Praomys.md))
-    -  [Arvicanthine group](Murinae/Arvicanthine.md))
-    -  [Rattus group](Murinae/Rat.md))
-    -  [Australasian group](Murinae/Australasian.md))
+    -  [Praomys group](Murinae/Praomys.md) 
+    -  [Arvicanthine group](Murinae/Arvicanthine.md) 
+    -  [Rattus group](Murinae/Rat.md) 
+    -  [Australasian group](Murinae/Australasian.md) 
 
 
 ## Title Illustrations
 
---------------------------------------------------------------![](Murinae/327896667_150f8c707e_o.jpg))
+-------------------------------------------------------------- 
+![](Murinae/327896667_150f8c707e_o.jpg))
 Scientific Name ::     Zyzomys pedunculatus
 Specimen Condition   Live Specimen
 Source               [The extremely rare rodent, the Central Rock-rat (Zyzomys pedunculatus) found only in a few location around Ormiston Gorge.](http://www.flickr.com/photos/centralaustralia/327896667/)
@@ -97,7 +98,8 @@ Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/).
 Copyright ::            © 2006 [Michael & Karen](http://flickr.com/people/44489466@N00)
 
---------------------------------------------------------------![](Murinae/277642366_884c30cb87_o.jpg))
+-------------------------------------------------------------- 
+![](Murinae/277642366_884c30cb87_o.jpg))
 Scientific Name ::     Lemniscomys striatus
 Location ::           captive, Zoo München Hellabrunn
 Specimen Condition   Live Specimen

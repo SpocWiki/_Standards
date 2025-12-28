@@ -26,11 +26,11 @@ title: Homo
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hominidae](../Hominidae.md))
-    -  [Catarrhini](../../Catarrhini.md))
-    -  [Primates](../../../Primates.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Hominidae](../Hominidae.md) 
+    -  [Catarrhini](../../Catarrhini.md) 
+    -  [Primates](../../../Primates.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -41,9 +41,9 @@ title: Homo
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hominidae
@@ -53,7 +53,7 @@ title: Homo
     -   [Gorilla](Gorilla.md)
 
 -   » Sub-Groups
-    -  [Homo sapiens](Homo/Homo_sapiens.md))
+    -  [Homo sapiens](Homo/Homo_sapiens.md) 
 	-   *[[Homo/Homo_erectus]]* †
 	-   *[[Homo_ergaster]]* †
 	-   *[[Homo_rudolfensis]]* †

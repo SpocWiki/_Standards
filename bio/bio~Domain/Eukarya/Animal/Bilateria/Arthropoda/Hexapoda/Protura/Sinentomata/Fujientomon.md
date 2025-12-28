@@ -7,17 +7,17 @@ title: Fujientomon
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sinentomata](../Sinentomata.md))
-    -  [Protura](../../Protura.md))
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Sinentomata](../Sinentomata.md) 
+    -  [Protura](../../Protura.md) 
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sinentomata
-    -  [Sinentomon](Sinentomon.md))
+    -  [Sinentomon](Sinentomon.md) 
     -   Fujientomon
 
 -   » Sub-Groups 
@@ -29,7 +29,7 @@ title: Fujientomon
 -   *Fujientomon dicestum*
 -   *Fujientomon primum*
 
-Containing group:[Sinentomata](../Sinentomata.md))
+Containing group:[Sinentomata](../Sinentomata.md) 
 
 
 ## Confidential Links & Embeds: 

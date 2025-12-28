@@ -22,13 +22,13 @@ title: Acanthaceae
 -   « Ancestral Groups  
     -   [Lamiales](../Lamiales.md)
     -   [Asterids](../../Asterids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Lamiales
@@ -194,7 +194,8 @@ Specimen Condition   Live Specimen
 Identified By        L. A. McDade
 Copyright ::            © 2006 Mark Skinner
 
----------------------------------------------------------------------------![Thunbergia redyellow](Acanthaceae/Thunbergia_redyellow.jpg))
+--------------------------------------------------------------------------- 
+![Thunbergia redyellow](Acanthaceae/Thunbergia_redyellow.jpg))
 Scientific Name ::     Thunbergia mysorensis T.Anders. ex Bedd. (Thunbergioideae)
 Location ::           Oribi Gorge, Tourist Lodge, South Africa
 Specimen Condition   Live Specimen

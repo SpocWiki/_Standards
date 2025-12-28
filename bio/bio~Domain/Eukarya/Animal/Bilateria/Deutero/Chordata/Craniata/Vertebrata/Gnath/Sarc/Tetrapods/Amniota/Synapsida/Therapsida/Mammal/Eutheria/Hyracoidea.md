@@ -29,8 +29,8 @@ title: Hyracoidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -41,15 +41,15 @@ title: Hyracoidea
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -67,8 +67,8 @@ title: Hyracoidea
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Heterohyrax](Hyracoidea/Heterohyrax.md))
-    -  [Dendrohyrax](Hyracoidea/Dendrohyrax.md))
+    -  [Heterohyrax](Hyracoidea/Heterohyrax.md) 
+    -  [Dendrohyrax](Hyracoidea/Dendrohyrax.md) 
 
 	-   *Pliohyracidae* †
 	-   *Procaviidae*
@@ -159,6 +159,7 @@ Mammalogy 76:1088-1099.
   Comments             Heterohyrax feeding in Acacia
   Specimen Condition   Live Specimen
   Copyright ::            © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 
 

@@ -48,8 +48,8 @@ Image copyright © 1995 David R. Maddison
     -   [Gnetales](../Gnetales.md)
     -   [Seed_Plant](../../Seed_Plant.md)
     -   [Land_Plant](../../../Land_Plant.md)
-    -  [Green plants](../../../../Plant.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Green plants](../../../../Plant.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Gnetales

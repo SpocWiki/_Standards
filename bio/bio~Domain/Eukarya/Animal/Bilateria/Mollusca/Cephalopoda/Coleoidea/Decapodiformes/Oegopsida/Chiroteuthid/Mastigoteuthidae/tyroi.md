@@ -9,14 +9,14 @@ title: Mastigoteuthis tyroi
 -   « Ancestral Groups  
     -   [Mastigoteuthis](Mastigoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mastigoteuthis
@@ -44,7 +44,7 @@ title: Mastigoteuthis tyroi
 
 ![ ](tyroi/MastTyroiDraw.jpg)
 
-Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md))
+Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
 ## Introduction
 
@@ -133,6 +133,7 @@ Beaufortia, 47: 91-108.
   Size               15 mm ML
   Type               Holotype
   Copyright ::          © 2004 [Mario Alejandro Salcedo-Vargas](mailto:ikatako@hotmail.com) 
+ 
   ------------------------------------------------------------------------------
 
 

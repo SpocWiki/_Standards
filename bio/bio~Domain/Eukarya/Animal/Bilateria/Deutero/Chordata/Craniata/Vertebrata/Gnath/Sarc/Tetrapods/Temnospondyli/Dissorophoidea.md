@@ -182,9 +182,9 @@ specimens (Anderson and Bolt, 2005).
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Temnospondyli
@@ -194,7 +194,8 @@ specimens (Anderson and Bolt, 2005).
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Dissorophoidea/ecolsonia.jpg))
+------------------------------------------------------------------------------ 
+![](Dissorophoidea/ecolsonia.jpg))
 Scientific Name ::     Ecolsonia cutlerensis
 Location ::           North-central New Mexico
 Specimen Condition   Fossil \-- Period: Early Permian (Cutler Fm)

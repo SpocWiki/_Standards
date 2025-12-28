@@ -7,21 +7,21 @@ title: Actiniaria
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Zoantharia](../Zoantharia.md))
-    -  [Anthozoa](../../Anthozoa.md))
-    -  [Cnidaria](../../../Cnidaria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Zoantharia](../Zoantharia.md) 
+    -  [Anthozoa](../../Anthozoa.md) 
+    -  [Cnidaria](../../../Cnidaria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Zoantharia
     -   Actiniaria
-    -  [Scleractinia](Scleractinia.md))
+    -  [Scleractinia](Scleractinia.md) 
 
 -   » Sub-Groups
-    -  [Protantheae](Actiniaria/Protantheae.md))
-    -  [Endocoelantheae](Actiniaria/Endocoelantheae.md))
-    -  [Nynantheae](Actiniaria/Nynantheae.md))
+    -  [Protantheae](Actiniaria/Protantheae.md) 
+    -  [Endocoelantheae](Actiniaria/Endocoelantheae.md) 
+    -  [Nynantheae](Actiniaria/Nynantheae.md) 
 
 # Actiniaria
 
@@ -34,7 +34,7 @@ title: Actiniaria
 -   [Endocoelantheae](Actiniaria/Endocoelantheae.md "go to ToL page"))*
 -   [Nynantheae](Actiniaria/Nynantheae.md "go to ToL page"))*
 
-Containing group:[Zoantharia](../Zoantharia.md))
+Containing group:[Zoantharia](../Zoantharia.md) 
 
 ### Characteristics
 

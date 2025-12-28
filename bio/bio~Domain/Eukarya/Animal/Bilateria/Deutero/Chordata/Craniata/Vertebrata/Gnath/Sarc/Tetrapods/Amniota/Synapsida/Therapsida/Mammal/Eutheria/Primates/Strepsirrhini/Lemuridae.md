@@ -18,10 +18,10 @@ title: Lemuridae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Strepsirrhini](../Strepsirrhini.md))
-    -  [Primates](../../Primates.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Strepsirrhini](../Strepsirrhini.md) 
+    -  [Primates](../../Primates.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -32,9 +32,9 @@ title: Lemuridae
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Strepsirrhini
@@ -51,7 +51,8 @@ title: Lemuridae
 ## Title Illustrations
 
 
----------------------------------------------------------------------------------![](Lemuridae/Sportive_lemur_Lepilemur.jpg))
+--------------------------------------------------------------------------------- 
+![](Lemuridae/Sportive_lemur_Lepilemur.jpg))
 Scientific Name ::     Lepilemur
 Location ::           Ankarafantsika nature reserve, Madagascar
 Comments             Sportive lemur
@@ -60,7 +61,8 @@ Specimen Condition   Live Specimen
 Identified By        Jean-Francois Dallaire with the help of a guide
 Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
 
----------------------------------------------------------------------------------![](Lemuridae/CROWNE~2.JPG))
+--------------------------------------------------------------------------------- 
+![](Lemuridae/CROWNE~2.JPG))
 Scientific Name ::     Eulemur coronatus
 Location ::           Ankarana special reserve, Madagascar
 Comments             Crowned lemur

@@ -19,9 +19,9 @@ title: Trichechidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sirenia](../Sirenia.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Sirenia](../Sirenia.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -32,9 +32,9 @@ title: Trichechidae
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sirenia

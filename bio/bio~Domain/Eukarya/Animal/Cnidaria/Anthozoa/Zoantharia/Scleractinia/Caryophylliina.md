@@ -7,23 +7,23 @@ title: Caryophylliina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scleractinia](../Scleractinia.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Scleractinia](../Scleractinia.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scleractinia
-    -  [Fungiina](Fungiina.md))
-    -  [Faviina](Faviina.md))
+    -  [Fungiina](Fungiina.md) 
+    -  [Faviina](Faviina.md) 
     -   Caryophylliina
     -   [Dendrophylliidae](Dendrophylliidae)
 
 -   » Sub-Groups
-    -  [Caryophyllioidea](Caryophylliina/Caryophyllioidea.md))
-    -  [Flabelloidea](Caryophylliina/Flabelloidea.md))
+    -  [Caryophyllioidea](Caryophylliina/Caryophyllioidea.md) 
+    -  [Flabelloidea](Caryophylliina/Flabelloidea.md) 
 
 # Caryophylliina 
 
@@ -32,7 +32,7 @@ title: Caryophylliina
 † ) occurs only in the fossil record, whereas the other two
 superfamilies contain both fossil and Recent taxa.
 
-Containing group:[Scleractinia](../Scleractinia.md))
+Containing group:[Scleractinia](../Scleractinia.md) 
 
 ## Introduction
 

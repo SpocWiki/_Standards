@@ -80,8 +80,8 @@ title: Artiodactyla
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -92,15 +92,15 @@ title: Artiodactyla
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -118,10 +118,10 @@ title: Artiodactyla
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Suid](Artiodactyla/Suid.md))
-    -  [Tayassuidae](Artiodactyla/Tayassuidae.md))
-    -  [Hippopotamidae](Artiodactyla/Hippopotamidae.md))
-    -  [Tylopoda](Artiodactyla/Tylopoda.md))
+    -  [Suid](Artiodactyla/Suid.md) 
+    -  [Tayassuidae](Artiodactyla/Tayassuidae.md) 
+    -  [Hippopotamidae](Artiodactyla/Hippopotamidae.md) 
+    -  [Tylopoda](Artiodactyla/Tylopoda.md) 
     -   [Ruminants](Artiodactyla/Ruminants.md)
     -   [Miscellaneous fossil         artiodactyls](Miscellaneous_fossil_artiodactyls)
 
@@ -168,7 +168,8 @@ Life Cycle Stage ::     Young adult
 View                 Lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
--------------------![American bison](Artiodactyla/Bison8B0C52EC0479.jpg))
+------------------- 
+![American bison](Artiodactyla/Bison8B0C52EC0479.jpg))
 Scientific Name ::     Bison bison
 Comments             American bison
 Creator              Steve Maslowski

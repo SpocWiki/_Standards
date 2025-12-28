@@ -71,13 +71,13 @@ corollas.
     -   [Fabaceae](../../Fabaceae.md)
     -   [Fabales](../../../Fabales.md)
     -   [Rosids](../../../../Rosids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Papilionoideae
@@ -91,27 +91,31 @@ corollas.
 
 ## Title Illustrations
 
------------------------![Dalbergia gracilis](Dalbergioid/Dalbergia_gracilis.jpg))
+----------------------- 
+![Dalbergia gracilis](Dalbergioid/Dalbergia_gracilis.jpg))
 Scientific Name ::     Dalbergia gracilis Benth.
 Location ::           Bolivia
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
----------------------![Amorpha canescens](Dalbergioid/Amorpha_canescens.jpg))
+--------------------- 
+![Amorpha canescens](Dalbergioid/Amorpha_canescens.jpg))
 Scientific Name ::     Amorpha canescens Pursh
 Location ::           Lincoln County, Kansas
 Comments             Commonly called Lead Plant.
 Specimen Condition   Live Specimen
 Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
----------------------![Dalea aurea](Dalbergioid/Dalea_aurea.jpg))
+--------------------- 
+![Dalea aurea](Dalbergioid/Dalea_aurea.jpg))
 Scientific Name ::     Dalea aurea Nutt. ex Pursh
 Location ::           Mitchell County, Kansas
 Comments             Commonly called Silktop dalea.
 Specimen Condition   Live Specimen
 Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
-------------![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg))
+------------ 
+![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg))
 Scientific Name ::     Inocarpus edulis Forst.
 Specimen Condition   Live Specimen
 Copyright ::            © G. D. Carr

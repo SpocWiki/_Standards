@@ -7,17 +7,17 @@ title: Latrodectus antheratus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Latrodectus](../Latrodectus.md))
-    -  [Theridiidae](../../Theridiidae.md))
-    -  [Orbiculariae](../../../Orbiculariae.md))
-    -  [Entelegynae](../../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../../Araneomorphae.md))
+    -  [Latrodectus](../Latrodectus.md) 
+    -  [Theridiidae](../../Theridiidae.md) 
+    -  [Orbiculariae](../../../Orbiculariae.md) 
+    -  [Entelegynae](../../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../../Araneomorphae.md) 
     -   [Spider](../../../../../../Spider.md)
-    -  [Arachnida](../../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Latrodectus
@@ -52,6 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female, male
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](antheratus/antheratuspalp1.jpg))
 
@@ -65,6 +66,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Life Cycle Stage ::     Adult
   Body Part            Male palp
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](antheratus/dsc_00531.jpg))
 
@@ -76,6 +78,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult with egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](antheratus/dsc_00661.jpg))
 
@@ -87,6 +90,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult with egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 
 

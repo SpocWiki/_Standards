@@ -13,17 +13,17 @@ title: Protoscorpiones
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scorpionida](../Scorpionida.md))
-    -  [Arachnida](../../Arachnida.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Scorpionida](../Scorpionida.md) 
+    -  [Arachnida](../../Arachnida.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scorpionida
     -   Protoscorpiones
-    -  [Palaeoscorpiones](Palaeoscorpiones.md))
+    -  [Palaeoscorpiones](Palaeoscorpiones.md) 
     -   [Scorpion](Scorpion.md)
 
 -   » Sub-Groups 

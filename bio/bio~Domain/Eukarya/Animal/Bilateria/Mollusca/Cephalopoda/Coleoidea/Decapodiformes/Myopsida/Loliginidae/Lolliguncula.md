@@ -7,28 +7,28 @@ title: Lolliguncula
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Loliginidae](../Loliginidae.md))
-    -  [Myopsida](../../Myopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Loliginidae](../Loliginidae.md) 
+    -  [Myopsida](../../Myopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Loliginidae
-    -  [Loligo](Loligo.md))
+    -  [Loligo](Loligo.md) 
     -   [Afrololigo mercatoris](Afrololigo_mercatoris)
-    -  [Alloteuthis](Alloteuthis.md))
-    -  [Doryteuthis](Doryteuthis.md))
+    -  [Alloteuthis](Alloteuthis.md) 
+    -  [Doryteuthis](Doryteuthis.md) 
     -   [Heterololigo bleekeri](Heterololigo_bleekeri)
-    -  [Loliolus](Loliolus.md))
+    -  [Loliolus](Loliolus.md) 
     -   Lolliguncula
-    -  [Pickfordiateuthis](Pickfordiateuthis.md))
-    -  [Sepioteuthis](Sepioteuthis.md))
-    -  [Uroteuthis](Uroteuthis.md))
+    -  [Pickfordiateuthis](Pickfordiateuthis.md) 
+    -  [Sepioteuthis](Sepioteuthis.md) 
+    -  [Uroteuthis](Uroteuthis.md) 
 
 -   » Sub-Groups 
 
@@ -44,7 +44,7 @@ title: Lolliguncula
 Type species.\--***Loligo brevis*** Blainville, 1823, by original
 designation.
 
-Containing group:[Loliginidae](../Loliginidae.md))
+Containing group:[Loliginidae](../Loliginidae.md) 
 
 ## Introduction
 
@@ -172,6 +172,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
   Reference         Vecchione, M., C. F. E. Roper and M. J. Sweeney (1989). Marine flora and fauna of the eastern United States. Mollusca: Cephalopoda. NOAA Tech. Rep., NMFS 73: 23 pp.
   View              Ventral, dorsal
   Copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ----------------------------------------------------------------------
 
 

@@ -7,29 +7,29 @@ title: Lepidoteuthid families
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Cranchiidae.md))
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   Lepidoteuthid families
-    -  [Neoteuthidae](Neoteuthidae.md))
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -49,7 +49,7 @@ title: Lepidoteuthid families
 -   *[Pholidoteuthidae](Pholidoteuthis)*[
     Adam, 1950]
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -151,6 +151,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Reference         Lepidoteuthis grimaldii image from Clarke, M. R. 1964. Young stages of Lepidoteuthis grimaldii (Cephalopoda, Decapoda). Proc. Malac. Soc. Lond. 36:69-78. Pholidoteuthis adami image from Goldman, D. A. 1995. A juvenile of the scaled squid, Pholidoteuthis adami Voss, 1956 (Cephalopoda: Oegopsida), from the Florida Keys. Proc. Biol. Soc. Wash. 108:136-146. (3)
   Creator           Octopoteuthis neilseni photograph by R. E. Young
   Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ---------------------------------------------------------------------------------------------------------------------
 
 

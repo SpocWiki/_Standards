@@ -39,30 +39,31 @@ UMLS_CUI: C0596222
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
     -   Branchiopoda
-    -  [Remipedia](Remipedia.md))
-    -  [Cephalocarida](Cephalocarida.md))
-    -  [Copepoda](Copepoda.md))
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
-    -  [Malacostraca](Malacostraca.md))
+    -  [Remipedia](Remipedia.md) 
+    -  [Cephalocarida](Cephalocarida.md) 
+    -  [Copepoda](Copepoda.md) 
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups
-    -  [Anostraca](Branchiopoda/Anostraca.md))
+    -  [Anostraca](Branchiopoda/Anostraca.md) 
 
 
 ## Title Illustrations
 
----------------------![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
+--------------------- 
+![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
 Scientific Name ::     Lepidurus packardi
 Location ::           Shasta County, California, USA
 Comments             Tadpole shrimp

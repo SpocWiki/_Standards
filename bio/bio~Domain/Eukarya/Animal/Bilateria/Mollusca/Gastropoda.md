@@ -7,20 +7,20 @@ title: Gastropoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Mollusca](../Mollusca.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Mollusca](../Mollusca.md) 
+    -  [Bilateria](../../Bilateria.md) 
+    -  [Animals](../../../Animals.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mollusca
     -   [Chitons](Chitons.md)
-    -  [Bivalvia](Bivalvia.md))
+    -  [Bivalvia](Bivalvia.md) 
     -   Gastropoda
-    -  [Cephalopoda](Cephalopoda.md))
+    -  [Cephalopoda](Cephalopoda.md) 
 
 -   » Sub-Groups
-    -  [Caenogastropoda](Gastropoda/Caenogastropoda.md))
+    -  [Caenogastropoda](Gastropoda/Caenogastropoda.md) 
 
 # [[Gastropoda]] 
 
@@ -50,13 +50,15 @@ title: Gastropoda
 ## Title Illustrations
 
 
---------------------------------------------------------------------------![Nudibranchia](Gastropoda/Nudibranchia.jpg))
+-------------------------------------------------------------------------- 
+![Nudibranchia](Gastropoda/Nudibranchia.jpg))
 Scientific Name ::  Nudibranchia
 Comments          Silver cloud nudibranch
 Creator           P. Crawford & D. Giberson, UPEI
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
----------------------------------------------------------------------------![Pulmonata](Gastropoda/Pulmonata.jpg)) 
+--------------------------------------------------------------------------- 
+![Pulmonata](Gastropoda/Pulmonata.jpg)) 
 Scientific Name ::     Pulmonata
 Comments             A pulmonate snail
 Creator              Cornuet

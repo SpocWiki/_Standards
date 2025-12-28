@@ -10,7 +10,7 @@ title: Amastigomonas mutabilis
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Amastigomonas
@@ -91,12 +91,14 @@ European Journal of Protistology 27: 386-396.
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas mutabilis
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 ![](mutabilis/pamastigom.jpg))
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas mutabilis
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+ 
   --------------------------------------------------------------------------------
 
 

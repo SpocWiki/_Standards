@@ -8,7 +8,7 @@ title: Aegla ligulata
 
 ![Aegla ligulata](ligulata/Aegla_ligulata.jpg) 
 
-Containing group:[Aeglidae](../Aeglidae.md))
+Containing group:[Aeglidae](../Aeglidae.md) 
 
 ### Types
 
@@ -41,14 +41,14 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -   « Ancestral Groups  
     -   [Aegla](Aegla)
-    -  [Anomura](../../Anomura.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Anomura](../../Anomura.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Aegla

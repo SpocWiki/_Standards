@@ -32,22 +32,22 @@ title: Cephalocarida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
-    -  [Remipedia](Remipedia.md))
+    -  [Branchiopoda](Branchiopoda.md) 
+    -  [Remipedia](Remipedia.md) 
     -   Cephalocarida
-    -  [Copepoda](Copepoda.md))
-    -  [Ostracoda](Ostracoda.md))
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
-    -  [Malacostraca](Malacostraca.md))
+    -  [Copepoda](Copepoda.md) 
+    -  [Ostracoda](Ostracoda.md) 
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups 
 	-   *Hutchinsoniella*
@@ -58,7 +58,8 @@ title: Cephalocarida
 
 ## Title Illustrations
 
---------------------------------------------------------------------------![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
+-------------------------------------------------------------------------- 
+![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
 Scientific Name ::  Hutchinsoniella
 Comments          External features of a primitive crustacean. Important features are the carapace and the number of legs.
 Creator           J. Soucie

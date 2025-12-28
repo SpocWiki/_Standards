@@ -113,21 +113,21 @@ temperate oceans of the world.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Chiroteuthidae](../Chiroteuthidae.md))
+    -  [Chiroteuthidae](../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthidae
-    -  [Asperoteuthis](Asperoteuthis.md))
-    -  [Chiroteuthis](Chiroteuthis.md))
+    -  [Asperoteuthis](Asperoteuthis.md) 
+    -  [Chiroteuthis](Chiroteuthis.md) 
     -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
     -   Planctoteuthis
     -   [New Genus B](New_Genus_B)
@@ -155,7 +155,8 @@ temperate oceans of the world.
 ## Title Illustrations
 
 
------------------------------![](Planctoteuthis/PlanctoteuthisOligoLive.jpg))
+----------------------------- 
+![](Planctoteuthis/PlanctoteuthisOligoLive.jpg))
 Scientific Name ::     Planctoteuthis oligobessa
 Location ::           32° 52.29 N, 131° 17.49 W, North Pacific off California
 Specimen Condition   Live Specimen

@@ -28,13 +28,13 @@ Phlox Family
 -   « Ancestral Groups  
     -   [Ericales](../Ericales.md)
     -   [Asterids](../../../Asterids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ericales
@@ -380,28 +380,32 @@ importance (Grant 2003a).
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![Phlox amoena](Polemoniaceae/phlox_amoena.jpg)) 
+------------------------------------------------------------------------ 
+![Phlox amoena](Polemoniaceae/phlox_amoena.jpg)) 
 Scientific Name ::  Phlox amoena
 Location ::        USA: North Carolina Botanic Garden, Cultivated.
 Sex ::             Perfect flowers
 Body Part         Inflorescence
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-------------------------------------------------------------------------![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg))
+------------------------------------------------------------------------ 
+![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg))
 Scientific Name ::  Ipomopsis aggregata
 Location ::        USA: Utah Co., Utah
 Sex ::             Perfect flowers
 Body Part         Inflorescence
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-------------------------------------------------------------------------![Gilia Stellata](Polemoniaceae/Gilia_Stellata.jpg)) 
+------------------------------------------------------------------------ 
+![Gilia Stellata](Polemoniaceae/Gilia_Stellata.jpg)) 
 Scientific Name ::  Gilia Stellata
 Location ::        USA: Washington Co., Utah
 Sex ::             Perfect flowers
 Body Part         Full plant
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-------------------------------------------------------------------------![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg))
+------------------------------------------------------------------------ 
+![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg))
 Scientific Name ::  Polemonium occidentale
 Location ::        USA: Juab Co., Utah
 Sex ::             Perfect flowers

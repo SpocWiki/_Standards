@@ -25,13 +25,13 @@ title: Dipsacales
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -218,14 +218,16 @@ addition of data from nuclear genes would be highly desirable.
 ## Title Illustrations
 
 
---------------------------![Fuller\'s teasel, Dipsacus fullonum](Dipsacales/Dipsacus_fullonum.jpg))
+-------------------------- 
+![Fuller\'s teasel, Dipsacus fullonum](Dipsacales/Dipsacus_fullonum.jpg))
 Scientific Name ::    Dipsacus fullonum
 Location ::          Mt. Shasta (Siskiyou County, California, USA)
 Comments            Fuller\'s teasel (Dipsacaceae)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2002 [Molly Elizabeth Bagley](mailto:illustrations@snowcrest.net)
 
--------------------------------------------------------------------------![Amur honeysuckle, Lonicera maackii](Dipsacales/Lonicera_maackii.jpg))
+------------------------------------------------------------------------- 
+![Amur honeysuckle, Lonicera maackii](Dipsacales/Lonicera_maackii.jpg))
 Scientific Name ::    Lonicera maackii
 Location ::          Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
 Comments            Amur honeysuckle (Caprifoliaceae)

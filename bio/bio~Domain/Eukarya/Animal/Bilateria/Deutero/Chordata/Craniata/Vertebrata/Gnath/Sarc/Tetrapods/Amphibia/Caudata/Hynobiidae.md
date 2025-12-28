@@ -188,9 +188,9 @@ discussion of hynobiid phylogeny, see Larson et al. (2003).\
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -210,7 +210,8 @@ discussion of hynobiid phylogeny, see Larson et al. (2003).\
 
 ## Title Illustrations
 
----------------------------![](Hynobiidae/batrachuperus.jpg))
+--------------------------- 
+![](Hynobiidae/batrachuperus.jpg))
 Scientific Name ::     Batrachuperus yenyuanensis
 Location ::           China
 Comments             The specimen was photographed on land although the species is aquatic.

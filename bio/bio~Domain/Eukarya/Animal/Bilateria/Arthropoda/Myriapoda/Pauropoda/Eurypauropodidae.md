@@ -20,17 +20,17 @@ title: Eurypauropodidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pauropoda](../Pauropoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Pauropoda](../Pauropoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pauropoda
-    -  [Millotauropodidae](Millotauropodidae.md))
-    -  [Pauropodidae](Pauropodidae.md))
-    -  [Brachypauropodidae](Brachypauropodidae.md))
+    -  [Millotauropodidae](Millotauropodidae.md) 
+    -  [Pauropodidae](Pauropodidae.md) 
+    -  [Brachypauropodidae](Brachypauropodidae.md) 
     -   [Afrauropus occiduus](Afrauropus_occiduus)
     -   Eurypauropodidae
 

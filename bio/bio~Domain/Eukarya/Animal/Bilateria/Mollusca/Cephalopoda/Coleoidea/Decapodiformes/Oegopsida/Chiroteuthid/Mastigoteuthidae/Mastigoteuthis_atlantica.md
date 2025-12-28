@@ -10,7 +10,7 @@ title: Mastigoteuthis atlantica
 [Michael Vecchione and Richard E. Young]()
 ![ ](Mastigoteuthis_atlantica/MastAtlantica.jpg))
 
-Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md))
+Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
 ## Introduction
 
@@ -67,14 +67,14 @@ Type locality: 46°28\'N, 08°01\'W near the Bay of Biscay, NE Atlantic.
 -   « Ancestral Groups  
     -   [Mastigoteuthis](Mastigoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mastigoteuthis

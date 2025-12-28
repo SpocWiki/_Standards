@@ -20,8 +20,8 @@ title: Insectivora
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -32,15 +32,15 @@ title: Insectivora
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -58,8 +58,8 @@ title: Insectivora
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Chrysochloridae](Insectivora/Chrysochloridae.md))
-    -  [Tenrecidae](Insectivora/Tenrecidae.md))
+    -  [Chrysochloridae](Insectivora/Chrysochloridae.md) 
+    -  [Tenrecidae](Insectivora/Tenrecidae.md) 
 
 	-   *Sespedectidae* †
 	-   *Amphilemuridae* †
@@ -92,7 +92,8 @@ title: Insectivora
 
 ## Title Illustrations
 
------------------------------------------------------------------------![](Insectivora/99051987_7328b57217_o.jpg))
+----------------------------------------------------------------------- 
+![](Insectivora/99051987_7328b57217_o.jpg))
 Scientific Name ::     Blarina carolinensis
 Location ::           Durham, North Carolina, USA
 Comments             Found while raking leaves\--captured briefly, posed, and released. Identified as Blarina carolinesis based on Webster et al., Mammals of the Carolinas, Virginia, and Maryland.

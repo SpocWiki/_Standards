@@ -7,17 +7,17 @@ title: Latrodectus mirabilis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Latrodectus](../Latrodectus.md))
-    -  [Theridiidae](../../Theridiidae.md))
-    -  [Orbiculariae](../../../Orbiculariae.md))
-    -  [Entelegynae](../../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../../Araneomorphae.md))
+    -  [Latrodectus](../Latrodectus.md) 
+    -  [Theridiidae](../../Theridiidae.md) 
+    -  [Orbiculariae](../../../Orbiculariae.md) 
+    -  [Entelegynae](../../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../../Araneomorphae.md) 
     -   [Spider](../../../../../../Spider.md)
-    -  [Arachnida](../../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Latrodectus
@@ -52,6 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0051.jpg))
 
@@ -63,6 +64,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0018.jpg))
 
@@ -74,6 +76,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0030.jpg))
 
@@ -85,6 +88,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Male and Female
   Life Cycle Stage ::     Adults
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0157.jpg))
 
@@ -96,6 +100,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Sex ::                Male
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 ![](mirabilis/latromirabiliseggcasear_san.jpg))
 
@@ -106,6 +111,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Identified By        Jeremy Miller
   Life Cycle Stage ::     Egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 
 

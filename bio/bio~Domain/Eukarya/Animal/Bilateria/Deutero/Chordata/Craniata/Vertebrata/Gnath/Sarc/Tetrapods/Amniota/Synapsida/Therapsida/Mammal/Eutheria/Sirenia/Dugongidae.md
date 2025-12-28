@@ -27,9 +27,9 @@ Dugongs
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sirenia](../Sirenia.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Sirenia](../Sirenia.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -40,9 +40,9 @@ Dugongs
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sirenia
@@ -89,7 +89,8 @@ Dugongs
 
 ## Title Illustrations
 
-----------------------------![](Dugongidae/Hydrodamalis_gigas_skull.jpg))
+---------------------------- 
+![](Dugongidae/Hydrodamalis_gigas_skull.jpg))
 Scientific Name ::  Hydrodamalis gigas
 Location ::        Specimen at the Natural History Museum, London
 Reference         Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London

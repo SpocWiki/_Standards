@@ -41,15 +41,15 @@ title: Buxaceae
     -   [Flowering_Plant](../../Flowering_Plant.md)
     -   [Seed_Plant](../../../Seed_Plant.md)
     -   [Land_Plant](../../../../Land_Plant.md)
-    -  [Green plants](../../../../../Plant.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  eudicots
     -   Buxaceae
     -   [Ranunculales](Ranunculales.md)
     -   [Proteales](Proteales.md)
-    -  [Core Eudicots](Core_Eudicots.md))
+    -  [Core Eudicots](Core_Eudicots.md) 
 
 -   » Sub-Groups 
 
@@ -65,6 +65,7 @@ title: Buxaceae
   Body Part            Aerial
   View                 General
   Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+ 
   ---------------------------------------------------------------------------
 ![](Buxaceae/153530768_e421e0f9b5_b.jpg))
 

@@ -9,13 +9,13 @@ title: Stauroteuthis
 -   « Ancestral Groups  
     -   [Cirrata](../Cirrata.md)
     -   [Octopod](../../Octopod.md)
-    -  [Octopodiformes](../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cirrata
@@ -241,7 +241,8 @@ yellow squares represent the capture locations of ***S. gilchristi**.*
 ## Title Illustrations
 
 
-------------------------------------![](Stauroteuthidae/stauroSyrtensis.jpg))
+------------------------------------ 
+![](Stauroteuthidae/stauroSyrtensis.jpg))
 Scientific Name ::     Stauroteuthis syrtensis
 Location ::           2560ft depth in Oceanographer canyon, off Gulf of Maine USA
 Comments             Collected by the manned submersible \"Johnson-Sea-Link-II and photographed in a shipboard aquarium.

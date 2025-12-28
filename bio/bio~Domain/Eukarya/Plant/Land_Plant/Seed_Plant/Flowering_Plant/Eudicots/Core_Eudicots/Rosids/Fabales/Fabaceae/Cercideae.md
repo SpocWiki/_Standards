@@ -105,13 +105,13 @@ these genera.
     -   [Fabaceae](../Fabaceae.md)
     -   [Fabales](../../Fabales.md)
     -   [Rosids](../../../Rosids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fabaceae
@@ -126,18 +126,21 @@ these genera.
 
 ## Title Illustrations
 
-------------------------![Cercis chinensis](Cercideae/Cercis_chinensis.jpg))
+------------------------ 
+![Cercis chinensis](Cercideae/Cercis_chinensis.jpg))
 Scientific Name ::     Cercis chinensis Bunge
 Specimen Condition   Live Specimen
 Body Part            flower
 Copyright ::            © [Annette Hoeggemeier](http://www.boga.ruhr-uni-bochum.de/)
 
--------------------![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg))
+------------------- 
+![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg))
 Scientific Name ::     Bauhinia variegata L. (var. candida)
 Specimen Condition   Live Specimen
 Copyright ::            © [L. Ramsden](http://web.hku.hk/%7Elramsden/)
 
----------------------------![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg))
+--------------------------- 
+![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg))
 Scientific Name ::  Tylosema fassoglensis (Kotschy) Torre & Hillc.
 Location ::        Vumba rd near Altar Site, Mutare, Zimbabwe
 Copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)

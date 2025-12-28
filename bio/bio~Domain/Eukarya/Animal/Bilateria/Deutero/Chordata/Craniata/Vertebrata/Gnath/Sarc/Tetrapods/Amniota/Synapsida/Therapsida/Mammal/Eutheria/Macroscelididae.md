@@ -73,8 +73,8 @@ UMLS_CUI: C0324735
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -85,15 +85,15 @@ UMLS_CUI: C0324735
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   Macroscelididae
     -   [Primates](Primates.md)
@@ -111,12 +111,13 @@ UMLS_CUI: C0324735
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Rhynchocyon](Macroscelididae/Rhynchocyon.md))
+    -  [Rhynchocyon](Macroscelididae/Rhynchocyon.md) 
 
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Macroscelididae/elephantulus.jpg))
+------------------------------------------------------------------------------ 
+![](Macroscelididae/elephantulus.jpg))
 Scientific Name ::     Elephantulus
 Location ::           Nairobi (Kenya)
 Creator              Lloyd Glenn Ingles
@@ -124,7 +125,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![](Macroscelididae/138405085_592f80cc48_o.jpg))
+------------------------------------------------------------------------------ 
+![](Macroscelididae/138405085_592f80cc48_o.jpg))
 Scientific Name ::                    Macroscelides proboscideus
 Location ::                          Grzimekhaus in Frankfurt Zoo
 Acknowledgements                    This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0                                       Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).\

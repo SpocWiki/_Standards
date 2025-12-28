@@ -7,18 +7,18 @@ title: Helicobasidium mompa
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Helicobasidiales](../Helicobasidiales.md))
+    -  [Helicobasidiales](../Helicobasidiales.md) 
     -   [Urediniomycotina](Urediniomycotina)
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Helicobasidiales
-    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md))
-    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md))
-    -  [Tuberculina maxima](Tuberculina_maxima.md))
-    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md))
+    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md) 
+    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md) 
+    -  [Tuberculina maxima](Tuberculina_maxima.md) 
+    -  [Helicobasidium         longisporum](Helicobasidium_longisporum.md) 
     -   Helicobasidium mompa
 
 -   » Sub-Groups 
@@ -26,7 +26,7 @@ title: Helicobasidium mompa
 # *Helicobasidium mompa* [Tanaka] 
 ![ ](Helicobasidium_mompa/hm.jpg))
 
-Containing group:[Helicobasidiales](../Helicobasidiales.md))
+Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
@@ -40,6 +40,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2002
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 
 

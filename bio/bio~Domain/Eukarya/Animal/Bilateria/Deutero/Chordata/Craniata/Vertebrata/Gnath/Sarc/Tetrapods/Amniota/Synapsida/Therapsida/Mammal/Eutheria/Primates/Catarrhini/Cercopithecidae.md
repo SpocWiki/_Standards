@@ -27,10 +27,10 @@ title: Cercopithecidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Catarrhini](../Catarrhini.md))
-    -  [Primates](../../Primates.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Catarrhini](../Catarrhini.md) 
+    -  [Primates](../../Primates.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -41,9 +41,9 @@ title: Cercopithecidae
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Catarrhini
@@ -65,19 +65,22 @@ title: Cercopithecidae
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![Vervet monkey](Cercopithecidae/cercopithecus.jpg))
+------------------------------------------------------------------------------ 
+![Vervet monkey](Cercopithecidae/cercopithecus.jpg))
 Scientific Name ::  Cercopithecus aethiops
 Location ::        Tanzania
 Comments          Vervet monkey
 Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
-------------------------------------------------------------------------------![Colobus monkey in yellow fever tree](Cercopithecidae/colobus.jpg))
+------------------------------------------------------------------------------ 
+![Colobus monkey in yellow fever tree](Cercopithecidae/colobus.jpg))
 Scientific Name ::  Colobus
 Location ::        Lake Naivasha, Kenya
 Comments          in yellow fever tree
 Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
-------------------------------------------------------------------------------![Patas monkey, red guenon](Cercopithecidae/Erythrocebus_patas0050.jpg))
+------------------------------------------------------------------------------ 
+![Patas monkey, red guenon](Cercopithecidae/Erythrocebus_patas0050.jpg))
 Scientific Name ::     Erythrocebus patas
 Comments             Patas monkey, red guenon
 Creator              H. Vannoy Davis

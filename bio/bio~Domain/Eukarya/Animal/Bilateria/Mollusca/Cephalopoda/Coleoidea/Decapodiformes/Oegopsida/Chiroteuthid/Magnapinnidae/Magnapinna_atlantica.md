@@ -8,7 +8,7 @@ title: Magnapinna atlantica
 # *Magnapinna atlantica* [Vecchione and Young 2006] 
 ![ ](Magnapinna_atlantica/MagnpinnaSpA.jpg))
 
-Containing group:[Magnapinnidae](../Magnapinnidae.md))
+Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
 ## Introduction
 
@@ -108,14 +108,14 @@ fished at a depth of 2928-2849 m in May of 2006.\
 -   « Ancestral Groups  
     -   [Magnapinna](Magnapinna)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Magnapinna
@@ -158,6 +158,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   Size                 59 mm ML
   Type                 Holotype
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 
 

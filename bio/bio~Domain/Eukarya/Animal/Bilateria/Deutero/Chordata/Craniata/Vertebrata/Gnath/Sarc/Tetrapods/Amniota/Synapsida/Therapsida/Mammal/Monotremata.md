@@ -78,7 +78,7 @@ taxon_name: Monotremata
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Mammal](../Mammal.md))
+    -  [Mammal](../Mammal.md) 
     -   [Therapsida](../../Therapsida.md)
     -   [Synapsida](../../../Synapsida.md)
     -   [Amniota](../../../../Amniota.md)
@@ -89,9 +89,9 @@ taxon_name: Monotremata
     -   [Craniata](../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Mammalia
@@ -109,13 +109,15 @@ taxon_name: Monotremata
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](Monotremata/sbechidna.jpg))
+------------------------------------------------------------------------------ 
+![](Monotremata/sbechidna.jpg))
 Scientific Name ::  Tachyglossus aculeatus
 Location ::        Cradle Mountain National Park, Tasmania
 Comments          Short-beaked echidna
 Copyright ::         © 1995 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
-------------------------------------------------------------------------------![](Monotremata/Ornithorhynchus_anatinus.jpg))
+------------------------------------------------------------------------------ 
+![](Monotremata/Ornithorhynchus_anatinus.jpg))
 Scientific Name ::     Ornithorhynchus anatinus
 Comments             Duck-billed platypus
 Creator              Lloyd Glenn Ingles

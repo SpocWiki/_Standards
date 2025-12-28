@@ -82,28 +82,28 @@ Centipedes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
-    -  [Pauropoda](Pauropoda.md))
-    -  [Diplopoda](Diplopoda.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
+    -  [Pauropoda](Pauropoda.md) 
+    -  [Diplopoda](Diplopoda.md) 
     -   Chilopoda
-    -  [Symphyla](Symphyla.md))
-    -  [Arachnida](../Chelicerata/Arachnida.md))
+    -  [Symphyla](Symphyla.md) 
+    -  [Arachnida](../Chelicerata/Arachnida.md) 
     -   [[Sea_Scorpion](../Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](../Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](../Chelicerata/Sea_Spider.md)
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups
     -   [Scutigeromorpha](Scutigeromorpha)
-    -  [Geophilomorpha](Centipede/Geophilomorpha.md))
-    -  [Scolopendromorpha](Centipede/Scolopendromorpha.md))
+    -  [Geophilomorpha](Centipede/Geophilomorpha.md) 
+    -  [Scolopendromorpha](Centipede/Scolopendromorpha.md) 
 
 ### Information on the Internet
 
@@ -116,17 +116,20 @@ Centipedes
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------------![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg))
+------------------------------------------------------------------------------------ 
+![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg))
 Scientific Name ::  Scutigera coleoptrata
 Comments          House centipede, Notostigmophora
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
-------------------------------------------------------------------------------------![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg))
+------------------------------------------------------------------------------------ 
+![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg))
 Scientific Name ::  Scolopendra
 Comments          Desert centipede, Scolopendromorpha
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
-------------------------------------------------------------------------------------![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg))
+------------------------------------------------------------------------------------ 
+![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg))
 Scientific Name ::  Lithobius forficatus
 Comments          Garden centipede, Lithobiidae
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 

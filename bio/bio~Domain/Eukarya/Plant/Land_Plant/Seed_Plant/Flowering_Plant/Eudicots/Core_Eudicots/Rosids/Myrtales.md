@@ -40,13 +40,13 @@ taxon_common_name: 桃金娘目
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -72,7 +72,8 @@ taxon_common_name: 桃金娘目
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![Koster\'s curse, Clidemia hirta](Myrtales/Clidemia_hirta.jpg))
+------------------------------------------------------------------------------ 
+![Koster\'s curse, Clidemia hirta](Myrtales/Clidemia_hirta.jpg))
 Scientific Name ::    Clidemia hirta
 Location ::          Native to tropical America, specimen photographed at Ranomafana National Park (Madagascar).
 Comments            Koster\'s curse (Melastomataceae)
@@ -80,7 +81,8 @@ Creator             Photograph by Gerald and Buff Corsi
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![California evening-primrose, Oenothera californica](Myrtales/Oenothera_californica.jpg))
+------------------------------------------------------------------------------ 
+![California evening-primrose, Oenothera californica](Myrtales/Oenothera_californica.jpg))
 Scientific Name ::     Oenothera californica
 Location ::           Mojave Desert (San Bernardino County, California, USA)
 Comments             California evening-primrose (Onagraceae)
@@ -89,7 +91,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg))
+------------------------------------------------------------------------------ 
+![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg))
 Scientific Name ::    Eucalyptus viminalis (Myrtaceae)
 Location ::          Native to Australia, specimen photographed in Sunol (Alameda County, California, USA)
 Comments            Manna gum

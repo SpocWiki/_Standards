@@ -183,6 +183,7 @@ evidence is championed by Nielsen (2001):
   Location ::        Dallas, Texas
   Comments          A planarian flatworm (Platyhelminthes) after emerging from wet soil after rain
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ----------------------------------------------------------------------------
 
 ![Argiope spider](Bilateria/1793argiope.jpg)
@@ -192,6 +193,7 @@ evidence is championed by Nielsen (2001):
   Location ::        Dallas, Texas
   Comments          Argiope spider (Arthropoda) on web with stabilimentum
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ----------------------------------------------------------------------------
 
 ![Flamingo tongue snail, Cyphoma gibbosum](Bilateria/1414flamingotongue.jpg)
@@ -201,6 +203,7 @@ evidence is championed by Nielsen (2001):
   Location ::        Cayman Brac
   Comments          Flamingo tongue snail (Mollusca) with mantle extended over shell, foraging on branched coral
   Copyright ::         © 1981 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 
 

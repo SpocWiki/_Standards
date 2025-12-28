@@ -133,26 +133,26 @@ are considered to be apomorphic (newly derived) characters are
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
-    -  [Bathyteuthoida](Bathyteuthoida.md))
-    -  [Idiosepiidae](Idiosepiidae.md))
-    -  [Myopsida](Myopsida.md))
-    -  [Oegopsida](Oegopsida.md))
+    -  [Bathyteuthoida](Bathyteuthoida.md) 
+    -  [Idiosepiidae](Idiosepiidae.md) 
+    -  [Myopsida](Myopsida.md) 
+    -  [Oegopsida](Oegopsida.md) 
     -   Sepioidea
     -   [Spirula spirula](Spirula_spirula)
 
 -   » Sub-Groups
-    -  [Sepiidae](Sepioidea/Sepiidae.md))
-    -  [Sepiolida](Sepioidea/Sepiolida.md))
+    -  [Sepiidae](Sepioidea/Sepiidae.md) 
+    -  [Sepiolida](Sepioidea/Sepiolida.md) 
 
 
 ## Title Illustrations

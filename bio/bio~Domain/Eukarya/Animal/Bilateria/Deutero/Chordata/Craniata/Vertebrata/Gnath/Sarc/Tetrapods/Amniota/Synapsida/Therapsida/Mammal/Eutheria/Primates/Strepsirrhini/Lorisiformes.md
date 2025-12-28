@@ -14,10 +14,10 @@ title: Lorisiformes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Strepsirrhini](../Strepsirrhini.md))
-    -  [Primates](../../Primates.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Strepsirrhini](../Strepsirrhini.md) 
+    -  [Primates](../../Primates.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -28,9 +28,9 @@ title: Lorisiformes
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Strepsirrhini
@@ -61,11 +61,13 @@ title: Lorisiformes
 Scientific Name ::  Galago demidoff
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 
----------------------------------![](Lorisiformes/pzs.jpg))
+--------------------------------- 
+![](Lorisiformes/pzs.jpg))
 Scientific Name ::  Nycticebus pygmaeus
 Creator           H. Goodchile (1907)
 
----------![](Lorisiformes/ell_004.jpg))
+--------- 
+![](Lorisiformes/ell_004.jpg))
 Scientific Name ::  Euoticus elegantulus
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 

@@ -9,14 +9,14 @@ title: Promachoteuthis megaptera
 -   « Ancestral Groups  
     -   [Promachoteuthis](Promachoteuthis)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Promachoteuthis
@@ -34,7 +34,7 @@ title: Promachoteuthis megaptera
 ![ ](megaptera/PromachOkutani.jpg))
 ![ ](megaptera/PromachMegaptHolo.jpg)
 
-Containing group:[Promachoteuthidae](../Promachoteuthidae.md))
+Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
 ## Introduction
 
@@ -125,6 +125,7 @@ Ser., 11: 203-214.
   View              ventral
   Type              holotype
   Copyright ::         © 1968 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------------
 
 

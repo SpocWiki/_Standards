@@ -7,20 +7,20 @@ title: Lycosidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Lycosoidea](../Lycosoidea.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Lycosoidea](../Lycosoidea.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Lycosoidea
     -   Lycosidae
-    -  [Oxyopidae](Oxyopidae.md))
+    -  [Oxyopidae](Oxyopidae.md) 
 
 -   » Sub-Groups 
 
@@ -134,7 +134,7 @@ title: Lycosidae
 -   *Zenonina*
 -   *Zoica*
 
-Containing group:[Lycosoidea](../Lycosoidea.md))
+Containing group:[Lycosoidea](../Lycosoidea.md) 
 
 ### References
 
@@ -177,6 +177,7 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
   View                 Frontal
   Size                 ca. 15mm
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+ 
   -------------------------------------------------------------------------
 
 

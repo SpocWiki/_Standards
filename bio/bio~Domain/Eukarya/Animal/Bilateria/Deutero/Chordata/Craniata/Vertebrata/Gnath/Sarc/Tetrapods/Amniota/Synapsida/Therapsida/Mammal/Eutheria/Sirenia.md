@@ -74,8 +74,8 @@ taxon_common_name:
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -86,15 +86,15 @@ taxon_common_name:
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -112,8 +112,8 @@ taxon_common_name:
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Dugongidae](Sirenia/Dugongidae.md))
-    -  [Trichechidae](Sirenia/Trichechidae.md))
+    -  [Dugongidae](Sirenia/Dugongidae.md) 
+    -  [Trichechidae](Sirenia/Trichechidae.md) 
 	-   *Prorastomus* †
 
 

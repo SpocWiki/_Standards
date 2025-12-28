@@ -25,10 +25,10 @@ title: Elephas maximus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Elephantidae](../Elephantidae.md))
+    -  [Elephantidae](../Elephantidae.md) 
     -   [proboscidea](../../../../../../../../../../../../../../../bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/proboscidea.md)
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -39,9 +39,9 @@ title: Elephas maximus
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Elephantidae
@@ -54,7 +54,8 @@ title: Elephas maximus
 
 ## Title Illustrations
 
-  ----------------------------------------------------------------![](Elephas_maximus/122357538_b19f820aff_o.jpg))
+  ---------------------------------------------------------------- 
+![](Elephas_maximus/122357538_b19f820aff_o.jpg))
   Scientific Name ::     Elephas maximus
   Location ::           Kabini, Karnataka, India
   Specimen Condition   Live Specimen

@@ -11,13 +11,13 @@ title: Phaulopsis
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -57,14 +57,16 @@ Some have medicinal, cultural, or nutritional uses.
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![](Phaulopsis/Phaulopsis_barteri.jpg))
+------------------------------------------------------------------------ 
+![](Phaulopsis/Phaulopsis_barteri.jpg))
 Scientific Name ::     Phaulopsis barteri T. Anderson
 Location ::           Ghana
 Specimen Condition   Dead Specimen
 Collector            Schmidt
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-------------------------------------------------------------------------![](Phaulopsis/Phaulopsis_barteri_closeup.jpg))
+------------------------------------------------------------------------ 
+![](Phaulopsis/Phaulopsis_barteri_closeup.jpg))
 Scientific Name ::     Phaulopsis barteri T. Anderson
 Location ::           Ghana
 Specimen Condition   Dead Specimen

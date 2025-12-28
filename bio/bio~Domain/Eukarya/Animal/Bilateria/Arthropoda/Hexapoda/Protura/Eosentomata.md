@@ -24,22 +24,22 @@ title: Eosentomata
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Protura](../Protura.md))
-    -  [Hexapoda](../../Hexapoda.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Protura](../Protura.md) 
+    -  [Hexapoda](../../Hexapoda.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Protura
-    -  [Sinentomata](Sinentomata.md))
-    -  [Acerentomata](Acerentomata.md))
+    -  [Sinentomata](Sinentomata.md) 
+    -  [Acerentomata](Acerentomata.md) 
     -   Eosentomata
 
 -   » Sub-Groups
-    -  [Antelientomon](Eosentomata/Antelientomon.md))
-    -  [Eosentomidae](Eosentomata/Eosentomidae.md))
+    -  [Antelientomon](Eosentomata/Antelientomon.md) 
+    -  [Eosentomidae](Eosentomata/Eosentomidae.md) 
 
 
 ## Confidential Links & Embeds: 

@@ -121,10 +121,10 @@ Studying Hominidae species provides insights into human evolution, behavior, and
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Catarrhini](../Catarrhini.md))
-    -  [Primates](../../Primates.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Catarrhini](../Catarrhini.md) 
+    -  [Primates](../../Primates.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -135,9 +135,9 @@ Studying Hominidae species provides insights into human evolution, behavior, and
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Catarrhini
@@ -147,9 +147,9 @@ Studying Hominidae species provides insights into human evolution, behavior, and
 
 -   » Sub-Groups
     -   [Orangutan](Hominidae/Orangutan.md)
-    -  [Pan(Genus)](Hominidae/Pan(Genus).md))
-    -  [Homo](Hominidae/Homo.md))
-    -  [Gorilla](Hominidae/Gorilla.md))
+    -  [Pan(Genus)](Hominidae/Pan(Genus).md) 
+    -  [Homo](Hominidae/Homo.md) 
+    -  [Gorilla](Hominidae/Gorilla.md) 
 
 
 ## Title Illustrations 
@@ -164,6 +164,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 ![Lowland gorilla](Gorilla_gorilla0088.jpg)
@@ -176,6 +177,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 ![Orangutan](Hominidae/Pongo_pygmaeus0055.jpg))
 
@@ -187,6 +189,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 

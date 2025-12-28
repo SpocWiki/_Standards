@@ -59,21 +59,21 @@ Red Algae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eukarya](../Eukarya.md))
+    -  [Eukarya](../Eukarya.md) 
     -   [Tree of Life](../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eukaryotes
-    -  [Choanoflagellates](Choanoflagellates.md))
-    -  [Animals](Animals.md))
-    -  [Fungi](Fungi.md))
-    -  [Stramenopiles](Stramenopiles.md))
-    -  [Alveolates](Alveolates.md))
+    -  [Choanoflagellates](Choanoflagellates.md) 
+    -  [Animals](Animals.md) 
+    -  [Fungi](Fungi.md) 
+    -  [Stramenopiles](Stramenopiles.md) 
+    -  [Alveolate](Alveolate.md) 
     -   Rhodophyta
-    -  [Green plants](Plant.md))
+    -  [Green plants](Plant.md) 
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups
-    -  [Florideophyceae](Rhodophyta/Florideophyceae.md))
+    -  [Florideophyceae](Rhodophyta/Florideophyceae.md) 
 
 -   *Cyanidium*
 -   *Porphyridiales* [\*]

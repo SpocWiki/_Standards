@@ -16,18 +16,18 @@ title: Acerentomidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Acerentomata](../Acerentomata.md))
-    -  [Protura](../../Protura.md))
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Acerentomata](../Acerentomata.md) 
+    -  [Protura](../../Protura.md) 
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acerentomata
-    -  [Hesperentomidae](Hesperentomidae.md))
-    -  [Protentomidae](Protentomidae.md))
+    -  [Hesperentomidae](Hesperentomidae.md) 
+    -  [Protentomidae](Protentomidae.md) 
     -   Acerentomidae
 
 -   » Sub-Groups 

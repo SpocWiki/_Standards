@@ -26,19 +26,19 @@ Copyright ::   © 1995 University of Kuopio and Ari Mannonen
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Astacidae](../Astacidae.md))
-    -  [Astacidea](../../Astacidea.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Astacidae](../Astacidae.md) 
+    -  [Astacidea](../../Astacidea.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Astacidae
-    -  [Pacifastacus](Pacifastacus.md))
+    -  [Pacifastacus](Pacifastacus.md) 
     -   Astacus
 
 -   » Sub-Groups 

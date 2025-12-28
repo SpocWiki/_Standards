@@ -155,18 +155,18 @@ and reflect their unique evolutionary adaptations for diverse ecological roles a
     -   [Craniata](../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Therapsida
     -   Mammalia
 
 -   » Sub-Groups
-    -  [Monotremata](Mammal/Monotremata.md))
-    -  [Marsupialia](Mammal/Marsupialia.md))
-    -  [Eutheria](Mammal/Eutheria.md))
+    -  [Monotremata](Mammal/Monotremata.md) 
+    -  [Marsupialia](Mammal/Marsupialia.md) 
+    -  [Eutheria](Mammal/Eutheria.md) 
 
 
 
@@ -257,7 +257,8 @@ and reflect their unique evolutionary adaptations for diverse ecological roles a
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![African lion](Mammal/lion.jpg))
+------------------------------------------------------------------------------ 
+![African lion](Mammal/lion.jpg))
 Scientific Name ::     Panthera leo
 Location ::           Okavango Delta, Botswana
 Comments             African lion

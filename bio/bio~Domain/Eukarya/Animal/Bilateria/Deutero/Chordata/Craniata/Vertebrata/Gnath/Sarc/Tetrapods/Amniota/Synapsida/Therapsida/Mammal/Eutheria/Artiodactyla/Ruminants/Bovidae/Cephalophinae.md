@@ -9,9 +9,9 @@ title: Cephalophinae
 -   « Ancestral Groups  
     -   [Bovidae](../Bovidae.md)
     -   [Ruminants](../../Ruminants.md)
-    -  [Artiodactyla](../../../Artiodactyla.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Artiodactyla](../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -22,9 +22,9 @@ title: Cephalophinae
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bovidae
@@ -35,7 +35,7 @@ title: Cephalophinae
     -   [Aepyceros melampus](Impala.md)
     -   Cephalophinae
     -   [Reduncinae](Reduncinae.md)
-    -  [Antelope](Antelope.md))
+    -  [Antelope](Antelope.md) 
     -   [Neotragus](Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 

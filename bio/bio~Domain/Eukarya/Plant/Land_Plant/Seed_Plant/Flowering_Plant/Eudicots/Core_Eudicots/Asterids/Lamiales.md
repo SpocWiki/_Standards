@@ -42,13 +42,13 @@ NBN_System_Key: NHMSYS0021060389
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
     -   [Green plants](../../../../../../../Plant.md)
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -72,7 +72,8 @@ NBN_System_Key: NHMSYS0021060389
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![Cream sacs, Castilleja rubicundula ssp. lithospermoides](Lamiales/Castilleja_rubicundula.jpg))
+------------------------------------------------------------------------------ 
+![Cream sacs, Castilleja rubicundula ssp. lithospermoides](Lamiales/Castilleja_rubicundula.jpg))
 Scientific Name ::     Castilleja rubicundula ssp. lithospermoides
 Location ::           Napa County, California, US.
 Comments             Cream sacs (Scrophulariaceae)
@@ -81,14 +82,16 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------![Satureja thymbra](Lamiales/Satureja_thymbra.jpg))
+------------------------------------------------------------------------ 
+![Satureja thymbra](Lamiales/Satureja_thymbra.jpg))
 Scientific Name ::   Satureja thymbra
 Location ::         Samos, Greece.
 Comments           Lamiaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
-------------------------------------------------------------------------![Globularia punctata](Lamiales/Globularia_punctata.jpg))
+------------------------------------------------------------------------ 
+![Globularia punctata](Lamiales/Globularia_punctata.jpg))
 Scientific Name ::   Globularia punctata
 Location ::         Strangenberg, Haut-Rhin, Dép. Westhalten, France.
 Comments           Antirrhinaceae

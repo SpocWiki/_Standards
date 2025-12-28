@@ -23,13 +23,13 @@ title: Ruellieae
     -   [Acanthaceae](../Acanthaceae.md)
     -   [Lamiales](../../Lamiales.md)
     -   [Asterids](../../../Asterids.md)
-    -  [Core Eudicots](../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Acanthaceae
@@ -85,7 +85,8 @@ morphologically diverse lineage.
 ## Title Illustrations
 
 
----------------------------------------------------![](Ruellieae/Eremomastaxpolysperma.jpg))
+--------------------------------------------------- 
+![](Ruellieae/Eremomastaxpolysperma.jpg))
 Scientific Name ::     Eremomastax polysperma (Benth.) Dandy
 Location ::           Jardin Botanique de Lyon
 Specimen Condition   Live Specimen
@@ -98,7 +99,8 @@ Location ::           Bolivia
 Specimen Condition   Live Specimen
 Copyright ::            © 2002 John L. Clark
 
------------------------------------------------------------------------![Blechum_pyramidatum](Ruellieae/Blechum_pyramidatum.jpg))
+----------------------------------------------------------------------- 
+![Blechum_pyramidatum](Ruellieae/Blechum_pyramidatum.jpg))
 Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
 Location ::           Tabasco, Mexico
 Specimen Condition   Live Specimen

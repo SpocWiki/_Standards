@@ -23,12 +23,12 @@ title: Madoqua
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Antelope](../Antelope.md))
+    -  [Antelope](../Antelope.md) 
     -   [Bovidae](../../Bovidae.md)
     -   [Ruminants](../../../Ruminants.md)
-    -  [Artiodactyla](../../../../Artiodactyla.md))
-    -  [Eutheria](../../../../../Eutheria.md))
-    -  [Mammal](../../../../../../Mammal.md))
+    -  [Artiodactyla](../../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../../Eutheria.md) 
+    -  [Mammal](../../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../../Amniota.md)
@@ -39,9 +39,9 @@ title: Madoqua
     -   [Craniata](../../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Antilopinae
@@ -63,7 +63,8 @@ title: Madoqua
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Family of dikdiks (Madoqua kirkii), Samburu, Kenya](Dik-dik/dikdikx3.jpg))
+------------------------------------------------------------------------- 
+![Family of dikdiks (Madoqua kirkii), Samburu, Kenya](Dik-dik/dikdikx3.jpg))
 Scientific Name ::     Madoqua kirkii
 Location ::           Samburu Reserve, Kenya
 Comments             These small antelopes normally live as territorial pairs in bush country. This pair is accompanied by their nearly mature offspring. Note the small horns of the male (center).

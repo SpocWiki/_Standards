@@ -8,19 +8,19 @@ title: Batoteuthis skolops
 
 -   « Ancestral Groups  
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../Oegopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../Oegopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthid families
     -   Batoteuthis skolops
-    -  [Chiroteuthidae](Chiroteuthidae.md))
+    -  [Chiroteuthidae](Chiroteuthidae.md) 
     -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
     -   [Magnapinna](Magnapinna)
     -   [Mastigoteuthis](Mastigoteuthis)
@@ -39,7 +39,7 @@ title: Batoteuthis skolops
 
 Only this single species is known in the family.
 
-Containing group:[Chiroteuthid families](../Chiroteuthid.md))
+Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
 ## Introduction
 
@@ -141,6 +141,7 @@ Ser. 2: 185-202.
   View                 Ventral/dorsal
   Size                 350 mm ML (to tip of tail)
   Copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+ 
   --------------------------------------------------------------------------
 
 

@@ -123,9 +123,9 @@ GenBank_assembly_accession_number: GCA_006408695.1
 -   « Ancestral Groups  
     -   [Bovidae](../Bovidae.md)
     -   [Ruminants](../../Ruminants.md)
-    -  [Artiodactyla](../../../Artiodactyla.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Artiodactyla](../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -136,9 +136,9 @@ GenBank_assembly_accession_number: GCA_006408695.1
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bovidae
@@ -149,7 +149,7 @@ GenBank_assembly_accession_number: GCA_006408695.1
     -   Aepyceros melampus
     -   [Cephalophinae](Cephalophinae.md)
     -   [Reduncinae](Reduncinae.md)
-    -  [Antelope](Antelope.md))
+    -  [Antelope](Antelope.md) 
     -   [Neotragus](Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 

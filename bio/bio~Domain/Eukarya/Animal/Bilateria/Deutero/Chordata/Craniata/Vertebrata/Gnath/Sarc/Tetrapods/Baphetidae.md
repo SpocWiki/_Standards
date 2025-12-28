@@ -111,9 +111,9 @@ tetrapods, when vision is of limited use.
     -   [Craniata](../../../../../Craniata.md)
     -   [Chordata](../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Terrestrial Vertebrates
@@ -143,7 +143,8 @@ tetrapods, when vision is of limited use.
 
 ## Title Illustrations
 
----------------------------------------------------------![](Baphetidae/16_Loxom_cranial_rec.GIF))
+--------------------------------------------------------- 
+![](Baphetidae/16_Loxom_cranial_rec.GIF))
 Scientific Name ::   Megalocephalus
 Comments           skull reconstruction
 Reference          Beaumont, E. I. (1977) Cranial morphology of the Loxommatidae (Amphibia: Labyrinthodontia). Philosophical Transactions of the Royal Society, London, B, 280: 29-101.

@@ -7,11 +7,11 @@ title: Molossidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Molossoidea](../Molossoidea.md))
-    -  [Microchiroptera](../../Microchiroptera.md))
-    -  [Bat](../../../Bat.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Molossoidea](../Molossoidea.md) 
+    -  [Microchiroptera](../../Microchiroptera.md) 
+    -  [Bat](../../../Bat.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -22,9 +22,9 @@ title: Molossidae
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Molossoidea
@@ -46,7 +46,7 @@ title: Molossidae
 
 from Simmons (1998) and Simmons and Geisler (1998).
 
-Containing group:[Molossoidea](../Molossoidea.md))
+Containing group:[Molossoidea](../Molossoidea.md) 
 
 ## Introduction
 

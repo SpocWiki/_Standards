@@ -9,11 +9,11 @@ title: Neanuridae
 -   « Ancestral Groups  
     -   [Poduromorpha](../Poduromorpha.md)
     -   [Springtail](../../Springtail.md)
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Poduromorpha
@@ -44,6 +44,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Scientific Name ::     Neanura muscorum
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 ![](Neanuridae/ANmar_NEA_3.jpg))
 
@@ -51,6 +52,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Scientific Name ::     Anurida maritima
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 
 

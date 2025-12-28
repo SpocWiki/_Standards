@@ -11,13 +11,13 @@ title: Hologalegina
     -   [Fabaceae](../../Fabaceae.md)
     -   [Fabales](../../../Fabales.md)
     -   [Rosids](../../../../Rosids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Papilionoideae
@@ -84,7 +84,8 @@ relationship of Hologalegina to the Millettioids sens. lat. clade.
 
 ## Title Illustrations
 
----------------------------![Pisum sativum](Hologalegina/Pisum_sativum.jpg))
+--------------------------- 
+![Pisum sativum](Hologalegina/Pisum_sativum.jpg))
 Scientific Name ::     Pisum sativum L.
 Specimen Condition   Live Specimen
 Copyright ::            © [H. Schneider](http://www.biologie.uni-hamburg.de/b-online/e02/02.htm)
@@ -95,7 +96,8 @@ Scientific Name ::  Robinia neomexicana A. Gray
 Location ::        Mount Ord, AZ
 Copyright ::         © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
 
------------------------------------------![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg))
+----------------------------------------- 
+![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg))
 Scientific Name ::  Lotus corniculatus L.
 Copyright ::         © [Franco Tobias](http://serc.fiu.edu/periphyton/periphyton/factwebpage/Franco%27s%20photo%20webpage/Main%20page.htm)
 

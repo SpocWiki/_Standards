@@ -23,11 +23,11 @@ title: Gorilla
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hominidae](../Hominidae.md))
-    -  [Catarrhini](../../Catarrhini.md))
-    -  [Primates](../../../Primates.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Hominidae](../Hominidae.md) 
+    -  [Catarrhini](../../Catarrhini.md) 
+    -  [Primates](../../../Primates.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -38,9 +38,9 @@ title: Gorilla
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hominidae
@@ -86,6 +86,7 @@ title: Gorilla
   Life Cycle Stage ::     Adult
   Body Part            whole
   Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+ 
   -------------------------------------------------------------------------
 
 

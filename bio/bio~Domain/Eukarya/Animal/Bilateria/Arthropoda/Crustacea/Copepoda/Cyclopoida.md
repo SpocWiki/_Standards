@@ -24,22 +24,22 @@ title: Cyclopoida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Copepoda](../Copepoda.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Copepoda](../Copepoda.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Copepoda
-    -  [Platycopioida](Platycopioida.md))
-    -  [Calanoida](Calanoida.md))
-    -  [Misophrioida](Misophrioida.md))
+    -  [Platycopioida](Platycopioida.md) 
+    -  [Calanoida](Calanoida.md) 
+    -  [Misophrioida](Misophrioida.md) 
     -   Cyclopoida
-    -  [Harpacticoida](Harpacticoida.md))
-    -  [Poecilostomatoida](Poecilostomatoida.md))
-    -  [Siphonostomatoida](Siphonostomatoida.md))
+    -  [Harpacticoida](Harpacticoida.md) 
+    -  [Poecilostomatoida](Poecilostomatoida.md) 
+    -  [Siphonostomatoida](Siphonostomatoida.md) 
 
 -   » Sub-Groups 
 	-   *Archinotodelphyidae*
@@ -60,7 +60,8 @@ title: Cyclopoida
 
 ## Title Illustrations
 
----------------------------------------------------------------------------![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
+--------------------------------------------------------------------------- 
+![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
 Scientific Name ::   Cyclops
 Creator            Photograph by Jean-François Cornuet
 Sex ::              Female

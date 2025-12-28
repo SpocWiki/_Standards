@@ -7,15 +7,15 @@ title: Pleosporomycetidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Dothideomycetes](../Dothideomycetes.md))
-    -  [Pezizomycotina](../../Pezizomycotina.md))
-    -  [Ascomycota](../../../Ascomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Dothideomycetes](../Dothideomycetes.md) 
+    -  [Pezizomycotina](../../Pezizomycotina.md) 
+    -  [Ascomycota](../../../Ascomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Dothideomycetes
-    -  [Dothideomycetidae](Dothideomycetidae.md))
+    -  [Dothideomycetidae](Dothideomycetidae.md) 
     -   Pleosporomycetidae
     -   [Uncertainly placed orders and families of         Dothideomycetes](Uncertainly_placed_orders_and_families_of_Dothideomycetes)
 
@@ -27,7 +27,7 @@ title: Pleosporomycetidae
 -   *[Pleosporales](Pleosporales)*
 -   *Mytilinidaceae*[ (monophyly uncertain) ]
 
-Containing group:[Dothideomycetes](../Dothideomycetes.md))
+Containing group:[Dothideomycetes](../Dothideomycetes.md) 
 
 
 ## Confidential Links & Embeds: 

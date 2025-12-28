@@ -397,23 +397,23 @@ be monophyletic, with lepidothricids sister to this complex (Kristensen,
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hexapoda
     -   [Springtail](Springtail.md)
-    -  [Protura](Protura.md))
-    -  [Diplura](Diplura.md))
+    -  [Protura](Protura.md) 
+    -  [Diplura](Diplura.md) 
     -   Insecta
 
 -   » Sub-Groups
-    -  [Archaeognatha](Insect/Archaeognatha.md))
-    -  [Thysanura](Insect/Thysanura.md))
-    -  [Pterygota](Insect/Pterygota.md))
+    -  [Archaeognatha](Insect/Archaeognatha.md) 
+    -  [Thysanura](Insect/Thysanura.md) 
+    -  [Pterygota](Insect/Pterygota.md) 
 
 
 ## Title Illustrations

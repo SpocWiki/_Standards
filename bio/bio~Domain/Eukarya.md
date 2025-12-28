@@ -114,7 +114,7 @@ Eukaryota, Organisms with nucleated cells
     -   [Animals](Eukarya/Animals.md)
     -   [Fungi](Eukarya/Fungi.md)
     -   [Stramenopiles](Eukarya/Stramenopiles.md)
-    -   [Alveolates](Eukarya/Alveolates.md)
+    -   [Alveolate](Eukarya/Alveolate.md)
     -   [Rhodophyta](Eukarya/Rhodophyta.md)
     -   [Green plants](Eukarya/Plant.md)
     -   [The other protists](Eukarya/Protist.md)
@@ -904,6 +904,7 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
   Life Cycle Stage ::     adults
   Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
   Copyright ::            © 1994 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+ 
   --------------------------------------------------------------------------
 ![Acantharea](Eukarya/acantb.jpg)
 
@@ -920,6 +921,7 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
   Comments             Ithomiine butterfly feeding on Senecio flowers
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   ------------------------------------------------------------------------------
 
 

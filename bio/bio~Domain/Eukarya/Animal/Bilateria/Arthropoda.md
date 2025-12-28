@@ -167,66 +167,69 @@ union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bilateria](../Bilateria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Bilateria](../Bilateria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bilateria
     -   [Deuterostomia](Deutero.md)
     -   Arthropoda
-    -  [Onychophora](Onychophora.md))
+    -  [Onychophora](Onychophora.md) 
     -   [Tardigrada](Tardigrada)
-    -  [Nematoda](Nematoda.md))
-    -  [Nematomorpha](Nematomorpha.md))
-    -  [Kinorhyncha](Kinorhyncha.md))
-    -  [Loricifera](Loricifera.md))
-    -  [Priapulida](Priapulida.md))
+    -  [Nematoda](Nematoda.md) 
+    -  [Nematomorpha](Nematomorpha.md) 
+    -  [Kinorhyncha](Kinorhyncha.md) 
+    -  [Loricifera](Loricifera.md) 
+    -  [Priapulida](Priapulida.md) 
     -   [Arrow_Worm](Arrow_Worm.md)
-    -  [Gastrotricha](Gastrotricha.md))
-    -  [Rotifera](Rotifera.md))
-    -  [Gnathostomulida](Gnathostomulida.md))
+    -  [Gastrotricha](Gastrotricha.md) 
+    -  [Rotifera](Rotifera.md) 
+    -  [Gnathostomulida](Gnathostomulida.md) 
     -   [Limnognathia maerski](Limnognathia_maerski)
-    -  [Cycliophora](Cycliophora.md))
-    -  [Mesozoa](Mesozoa.md))
-    -  [Platyhelminthes](Platyhelminthes.md))
-    -  [Annelida](Annelida.md))
-    -  [Bryozoa](Bryozoa.md))
-    -  [Sipuncula](Sipuncula.md))
-    -  [Mollusca](Mollusca.md))
-    -  [Nemertea](Nemertea.md))
-    -  [Entoprocta](Entoprocta.md))
-    -  [Phoronida](Phoronida.md))
-    -  [Brachiopoda](Brachiopoda.md))
+    -  [Cycliophora](Cycliophora.md) 
+    -  [Mesozoa](Mesozoa.md) 
+    -  [Platyhelminthes](Platyhelminthes.md) 
+    -  [Annelida](Annelida.md) 
+    -  [Bryozoa](Bryozoa.md) 
+    -  [Sipuncula](Sipuncula.md) 
+    -  [Mollusca](Mollusca.md) 
+    -  [Nemertea](Nemertea.md) 
+    -  [Entoprocta](Entoprocta.md) 
+    -  [Phoronida](Phoronida.md) 
+    -  [Brachiopoda](Brachiopoda.md) 
 
 -   » Sub-Groups
 
-    -  [Hexapoda](Arthropoda/Hexapoda.md))
-    -  [Crustacea](Arthropoda/Crustacea.md))
-    -  [Pauropoda](Arthropoda/Myriapoda/Pauropoda.md))
-    -  [Diplopoda](Arthropoda/Myriapoda/Diplopoda.md))
-    -  [Centipede](Arthropoda/Myriapoda/Centipede.md))
-    -  [Symphyla](Arthropoda/Myriapoda/Symphyla.md))
-    -  [Arachnida](Arthropoda/Chelicerata/Arachnida.md))
+    -  [Hexapoda](Arthropoda/Hexapoda.md) 
+    -  [Crustacea](Arthropoda/Crustacea.md) 
+    -  [Pauropoda](Arthropoda/Myriapoda/Pauropoda.md) 
+    -  [Diplopoda](Arthropoda/Myriapoda/Diplopoda.md) 
+    -  [Centipede](Arthropoda/Myriapoda/Centipede.md) 
+    -  [Symphyla](Arthropoda/Myriapoda/Symphyla.md) 
+    -  [Arachnida](Arthropoda/Chelicerata/Arachnida.md) 
     -   [Eur[Sea_Scorpion](Arthropoda/Chelicerata/Sea_Scorpion.md) -   [Horseshoe_Crab](Arthropoda/Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](Arthropoda/Chelicerata/Sea_Spider.md)
-    -  [Trilobites](Arthropoda/Trilobites.md))
+    -  [Trilobites](Arthropoda/Trilobites.md) 
 
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg))
+------------------------------------------------------------------------------ 
+![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg))
 Scientific Name ::     Eumorpha achemon
 Creator              Photograph by George W. Robinson
 Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
----------------------------------------------------------------------------![Habronattus jumping spider and schizomid](Arthropoda/jumping_spider.gif))
+--------------------------------------------------------------------------- 
+![Habronattus jumping spider and schizomid](Arthropoda/jumping_spider.gif))
 Scientific Name ::  Habronattus, schizomid
 Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
---------------------------------------------------------------------------------![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif))
+-------------------------------------------------------------------------------- 
+![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif))
 Scientific Name ::   Crangon septemspinosa
 Acknowledgements   from the Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 

@@ -115,9 +115,9 @@ However, notice that in this phylogeny, they are not closely related to lissamph
     -   [Craniata](../../../../Craniata.md)
     -   [Chordata](../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sarcopterygii
@@ -490,7 +490,8 @@ discoveries of more complete specimens will solve this question.
 
 ## Title Illustrations
 
----------------------------------![The Devonian terrestrial choanates Acanthostega and Ichthyostega](Tetrapods/Ichthyostegalia.jpg)) 
+--------------------------------- 
+![The Devonian terrestrial choanates Acanthostega and Ichthyostega](Tetrapods/Ichthyostegalia.jpg)) 
 Scientific Name ::     Acanthostega gunnari and Ichthyostega
 Comments             The Devonian terrestrial choanates Acanthostega (bottom) and Ichthyostega (on the shore).
 Reference            first published in Discover Magazine

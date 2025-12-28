@@ -7,17 +7,17 @@ title: Flabelloidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Caryophylliina](../Caryophylliina.md))
-    -  [Scleractinia](../../Scleractinia.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Caryophylliina](../Caryophylliina.md) 
+    -  [Scleractinia](../../Scleractinia.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caryophylliina
-    -  [Caryophyllioidea](Caryophyllioidea.md))
+    -  [Caryophyllioidea](Caryophyllioidea.md) 
     -   Flabelloidea
 
 -   » Sub-Groups
@@ -34,7 +34,7 @@ title: Flabelloidea
 
 Classification from Wells (1956).
 
-Containing group:[Caryophylliina](../Caryophylliina.md))
+Containing group:[Caryophylliina](../Caryophylliina.md) 
 
 ## Introduction
 
@@ -117,6 +117,7 @@ of Kansas Press, Lawrence.
   View                 Calicular and basal views
   Size                 Greater calicular diameter 30 mm
   Copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
+ 
   ----------------------------------------------------------------------------
 
 

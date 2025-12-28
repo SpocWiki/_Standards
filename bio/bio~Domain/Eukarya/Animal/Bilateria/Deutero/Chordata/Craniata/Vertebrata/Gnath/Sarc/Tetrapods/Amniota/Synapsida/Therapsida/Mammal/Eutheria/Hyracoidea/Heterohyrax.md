@@ -18,9 +18,9 @@ title: Heterohyrax
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hyracoidea](../Hyracoidea.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Hyracoidea](../Hyracoidea.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -31,9 +31,9 @@ title: Heterohyrax
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hyracoidea
@@ -48,7 +48,8 @@ title: Heterohyrax
 
 ## Title Illustrations
 
-------------------------------![](Heterohyrax/Heterohyrax_brucei1428071.jpg))
+------------------------------ 
+![](Heterohyrax/Heterohyrax_brucei1428071.jpg))
 Scientific Name ::     Heterohyrax brucei
 Location ::           Kenya
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1428071)

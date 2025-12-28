@@ -7,14 +7,14 @@ title: Chtenopteryx
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bathyteuthoida](../Bathyteuthoida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Bathyteuthoida](../Bathyteuthoida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bathyteuthoida
@@ -47,7 +47,7 @@ to exist:
 -   *[Chtenopteryx     sicula](Chtenopteryx_sicula)*[
     (Verany 1851)]
 
-Containing group:[Bathyteuthoida](../Bathyteuthoida.md))
+Containing group:[Bathyteuthoida](../Bathyteuthoida.md) 
 
 ## Introduction
 
@@ -218,6 +218,7 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
   Comments          The visceral and ocular photophore are visible through the transparent mantle and head muscles.
   View              ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   -------------------------------------------------------------------------------
 ![](Chtenopterygidae/ChtenFins.jpg))
 

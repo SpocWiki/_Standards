@@ -7,31 +7,31 @@ title: Theridiosomatidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Orbiculariae](../Orbiculariae.md))
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Orbiculariae](../Orbiculariae.md) 
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Orbiculariae
-    -  [Anapidae](Anapidae.md))
-    -  [Mysmenidae](Mysmenidae.md))
-    -  [Deinopidae](Deinopidae.md))
-    -  [Uloboridae](Uloboridae.md))
-    -  [Araneidae](Araneidae.md))
+    -  [Anapidae](Anapidae.md) 
+    -  [Mysmenidae](Mysmenidae.md) 
+    -  [Deinopidae](Deinopidae.md) 
+    -  [Uloboridae](Uloboridae.md) 
+    -  [Araneidae](Araneidae.md) 
     -   Theridiosomatidae
-    -  [Symphytognathidae](Symphytognathidae.md))
-    -  [Linyphiidae](Linyphiidae.md))
-    -  [Pimoidae](Pimoidae.md))
-    -  [Synotaxidae](Synotaxidae.md))
-    -  [Cyatholipidae](Cyatholipidae.md))
-    -  [Nesticidae](Nesticidae.md))
-    -  [Theridiidae](Theridiidae.md))
+    -  [Symphytognathidae](Symphytognathidae.md) 
+    -  [Linyphiidae](Linyphiidae.md) 
+    -  [Pimoidae](Pimoidae.md) 
+    -  [Synotaxidae](Synotaxidae.md) 
+    -  [Cyatholipidae](Cyatholipidae.md) 
+    -  [Nesticidae](Nesticidae.md) 
+    -  [Theridiidae](Theridiidae.md) 
 
 -   » Sub-Groups 
 
@@ -41,7 +41,7 @@ title: Theridiosomatidae
 
 Tree from Griswold et al. 1998.
 
-Containing group:[Orbiculariae](../Orbiculariae.md))
+Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ### References
 
@@ -89,6 +89,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Sex ::                Female
   Life Cycle Stage ::     eggsac
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/ogulnius03.jpg))
 
@@ -101,6 +102,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     adult
   Size                 10cm
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/theridiosoma_gemmosum03.jpg))
 
@@ -114,6 +116,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     adult
   Size                 ca 20 cm high
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg))
 
@@ -127,6 +130,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     ad
   Size                 ca. 20 cm high
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

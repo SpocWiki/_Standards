@@ -7,20 +7,20 @@ title: Andwakiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Athenaria](../Athenaria.md))
-    -  [Nynantheae](../../Nynantheae.md))
-    -  [Actiniaria](../../../Actiniaria.md))
-    -  [Zoantharia](../../../../Zoantharia.md))
-    -  [Anthozoa](../../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Athenaria](../Athenaria.md) 
+    -  [Nynantheae](../../Nynantheae.md) 
+    -  [Actiniaria](../../../Actiniaria.md) 
+    -  [Zoantharia](../../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Athenaria
-    -  [Edwardsiidae](Edwardsiidae.md))
+    -  [Edwardsiidae](Edwardsiidae.md) 
     -   [Halcampoididae](Halcampoididae)
-    -  [Haloclavidae](Haloclavidae.md))
+    -  [Haloclavidae](Haloclavidae.md) 
     -   [Andresiidae](Andresiidae)
     -   [Halcampidae](Halcampidae)
     -   [Limnactiniidae](Limnactiniidae)
@@ -37,7 +37,7 @@ title: Andwakiidae
 -   *[Andwakia](Andwakia)*
 -   *[Synandwakia](Synandwakia)*
 
-Containing group:[Athenaria](../Athenaria.md))
+Containing group:[Athenaria](../Athenaria.md) 
 
 ### Characteristics
 

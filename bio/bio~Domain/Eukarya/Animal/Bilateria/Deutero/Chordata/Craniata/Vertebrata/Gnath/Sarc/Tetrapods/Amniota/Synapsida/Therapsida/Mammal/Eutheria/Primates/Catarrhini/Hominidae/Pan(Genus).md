@@ -65,11 +65,11 @@ U_S_National_Archives_Identifier: 10647859
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hominidae](../Hominidae.md))
-    -  [Catarrhini](../../Catarrhini.md))
-    -  [Primates](../../../Primates.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Hominidae](../Hominidae.md) 
+    -  [Catarrhini](../../Catarrhini.md) 
+    -  [Primates](../../../Primates.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -80,9 +80,9 @@ U_S_National_Archives_Identifier: 10647859
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hominidae
@@ -105,7 +105,8 @@ U_S_National_Archives_Identifier: 10647859
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/hugh_portrait.jpg))
+------------------------------------------------------------------------- 
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/hugh_portrait.jpg))
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
@@ -117,7 +118,8 @@ Body Part            Head
 View                 Frontal
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
--------------------------------------------------------------------------![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/mike_portrait.jpg))
+------------------------------------------------------------------------- 
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/mike_portrait.jpg))
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male

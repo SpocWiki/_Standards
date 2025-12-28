@@ -95,9 +95,9 @@ of the sphenethmoid.
     -   [Craniata](../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Neobatrachia
@@ -139,11 +139,13 @@ of the sphenethmoid.
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![](Rhacophoridae/rhacophorus.jpg))
+------------------------------------------------------------------------ 
+![](Rhacophoridae/rhacophorus.jpg))
 1\. Polypedates sp.; Thailand; photo © 1995 David Cannatella\
 Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
-------------------------------------------------------------------------![](Rhacophoridae/buergeria.jpg))2. Buergeria japanicus, Taiwan; photo © 1995 David Cannatella
+------------------------------------------------------------------------ 
+![](Rhacophoridae/buergeria.jpg))2. Buergeria japanicus, Taiwan; photo © 1995 David Cannatella
 Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 

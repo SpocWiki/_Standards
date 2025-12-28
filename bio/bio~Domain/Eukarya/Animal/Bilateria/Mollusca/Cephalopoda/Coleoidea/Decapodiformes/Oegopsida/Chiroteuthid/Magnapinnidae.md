@@ -9,7 +9,7 @@ title: Magnapinna
 # *Magnapinna* [Vecchione and Young, 1998] 
 ![ ](Magnapinnidae/LongArmSquid1.jpg))
 
-Containing group:[Chiroteuthid families](../Chiroteuthid.md))
+Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
 ## Introduction
 
@@ -176,19 +176,19 @@ all pertinent references.
 
 -   « Ancestral Groups  
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../Oegopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../Oegopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthid families
     -   [Batoteuthis skolops](Batoteuthis_skolops)
-    -  [Chiroteuthidae](Chiroteuthidae.md))
+    -  [Chiroteuthidae](Chiroteuthidae.md) 
     -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
     -   Magnapinna
     -   [Mastigoteuthis](Mastigoteuthis)

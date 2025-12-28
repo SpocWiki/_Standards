@@ -7,28 +7,28 @@ title: Loligo
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Loliginidae](../Loliginidae.md))
-    -  [Myopsida](../../Myopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Loliginidae](../Loliginidae.md) 
+    -  [Myopsida](../../Myopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Loliginidae
     -   Loligo
     -   [Afrololigo mercatoris](Afrololigo_mercatoris)
-    -  [Alloteuthis](Alloteuthis.md))
-    -  [Doryteuthis](Doryteuthis.md))
+    -  [Alloteuthis](Alloteuthis.md) 
+    -  [Doryteuthis](Doryteuthis.md) 
     -   [Heterololigo bleekeri](Heterololigo_bleekeri)
-    -  [Loliolus](Loliolus.md))
-    -  [Lolliguncula](Lolliguncula.md))
-    -  [Pickfordiateuthis](Pickfordiateuthis.md))
-    -  [Sepioteuthis](Sepioteuthis.md))
-    -  [Uroteuthis](Uroteuthis.md))
+    -  [Loliolus](Loliolus.md) 
+    -  [Lolliguncula](Lolliguncula.md) 
+    -  [Pickfordiateuthis](Pickfordiateuthis.md) 
+    -  [Sepioteuthis](Sepioteuthis.md) 
+    -  [Uroteuthis](Uroteuthis.md) 
 
 -   » Sub-Groups 
 
@@ -44,7 +44,7 @@ The following three species are present in the genus.
 Type species.\-- ***Loligo vulgaris*** Lamarck, 1798, by subsequent
 designation of Hoyle (1910).
 
-Containing group:[Loliginidae](../Loliginidae.md))
+Containing group:[Loliginidae](../Loliginidae.md) 
 
 ## Introduction
 

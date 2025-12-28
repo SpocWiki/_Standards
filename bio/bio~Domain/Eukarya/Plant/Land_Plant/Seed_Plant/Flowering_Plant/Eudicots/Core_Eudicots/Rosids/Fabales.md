@@ -72,13 +72,13 @@ taxon_common_name: 豆目
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -145,7 +145,8 @@ relationships within Fabales are still only weakly resolved.
 ## Title Illustrations
 
 
-------------------------------![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg))
+------------------------------ 
+![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg))
 Scientific Name ::     Cytisus scoparius
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0022099)
 Specimen Condition   Live Specimen

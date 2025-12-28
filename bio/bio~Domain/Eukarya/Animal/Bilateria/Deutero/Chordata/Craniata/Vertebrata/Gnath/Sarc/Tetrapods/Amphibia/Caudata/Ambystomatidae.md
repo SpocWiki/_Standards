@@ -279,9 +279,9 @@ available data.
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -301,7 +301,8 @@ available data.
 
 ## Title Illustrations
 
----------------![](Ambystomatidae/opacum.jpg))
+--------------- 
+![](Ambystomatidae/opacum.jpg))
 Scientific Name ::     Ambystomatidae
 Location ::           Eastern United States
 Comments             The marbled salamander with eggs

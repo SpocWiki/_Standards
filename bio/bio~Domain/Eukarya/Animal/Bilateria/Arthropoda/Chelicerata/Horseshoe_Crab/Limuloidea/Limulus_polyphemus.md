@@ -11,10 +11,10 @@ title: Limulus polyphemus
 -   « Ancestral Groups  
     -   [Limuloidea](../Limuloidea.md)
     -   [Horseshoe_Crab](../../Horseshoe_Crab.md)
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Limuloidea
@@ -62,7 +62,8 @@ title: Limulus polyphemus
 ## Title Illustrations
 
 
--------------------![](Limulus_polyphemus/Limulus_polyphemus.jpg))
+------------------- 
+![](Limulus_polyphemus/Limulus_polyphemus.jpg))
 Scientific Name ::    Limulus polyphemus
 Location ::          Washington D.C., USA
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)

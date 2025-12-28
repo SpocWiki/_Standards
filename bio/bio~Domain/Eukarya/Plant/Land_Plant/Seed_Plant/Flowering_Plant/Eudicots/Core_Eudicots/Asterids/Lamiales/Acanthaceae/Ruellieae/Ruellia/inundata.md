@@ -30,13 +30,13 @@ species in *Ruellia*.
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -62,20 +62,23 @@ species in *Ruellia*.
 
 ## Title Illustrations
 
-------------------------------------------------------------------------![Ruellia standleyi](inundata/Ruellia_standleyi.jpg)) 
+------------------------------------------------------------------------ 
+![Ruellia standleyi](inundata/Ruellia_standleyi.jpg)) 
 Scientific Name ::     Ruellia standleyi Leonard
 Location ::           Cartago, Costa Rica
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![Ruellia paniculata](inundata/Ruellia_paniculata.jpg))
+----------------------------------------------------------------------- 
+![Ruellia paniculata](inundata/Ruellia_paniculata.jpg))
 Scientific Name ::     Ruellia paniculata L.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
 Collector            Tripp & E. Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
------------------------------------------------------------------------![Ruellia_inundata](inundata/Ruellia_inundata.jpg))
+----------------------------------------------------------------------- 
+![Ruellia_inundata](inundata/Ruellia_inundata.jpg))
 Scientific Name ::     Ruellia inundata H. B. K.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
@@ -83,7 +86,8 @@ Identified By        Erin A. Tripp
 Collector            Tripp & Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-----------------------------------------------------------------------![Ruellia galeottii](inundata/Ruellia_galeottii.jpg))
+---------------------------------------------------------------------- 
+![Ruellia galeottii](inundata/Ruellia_galeottii.jpg))
 Scientific Name ::  Ruellia galeottii Leonard
 Location ::        Oaxaca, Mexico
 Identified By     Erin A. Tripp

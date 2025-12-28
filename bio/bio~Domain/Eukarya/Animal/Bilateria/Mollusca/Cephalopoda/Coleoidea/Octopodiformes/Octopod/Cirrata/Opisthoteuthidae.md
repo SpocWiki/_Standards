@@ -9,13 +9,13 @@ title: Opisthoteuthidae
 -   « Ancestral Groups  
     -   [Cirrata](../Cirrata.md)
     -   [Octopod](../../Octopod.md)
-    -  [Octopodiformes](../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cirrata
@@ -173,6 +173,7 @@ morphology of cirrate octopods: locomotion and feeding. Vie Milieu
   Location ::        Bahamas
   Comments          Captured by submersible
   Copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ----------------------------------------------------------------------
 
 

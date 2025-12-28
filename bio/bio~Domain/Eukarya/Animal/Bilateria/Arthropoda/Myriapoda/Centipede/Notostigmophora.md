@@ -7,17 +7,17 @@ title: Scutigeromorpha
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Centipede](../Centipede.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Centipede](../Centipede.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chilopoda
     -   Scutigeromorpha
-    -  [Geophilomorpha](Geophilomorpha.md))
-    -  [Scolopendromorpha](Scolopendromorpha.md))
+    -  [Geophilomorpha](Geophilomorpha.md) 
+    -  [Scolopendromorpha](Scolopendromorpha.md) 
 
 -   » Sub-Groups 
 
@@ -29,7 +29,7 @@ title: Scutigeromorpha
 
 Relationships after Edgecombe & Giribet 2004
 
-Containing group:[Centipede](../Centipede.md))
+Containing group:[Centipede](../Centipede.md) 
 
 ### References
 
@@ -64,6 +64,7 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+ 
   ----------------------------------------------------------------------------
 
 

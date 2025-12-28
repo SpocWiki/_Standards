@@ -7,18 +7,18 @@ title: Caryophyllioidea
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Caryophylliina](../Caryophylliina.md))
-    -  [Scleractinia](../../Scleractinia.md))
-    -  [Zoantharia](../../../Zoantharia.md))
-    -  [Anthozoa](../../../../Anthozoa.md))
-    -  [Cnidaria](../../../../../Cnidaria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Caryophylliina](../Caryophylliina.md) 
+    -  [Scleractinia](../../Scleractinia.md) 
+    -  [Zoantharia](../../../Zoantharia.md) 
+    -  [Anthozoa](../../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../../Cnidaria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caryophylliina
     -   Caryophyllioidea
-    -  [Flabelloidea](Flabelloidea.md))
+    -  [Flabelloidea](Flabelloidea.md) 
 
 -   » Sub-Groups
     -   [Caryophylliidae](Caryophylliidae)
@@ -40,7 +40,7 @@ family marked with a cross (![](Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scle
 ) occurs only in the fossil record, whereas the other 3 families contain
 both fossil and Recent taxa.
 
-Containing group:[Caryophylliina](../Caryophylliina.md))
+Containing group:[Caryophylliina](../Caryophylliina.md) 
 
 ## Introduction
 

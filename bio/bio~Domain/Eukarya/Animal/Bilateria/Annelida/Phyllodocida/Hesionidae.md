@@ -7,11 +7,11 @@ title: Hesionidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Phyllodocida](../Phyllodocida.md))
-    -  [Annelida](../../Annelida.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Phyllodocida](../Phyllodocida.md) 
+    -  [Annelida](../../Annelida.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Phyllodocida
@@ -19,7 +19,7 @@ title: Hesionidae
     -   [Minor holopelagic         Phyllodocida](Minor_holopelagic_Phyllodocida)
 
 -   » Sub-Groups
-    -  [capricornia](Hesionidae/capricornia.md))
+    -  [capricornia](Hesionidae/capricornia.md) 
 
 # [[Hesionidae]]  
 
@@ -197,13 +197,15 @@ further discussed on that page.
 ## Title Illustrations
 
 
-------------![Amphiduros fuscescens](Hesionidae/Amphiduros_fuscescens.jpg))
+------------ 
+![Amphiduros fuscescens](Hesionidae/Amphiduros_fuscescens.jpg))
 Scientific Name ::     Amphiduros fuscescens
 Location ::           Canary Islands
 Specimen Condition   Live Specimen
 Copyright ::            © 2001 Leopoldo Moro
 
-------------------------------------------------------------------------![](Hesionidae/Ophiodromus_flexuosus.jpg))
+------------------------------------------------------------------------ 
+![](Hesionidae/Ophiodromus_flexuosus.jpg))
 Scientific Name ::  Ophiodromus flexuosus
 Location ::        southern France
 Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 

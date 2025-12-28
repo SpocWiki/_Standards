@@ -36,8 +36,8 @@ start_time: -37000000-06
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -48,15 +48,15 @@ start_time: -37000000-06
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   [Edentata](Edentata.md)
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -93,7 +93,8 @@ start_time: -37000000-06
 
 ## Title Illustrations
 
-----------------------------------------------------------------![](Dermoptera/453554996_ec252c76e5_o.jpg))
+---------------------------------------------------------------- 
+![](Dermoptera/453554996_ec252c76e5_o.jpg))
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Central Catchment area, Singapore
 Specimen Condition   Live Specimen
@@ -104,7 +105,8 @@ Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 Copyright ::            © 2006 [Lip Kee Yap](http://flickr.com/people/64565252@N00)
 
-----------------------------------------------------------------![](Dermoptera/143391931_24b3a608ff_b.jpg))
+---------------------------------------------------------------- 
+![](Dermoptera/143391931_24b3a608ff_b.jpg))
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Langkawi Island, Malaysia
 Specimen Condition   Live Specimen
@@ -113,7 +115,8 @@ Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
 Copyright ::            © 2006 [Peter MacDonald](http://flickr.com/people/petermacdonald/)
 
-------------------------------------------------------------![](Dermoptera/296191800_deaec8342c_o.jpg))
+------------------------------------------------------------ 
+![](Dermoptera/296191800_deaec8342c_o.jpg))
 Scientific Name ::     Cynocephalus variegatus
 Location ::           MacRitchie Reservoir, Singapore
 Specimen Condition   Live Specimen

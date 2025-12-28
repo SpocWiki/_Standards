@@ -13,7 +13,7 @@ title: Magnapinna pacifica
 
 ![ ](Magnapinna_pacifica/Magnapinna.jpg)![ ](Magnapinna_pacifica/MagnapinnaDraw.jpg))
 
-Containing group:[Magnapinnidae](../Magnapinnidae.md))
+Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
 ## Introduction
 
@@ -219,14 +219,14 @@ capture localities. Chart modified from Vecchione and Young (1998).
 -   « Ancestral Groups  
     -   [Magnapinna](Magnapinna)
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Magnapinna
@@ -256,6 +256,7 @@ African Journal of Marine Science, 20: 429-437.
   Size                 51 mm ML
   Type                 Holotype
   Copyright ::            © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -------------------------------------------------------------------------
 ![](Magnapinna_pacifica/MagnapinnaDraw.jpg))
 
@@ -267,6 +268,7 @@ African Journal of Marine Science, 20: 429-437.
   Size              51 mm ML
   Type              Holotype
   Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   ------------------------------------------------------------------------
 
 

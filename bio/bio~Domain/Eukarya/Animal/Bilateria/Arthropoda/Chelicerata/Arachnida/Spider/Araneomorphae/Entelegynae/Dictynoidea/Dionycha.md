@@ -37,31 +37,31 @@ title: Dionycha
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Entelegynae](../../Entelegynae.md))
-    -  [Araneomorphae](../../../Araneomorphae.md))
+    -  [Entelegynae](../../Entelegynae.md) 
+    -  [Araneomorphae](../../../Araneomorphae.md) 
     -   [Spider](../../../../Spider.md)
-    -  [Arachnida](../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Entelegynae
-    -  [Amaurobiidae](../Amaurobiidae.md))
-    -  [Eresoidea](../Eresoidea.md))
+    -  [Amaurobiidae](../Amaurobiidae.md) 
+    -  [Eresoidea](../Eresoidea.md) 
     -   [other entelegynes](other_entelegynes)
-    -  [Palpimanoidea](../Palpimanoidea.md))
-    -  [Dictynoidea](../Dictynoidea.md))
-    -  [Orbiculariae](../Orbiculariae.md))
+    -  [Palpimanoidea](../Palpimanoidea.md) 
+    -  [Dictynoidea](../Dictynoidea.md) 
+    -  [Orbiculariae](../Orbiculariae.md) 
     -   Dionycha
     -   [other amaurobioids](other_amaurobioids)
-    -  [Lycosoidea](../Lycosoidea.md))
+    -  [Lycosoidea](../Lycosoidea.md) 
 
 -   » Sub-Groups
     -   [Jumping_Spider](Dionycha/Jumping_Spider.md)
     -   [Crab_Spider](Dionycha/Crab_Spider.md)
-    -  [Clubionidae](Dionycha/Clubionidae.md))
+    -  [Clubionidae](Dionycha/Clubionidae.md) 
 
 
 ## Title Illustrations

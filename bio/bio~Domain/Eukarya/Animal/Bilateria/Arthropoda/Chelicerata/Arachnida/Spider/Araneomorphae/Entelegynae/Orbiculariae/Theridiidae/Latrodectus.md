@@ -7,16 +7,16 @@ title: Latrodectus
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Theridiidae](../Theridiidae.md))
-    -  [Orbiculariae](../../Orbiculariae.md))
-    -  [Entelegynae](../../../Entelegynae.md))
-    -  [Araneomorphae](../../../../Araneomorphae.md))
+    -  [Theridiidae](../Theridiidae.md) 
+    -  [Orbiculariae](../../Orbiculariae.md) 
+    -  [Entelegynae](../../../Entelegynae.md) 
+    -  [Araneomorphae](../../../../Araneomorphae.md) 
     -   [Spider](../../../../../Spider.md)
-    -  [Arachnida](../../../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Theridiidae
@@ -41,7 +41,7 @@ title: Latrodectus
 Tree simplified from Garb et al. (2004), based on cytochrome oxidase I
 sequence data.
 
-Containing group:[Theridiidae](../Theridiidae.md))
+Containing group:[Theridiidae](../Theridiidae.md) 
 
 ## Introduction
 
@@ -273,6 +273,7 @@ sacrifice. Behav. Ecol. 15:785-792.
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+ 
   ---------------------------------------------------------------------------------------
 
 

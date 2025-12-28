@@ -7,19 +7,19 @@ title: Helicobasidium longisporum
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Helicobasidiales](../Helicobasidiales.md))
+    -  [Helicobasidiales](../Helicobasidiales.md) 
     -   [Urediniomycotina](Urediniomycotina)
-    -  [Basidiomycota](../../../Basidiomycota.md))
-    -  [Fungi](../../../../Fungi.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Basidiomycota](../../../Basidiomycota.md) 
+    -  [Fungi](../../../../Fungi.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Helicobasidiales
-    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md))
-    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md))
-    -  [Tuberculina maxima](Tuberculina_maxima.md))
+    -  [Tuberculina sbrozzii](Tuberculina_sbrozzii.md) 
+    -  [Helicobasidium         purpureum](Helicobasidium_purpureum.md) 
+    -  [Tuberculina maxima](Tuberculina_maxima.md) 
     -   Helicobasidium longisporum
-    -  [Helicobasidium mompa](Helicobasidium_mompa.md))
+    -  [Helicobasidium mompa](Helicobasidium_mompa.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Helicobasidium longisporum
 ![ ](rr.jpg)![ ](Helicobasidium_longisporum/Hlstgt.jpg))
 ![ ](Helicobasidium_longisporum/TpGsTUB012677.jpg)
 
-Containing group:[Helicobasidiales](../Helicobasidiales.md))
+Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
@@ -45,6 +45,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2000
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidium_longisporum/Hlstgt.jpg))
 
@@ -57,6 +58,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Collection           2000
   Collector            M. Lutz
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 ![](Helicobasidium_longisporum/TpGsTUB012677.jpg))
 
@@ -69,6 +71,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Collection           2004
   Collector            M. Mennicken
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+ 
   -----------------------------------------------------------------------------
 
 

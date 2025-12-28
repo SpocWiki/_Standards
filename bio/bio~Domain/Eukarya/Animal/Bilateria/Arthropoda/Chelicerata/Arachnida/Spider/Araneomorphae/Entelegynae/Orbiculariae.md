@@ -7,41 +7,41 @@ title: Orbiculariae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Entelegynae](../Entelegynae.md))
-    -  [Araneomorphae](../../Araneomorphae.md))
+    -  [Entelegynae](../Entelegynae.md) 
+    -  [Araneomorphae](../../Araneomorphae.md) 
     -   [Spider](../../../Spider.md)
-    -  [Arachnida](../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Arachnida](../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Entelegynae
-    -  [Amaurobiidae](Amaurobiidae.md))
-    -  [Eresoidea](Eresoidea.md))
+    -  [Amaurobiidae](Amaurobiidae.md) 
+    -  [Eresoidea](Eresoidea.md) 
     -   [other entelegynes](other_entelegynes)
-    -  [Palpimanoidea](Palpimanoidea.md))
-    -  [Dictynoidea](Dictynoidea.md))
+    -  [Palpimanoidea](Palpimanoidea.md) 
+    -  [Dictynoidea](Dictynoidea.md) 
     -   Orbiculariae
-    -  [Dionycha](Dictynoidea/Dionycha.md))
+    -  [Dionycha](Dictynoidea/Dionycha.md) 
     -   [other amaurobioids](other_amaurobioids)
-    -  [Lycosoidea](Lycosoidea.md))
+    -  [Lycosoidea](Lycosoidea.md) 
 
 -   » Sub-Groups
-    -  [Anapidae](Orbiculariae/Anapidae.md))
-    -  [Mysmenidae](Orbiculariae/Mysmenidae.md))
-    -  [Deinopidae](Orbiculariae/Deinopidae.md))
-    -  [Uloboridae](Orbiculariae/Uloboridae.md))
-    -  [Araneidae](Orbiculariae/Araneidae.md))
-    -  [Theridiosomatidae](Orbiculariae/Theridiosomatidae.md))
-    -  [Symphytognathidae](Orbiculariae/Symphytognathidae.md))
-    -  [Linyphiidae](Orbiculariae/Linyphiidae.md))
-    -  [Pimoidae](Orbiculariae/Pimoidae.md))
-    -  [Synotaxidae](Orbiculariae/Synotaxidae.md))
-    -  [Cyatholipidae](Orbiculariae/Cyatholipidae.md))
-    -  [Nesticidae](Orbiculariae/Nesticidae.md))
-    -  [Theridiidae](Orbiculariae/Theridiidae.md))
+    -  [Anapidae](Orbiculariae/Anapidae.md) 
+    -  [Mysmenidae](Orbiculariae/Mysmenidae.md) 
+    -  [Deinopidae](Orbiculariae/Deinopidae.md) 
+    -  [Uloboridae](Orbiculariae/Uloboridae.md) 
+    -  [Araneidae](Orbiculariae/Araneidae.md) 
+    -  [Theridiosomatidae](Orbiculariae/Theridiosomatidae.md) 
+    -  [Symphytognathidae](Orbiculariae/Symphytognathidae.md) 
+    -  [Linyphiidae](Orbiculariae/Linyphiidae.md) 
+    -  [Pimoidae](Orbiculariae/Pimoidae.md) 
+    -  [Synotaxidae](Orbiculariae/Synotaxidae.md) 
+    -  [Cyatholipidae](Orbiculariae/Cyatholipidae.md) 
+    -  [Nesticidae](Orbiculariae/Nesticidae.md) 
+    -  [Theridiidae](Orbiculariae/Theridiidae.md) 
 
 # Orbiculariae 
 
@@ -55,7 +55,7 @@ Tree from Griswold et al. 1998 with modifications from Kuntner, 2005
 and derived araneoids.\
 \
 
-Containing group:[Entelegynae](../Entelegynae.md))
+Containing group:[Entelegynae](../Entelegynae.md) 
 
 ### Information on the Internet
 
@@ -148,6 +148,7 @@ America: an identification manual. American Arachnological Society,
   View                 anterior view
   Size                 photo ca. 5mm across.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Orbiculariae/0841.jpg))
 

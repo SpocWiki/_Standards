@@ -7,21 +7,21 @@ title: Spirula spirula
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
-    -  [Bathyteuthoida](Bathyteuthoida.md))
-    -  [Idiosepiidae](Idiosepiidae.md))
-    -  [Myopsida](Myopsida.md))
-    -  [Oegopsida](Oegopsida.md))
-    -  [Sepioidea](Sepioidea.md))
+    -  [Bathyteuthoida](Bathyteuthoida.md) 
+    -  [Idiosepiidae](Idiosepiidae.md) 
+    -  [Myopsida](Myopsida.md) 
+    -  [Oegopsida](Oegopsida.md) 
+    -  [Sepioidea](Sepioidea.md) 
     -   Spirula spirula
 
 -   » Sub-Groups 
@@ -205,7 +205,8 @@ Clark (1969).
 
 ## Title Illustrations
 
-------------------------------------------------------------------------![](Spirulida/Spirula.JPG))
+------------------------------------------------------------------------ 
+![](Spirulida/Spirula.JPG))
 Scientific Name ::  Spirula spirula
 Sex ::             Male
 View              lateral
@@ -218,7 +219,8 @@ Reference         from Chun, 1910
 Sex ::             Female
 View              dorsal
 
-------------------------------------------------------------------------![](Spirulida/SpirulaMV.jpg))
+------------------------------------------------------------------------ 
+![](Spirulida/SpirulaMV.jpg))
 Scientific Name ::  Spirula spirula
 Location ::        western North Atlantic
 View              Side

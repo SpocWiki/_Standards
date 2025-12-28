@@ -7,24 +7,24 @@ title: Lecanoromycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pezizomycotina](../Pezizomycotina.md))
-    -  [Ascomycota](../../Ascomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Pezizomycotina](../Pezizomycotina.md) 
+    -  [Ascomycota](../../Ascomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pezizomycotina
     -   Lecanoromycetes
-    -  [Eurotiomycetes](Eurotiomycetes.md))
-    -  [Leotiomycetes](Leotiomycetes.md))
-    -  [Geoglossaceae](Geoglossaceae.md))
-    -  [Dothideomycetes](Dothideomycetes.md))
+    -  [Eurotiomycetes](Eurotiomycetes.md) 
+    -  [Leotiomycetes](Leotiomycetes.md) 
+    -  [Geoglossaceae](Geoglossaceae.md) 
+    -  [Dothideomycetes](Dothideomycetes.md) 
 
 -   » Sub-Groups 
 
 # Lecanoromycetes 
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md) 
 
 
 ## Confidential Links & Embeds: 

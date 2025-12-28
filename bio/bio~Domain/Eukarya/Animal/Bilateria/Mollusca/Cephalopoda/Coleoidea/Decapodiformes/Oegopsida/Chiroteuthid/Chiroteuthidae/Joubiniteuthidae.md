@@ -142,19 +142,19 @@ tropical and subtropical latitudes throughout the world\'s oceans.
 
 -   « Ancestral Groups  
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthid families
     -   [Batoteuthis skolops](Batoteuthis_skolops)
-    -  [Chiroteuthidae](../Chiroteuthidae.md))
+    -  [Chiroteuthidae](../Chiroteuthidae.md) 
     -   Joubiniteuthis portieri
     -   [Magnapinna](Magnapinna)
     -   [Mastigoteuthis](Mastigoteuthis)
@@ -164,7 +164,8 @@ tropical and subtropical latitudes throughout the world\'s oceans.
 
 ## Title Illustrations
 
---------------------------![](Joubiniteuthidae/Joubiniteuthis028.jpg))
+-------------------------- 
+![](Joubiniteuthidae/Joubiniteuthis028.jpg))
 Scientific Name ::     Joubiniteuthis portieri
 Location ::           Off Northwestern Hawaiian Islands, 1100 m depth.
 Comments             Photograph from Hawaii Undersea Research Laboratory Video-archive
@@ -174,7 +175,8 @@ View                 Side
 Size                 30-40 cm total length
 Copyright ::            © Frank Parrish
 
---------------------------![](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
+-------------------------- 
+![](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
 Scientific Name ::     Joubiniteuthis portieri
 Reference            Young, R. E. and C. F. E. Roper. 1969. A monograph of the Cephalopoda of the North Atlantic: The family Joubiniteuthidae. Smithson. Contr. Zool. No. 15: 1-10.
 Specimen Condition   Dead Specimen

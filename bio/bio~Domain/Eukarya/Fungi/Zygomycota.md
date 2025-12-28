@@ -50,14 +50,14 @@ NBN_System_Key: BMSSYS0000052700
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Fungi](../Fungi.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -  [Ascomycota](Ascomycota.md))
-    -  [Glomeromycota](Glomeromycota.md))
+    -  [Basidiomycota](Basidiomycota.md) 
+    -  [Ascomycota](Ascomycota.md) 
+    -  [Glomeromycota](Glomeromycota.md) 
     -   [Chytridiomycota](Chytridiomycota)
     -   Zygomycota
 
@@ -608,6 +608,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Acknowledgements     Photo courtesy [George Barron\'s Website on Fungi](http://www.uoguelph.ca/%7Egbarron/)
   Specimen Condition   Dead Specimen
   Copyright ::            © [George Barron](http://www.uoguelph.ca/%7Egbarron/) 
+ 
   --------------------------------------------------------------------------
 ![Colony bearing unispored sporangia of Genistelloides helicoides](Zygomycota/Genistelloides_helicoides1.jpg))
 
@@ -617,6 +618,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Acknowledgements     Photo courtesy Robert W. Lichwardt. Image from the Mycological Society of America slide collection.
   Specimen Condition   Dead Specimen
   Copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
+ 
   -----------------------------------------------------------------------
 
 

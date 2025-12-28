@@ -40,19 +40,19 @@ Central America, South America, and the Caribbean Islands. 
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Solifugae](../Solifugae.md))
-    -  [Arachnida](../../Arachnida.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Solifugae](../Solifugae.md) 
+    -  [Arachnida](../../Arachnida.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Solifugae
     -   Ammotrechidae
 
 -   » Sub-Groups
-    -  [Ammotrechinae](Ammotrechidae/Ammotrechinae.md))
+    -  [Ammotrechinae](Ammotrechidae/Ammotrechinae.md) 
 	-   [Ammotrechinae](Ammotrechidae/Ammotrechinae.md "go to ToL page"))*
 	-   *Mortola mortola*
 	-   *Nothopuga*

@@ -61,8 +61,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,544
 
 -   « Ancestral Groups  
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -73,18 +73,18 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,544
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Proboscidea
     -   Elephantidae
 
 -   » Sub-Groups
-    -  [Elephas maximus](Elephantidae/Elephas_maximus.md))
+    -  [Elephas maximus](Elephantidae/Elephas_maximus.md) 
     -   [Mammoth](Elephantidae/Mammoth.md)
-    -  [Loxodonta africana](Elephantidae/Loxodonta_africana.md))
+    -  [Loxodonta africana](Elephantidae/Loxodonta_africana.md) 
 	-   *Primelephas* †
 
 ### Information on the Internet
@@ -96,12 +96,14 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,544
 ## Title Illustrations
 
 
-----------------------------------------------------------------------------![](Elephantidae/01004elephants.jpg))
+---------------------------------------------------------------------------- 
+![](Elephantidae/01004elephants.jpg))
 Scientific Name ::  Loxodonta africana
 Location ::        Masai Mara, Kenya
 Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
----------------![](Elephantidae/Elephas_maximus.jpg))
+--------------- 
+![](Elephantidae/Elephas_maximus.jpg))
 Scientific Name ::  Elephas maximus
 Reference         The Natural History of Mammals 1827
 Creator           Carl Brodtmann

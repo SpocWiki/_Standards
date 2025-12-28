@@ -18,9 +18,9 @@ title: Chrysochloridae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Insectivora](../Insectivora.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Insectivora](../Insectivora.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -31,9 +31,9 @@ title: Chrysochloridae
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Insectivora
@@ -71,7 +71,8 @@ title: Chrysochloridae
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![](Chrysochloridae/Eremitalpa_granti0047.jpg))
+------------------------------------------------------------------------------ 
+![](Chrysochloridae/Eremitalpa_granti0047.jpg))
 Scientific Name ::     Eremitalpa granti
 Location ::           Namibia
 Comments             Grant\'s desert golden mole

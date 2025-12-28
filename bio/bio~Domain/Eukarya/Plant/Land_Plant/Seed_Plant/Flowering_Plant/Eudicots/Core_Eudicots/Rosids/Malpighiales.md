@@ -47,13 +47,13 @@ taxon_common_name: 金虎尾目
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -83,7 +83,8 @@ taxon_common_name: 金虎尾目
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg))
+------------------------------------------------------------------------------ 
+![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg))
 Scientific Name ::     Salix laevigata
 Location ::           Kearsarge Pass (Fresno County, California, USA)
 Comments             Red willow (Salicaceae)
@@ -92,14 +93,16 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg))
+------------------------------------------------------------------------ 
+![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg))
 Scientific Name ::   Euphorbia canariensis
 Location ::         Buenavista del Norte, Teneriffa, Canary Islands
 Comments           Euphorbiaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
----------------------------------------------------------------------![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg))
+--------------------------------------------------------------------- 
+![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg))
 Scientific Name ::  Hypericum cerastoides
 Comments          Hypericaceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 

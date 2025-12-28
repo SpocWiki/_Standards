@@ -38,25 +38,25 @@ title: Cambaridae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Astacidea](../../Astacidea.md))
-    -  [Decapoda](../../../Decapoda.md))
-    -  [Malacostraca](../../../../Malacostraca.md))
-    -  [Crustacea](../../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Astacidea](../../Astacidea.md) 
+    -  [Decapoda](../../../Decapoda.md) 
+    -  [Malacostraca](../../../../Malacostraca.md) 
+    -  [Crustacea](../../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Astacidea
     -   [Parastacidae](Parastacidae)
-    -  [Astacidae](../Astacidae.md))
+    -  [Astacidae](../Astacidae.md) 
     -   Cambaridae
 
 -   » Sub-Groups
-    -  [Cambarellinae](Cambaridae/Cambarellinae.md))
-    -  [Cambarinae](Cambaridae/Cambarinae.md))
-    -  [Cambaroides](Cambaridae/Cambaroides.md))
+    -  [Cambarellinae](Cambaridae/Cambarellinae.md) 
+    -  [Cambarinae](Cambaridae/Cambarinae.md) 
+    -  [Cambaroides](Cambaridae/Cambaroides.md) 
 
 
 ## Title Illustrations

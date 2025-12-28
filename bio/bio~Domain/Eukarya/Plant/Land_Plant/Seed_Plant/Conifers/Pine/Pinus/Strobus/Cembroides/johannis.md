@@ -14,12 +14,12 @@ title: Pinus johannis
     -   [Conifers](../../../../../Conifers.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  subsection Cembroides
-    -  [Pinus cembroides](Pinus_cembroides.md))
+    -  [Pinus cembroides](Pinus_cembroides.md) 
     -   Pinus johannis
     -   [Pinus remota](Pinus_remota)
 
@@ -66,6 +66,7 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
   Location ::        Concepción del Oro, Zacatecas, Mexico
   Body Part         ovulate cone
   Copyright ::         © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
+ 
   ------------------------------------------------------------------------------------------
 
 

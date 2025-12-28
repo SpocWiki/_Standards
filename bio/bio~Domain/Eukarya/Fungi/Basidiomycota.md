@@ -222,19 +222,19 @@ application of genome-scale datasets their placements may be resolved.\
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Fungi](../Fungi.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fungi
     -   Basidiomycota
-    -  [Ascomycota](Ascomycota.md))
-    -  [Glomeromycota](Glomeromycota.md))
+    -  [Ascomycota](Ascomycota.md) 
+    -  [Glomeromycota](Glomeromycota.md) 
     -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
+    -  [Zygomycota](Zygomycota.md) 
 
 -   » Sub-Groups
-    -  [Agaricomycotina](Basidiomycota/Agaricomycotina.md))
+    -  [Agaricomycotina](Basidiomycota/Agaricomycotina.md) 
     -   [Ustilaginomycetes](Ustilaginomycetes)
     -   [Urediniomycotina](Urediniomycotina)
 
@@ -450,6 +450,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   Comments          Fruiting structures of the mushroom Amanita rubrovaginata (Agaricomycotina)
   Body Part         Fruiting structures
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+ 
   -----------------------------------------------------------------------------
 
 

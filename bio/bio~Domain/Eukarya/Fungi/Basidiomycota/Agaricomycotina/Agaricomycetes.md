@@ -7,20 +7,20 @@ title: Agaricomycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Agaricomycotina](../Agaricomycotina.md))
-    -  [Basidiomycota](../../Basidiomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Agaricomycotina](../Agaricomycotina.md) 
+    -  [Basidiomycota](../../Basidiomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Agaricomycotina
     -   Agaricomycetes
 
 -   » Sub-Groups
-    -  [Agaricales](Agaricomycetes/Agaricales.md))
-    -  [Atheliales](Agaricomycetes/Atheliales.md))
-    -  [Russulales](Agaricomycetes/Russulales.md))
-    -  [Polyporales](Agaricomycetes/Polyporales.md))
+    -  [Agaricales](Agaricomycetes/Agaricales.md) 
+    -  [Atheliales](Agaricomycetes/Atheliales.md) 
+    -  [Russulales](Agaricomycetes/Russulales.md) 
+    -  [Polyporales](Agaricomycetes/Polyporales.md) 
     -   [Thelephorales](Thelephorales)
     -   [Corticiales](Corticiales)
     -   [Hymenochaetoid clade](Hymenochaetoid_clade)
@@ -38,7 +38,7 @@ sequences alone (Hibbett and Thorn 2001; Hibbett and Binder 2002) and
 analyses that combine protein-coding genes and rRNA genes (Matheny et
 al. 2007).
 
-Containing group:[Agaricomycotina](../Agaricomycotina.md))
+Containing group:[Agaricomycotina](../Agaricomycotina.md) 
 
 ### Information on the Internet
 
@@ -550,6 +550,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Scientific Name ::  Lepista cf. nuda
   Comments          Agaricales
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+ 
   -----------------------------------------------------------------------------
 ![Earthstar, Geastrum saccatum](Agaricomycetes/earthstar200.jpg))
 
@@ -557,6 +558,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Scientific Name ::  Geastrum saccatum
   Comments          Earthstar (Gomphoid-Phalloid clade)
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+ 
   -----------------------------------------------------------------------------
 
 

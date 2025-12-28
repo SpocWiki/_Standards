@@ -26,9 +26,9 @@ title: Dendrohyrax
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hyracoidea](../Hyracoidea.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Hyracoidea](../Hyracoidea.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -39,9 +39,9 @@ title: Dendrohyrax
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hyracoidea
@@ -54,7 +54,7 @@ title: Dendrohyrax
 -   *Dendrohyrax arboreus*
 -   *Dendrohyrax validus*
 
-Containing group:[Hyracoidea](../Hyracoidea.md))
+Containing group:[Hyracoidea](../Hyracoidea.md) 
 
 
 ## Confidential Links & Embeds: 

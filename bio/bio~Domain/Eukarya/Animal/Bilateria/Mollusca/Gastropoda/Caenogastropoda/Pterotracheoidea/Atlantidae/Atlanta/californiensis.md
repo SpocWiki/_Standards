@@ -7,15 +7,15 @@ title: Atlanta californiensis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Atlanta](../Atlanta.md))
-    -  [Atlantidae](../../Atlantidae.md))
+    -  [Atlanta](../Atlanta.md) 
+    -  [Atlantidae](../../Atlantidae.md) 
     -   [Carinarioidea](Carinarioidea)
-    -  [Caenogastropoda](../../../../Caenogastropoda.md))
-    -  [Gastropoda](../../../../../Gastropoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Caenogastropoda](../../../../Caenogastropoda.md) 
+    -  [Gastropoda](../../../../../Gastropoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Atlanta

@@ -7,36 +7,36 @@ title: Oegopsida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Decapodiformes](../Decapodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Decapodiformes](../Decapodiformes.md) 
+    -  [Coleoidea](../../Coleoidea.md) 
+    -  [Cephalopoda](../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Decapodiformes
-    -  [Bathyteuthoida](Bathyteuthoida.md))
-    -  [Idiosepiidae](Idiosepiidae.md))
-    -  [Myopsida](Myopsida.md))
+    -  [Bathyteuthoida](Bathyteuthoida.md) 
+    -  [Idiosepiidae](Idiosepiidae.md) 
+    -  [Myopsida](Myopsida.md) 
     -   Oegopsida
-    -  [Sepioidea](Sepioidea.md))
+    -  [Sepioidea](Sepioidea.md) 
     -   [Spirula spirula](Spirula_spirula)
 
 -   » Sub-Groups
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Oegopsida/Brachioteuthidae.md))
+    -  [Brachioteuthidae](Oegopsida/Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Oegopsida/Cranchiidae.md))
-    -  [Cycloteuthidae](Oegopsida/Cycloteuthidae.md))
+    -  [Cranchiidae](Oegopsida/Cranchiidae.md) 
+    -  [Cycloteuthidae](Oegopsida/Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Oegopsida/Gonatidae.md))
+    -  [Gonatidae](Oegopsida/Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Oegopsida/Neoteuthidae.md))
-    -  [Ommastrephidae](Oegopsida/Ommastrephidae.md))
-    -  [Onychoteuthidae](Oegopsida/Onychoteuthidae.md))
+    -  [Neoteuthidae](Oegopsida/Neoteuthidae.md) 
+    -  [Ommastrephidae](Oegopsida/Ommastrephidae.md) 
+    -  [Onychoteuthidae](Oegopsida/Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 # Oegopsida [Orbigny, 1845] 
@@ -45,7 +45,7 @@ title: Oegopsida
 
 ![ ](Oegopsida/OegopsidTitleFin.jpg)
 
-Containing group:[Decapodiformes](../Decapodiformes.md))
+Containing group:[Decapodiformes](../Decapodiformes.md) 
 
 ## Introduction
 
@@ -133,6 +133,7 @@ Decapodiforms \...
   Scientific Name ::   Pyroteuthis margaritifera, Promachoteuthis sp., Magnapinna ?, Helicocranchia pfefferi, Joubiniteuthis portieri, Onychoteuthis sp., Todarodes sagittatus
   Acknowledgements   J. portieri photograph by Frank Parish; Magnapinna (?) photograph from N.U.R.C., others photographed by R. Young.
   Copyright ::          © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   --------------------------------------------------------------------------------
 
 

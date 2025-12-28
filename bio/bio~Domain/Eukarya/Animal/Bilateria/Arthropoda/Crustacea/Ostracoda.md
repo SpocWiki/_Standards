@@ -37,22 +37,22 @@ title: Ostracoda
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Crustacea](../Crustacea.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Crustacea](../Crustacea.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Crustacea
-    -  [Branchiopoda](Branchiopoda.md))
-    -  [Remipedia](Remipedia.md))
-    -  [Cephalocarida](Cephalocarida.md))
-    -  [Copepoda](Copepoda.md))
+    -  [Branchiopoda](Branchiopoda.md) 
+    -  [Remipedia](Remipedia.md) 
+    -  [Cephalocarida](Cephalocarida.md) 
+    -  [Copepoda](Copepoda.md) 
     -   Ostracoda
-    -  [Branchiura](Branchiura.md))
-    -  [Thecostraca](Thecostraca.md))
-    -  [Malacostraca](Malacostraca.md))
+    -  [Branchiura](Branchiura.md) 
+    -  [Thecostraca](Thecostraca.md) 
+    -  [Malacostraca](Malacostraca.md) 
 
 -   » Sub-Groups 
 	-   *Myodocopa*

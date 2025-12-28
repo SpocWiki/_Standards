@@ -42,12 +42,12 @@ title: Diplocentridae
 -   « Ancestral Groups  
     -   [Scorpionoidea](../Scorpionoidea.md)
     -   [Scorpion](../../Scorpion.md)
-    -  [Scorpionida](../../../Scorpionida.md))
-    -  [Arachnida](../../../../Arachnida.md))
-    -  [Arthropoda](../../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Scorpionida](../../../Scorpionida.md) 
+    -  [Arachnida](../../../../Arachnida.md) 
+    -  [Arthropoda](../../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scorpionoidea

@@ -163,9 +163,9 @@ from Purvis (1995).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Primates](../Primates.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Primates](../Primates.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -176,9 +176,9 @@ from Purvis (1995).
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Primates
@@ -188,8 +188,8 @@ from Purvis (1995).
     -   [Strepsirrhini](Strepsirrhini.md)
 
 -   » Sub-Groups
-    -  [Cercopithecidae](Catarrhini/Cercopithecidae.md))
-    -  [Hominidae](Catarrhini/Hominidae.md))
+    -  [Cercopithecidae](Catarrhini/Cercopithecidae.md) 
+    -  [Hominidae](Catarrhini/Hominidae.md) 
     -   [Gibbon](Catarrhini/Gibbon.md)
 
 ### Information on the Internet
@@ -273,6 +273,7 @@ Morotopithecus. Journal of Human Evolution
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 ![Adult male olive baboon (Papio anubis) eating meat](Catarrhini/babmeat.jpg))
 
@@ -287,6 +288,7 @@ Morotopithecus. Journal of Human Evolution
   Life Cycle Stage ::     Adult
   View                 Fronto-lateral
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+ 
   -------------------------------------------------------------------------
 
 ![Lowland gorilla](Catarrhini/Hominidae/Gorilla_gorilla0088.jpg)
@@ -299,6 +301,7 @@ Morotopithecus. Journal of Human Evolution
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+ 
   ------------------------------------------------------------------------------
 
 

@@ -203,9 +203,9 @@ al. 2005).
     -   [Craniata](../../../../../Craniata.md)
     -   [Chordata](../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Terrestrial Vertebrates
@@ -223,7 +223,8 @@ al. 2005).
 
 ## Title Illustrations
 
--------------------------------------------------------------------------------![](Ichthyostega/ichthyostega.jpg))
+------------------------------------------------------------------------------- 
+![](Ichthyostega/ichthyostega.jpg))
 Scientific Name ::     Ichthyostega
 Comments             Skeletal reconstruction of *Ichthyostega* based on recent finds and a new interpretation of the hind limb anatomy and proportions.
 Specimen Condition   Fossil \-- Period: Devonian

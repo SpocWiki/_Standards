@@ -32,13 +32,13 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -58,7 +58,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg))
+------------------------------------------------------------------------- 
+![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg))
 Scientific Name ::     Calystegia dahurica
 Location ::           Vladivostok city, Primorsky Territory (Russian Federation).
 Comments             Convolvulaceae
@@ -66,7 +67,8 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
-------------------------------------------------------------------------------![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg))
+------------------------------------------------------------------------------ 
+![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg))
 Scientific Name ::     Physalis crassifolia
 Location ::           Anza Borrego Desert State Park (San Diego County, California, USA).
 Comments             Yellow nightshade groundcherry (Solanaceae).

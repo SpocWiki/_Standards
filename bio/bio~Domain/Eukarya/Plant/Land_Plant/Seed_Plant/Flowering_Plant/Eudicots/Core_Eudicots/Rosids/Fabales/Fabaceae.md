@@ -113,13 +113,13 @@ Legumes
 -   « Ancestral Groups  
     -   [Fabales](../Fabales.md)
     -   [Rosids](../../Rosids.md)
-    -  [Core Eudicots](../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../Land_Plant.md)
     -   [Green plants](../../../../../../../../Plant.md)
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fabales
@@ -463,19 +463,22 @@ making them a recommended food for diabetics (Gepts et al., 2005).
 
 ## Title Illustrations
 
-----------------------![Bauhinia_blakeana](Fabaceae/Bauhinia_blakeana.jpg))
+---------------------- 
+![Bauhinia_blakeana](Fabaceae/Bauhinia_blakeana.jpg))
 Scientific Name ::  Bauhinia x blakeana Dunn
 Body Part         flower
 Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr/)
 
-------------------------![Lablab_purpureus](Fabaceae/Lablab_purpureus.jpg))
+------------------------ 
+![Lablab_purpureus](Fabaceae/Lablab_purpureus.jpg))
 Scientific Name ::     Lablab purpureus Sweet
 Location ::           Bronx Co. Home Gardening Center, New York Botanical, New York
 Comments             Subf. Papilionoideae
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
 
---------------------------![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg))
+-------------------------- 
+![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg))
 Scientific Name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
 Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
 

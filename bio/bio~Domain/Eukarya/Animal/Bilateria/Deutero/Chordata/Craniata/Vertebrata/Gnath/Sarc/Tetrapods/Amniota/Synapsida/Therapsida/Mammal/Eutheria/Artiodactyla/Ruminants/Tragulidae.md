@@ -8,9 +8,9 @@ title: Tragulidae
 
 -   « Ancestral Groups  
     -   [Ruminants](../Ruminants.md)
-    -  [Artiodactyla](../../Artiodactyla.md))
-    -  [Eutheria](../../../Eutheria.md))
-    -  [Mammal](../../../../Mammal.md))
+    -  [Artiodactyla](../../Artiodactyla.md) 
+    -  [Eutheria](../../../Eutheria.md) 
+    -  [Mammal](../../../../Mammal.md) 
     -   [Therapsida](../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../Amniota.md)
@@ -21,9 +21,9 @@ title: Tragulidae
     -   [Craniata](../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruminantia
@@ -57,7 +57,8 @@ Tropical forests of central Africa, India, and south-eastern Asia.
 
 ## Title Illustrations
 
----------------------------------------![](Tragulidae/tragulus-copy.jpg))
+--------------------------------------- 
+![](Tragulidae/tragulus-copy.jpg))
 Scientific Name ::  Tragulus napu
 Reference         Miller, G. S. 1909. The mouse deer of the Rhio-Linga Archipelago. Proceedings of the US National Museum 37:1-9.
 

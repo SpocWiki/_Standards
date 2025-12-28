@@ -14,7 +14,7 @@ title: Piroplasmorida
 > 
 > They divide by binary fission and as sporozoan parasites they possess sexual and asexual phases 
 > (sexual reproduction occurs in the tick gut). 
-> They include the tick parasites Babesia and Theileria.
+> They include the [[../../Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick|Tick]] [[../../../../Metabolism/Parasitism/Parasite|Parasite]]s Babesia and Theileria.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piroplasmida) 
 
@@ -22,9 +22,9 @@ title: Piroplasmorida
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Euapicomplexa](../Euapicomplexa.md))
-    -  [Alveolates](../../Alveolates.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Apicomplexa](../Apicomplexa.md) 
+    -  [Alveolate](../../Alveolate.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Euapicomplexa

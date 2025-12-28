@@ -26,13 +26,13 @@ title: Sanchezia
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -64,7 +64,8 @@ horticultural industry.
 
 ## Title Illustrations
 
----------------------![](Sanchezia/sancheziaweb.jpg))
+--------------------- 
+![](Sanchezia/sancheziaweb.jpg))
 Scientific Name ::  Sanchezia sp. Leonard
 Copyright ::         © [Alexander Schmidt-LeBuhn](mailto:schmidtleb@yahoo.de)
 
@@ -74,7 +75,8 @@ Scientific Name ::     Sanchezia speciosa Leonard
 Specimen Condition   Live Specimen
 Copyright ::            © [Gerald D. Carr](http://www.botany.hawaii.edu/faculty/carr/acanth.htm)
 
-------------------------------------------------------------------------![](Sanchezia/sanchezia.jpg))
+------------------------------------------------------------------------ 
+![](Sanchezia/sanchezia.jpg))
 Scientific Name ::     Sanchezia parvibracteata Sprague & Hutch.
 Location ::           Limón Province, Costa Rica
 Specimen Condition   Live Specimen
@@ -90,7 +92,8 @@ Collection           DUKE
 Collector            L. A. McDade
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
----------------------------------------------------------------------------![](Sanchezia/san.jpg))
+--------------------------------------------------------------------------- 
+![](Sanchezia/san.jpg))
 
 Scientific Name ::     Sanchezia oblonga Ruiz & Pav.
 Location ::           Las Cruces Botanical Garden, Costa Rica, cultivated

@@ -9,11 +9,11 @@ title: Onychiuridae
 -   « Ancestral Groups  
     -   [Poduromorpha](../Poduromorpha.md)
     -   [Springtail](../../Springtail.md)
-    -  [Hexapoda](../../../Hexapoda.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Hexapoda](../../../Hexapoda.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Poduromorpha
@@ -40,6 +40,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Scientific Name ::     Kalaphorura burmeisteri
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 ![](Onychiuridae/TPbie_ONY_3-1.jpg))
 
@@ -47,6 +48,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Scientific Name ::     Tetrodontophora bielanensis
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+ 
   ------------------------------------------------------------------------
 
 

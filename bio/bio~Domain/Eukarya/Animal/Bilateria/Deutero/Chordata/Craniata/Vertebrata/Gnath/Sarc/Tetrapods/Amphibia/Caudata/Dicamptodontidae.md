@@ -183,9 +183,9 @@ analysis of the same data yield conflicting groupings of species (Good,
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caudata
@@ -205,7 +205,8 @@ analysis of the same data yield conflicting groupings of species (Good,
 
 ## Title Illustrations
 
---------------------------------------------------------------------------------![](Dicamptodontidae/dicamptodon.jpg))
+-------------------------------------------------------------------------------- 
+![](Dicamptodontidae/dicamptodon.jpg))
 Scientific Name ::     Dicamptodontidae
 Location ::           Mendocino County, California
 Comments             The Pacific Giant Salamander

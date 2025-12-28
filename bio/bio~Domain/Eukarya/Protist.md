@@ -224,17 +224,17 @@ EPPO_Code: 1PROTK
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eukarya](../Eukarya.md))
+    -  [Eukarya](../Eukarya.md) 
     -   [Tree of Life](../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eukaryotes
-    -  [Choanoflagellates](Choanoflagellates.md))
-    -  [Animals](Animals.md))
-    -  [Fungi](Fungi.md))
-    -  [Stramenopiles](Stramenopiles.md))
-    -  [Alveolates](Alveolates.md))
-    -  [Rhodophyta](Rhodophyta.md))
-    -  [Green plants](Plant.md))
+    -  [Choanoflagellates](Choanoflagellates.md) 
+    -  [Animals](Animals.md) 
+    -  [Fungi](Fungi.md) 
+    -  [Stramenopiles](Stramenopiles.md) 
+    -  [Alveolate](Alveolate.md) 
+    -  [Rhodophyta](Rhodophyta.md) 
+    -  [Green plants](Plant.md) 
     -   The other protists
 
 -   » Sub-Groups

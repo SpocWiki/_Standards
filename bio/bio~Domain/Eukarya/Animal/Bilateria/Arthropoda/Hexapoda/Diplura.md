@@ -7,18 +7,18 @@ title: Diplura
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Hexapoda
     -   [Springtail](Springtail.md)
-    -  [Protura](Protura.md))
+    -  [Protura](Protura.md) 
     -   Diplura
-    -  [Insect](Insect.md))
+    -  [Insect](Insect.md) 
 
 -   » Sub-Groups 
 
@@ -32,7 +32,7 @@ title: Diplura
     [(Paleocene - Pliocene of Arizona, USA)][ (incertae
     sedis) ]
 
-Containing group:[Hexapoda](../Hexapoda.md))
+Containing group:[Hexapoda](../Hexapoda.md) 
 
 ### Information on the Internet
 
@@ -198,6 +198,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
   Location ::           Santa Catalina Mountains, Arizona
   Specimen Condition   Live Specimen
   Copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
+ 
   ---------------------------------------------------------------------------
 
 ![compodeid dipluran](campodeid.jpg)
@@ -207,6 +208,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
   Location ::           San Francisco, California, USA.
   Specimen Condition   Live Specimen
   Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
+ 
   ---------------------------------------------------------------------------
 
 

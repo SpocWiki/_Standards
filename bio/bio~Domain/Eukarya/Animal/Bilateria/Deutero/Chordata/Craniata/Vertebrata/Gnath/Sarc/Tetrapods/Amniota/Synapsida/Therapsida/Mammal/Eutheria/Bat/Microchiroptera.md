@@ -252,9 +252,9 @@ Distribution from Hill and Smith (1984).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bat](../Bat.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Bat](../Bat.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -265,32 +265,34 @@ Distribution from Hill and Smith (1984).
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroptera
     -   Microchiroptera
 
 -   » Sub-Groups
-    -  [Rhinopomatoidea](Microchiroptera/Rhinopomatoidea.md))
-    -  [Rhinolophoidea](Microchiroptera/Rhinolophoidea.md))
-    -  [Noctilionoidea](Microchiroptera/Noctilionoidea.md))
-    -  [Nataloidea](Microchiroptera/Nataloidea.md))
-    -  [Molossoidea](Microchiroptera/Molossoidea.md))
-    -  [Vespertilionidae](Microchiroptera/Vespertilionidae.md))
+    -  [Rhinopomatoidea](Microchiroptera/Rhinopomatoidea.md) 
+    -  [Rhinolophoidea](Microchiroptera/Rhinolophoidea.md) 
+    -  [Noctilionoidea](Microchiroptera/Noctilionoidea.md) 
+    -  [Nataloidea](Microchiroptera/Nataloidea.md) 
+    -  [Molossoidea](Microchiroptera/Molossoidea.md) 
+    -  [Vespertilionidae](Microchiroptera/Vespertilionidae.md) 
 
 
 ## Title Illustrations
 
 Pteronotus parnellii (Noctilionoidea) and Uroderma bilobatum(Noctilionoidea)
 
-----------![](Microchiroptera/pteronotus_parnellii.gif))
+---------- 
+![](Microchiroptera/pteronotus_parnellii.gif))
 Scientific Name ::  Pteronotus parnellii
 Copyright ::         © 1997 Nancy Simmons
 
-----------![](Microchiroptera/uroderma1.gif))
+---------- 
+![](Microchiroptera/uroderma1.gif))
 Scientific Name ::  Uroderma bilobatum
 Copyright ::         © 1997 Nancy Simmons
 

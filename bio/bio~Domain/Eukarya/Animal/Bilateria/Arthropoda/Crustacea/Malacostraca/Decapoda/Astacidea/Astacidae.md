@@ -26,24 +26,24 @@ Photograph copyright © 1995 David Holdich
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Astacidea](../Astacidea.md))
-    -  [Decapoda](../../Decapoda.md))
-    -  [Malacostraca](../../../Malacostraca.md))
-    -  [Crustacea](../../../../Crustacea.md))
-    -  [Arthropoda](../../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Astacidea](../Astacidea.md) 
+    -  [Decapoda](../../Decapoda.md) 
+    -  [Malacostraca](../../../Malacostraca.md) 
+    -  [Crustacea](../../../../Crustacea.md) 
+    -  [Arthropoda](../../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Astacidea
     -   [Parastacidae](Parastacidae)
     -   Astacidae
-    -  [Cambaridae](Astacidae/Cambaridae.md))
+    -  [Cambaridae](Astacidae/Cambaridae.md) 
 
 -   » Sub-Groups
-    -  [Pacifastacus](Astacidae/Pacifastacus.md))
-    -  [Astacus](Astacidae/Astacus.md))
+    -  [Pacifastacus](Astacidae/Pacifastacus.md) 
+    -  [Astacus](Astacidae/Astacus.md) 
 
 
 ## Confidential Links & Embeds: 

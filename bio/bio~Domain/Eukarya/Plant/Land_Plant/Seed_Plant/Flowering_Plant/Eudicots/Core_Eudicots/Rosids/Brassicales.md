@@ -67,13 +67,13 @@ taxon_common_name: 十字花目
 
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
     -   [Green plants](../../../../../../../Plant.md)
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Rosids
@@ -114,6 +114,7 @@ taxon_common_name: 十字花目
   Scientific Name ::  Tropaeolum minus
   Comments          Indian cress (Tropaeolaceae)
   Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+ 
   ---------------------------------------------------------------------
 ![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg))
 

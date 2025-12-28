@@ -259,7 +259,7 @@ ultrastructural data are yet available.
 
 -   « Ancestral Groups  
     -   [The other protists](The_other_protists)
-    -  [Eukarya](../../Eukarya.md))
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  The other protists
@@ -402,6 +402,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Scientific Name ::  Gymnochlora stellata
   Comments          coccoid cells
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+ 
   -----------------------------------------------------------------------------
 ![Coccoid cells of Lotharella globosa](Chlorarachniophytes/Lglo.jpg))
 
@@ -409,6 +410,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Scientific Name ::  Lotharella globosa
   Comments          Coccoid cells
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+ 
   -----------------------------------------------------------------------------
 ![](Chlorarachniophytes/Gste2.jpg))
 
@@ -416,6 +418,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Scientific Name ::  Gymnochlora stellata
   Comments          Fluorescent micrograph of a cell stained with DAPI, showing chloroplasts (red autofluorescences), a nuclear DNA (a big blue-white sphare) and probable nucleomorph DNAs (small blue-white dots).
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+ 
   -----------------------------------------------------------------------------
 
 

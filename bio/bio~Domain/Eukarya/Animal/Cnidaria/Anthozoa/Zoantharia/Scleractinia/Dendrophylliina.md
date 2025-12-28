@@ -7,18 +7,18 @@ title: Dendrophylliidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scleractinia](../Scleractinia.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Scleractinia](../Scleractinia.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scleractinia
-    -  [Fungiina](Fungiina.md))
-    -  [Faviina](Faviina.md))
-    -  [Caryophylliina](Caryophylliina.md))
+    -  [Fungiina](Fungiina.md) 
+    -  [Faviina](Faviina.md) 
+    -  [Caryophylliina](Caryophylliina.md) 
     -   Dendrophylliidae
 
 -   » Sub-Groups 
@@ -37,7 +37,7 @@ Classification after Cairns (2001). Those genera marked with a cross
 fossil record, whereas the unmarked genera contain living and, in some
 cases, fossil species as well.
 
-Containing group:[Scleractinia](../Scleractinia.md))
+Containing group:[Scleractinia](../Scleractinia.md) 
 
 ## Introduction
 

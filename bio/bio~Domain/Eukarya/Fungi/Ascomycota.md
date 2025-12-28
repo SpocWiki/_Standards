@@ -282,19 +282,19 @@ Spatafora et al 2006).
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
+    -  [Fungi](../Fungi.md) 
+    -  [Eukarya](../../Eukarya.md) 
     -   [Tree of Life](../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
+    -  [Basidiomycota](Basidiomycota.md) 
     -   Ascomycota
-    -  [Glomeromycota](Glomeromycota.md))
+    -  [Glomeromycota](Glomeromycota.md) 
     -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
+    -  [Zygomycota](Zygomycota.md) 
 
 -   » Sub-Groups
-    -  [Pezizomycotina](Ascomycota/Pezizomycotina.md))
+    -  [Pezizomycotina](Ascomycota/Pezizomycotina.md) 
 
 Containing group: [Fungi](../Fungi.md) 
 ### References
@@ -460,6 +460,7 @@ edit internet links
   Comments          Two fruiting bodies (ascomata) of the edible morel with one sliced open
   Body Part         fruiting bodies (ascomata)
   Copyright ::         © 1996 [John W. Taylor](http://plantbio.berkeley.edu/%7Etaylor/) 
+ 
   -----------------------------------------------------------------------------
 ![](Ascomycota/p.gif))
 

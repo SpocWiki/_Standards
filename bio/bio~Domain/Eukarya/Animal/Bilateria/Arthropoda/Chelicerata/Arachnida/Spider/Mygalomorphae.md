@@ -49,16 +49,16 @@ taxon_common_name:
 
 -   « Ancestral Groups  
     -   [Spider](../Spider.md)
-    -  [Arachnida](../../Arachnida.md))
-    -  [Arthropoda](../../../../Arthropoda.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Arachnida](../../Arachnida.md) 
+    -  [Arthropoda](../../../../Arthropoda.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Spider
     -   Mygalomorphae
-    -  [Araneomorphae](Araneomorphae.md))
+    -  [Araneomorphae](Araneomorphae.md) 
 
 -   » Sub-Groups 
 Tree from Coddington, J.A. 2005. Phylogeny and Classification of
@@ -87,6 +87,7 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
   Comments             Tarantula and poison-dart frog on tree trunk
   Specimen Condition   Live Specimen
   Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+ 
   -----------------------------------------------------------------------------
 
 

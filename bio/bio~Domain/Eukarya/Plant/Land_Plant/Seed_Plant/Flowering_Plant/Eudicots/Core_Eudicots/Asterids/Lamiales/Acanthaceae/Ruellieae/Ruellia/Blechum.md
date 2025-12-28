@@ -12,13 +12,13 @@ title: Blechum clade
     -   [Acanthaceae](../../../Acanthaceae.md)
     -   [Lamiales](../../../../Lamiales.md)
     -   [Asterids](../../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellia s. l.
@@ -109,6 +109,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Specimen Condition   Live Specimen
   Collector            E. Tripp
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+ 
   -----------------------------------------------------------------------
 ![](Blechum/blechum.jpg))
 
@@ -118,6 +119,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Specimen Condition   Live Specimen
   Identified By        L. A. McDade
   Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+ 
   ---------------------------------------------------------------------------
 ![](Blechum/leavesflowers.jpg))
 
@@ -131,6 +133,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   ----------------------------------------------------------------------
   Scientific Name ::  Ruellia maya T.F. Daniel
   Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+ 
   ----------------------------------------------------------------------
 ![](Blechum/picture927.jpg))
 
@@ -140,6 +143,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Identified By        Erin A. Tripp
   Collection           donated as living material to DUKE greenhouses
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+ 
   -----------------------------------------------------------------------
 
 

@@ -25,13 +25,13 @@ title: Hemigraphis + Strobilanthes + relatives
     -   [Acanthaceae](../../Acanthaceae.md)
     -   [Lamiales](../../../Lamiales.md)
     -   [Asterids](../../../../Asterids.md)
-    -  [Core Eudicots](../../../../../Core_Eudicots.md))
+    -  [Core Eudicots](../../../../../Core_Eudicots.md) 
     -   [Eudicots](../../../../../../Eudicots.md)
     -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ruellieae
@@ -85,12 +85,14 @@ several small, segregate genera of Strobilanthinae (sensu Bremekamp
 ## Title Illustrations
 
 
--------------------------------------![](Hemigraphis/Hemigraphisalternata.jpg))
+------------------------------------- 
+![](Hemigraphis/Hemigraphisalternata.jpg))
 Scientific Name ::     Hemigraphis alternata T.Anders.
 Specimen Condition   Live Specimen
 Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
 
--------------------------![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg))
+------------------------- 
+![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg))
 Scientific Name ::     Hemigraphis repanda Lindau
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)

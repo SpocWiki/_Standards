@@ -7,14 +7,14 @@ title: Bathyteuthis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Bathyteuthoida](../Bathyteuthoida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Bathyteuthoida](../Bathyteuthoida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Bathyteuthoida
@@ -42,7 +42,7 @@ The family contains a single genus and the following three species:
 -   *[Bathyteuthis     berryi](Bathyteuthis_berryi)*[ Roper
     1968]
 
-Containing group:[Bathyteuthoida](../Bathyteuthoida.md))
+Containing group:[Bathyteuthoida](../Bathyteuthoida.md) 
 
 ## Introduction
 

@@ -7,18 +7,18 @@ title: Geoglossaceae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Pezizomycotina](../Pezizomycotina.md))
-    -  [Ascomycota](../../Ascomycota.md))
-    -  [Fungi](../../../Fungi.md))
-    -  [Eukarya](../../../../Eukarya.md))
+    -  [Pezizomycotina](../Pezizomycotina.md) 
+    -  [Ascomycota](../../Ascomycota.md) 
+    -  [Fungi](../../../Fungi.md) 
+    -  [Eukarya](../../../../Eukarya.md) 
     -   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Pezizomycotina
-    -  [Lecanoromycetes](Lecanoromycetes.md))
-    -  [Eurotiomycetes](Eurotiomycetes.md))
-    -  [Leotiomycetes](Leotiomycetes.md))
+    -  [Lecanoromycetes](Lecanoromycetes.md) 
+    -  [Eurotiomycetes](Eurotiomycetes.md) 
+    -  [Leotiomycetes](Leotiomycetes.md) 
     -   Geoglossaceae
-    -  [Dothideomycetes](Dothideomycetes.md))
+    -  [Dothideomycetes](Dothideomycetes.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Geoglossaceae
 -   *Trichoglossum*
 -   *Sarcoleotia*
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md) 
 
 
 ## Confidential Links & Embeds: 

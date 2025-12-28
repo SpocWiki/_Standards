@@ -96,15 +96,15 @@ Terminology after Kemp (1982), Reisz (1986), and Reisz et al. (1992).
     -   [Craniata](../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Amniota
     -   Synapsida
     - [Turtle](Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle.md)))
-    -  [Diapsida](Sauropsida/Reptile/Diapsida.md))
+    -  [Diapsida](Sauropsida/Reptile/Diapsida.md) 
 
 -   » Sub-Groups
     -   [Therapsida](Synapsida/Therapsida.md)

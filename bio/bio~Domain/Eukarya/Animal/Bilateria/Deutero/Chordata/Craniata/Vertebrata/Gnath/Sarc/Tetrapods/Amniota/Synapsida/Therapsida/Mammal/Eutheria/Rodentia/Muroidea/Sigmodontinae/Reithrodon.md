@@ -132,11 +132,11 @@ unpublished).\
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sigmodontinae](../Sigmodontinae.md))
-    -  [Muroidea](../../Muroidea.md))
-    -  [Rodentia](../../../Rodentia.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Sigmodontinae](../Sigmodontinae.md) 
+    -  [Muroidea](../../Muroidea.md) 
+    -  [Rodentia](../../../Rodentia.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -147,9 +147,9 @@ unpublished).\
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sigmodontinae
@@ -171,7 +171,8 @@ unpublished).\
 
 ## Title Illustrations
 
----------![Reithrodon auritus](Reithrodon/reithro.jpg))
+--------- 
+![Reithrodon auritus](Reithrodon/reithro.jpg))
 Scientific Name ::  Reithrodon auritus
 Copyright ::         © 1997 O. Pearson
 

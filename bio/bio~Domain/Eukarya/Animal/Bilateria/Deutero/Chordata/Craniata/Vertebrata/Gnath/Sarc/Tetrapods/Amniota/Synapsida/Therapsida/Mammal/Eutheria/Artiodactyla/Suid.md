@@ -24,9 +24,9 @@ title: Suidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Artiodactyla](../Artiodactyla.md))
-    -  [Eutheria](../../Eutheria.md))
-    -  [Mammal](../../../Mammal.md))
+    -  [Artiodactyla](../Artiodactyla.md) 
+    -  [Eutheria](../../Eutheria.md) 
+    -  [Mammal](../../../Mammal.md) 
     -   [Therapsida](../../../../Therapsida.md)
     -   [Synapsida](../../../../../Synapsida.md)
     -   [Amniota](../../../../../../Amniota.md)
@@ -37,9 +37,9 @@ title: Suidae
     -   [Craniata](../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Artiodactyla
@@ -51,12 +51,12 @@ title: Suidae
     -   [Miscellaneous fossil         artiodactyls](Miscellaneous_fossil_artiodactyls)
 
 -   » Sub-Groups
-    -  [Suinae](Suid/Suinae.md))
-    -  [Hyotheriinae](Suid/Hyotheriinae.md))
-    -  [Kubanochoerinae](Suid/Kubanochoerinae.md))
-    -  [Listriodontinae](Suid/Listriodontinae.md))
-    -  [Palaeochoerinae](Suid/Palaeochoerinae.md))
-    -  [Tetraconodontinae](Suid/Tetraconodontinae.md))
+    -  [Suinae](Suid/Suinae.md) 
+    -  [Hyotheriinae](Suid/Hyotheriinae.md) 
+    -  [Kubanochoerinae](Suid/Kubanochoerinae.md) 
+    -  [Listriodontinae](Suid/Listriodontinae.md) 
+    -  [Palaeochoerinae](Suid/Palaeochoerinae.md) 
+    -  [Tetraconodontinae](Suid/Tetraconodontinae.md) 
 
 	-   [Hyotheriinae](Suid/Hyotheriinae.md "go to ToL page"))*
 	    †
@@ -74,7 +74,8 @@ title: Suidae
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
+------------------------------------------------------------------------- 
+![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
 Scientific Name ::   Phacochoerus aethiopicus
 Location ::         Matopos National Park, Zimbabwe
 Comments           Warthogs typically \"kneel\" to graze.

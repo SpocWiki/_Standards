@@ -13,8 +13,8 @@ title: Edentata
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Eutheria](../Eutheria.md))
-    -  [Mammal](../../Mammal.md))
+    -  [Eutheria](../Eutheria.md) 
+    -  [Mammal](../../Mammal.md) 
     -   [Therapsida](../../../Therapsida.md)
     -   [Synapsida](../../../../Synapsida.md)
     -   [Amniota](../../../../../Amniota.md)
@@ -25,15 +25,15 @@ title: Edentata
     -   [Craniata](../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eutheria
     -   Edentata
     -   [Pholidota](Pholidota.md)
-    -  [Lagomorpha](Glires/Lagomorpha.md))
+    -  [Lagomorpha](Glires/Lagomorpha.md) 
     -   [Rodentia](Rodentia.md)
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
@@ -78,7 +78,8 @@ feeding on ants on tree trunk close to ground in lowland tropical
 rain forest, La Selva Biological Station, Costa Rica.\
 Photograph copyright © 2000 [Greg and Mary Beth     Dimijian](http://www.dimijianimages.com/).
 
-----------------------------------------------------------------------------![Three-toed sloth (Bradypodidae) ](Edentata/whitesloth.jpg))
+---------------------------------------------------------------------------- 
+![Three-toed sloth (Bradypodidae) ](Edentata/whitesloth.jpg))
 Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 ![Armadillo](Edentata/armadillo.jpg))
 ![Lesser anteater feeding on ants](Edentata/tamandua.jpg))

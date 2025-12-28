@@ -87,9 +87,9 @@ Pelobatoidea, or the sister taxon of Pelobatoidea.
     -   [Craniata](../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Salientia
@@ -116,11 +116,13 @@ Pelobatoidea, or the sister taxon of Pelobatoidea.
 
 ## Title Illustrations
 
--------------------------------------------------------------------------![](Pelobatidae/scaphiopus.jpg))
+------------------------------------------------------------------------- 
+![](Pelobatidae/scaphiopus.jpg))
 Scientific Name ::  Scaphiopus holbrookii hurteri
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
--------------------------------------------------------------------------![](Pelobatidae/spea.jpg))
+------------------------------------------------------------------------- 
+![](Pelobatidae/spea.jpg))
 Scientific Name ::     Spea multiplicata
 Specimen Condition   Live Specimen
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 

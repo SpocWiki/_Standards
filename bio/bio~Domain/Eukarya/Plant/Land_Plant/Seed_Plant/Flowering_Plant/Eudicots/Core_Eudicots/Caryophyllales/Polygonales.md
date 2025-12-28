@@ -79,29 +79,31 @@ al*. 2000).
 
 -   « Ancestral Groups  
     -   [Caryophyllales](../Caryophyllales.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Caryophyllales
     -   non-core Caryophyllales
-    -  [core Caryophyllales](Core_Caryophyllales.md))
+    -  [core Caryophyllales](Core_Caryophyllales.md) 
 
 -   » Sub-Groups 
 
 
 ## Title Illustrations
 
-----------------------------------------------------------------------![](Polygonales/Polygonum_bistorta01001.jpg))
+---------------------------------------------------------------------- 
+![](Polygonales/Polygonum_bistorta01001.jpg))
 Scientific Name ::  Polygonum bistorta
 Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
 
-------------------------------![](Polygonales/Drosera_intermedia-1241028.jpg))
+------------------------------ 
+![](Polygonales/Drosera_intermedia-1241028.jpg))
 Scientific Name ::     Drosera intermedia
 Location ::           coastal Mississippi, USA
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241028)
@@ -109,7 +111,8 @@ Specimen Condition   Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © James Henderson, Gulf South Research Corporation
 
--------------------------------------------------------------------------![](Polygonales/cld06073142.jpg))
+------------------------------------------------------------------------- 
+![](Polygonales/cld06073142.jpg))
 Scientific Name ::     Nepenthes rajah
 Location ::           Sabah, Malaysia
 Specimen Condition   Live Specimen

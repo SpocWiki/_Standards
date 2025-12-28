@@ -76,20 +76,20 @@ extreme transparency.
 
 -   « Ancestral Groups  
     -   [Carinarioidea](Carinarioidea)
-    -  [Caenogastropoda](../../Caenogastropoda.md))
-    -  [Gastropoda](../../../Gastropoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
+    -  [Caenogastropoda](../../Caenogastropoda.md) 
+    -  [Gastropoda](../../../Gastropoda.md) 
+    -  [Mollusca](../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Carinarioidea
     -   Atlantidae
-    -  [Pterotracheidae](Pterotracheidae.md))
+    -  [Pterotracheidae](Pterotracheidae.md) 
 
 -   » Sub-Groups
-    -  [Atlanta](Atlantidae/Atlanta.md))
+    -  [Atlanta](Atlantidae/Atlanta.md) 
 	-   [Atlanta](Atlantidae/Atlanta.md "go to ToL page"))* [Lesueur,1817]
 	-   *Oxygyrus keraudreni*
 	-   *Protatlanta souleyeti*
@@ -97,7 +97,8 @@ extreme transparency.
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![](Atlantidae/AtlantaPeroni11.jpg))
+------------------------------------------------------------------------ 
+![](Atlantidae/AtlantaPeroni11.jpg))
 Scientific Name ::  Atlanta peroni
 Location ::        Hawaiian waters
 Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 

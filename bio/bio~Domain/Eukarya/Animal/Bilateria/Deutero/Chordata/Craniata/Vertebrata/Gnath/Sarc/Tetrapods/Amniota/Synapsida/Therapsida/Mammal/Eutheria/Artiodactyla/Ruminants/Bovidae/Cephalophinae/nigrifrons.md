@@ -10,9 +10,9 @@ title: Cephalophus nigrifrons
     -   [Cephalophinae](../Cephalophinae.md)
     -   [Bovidae](../../Bovidae.md)
     -   [Ruminants](../../../Ruminants.md)
-    -  [Artiodactyla](../../../../Artiodactyla.md))
-    -  [Eutheria](../../../../../Eutheria.md))
-    -  [Mammal](../../../../../../Mammal.md))
+    -  [Artiodactyla](../../../../Artiodactyla.md) 
+    -  [Eutheria](../../../../../Eutheria.md) 
+    -  [Mammal](../../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../../Amniota.md)
@@ -23,9 +23,9 @@ title: Cephalophus nigrifrons
     -   [Craniata](../../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cephalophinae
@@ -52,6 +52,7 @@ Containing group: [Cephalophinae](../Cephalophinae.md)
   Life Cycle Stage ::     Immature
   View                 Lateral
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+ 
   -------------------------------------------------------------------------
 
 

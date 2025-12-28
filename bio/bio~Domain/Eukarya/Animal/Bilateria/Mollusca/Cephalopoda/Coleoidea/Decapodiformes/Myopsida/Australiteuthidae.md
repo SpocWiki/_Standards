@@ -7,19 +7,19 @@ title: Australiteuthis aldrichi
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Myopsida](../Myopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Myopsida](../Myopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Myopsida
     -   Australiteuthis aldrichi
-    -  [Loliginidae](Loliginidae.md))
+    -  [Loliginidae](Loliginidae.md) 
 
 -   » Sub-Groups 
 
@@ -30,7 +30,7 @@ title: Australiteuthis aldrichi
 [Chung Cheng Lu and Richard E. Young]()
 ![ ](Australiteuthidae/AustAldrichiDV2.jpg))![ ](Australiteuthidae/AustAldrichiDraw.jpg))
 
-Containing group:[Myopsida](../Myopsida.md))
+Containing group:[Myopsida](../Myopsida.md) 
 
 ## Introduction
 
@@ -113,6 +113,7 @@ pp.
   Size                 21.3 mm ML
   Type                 Holotype
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+ 
   -------------------------------------------------------------------------
 ![](Australiteuthidae/AustAldrichiDraw.jpg))
 
@@ -126,6 +127,7 @@ pp.
   Size                 21.3 mm ML
   Type                 Holotype
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+ 
   -------------------------------------------------------------------------
 
 

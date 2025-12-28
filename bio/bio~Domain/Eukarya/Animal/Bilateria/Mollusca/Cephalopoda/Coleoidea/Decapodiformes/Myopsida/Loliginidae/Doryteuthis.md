@@ -7,28 +7,28 @@ title: Doryteuthis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Loliginidae](../Loliginidae.md))
-    -  [Myopsida](../../Myopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Loliginidae](../Loliginidae.md) 
+    -  [Myopsida](../../Myopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Loliginidae
-    -  [Loligo](Loligo.md))
+    -  [Loligo](Loligo.md) 
     -   [Afrololigo mercatoris](Afrololigo_mercatoris)
-    -  [Alloteuthis](Alloteuthis.md))
+    -  [Alloteuthis](Alloteuthis.md) 
     -   Doryteuthis
     -   [Heterololigo bleekeri](Heterololigo_bleekeri)
-    -  [Loliolus](Loliolus.md))
-    -  [Lolliguncula](Lolliguncula.md))
-    -  [Pickfordiateuthis](Pickfordiateuthis.md))
-    -  [Sepioteuthis](Sepioteuthis.md))
-    -  [Uroteuthis](Uroteuthis.md))
+    -  [Loliolus](Loliolus.md) 
+    -  [Lolliguncula](Lolliguncula.md) 
+    -  [Pickfordiateuthis](Pickfordiateuthis.md) 
+    -  [Sepioteuthis](Sepioteuthis.md) 
+    -  [Uroteuthis](Uroteuthis.md) 
 
 -   » Sub-Groups 
 
@@ -44,7 +44,7 @@ of which is unnamed.
 Type species. \-- ***Loligo plei*** Blainville, 1823; species first
 mentioned and subsequent designation of Naef (1923:193)\].
 
-Containing group:[Loliginidae](../Loliginidae.md))
+Containing group:[Loliginidae](../Loliginidae.md) 
 
 ## Introduction
 
@@ -118,6 +118,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   Specimen Condition   Live Specimen
   View                 Dorsal
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+ 
   -----------------------------------------------------------------------
 
 

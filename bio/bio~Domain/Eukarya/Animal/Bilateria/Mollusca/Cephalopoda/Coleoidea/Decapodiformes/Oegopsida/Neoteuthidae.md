@@ -7,29 +7,29 @@ title: Neoteuthidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Cranchiidae](Cranchiidae.md))
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cranchiidae](Cranchiidae.md) 
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
     -   Neoteuthidae
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -55,7 +55,7 @@ This family has four genera, each with a single species.
 -   *[Narrowteuthis](Narrowteuthis_nesisi)*[
     Young and Vecchione, 2005]
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 
@@ -173,6 +173,7 @@ Zool., 97: 1-159.
   View              dorsal
   Size              83 mm ML
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+ 
   ------------------------------------------------------------------------------
 
 

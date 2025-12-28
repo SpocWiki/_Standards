@@ -7,16 +7,16 @@ title: Anthozoa
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Cnidaria](../Cnidaria.md))
-    -  [Animals](../../Animals.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Cnidaria](../Cnidaria.md) 
+    -  [Animals](../../Animals.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Cnidaria
     -   Anthozoa
 
 -   » Sub-Groups
-    -  [Zoantharia](Anthozoa/Zoantharia.md))
+    -  [Zoantharia](Anthozoa/Zoantharia.md) 
 
 # Anthozoa
 
@@ -31,7 +31,7 @@ title: Anthozoa
 -   [Zoantharia](Anthozoa/Zoantharia.md "go to ToL page"))* [(sea
     anemones, stony corals, black corals)]
 
-Containing group:[Cnidaria](../Cnidaria.md))
+Containing group:[Cnidaria](../Cnidaria.md) 
 
 ### Information on the Internet
 

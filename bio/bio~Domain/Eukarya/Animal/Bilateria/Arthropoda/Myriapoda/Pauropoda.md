@@ -63,30 +63,30 @@ far.\
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
+    -  [Arthropoda](../../Arthropoda.md) 
+    -  [Bilateria](../../../Bilateria.md) 
+    -  [Animals](../../../../Animals.md) 
+    -  [Eukarya](../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Arthropoda
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Crustacea](../Crustacea.md))
+    -  [Hexapoda](../Hexapoda.md) 
+    -  [Crustacea](../Crustacea.md) 
     -   Pauropoda
-    -  [Diplopoda](Diplopoda.md))
-    -  [Centipede](Centipede.md))
-    -  [Symphyla](Symphyla.md))
-    -  [Arachnida](../Chelicerata/Arachnida.md))
+    -  [Diplopoda](Diplopoda.md) 
+    -  [Centipede](Centipede.md) 
+    -  [Symphyla](Symphyla.md) 
+    -  [Arachnida](../Chelicerata/Arachnida.md) 
     -   [[Sea_Scorpion](../Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](../Chelicerata/Horseshoe_Crab.md)
     -   [Sea_Spider](../Chelicerata/Sea_Spider.md)
-    -  [Trilobites](../Trilobites.md))
+    -  [Trilobites](../Trilobites.md) 
 
 -   » Sub-Groups
-    -  [Millotauropodidae](Pauropoda/Millotauropodidae.md))
-    -  [Pauropodidae](Pauropoda/Pauropodidae.md))
-    -  [Brachypauropodidae](Pauropoda/Brachypauropodidae.md))
+    -  [Millotauropodidae](Pauropoda/Millotauropodidae.md) 
+    -  [Pauropodidae](Pauropoda/Pauropodidae.md) 
+    -  [Brachypauropodidae](Pauropoda/Brachypauropodidae.md) 
     -   [Afrauropus occiduus](Afrauropus_occiduus)
-    -  [Eurypauropodidae](Pauropoda/Eurypauropodidae.md))
+    -  [Eurypauropodidae](Pauropoda/Eurypauropodidae.md) 
 
 	-   [Millotauropodidae](Pauropoda/Millotauropodidae.md "go to ToL page"))*
 	-   [Pauropodidae](Pauropoda/Pauropodidae.md "go to ToL page"))*
@@ -97,7 +97,8 @@ far.\
 
 ## Title Illustrations
 
----------------------------------------------------------------------------![pauropod](Pauropoda/Pauropod.jpg))
+--------------------------------------------------------------------------- 
+![pauropod](Pauropoda/Pauropod.jpg))
 Scientific Name ::     Pauropoda
 Location ::           USA: North Carolina: Eno River State Park
 Specimen Condition   Live Specimen

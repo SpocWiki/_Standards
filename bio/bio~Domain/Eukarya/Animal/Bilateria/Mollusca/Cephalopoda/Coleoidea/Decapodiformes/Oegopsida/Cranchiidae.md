@@ -7,29 +7,29 @@ title: Cranchiidae
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Oegopsida](../Oegopsida.md))
-    -  [Decapodiformes](../../Decapodiformes.md))
-    -  [Coleoidea](../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../Oegopsida.md) 
+    -  [Decapodiformes](../../Decapodiformes.md) 
+    -  [Coleoidea](../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Oegopsida
     -   [Architeuthis](Architeuthis)
-    -  [Brachioteuthidae](Brachioteuthidae.md))
+    -  [Brachioteuthidae](Brachioteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
     -   Cranchiidae
-    -  [Cycloteuthidae](Cycloteuthidae.md))
+    -  [Cycloteuthidae](Cycloteuthidae.md) 
     -   [Enoploteuthid families](Enoploteuthid_families)
     -   [Histioteuthid families](Histioteuthid_families)
-    -  [Gonatidae](Gonatidae.md))
+    -  [Gonatidae](Gonatidae.md) 
     -   [Lepidoteuthid families](Lepidoteuthid_families)
-    -  [Neoteuthidae](Neoteuthidae.md))
-    -  [Ommastrephidae](Ommastrephidae.md))
-    -  [Onychoteuthidae](Onychoteuthidae.md))
+    -  [Neoteuthidae](Neoteuthidae.md) 
+    -  [Ommastrephidae](Ommastrephidae.md) 
+    -  [Onychoteuthidae](Onychoteuthidae.md) 
     -   [Thysanoteuthis rhombus](Thysanoteuthis_rhombus)
 
 -   » Sub-Groups
@@ -46,7 +46,7 @@ title: Cranchiidae
 
 This family contains 13 genera with approximately 60 species.
 
-Containing group:[Oegopsida](../Oegopsida.md))
+Containing group:[Oegopsida](../Oegopsida.md) 
 
 ## Introduction
 

@@ -7,24 +7,24 @@ title: Pezizomycotina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Ascomycota](../Ascomycota.md))
-    -  [Fungi](../../Fungi.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Ascomycota](../Ascomycota.md) 
+    -  [Fungi](../../Fungi.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Ascomycota
     -   Pezizomycotina
 
 -   » Sub-Groups
-    -  [Lecanoromycetes](Pezizomycotina/Lecanoromycetes.md))
-    -  [Eurotiomycetes](Pezizomycotina/Eurotiomycetes.md))
-    -  [Leotiomycetes](Pezizomycotina/Leotiomycetes.md))
-    -  [Geoglossaceae](Pezizomycotina/Geoglossaceae.md))
-    -  [Dothideomycetes](Pezizomycotina/Dothideomycetes.md))
+    -  [Lecanoromycetes](Pezizomycotina/Lecanoromycetes.md) 
+    -  [Eurotiomycetes](Pezizomycotina/Eurotiomycetes.md) 
+    -  [Leotiomycetes](Pezizomycotina/Leotiomycetes.md) 
+    -  [Geoglossaceae](Pezizomycotina/Geoglossaceae.md) 
+    -  [Dothideomycetes](Pezizomycotina/Dothideomycetes.md) 
 
 # Pezizomycotina 
 
-Containing group:[Ascomycota](../Ascomycota.md))
+Containing group:[Ascomycota](../Ascomycota.md) 
 
 
 ## Confidential Links & Embeds: 

@@ -24,13 +24,13 @@ title: Cornales
 
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
+    -  [Core Eudicots](../../Core_Eudicots.md) 
     -   [Eudicots](../../../Eudicots.md)
     -   [Flowering_Plant](../../../../Flowering_Plant.md)
     -   [Seed_Plant](../../../../../Seed_Plant.md)
     -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -  [Green plants](../../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Asterids
@@ -50,7 +50,8 @@ title: Cornales
 
 ## Title Illustrations
 
-------------------------------------------------------------------------![Japanese dogwood, Cornus kousa](Cornales/Cornus_kousa3723.jpg))
+------------------------------------------------------------------------ 
+![Japanese dogwood, Cornus kousa](Cornales/Cornus_kousa3723.jpg))
 Scientific Name ::   Cornus kousa
 Comments           Japanese dogwood (Cornaceae). Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)

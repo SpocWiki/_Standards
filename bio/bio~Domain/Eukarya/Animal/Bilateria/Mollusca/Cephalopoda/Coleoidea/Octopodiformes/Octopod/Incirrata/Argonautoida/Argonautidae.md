@@ -10,13 +10,13 @@ title: Argonauta
     -   [Argonautoida](../Argonautoida.md)
     -   [Incirrata](../../Incirrata.md)
     -   [Octopod](../../../Octopod.md)
-    -  [Octopodiformes](../../../../Octopodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -  [Octopodiformes](../../../../Octopodiformes.md) 
+    -  [Coleoidea](../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Argonautoida
@@ -242,6 +242,7 @@ African Jour. Mar. Sci.., 20: 393-420.
   Location ::        off Australia
   Sex ::             Female
   Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+ 
   --------------------------------------------------------------------------
 ![](Argonautidae/Argojuv.jpg))
 

@@ -7,18 +7,18 @@ title: Faviina
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Scleractinia](../Scleractinia.md))
-    -  [Zoantharia](../../Zoantharia.md))
-    -  [Anthozoa](../../../Anthozoa.md))
-    -  [Cnidaria](../../../../Cnidaria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Scleractinia](../Scleractinia.md) 
+    -  [Zoantharia](../../Zoantharia.md) 
+    -  [Anthozoa](../../../Anthozoa.md) 
+    -  [Cnidaria](../../../../Cnidaria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Scleractinia
-    -  [Fungiina](Fungiina.md))
+    -  [Fungiina](Fungiina.md) 
     -   Faviina
-    -  [Caryophylliina](Caryophylliina.md))
+    -  [Caryophylliina](Caryophylliina.md) 
     -   [Dendrophylliidae](Dendrophylliidae)
 
 -   » Sub-Groups
@@ -34,7 +34,7 @@ title: Faviina
 Classification after Wells (1956). Family marked with a cross
 (![](Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina/extinct.gif){height="9" width="7"} ) is exclusively fossil.
 
-Containing group:[Scleractinia](../Scleractinia.md))
+Containing group:[Scleractinia](../Scleractinia.md) 
 
 ## Introduction
 

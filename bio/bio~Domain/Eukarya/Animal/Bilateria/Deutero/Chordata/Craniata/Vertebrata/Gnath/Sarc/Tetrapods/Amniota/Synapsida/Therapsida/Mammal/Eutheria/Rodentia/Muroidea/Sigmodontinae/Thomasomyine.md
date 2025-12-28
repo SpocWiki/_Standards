@@ -12,11 +12,11 @@ title: Thomasomyine group and Sigmodontinae incertae sedis
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Sigmodontinae](../Sigmodontinae.md))
-    -  [Muroidea](../../Muroidea.md))
-    -  [Rodentia](../../../Rodentia.md))
-    -  [Eutheria](../../../../Eutheria.md))
-    -  [Mammal](../../../../../Mammal.md))
+    -  [Sigmodontinae](../Sigmodontinae.md) 
+    -  [Muroidea](../../Muroidea.md) 
+    -  [Rodentia](../../../Rodentia.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
     -   [Therapsida](../../../../../../Therapsida.md)
     -   [Synapsida](../../../../../../../Synapsida.md)
     -   [Amniota](../../../../../../../../Amniota.md)
@@ -27,9 +27,9 @@ title: Thomasomyine group and Sigmodontinae incertae sedis
     -   [Craniata](../../../../../../../../../../../../../Craniata.md)
     -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
     -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Sigmodontinae
@@ -57,11 +57,12 @@ title: Thomasomyine group and Sigmodontinae incertae sedis
 	-   *Thomasomys*
 	-   *Wilfredomys*
 
-Containing group:[Sigmodontinae](../Sigmodontinae.md))
+Containing group:[Sigmodontinae](../Sigmodontinae.md) 
 
 ## Title Illustrations
 
----------![Rhipidomys nitela](Thomasomyine/rhipidomys_nitela.jpg))
+--------- 
+![Rhipidomys nitela](Thomasomyine/rhipidomys_nitela.jpg))
 Scientific Name ::  Rhipidomys nitela
 Copyright ::         © 1996 Darrin Lunde
 

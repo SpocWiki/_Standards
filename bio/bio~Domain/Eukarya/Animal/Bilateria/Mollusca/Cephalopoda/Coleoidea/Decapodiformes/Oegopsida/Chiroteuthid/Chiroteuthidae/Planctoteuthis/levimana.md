@@ -98,17 +98,17 @@ from 0-2400 m.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Planctoteuthis](../Planctoteuthis.md))
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -  [Planctoteuthis](../Planctoteuthis.md) 
+    -  [Chiroteuthidae](../../Chiroteuthidae.md) 
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../../../Oegopsida.md) 
+    -  [Decapodiformes](../../../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Planctoteuthis
@@ -122,7 +122,8 @@ from 0-2400 m.
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](levimana/MLevimanaVent.jpg))
+------------------------------------------------------------------------------ 
+![](levimana/MLevimanaVent.jpg))
 Scientific Name ::     Planctoteuthis levimana
 Location ::           41°31\'N, 29°55\'W
 Specimen Condition   Fresh

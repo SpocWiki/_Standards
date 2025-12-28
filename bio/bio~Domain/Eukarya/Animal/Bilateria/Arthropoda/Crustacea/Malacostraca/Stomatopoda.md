@@ -32,19 +32,19 @@ Mantis shrimps
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Malacostraca](../Malacostraca.md))
-    -  [Crustacea](../../Crustacea.md))
-    -  [Arthropoda](../../../Arthropoda.md))
-    -  [Bilateria](../../../../Bilateria.md))
-    -  [Animals](../../../../../Animals.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
+    -  [Malacostraca](../Malacostraca.md) 
+    -  [Crustacea](../../Crustacea.md) 
+    -  [Arthropoda](../../../Arthropoda.md) 
+    -  [Bilateria](../../../../Bilateria.md) 
+    -  [Animals](../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Malacostraca
     -   [Leptostraca](Leptostraca)
     -   Stomatopoda
-    -  [Decapoda](Decapoda.md))
-    -  [Peracarida](Peracarida.md))
+    -  [Decapoda](Decapoda.md) 
+    -  [Peracarida](Peracarida.md) 
 
 -   » Sub-Groups 
 
@@ -52,7 +52,8 @@ Mantis shrimps
 ## Title Illustrations
 
 
-------------------------------------------------------------------------------![Mantis shrimp, Hemisquilla californiensis](Stomatopoda/Odontodactylus_scyllarus.jpg))
+------------------------------------------------------------------------------ 
+![Mantis shrimp, Hemisquilla californiensis](Stomatopoda/Odontodactylus_scyllarus.jpg))
 Scientific Name ::     Hemisquilla californiensis (Gonodactylidae)
 Comments             Mantis shrimp
 Creator              Photograph by Alden M. Johnson

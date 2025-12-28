@@ -312,7 +312,7 @@ with significant impacts on the environment, human health, and biotechnological 
 
 -   ◊ Sibling Groups of  Life on Earth
     -   Eubacteria
-    -  [Eukarya](Eukarya.md))
+    -  [Eukarya](Eukarya.md) 
     -   [Archaea](Archaea)
     -   [Virus](Virus.md)
 

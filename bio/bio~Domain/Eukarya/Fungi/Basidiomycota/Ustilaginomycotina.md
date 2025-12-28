@@ -7,13 +7,13 @@ title: Ustilaginomycetes
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Basidiomycota](../Basidiomycota.md))
-    -  [Fungi](../../Fungi.md))
-    -  [Eukarya](../../../Eukarya.md))
+    -  [Basidiomycota](../Basidiomycota.md) 
+    -  [Fungi](../../Fungi.md) 
+    -  [Eukarya](../../../Eukarya.md) 
     -   [Tree of Life](../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Basidiomycota
-    -  [Agaricomycotina](Agaricomycotina.md))
+    -  [Agaricomycotina](Agaricomycotina.md) 
     -   Ustilaginomycetes
     -   [Urediniomycotina](Urediniomycotina)
 
@@ -30,7 +30,7 @@ title: Ustilaginomycetes
 ![ ](Ustilaginomycotina/entorrhiza.jpg)
 ![ ](Ustilaginomycotina/ustilago.jpg)![](Ustilaginomycotina/exobasidium.jpg))
 
-Containing group:[Basidiomycota](../Basidiomycota.md))
+Containing group:[Basidiomycota](../Basidiomycota.md) 
 
 ### Information on the Internet
 
@@ -319,6 +319,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Scientific Name ::  Entorrhiza casparyana, Juncus articulatus
   Comments          Galls on the roots of Juncus articulatus induced by Entorrhiza casparyana
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Ustilaginomycotina/ustilago.jpg))
 
@@ -326,6 +327,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Scientific Name ::  Ustilago maydis, Zea mays
   Comments          Corn galls on Zea mays induced by Ustilago maydis
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+ 
   ---------------------------------------------------------------------------------
 ![](Ustilaginomycotina/exobasidium.jpg))
 
@@ -333,6 +335,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Scientific Name ::  Exobasidium vaccinii, Vaccinium vitis-idaea
   Comments          Sporulation of Exobasidium vaccinii on Vaccinium vitis-idaea
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+ 
   ---------------------------------------------------------------------------------
 
 

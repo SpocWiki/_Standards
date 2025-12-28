@@ -8,14 +8,14 @@ title: Chiroteuthidae
 
 -   « Ancestral Groups  
     -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../Oegopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -  [Oegopsida](../../Oegopsida.md) 
+    -  [Decapodiformes](../../../Decapodiformes.md) 
+    -  [Coleoidea](../../../../Coleoidea.md) 
+    -  [Cephalopoda](../../../../../Cephalopoda.md) 
+    -  [Mollusca](../../../../../../Mollusca.md) 
+    -  [Bilateria](../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../Eukarya.md) 
     -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Chiroteuthid families
@@ -27,10 +27,10 @@ title: Chiroteuthidae
     -   [Promachoteuthis](Promachoteuthis)
 
 -   » Sub-Groups
-    -  [Asperoteuthis](Chiroteuthidae/Asperoteuthis.md))
-    -  [Chiroteuthis](Chiroteuthidae/Chiroteuthis.md))
+    -  [Asperoteuthis](Chiroteuthidae/Asperoteuthis.md) 
+    -  [Chiroteuthis](Chiroteuthidae/Chiroteuthis.md) 
     -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
-    -  [Planctoteuthis](Chiroteuthidae/Planctoteuthis.md))
+    -  [Planctoteuthis](Chiroteuthidae/Planctoteuthis.md) 
     -   [New Genus B](New_Genus_B)
     -   [New Genus C](New_Genus_C)
 
@@ -43,7 +43,7 @@ title: Chiroteuthidae
 This family contains the following genera and about 19 species, but the
 species-level taxonomy is poorly understood.
 
-Containing group:[Chiroteuthid families](../Chiroteuthid.md))
+Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
 ## Introduction
 
