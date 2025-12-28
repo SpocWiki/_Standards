@@ -5,33 +5,50 @@ aliases:
   - five-factor model
   - five factor model
   - Personality~Big5
+  - HEXACO 
 ---
 
 # [[Personality~Big5]] 
 
 #is_/similar_to :: [[Personality~HEXACO]] 
 
-| HEXACO Dimensions         | Big Five Traits        |
-| ------------------------- | ---------------------- |
-| H: Honesty-Humility       | _N/A_                  |
-| E: Emotionality           | Neuroticism            |
-| X: Extraversion           | Extraversion           |
-| A: Agreeableness          | Agreeableness          |
-| C: Conscientiousness      | Conscientiousness      |
-| O: Openness to Experience | Openness to Experience |
+Cross-cultural linguistic Analysis **adds the Honesty-Humility** Dimension 
+to the Big5 which were derived from English and related languages
 
 
-[Persönlichkeitstest](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/persoenlichkeitstest)  
+|     | HEXACO Trait      | Closest Big Five Trait | Correl% | Shared Var% | Notes                      |
+| --- | ----------------- | ---------------------- | ------: | ----------: | -------------------------- |
+| H   | Honesty–Humility  | Agreeableness          |      25 |        6.25 | Partial overlap only       |
+| E   | Emotionality      | Neuroticism            |      70 |       49.00 | Strong **inverse** framing |
+| X   | Extraversion      | Extraversion           |      85 |       72.25 | Near equivalence           |
+| A   | Agreeableness     | Agreeableness          |      60 |       36.00 | Different content emphasis |
+| C   | Conscientiousness | Conscientiousness      |      80 |       64.00 | Strong equivalence         |
+| O   | Openness to...    | ...new Experiences     |      75 |       56.25 | High equivalence           |
 
-## [[Personality~Big5/Big5~Extraversion]]
 
-## [[Personality~Big5/Big5~Agreeableness]]
+| HEXACO Dim.       | High     | Pro                     | Con                     | Context Sensitivity |
+| ----------------- | -------- | ----------------------- | ----------------------- | ------------------- |
+| Honesty–Humility  | **High** | Ethical                 | Competition, Leadership | **Medium**          |
+| Emotionality      | Mixed    | Empathy                 | Stress, Risk tolerance  | High                |
+| Xtraversion       | Mixed    | Leadership, well-being  | Focus Task Performance  | High                |
+| Agreeableness     | Mixed    | Cooperation             | Negotiation Results     | Medium              |
+| Conscientiousness | **High** | Job + Academic perf.    | Burnout risk            | **Low**             |
+| Openness          | Mixed    | Creativity, flexibility | Rule adherence          | High                |
 
-## [[Personality~Big5/Big5~Conscientiousness]] 
+Conscientiousness and Honesty–Humility show the strongest general benefits.  
+All other dimensions exhibit clear advantages and disadvantages depending on context and extremity. 
 
-## [[Personality~Big5/Big5~Emotional_Stability]] 
+#has_/url_ :: [Persönlichkeitstest](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/persoenlichkeitstest)  
 
-## [[Personality~Big5/Big5~Openness]] 
+## [[Personality~Big5/Big5~X-Extraversion]]
+
+## [[Personality~Big5/Big5~A-Agreeableness]]
+
+## [[Personality~Big5/Big5~C-Conscientiousness]] 
+
+## [[Personality~Big5/Big5~E-Emotional_Stability]] 
+
+## [[Personality~Big5/Big5~O-Openness]] 
 
 
 ## #has_/text_of_/abstract 
@@ -63,7 +80,7 @@ aliases:
 > For example, extraversion is typically associated with qualities such as gregariousness, 
 > assertiveness, excitement-seeking, warmth, activity, and positive emotions. 
 > 
-> Other models, like HEXACO, supplement the Big 5 traits with additional variables.
+> Other models, like HEXACO, supplement the Big 5 traits with additional Honesty/Humility.
 >
 > Today, the five-factor model underlies most contemporary personality research, 
 > and the model has been described as a major breakthroughs of quantitative behavioural science. 

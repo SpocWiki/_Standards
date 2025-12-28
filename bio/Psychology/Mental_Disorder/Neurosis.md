@@ -40,7 +40,7 @@ Krugosvet_article_archived_: medicina/NEVROZ.html
 > Its descendant term, neuroticism, refers to a personality trait of being 
 > prone to anxiousness and mental collapse. 
 > 
-> The term "[[../Personality_Psychology/Personality~Big5/Big5~Emotional_Stability|neuroticism]]" is also no longer used for DSM or ICD conditions; 
+> The term "[[../Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability|neuroticism]]" is also no longer used for DSM or ICD conditions; 
 > however, it is a common name for one of the Big Five personality traits. 
 > A similar concept is included in the ICD-11 as the condition "negative affectivity".
 >
