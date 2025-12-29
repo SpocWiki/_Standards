@@ -1,5 +1,6 @@
 ---
 aliases:
+  - parasites
 has_id_wikidata: Q186517
 subclass_of:
   - "[[_Standards/WikiData/WD~symbiosis,121610]]"
@@ -40,9 +41,11 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PARAZITIZM.html
 > The entomologist E. O. Wilson characterised parasites' way of feeding as 
 > "predators that eat prey in units of less than one". 
 > 
-> Parasites include single-celled protozoans such as the agents of malaria, sleeping sickness, and amoebic dysentery; animals such as hookworms, lice, mosquitoes, 
-> and vampire bats; fungi such as honey fungus and the agents of ringworm; 
-> and plants such as mistletoe, dodder, and the broomrapes.
+> Parasites include 
+> - single-celled protozoans such as the agents of malaria, sleeping sickness, and amoebic dysentery; 
+> - animals such as hookworms, lice, mosquitoes, and vampire bats; 
+> - fungi such as honey fungus and the agents of ringworm; 
+> - and plants such as mistletoe, dodder, and the broomrapes.
 >
 > There are six major parasitic strategies of exploitation of animal hosts, namely 
 > - parasitic castration, 
@@ -52,7 +55,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PARAZITIZM.html
 > - parasitoidism, and 
 > - micropredation. 
 > 
-> One major axis of classification concerns invasiveness: 
+> One major axis of classification concerns **invasiveness**: 
 > - an endoparasite lives inside the host's body; 
 > - an ectoparasite lives outside, on the host's surface.
 >

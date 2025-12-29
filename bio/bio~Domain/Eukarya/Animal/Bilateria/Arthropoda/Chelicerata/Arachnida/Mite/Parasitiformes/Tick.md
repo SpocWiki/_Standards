@@ -23,7 +23,7 @@ Transfers:
 ## #has_/text_of_/abstract 
 
 > Ticks are parasitic arachnids of the order **Ixodida**. 
-> They are part of the mite superorder Parasitiformes. 
+> They are part of the mite superorder [[../Parasitiformes|Parasitiformes]]. 
 > 
 > Adult ticks are approximately 3 to 5 mm in length depending on age, sex, and species, 
 > but can become larger when engorged. 

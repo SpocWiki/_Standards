@@ -14,7 +14,7 @@ title: Piroplasmorida
 > 
 > They divide by binary fission and as sporozoan parasites they possess sexual and asexual phases 
 > (sexual reproduction occurs in the tick gut). 
-> They include the [[../../Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick|Tick]] [[../../../../Metabolism/Parasitism/Parasite|Parasite]]s Babesia and Theileria.
+> They include the [[../../Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick|Tick]] [[../../../../Metabolism/Parasitism/External_Parasite|External_Parasite]]s Babesia and Theileria.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piroplasmida) 
 
