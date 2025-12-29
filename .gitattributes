@@ -4,3 +4,5 @@
 *.excalidraw  linguist-detectable=true  
 *.jpg  linguist-detectable=true  
 *.jpeg  linguist-detectable=true  
+*.excalidraw linguist-language=JSON  
+*.geojson linguist-language=JSON  
