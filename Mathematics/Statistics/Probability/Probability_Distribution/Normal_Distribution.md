@@ -91,6 +91,15 @@ moment_generating_function: <math class="mwe-math-element mwe-math-element-inlin
 #is_/same_as :: [[../../../../WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]]  
 # [[Normal_Distribution]] 
 
+Normal Distributions arise from Sums of independent Contributions. 
+When the Contributions multiply you get a 
+
+## #has_/examples 
+
+- Additive fair Coin Flip Payouts of 1; these have an Expectation Value of 0.5 
+  and a normal Distribution with Tails rapidly falling off 
+
+
 
 ## #has_/text_of_/abstract 
 
