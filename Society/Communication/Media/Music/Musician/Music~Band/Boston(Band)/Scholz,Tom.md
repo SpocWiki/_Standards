@@ -2,7 +2,13 @@
 aliases:
   - Tom Scholz
   - Scholz,Tom
+  - Donald Thomas Scholz
+  - Thomas Scholz
 ---
+
+# [[Scholz,Tom]] 
+
+## #has_/text_of_/abstract  
 
 > Donald Thomas Scholz (born March 10, 1947) is an American musician. 
 > He is the founder, main songwriter, primary guitarist, keyboardist 

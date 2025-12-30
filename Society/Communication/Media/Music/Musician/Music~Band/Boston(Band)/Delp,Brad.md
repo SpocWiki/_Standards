@@ -2,7 +2,12 @@
 aliases:
   - Brad Delp
   - Delp,Brad
+  - Bradley Edward Delp
+  - Bradley Delp
+  - Delp
 ---
+
+# [[Delp,Brad]] 
 
 #has_/time_/started :: 1951-06-12
 #has_/time_/stopped :: 2007-03-09 
