@@ -2,6 +2,7 @@
 # [[IMDb(Internet_Movie_Database)]] 
 
 #is_/same_as :: [[WD~Internet_Movie_Database,37312]]  
+#is_/similar_to :: [[OMDB(Open_Media_Database)]]  
 
 ## #has_/text_of_/abstract 
 
