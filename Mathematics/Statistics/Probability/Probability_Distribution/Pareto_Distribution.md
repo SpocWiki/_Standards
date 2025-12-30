@@ -12,12 +12,26 @@ Commons_category: Pareto distribution
 
 # [[Pareto_Distribution]] 
 
+#has_/formula_/distribution :: $α x_min^α / x^(α + 1)$ = $\frac {\alpha x_{\mathrm {m} }^{\alpha }}{x^{\alpha +1}}$  for x > x_min and α > 0 
+#has_/formula_/cumulative :: $1-\left({\frac {x_{min}}{x}}\right)^{\alpha }$ 
+
+- α > 0 must be, otherwise it does not converge! 
+- for $α -> ∞$ this converges to the Delta Function; cumul: Step-Function at x_min 
+- for $α -> 0$ this converges to $α/x$ ; cumul:  $0 \approx 1 - 1/x^α$ climbing slowly like ln(x)  
+- α = log (4/5) ≈ 1.16 yields the 80/20 Rule 
+- Pareto found different Coefficients: 
+	- -1.45 for Italy 
+	- -1.57 for France 
+	- -1.60 for Prussia 
+
 #is_/same_as :: [[WD~Pareto_distribution,837683]] 
+#has_/url_/for_/wikidata :: https://www.wikidata.org/wiki/Q837683 
 
 ## #has_/text_of_/abstract 
 
-> The Pareto distribution, named after the Italian civil engineer, economist, 
-> and sociologist Vilfredo Pareto, is a power-law probability distribution 
+> The Pareto distribution, named after Vilfredo Pareto, 
+> the Italian civil engineer, [[../../../../Society/Economics/Economist|economist]], and sociologist , 
+> is a [[Power-Law_Distribution|power-law probability distribution]] 
 > that is used in description of social, quality control, scientific, geophysical, actuarial, 
 > and many other types of observable phenomena; 
 > 
@@ -27,12 +41,13 @@ Commons_category: Pareto distribution
 > The Pareto principle or "80:20 rule" stating 
 > that 80% of outcomes are due to 20% of causes was named in honour of Pareto, 
 > but the concepts are distinct, 
-> and only Pareto distributions with shape value (α) of   log (4/5) ≈ 1.16 reflect it. 
+> and only Pareto distributions with shape value α = log (4/5) ≈ 1.16 reflect it. 
 > 
 > Empirical observation has shown that this 80:20 distribution 
 > fits a wide range of cases, including natural phenomena and human activities.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pareto%20distribution)
+
 
 
 ## Confidential Links & Embeds: 
