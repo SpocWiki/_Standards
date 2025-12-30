@@ -7,7 +7,17 @@ if (-not $parent_directory) {
 }
 
 Set-Location -Path $parent_directory
-git pull
+
+git fetch origin
+
+# Merge remote changes into local automatically
+git merge origin/main --no-edit
+
+if (-not $?) {
+    Write-Host "Merge failed, aborting"
+    git merge --abort
+    exit 1
+}
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
