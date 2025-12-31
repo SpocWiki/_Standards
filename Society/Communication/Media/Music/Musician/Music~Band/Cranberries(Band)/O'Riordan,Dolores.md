@@ -1,0 +1,37 @@
+---
+aliases:
+  - Dolores O'Riordan
+  - Dolores_O'Riordan
+---
+
+# [[O'Riordan,Dolores]] 
+
+
+
+## #has_/text_of_/abstract 
+
+> Dolores Mary Eileen O'Riordan ( oh-REER-dən; 6 September 1971 – 15 January 2018) 
+> was an Irish musician and singer-songwriter who achieved international fame as 
+> the lead vocalist of the rock band the [[../Cranberries(Band)|Cranberries(Band)]]. 
+> 
+> O'Riordan was the principal songwriter of the band, and additionally performed acoustic and electric guitars. 
+> She became one of the most recognisable voices in alternative rock, and was 
+> known for her lilting mezzo-soprano voice, signature yodel, use of keening, and strong Limerick accent.
+>
+> O'Riordan was born in County Limerick, Ireland, to a Catholic working-class family. She began performing as a soloist in her church choir before leaving secondary school to join the Cranberries in 1990. The band released the number-one Everybody Else Is Doing It, So Why Can't We? (1993), No Need to Argue (1994), To the Faithful Departed (1996), and Bury the Hatchet (1999). The Cranberries released their fifth album, Wake Up and Smell the Coffee (2001), before going on hiatus in 2003. During this time, O'Riordan released two solo studio albums: Are You Listening? (2007) and No Baggage (2009). The Cranberries reunited in 2009, released Roses (2012), and went on a world tour. O'Riordan's other activities included appearing as a judge on RTÉ's The Voice of Ireland (2013–2014) and recording material with the trio D.A.R.K. (2014). The Cranberries' seventh album, Something Else (2017), was the last to be released during her lifetime.
+>
+> Throughout her life, O'Riordan suffered from depression and the pressure of her own success; 
+> she was diagnosed with bipolar disorder in 2015. 
+> She died from drowning due to alcohol intoxication in January 2018. 
+> After her death, the Cranberries released the Grammy-nominated album In the End (2019), 
+> featuring her final vocal recordings, and then disbanded. 
+> 
+> With the Cranberries, O'Riordan sold more than 40 million albums worldwide during her lifetime; 
+> that total increased to almost 50 million albums worldwide as of 2019, excluding her solo albums. 
+> 
+> She was honoured with the Ivor Novello International Achievement award, 
+> and in the months following her death, she was 
+> named "The Top Female Artist of All Time" on Billboard's Alternative Songs chart.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dolores%20O'Riordan) 
+

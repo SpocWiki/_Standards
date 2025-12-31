@@ -303,9 +303,9 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20J
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von|Goethe,Johann_Wolfgang_von]] 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.public|Goethe,Johann_Wolfgang_von.public]] 
 
 ### #is_/same_as :: [Goethe,Johann_Wolfgang_von.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.internal.md) 
 

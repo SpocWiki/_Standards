@@ -19,6 +19,92 @@ Commons_category: Musical scales
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scale,179651|WD~Scale,179651]] 
 
+Over Time, similar Tone Systems were developed independently in different Cultures, 
+resulting in the common [[Scale(Music)/Chromatic_Scale|Chromatic_Scale]] with [[Just_Intonation]].  
+
+The tonic center was the most important of all the different tone centers in a piece of music, 
+with **most pieces beginning and ending on the tonic**, 
+usually modulating to the [[Dominant]] or the [[Subdominant]] which are a full Tone (2 Half-Tones) apart. 
+
+## Pentatonic Scale 
+
+The [[Pentatonic_Scale]] uses only 5 of the 7 Diatonic Keys.
+They result from going only 5 Fifths/Quints up: 
+C-G-D-A-E or, in order: C-D-E-G-A-C 
+
+The [[Heptatonic_Scale]] uses all 7 Diatonic Keys and it merges ideally with the [[Pentatonic_Scale]], 
+resulting in all 7 + 5 = 12 [[Semitone]]s. 
+
+In fact, only the Black Keys yield exactly a [[Pentatonic_Scale]]. 
+
+
+
+|     | tonic | Mode       | Step | Ratio |   Ratio |   % | Interval  |        |    Pyth | Equal% |
+| --: | ----- | ---------- | ---: | ----: | ------: | --: | --------- | ------ | ------: | -----: |
+|   1 | C     | Ionian     |    2 |     1 |       1 | 100 |           |        |       1 |    100 |
+|   B |       |            |      | 16/15 | 256/240 | 107 |           |        | 256/243 |    106 |
+|   2 | D     | Dorian     |    2 |   9/8 |     9/8 | 113 |           | Second |         |    112 |
+|   B |       |            |      |   6/5 |     6/5 | 120 | Minor 3rd |        |         |    119 |
+|   3 | E     | Phrygian   |    1 |   5/4 |   80/64 | 125 | Major 3rd | Terz   |   81/64 |    126 |
+|   4 | F     | Lydian     |    2 |   4/3 |     4/3 | 133 | Fourth    | Quart  |         |    133 |
+|   B |       |            |      |   7/5 |     7/5 | 140 |           |        | 729/512 |    141 |
+|   5 | G     | Mixolydian |    2 |   3/2 |     3/2 | 150 | Fifth     | Quint  |         |    150 |
+|   B |       |            |      |   8/5 |  128/80 | 160 |           |        |  128/81 |    159 |
+|   6 | A     | Eolian     |    2 |   5/3 |   25/15 | 167 |           |        |   27/16 |    168 |
+|   B |       |            |      |   9/5 |     9/5 | 180 |           |        |         |    178 |
+|   7 | B     | Locrian    |    1 |  15/8 | 240/128 | 188 |           |        | 243/128 |    189 |
+|   8 | C     |            |      |     2 |       2 |   2 | Octave    | Oktave |    2.03 |    200 |
+
+
+## Chain of Fifths 
+
+```
+   F C G
+ Bb      D
+Eb        A
+ Ab      E
+  Db Gb B
+```
+
+
+## Building a Transposable Tuning
+
+The ratios are for Just Intonation, but they work well **only for C-Major and C-Minor**. 
+
+If you jump in Steps of 3/2 (Fifth/Quinte), you will reach each of the 12 Notes once over 7 Octaves, 
+because $(3/2)^12$ = 129.7 ≈ 128 = 2^7   C-G-D-A-E-B-F#/Gb-C#/Db-Ab-Eb-Bb-F-C 
+Transposing these Notes down into the same Octave yields the [[Pythagorean_Tuning]], 
+which results in a small Mismatch between 2 and 2.03 after the 7th Octave, 
+which is often resolved by introducing the [[Wolf_Interval]] when switching from # Notes to b Notes. 
+
+The Equal Tuning uses 12 equal Steps from 1 to 2 with Size $root 12 2$ which results in Deviations of only 1%, 
+which few people ever notice. 
+More Steps make it worse again, 
+unless go up to e.g. 53 or even 72 Sub-Tones and select from them in irregular Steps.
+Common Equal Temperaments also use 19, 22, 31, 34 or 41 Sub-Tones.
+
+## Why use Accidentals 
+
+Naming only 7 diatonic Keys from A to H allows to use each of these Keys exactly once 
+in each transposed diatonic Keys. 
+If all 12 Keys were given Letters, we would need to remember which ones to skip. 
+
+```
+A  B  C# D  E  F# G# 
+   Bb C  D  Eb F  G  A
+   B  C# D# E  F# G# A#
+   
+      C  D  E  F  G  A  B  C-Scale 
+         D  E  F# G  A  B  C#
+         
+            E  F# G# A  B  C# D#
+            
+               F  G  A  Bb C  D  E
+               F# G# A# B  C# D# E#              
+                  G  A  B  C  D  E  F#
+                     A  B  C# D  E  F# G# 
+```
+
 ## #has_/text_of_/abstract 
 
 > In music theory, a scale is "any consecutive series of notes 

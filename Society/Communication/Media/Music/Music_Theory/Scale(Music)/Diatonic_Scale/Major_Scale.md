@@ -28,6 +28,17 @@ described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1
 #is_/different_from :: [[Minor_Scale]] 
 #is_/different_from :: [[WD~Minor,12827391]] 
 
+A major scale may be seen as two identical [tetrachords](https://en.wikipedia.org/wiki/Tetrachord "Tetrachord") separated by a whole tone. 
+Each tetrachord consists of two whole tones followed by a [semitone](https://en.wikipedia.org/wiki/Semitone "Semitone") (i.e. whole, whole, half).
+
+The major scale and natural Minor are [maximally even](https://en.wikipedia.org/wiki/Maximal_evenness "Maximal evenness").
+
+Major: 2,2,1,2,2,2,1.2,2,1,2,2,2,1.
+Natural Minor:  2,1,2,2,1,2,2.2,1,
+
+Melodic Minor:   2,1,2,2,2,2,1.2,1 
+Harmonic Minor: 2,1,2,2,1,3,1.2,1 
+
 ## #has_/text_of_/abstract 
 
 > The major scale (or Ionian mode) is one of the most commonly used musical scales, 
@@ -49,7 +60,7 @@ described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Major_Scale](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.md) 
+### #is_/same_as :: [Major_Scale](Major_Scale.md) 
 
 ### #is_/same_as :: [Major_Scale.public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.public.md) 
 

@@ -32,8 +32,8 @@ inception: 1923-01-01T00:00:00Z
 > The twelve-tone technique—also known as dodecaphony, twelve-tone serialism, 
 > and (in British usage) twelve-note composition—is a method of musical composition. 
 > 
-> The technique is a means of ensuring that all 12 notes of the chromatic scale 
-> are sounded equally often in a piece of music 
+> The technique is a means of ensuring that **all 12 notes** of the chromatic scale 
+> are sounded **equally often in a piece of music** 
 > while preventing the emphasis of any one note through the use of tone rows, 
 > orderings of the 12 pitch classes. 
 > 
