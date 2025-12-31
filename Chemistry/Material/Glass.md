@@ -67,6 +67,21 @@ UMLS_CUI: C0017596
 
 #is_/same_as :: [[../../WikiData/WD~Glass,11469|WD~Glass,11469]] 
 
+## Radiation Properties
+
+
+| n    |       | Silicate     |  Trans% |    Abs% |  mm |
+| ---- | ----- | ------------ | ------: | ------: | --: |
+| 400  | 700   | soda-lime    | 88 – 92 |   3 – 8 |   3 |
+| 400  | 700   | soda-lime    | 85 – 90 |  5 – 10 |   6 |
+| 400  | 700   | low-iron     | 91 – 94 |   2 – 5 |   3 |
+| 800  | 1100  | soda-lime    | 80 – 88 |  7 – 12 |   3 |
+| 200  | 3500  | fused silica | 85 – 90 |  5 – 10 |   3 |
+| 1100 | 2500  | soda-lime    | 10 – 50 | 40 – 85 |   3 |
+| 2500 | 5000  | soda-lime    |     < 1 |    > 99 |   1 |
+| 2000 | 12000 | chalcogenide | 60 – 70 | 30 – 40 |   3 |
+| 5000 | 25000 | soda-lime    |   < 0.1 |  > 99.9 |   1 |
+
 ## #has_/text_of_/abstract 
 
 > **Glass** is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a "glass" for drinking, "glasses" for vision correction, and a "magnifying glass".
