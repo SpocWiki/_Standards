@@ -9,6 +9,7 @@ aliases:
 #has_/formula_/distribution :: $α x_min^α / x^(α + 1)$ = $\frac {\alpha x_{\mathrm {m} }^{\alpha }}{x^{\alpha +1}}$  for x > x_min and α > 0 
 #has_/formula_/cumulative :: $1-\left({\frac {x_{min}}{x}}\right)^{\alpha }$ 
 
+
 - α > 0 must be, otherwise it does not converge! 
 - for $α -> ∞$ this converges to the Delta Function; cumul: Step-Function at x_min 
 - for $α -> 0$ this converges to $α/x$ ; cumul:  $0 \approx 1 - 1/x^α$ climbing slowly like ln(x)  
