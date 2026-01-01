@@ -27,6 +27,10 @@ title: has_seller
 type: Predi_Relation
 ---
 
+# [[has_seller]] 
+
+#is_/opposite_of :: [[has_buyer]]  
+
 Use it like this: 
 - [ #has_/seller :: Organization, Person ] or 
 - [ has_seller :: Organization, Person ] 
@@ -43,7 +47,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_seller](/_Standards/schema-org/Relation/has/has_seller.md) 
+### #is_/same_as :: [has_seller](has_seller.md) 
 
 ### #is_/same_as :: [has_seller.public](/_public/schema-org/Relation/has/has_seller.public.md) 
 

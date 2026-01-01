@@ -1,5 +1,32 @@
+---
+aliases:
+  - Level of measurement
+  - Level_of_measurement
+  - scale of measure
+has_id_wikidata: Q951437
+part_of: "[[_Standards/WikiData/WD~quantitative_research,730675]]"
+is_metaclass_for: "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
+different_from:
+  - "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
+  - "[[_Standards/WikiData/WD~scale,1413749]]"
+  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~classification_scheme,5962346]]"
+  - "[[_Standards/WikiData/WD~metrology,394]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~sign_system,7512598]]"
+  - "[[_Standards/WikiData/WD~metaclass,19478619]]"
+  - "[[_Standards/WikiData/WD~second_order_class,24017414]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Skalenniveau%20lt.svg
+name_in_kana: しゃくどすいじゅん
+---
 
-# [[Level_of_Measurement]] 
+# [[Measurement-Scale]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~level_of_measurement,951437]] 
 
 ## #has_/text_of_/abstract 
 
@@ -77,7 +104,7 @@ Measurements bound to a range and repeating (like degrees in a circle, clock tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Level_of_Measurement](/_Standards/Science/Physics/Measurement/Level_of_Measurement.md) 
+### #is_/same_as :: [Measurement-Scale](Measurement-Scale.md) 
 
 ### #is_/same_as :: [Level_of_Measurement.public](/_public/Science/Physics/Measurement/Level_of_Measurement.public.md) 
 

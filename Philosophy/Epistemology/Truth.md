@@ -41,9 +41,10 @@ subclass_of: "[[_Standards/WikiData/WD~proposition,108163]]"
 
 #is_/same_as :: [[../../WikiData/WD~Truth,7949|WD~Truth,7949]] 
 
+
 ## #has_/text_of_/abstract 
 
-> **Truth** or verity is the property of being in accord with fact or reality. 
+> **Truth** or verity is the property of a Record or [[../../Science/Physics/Measurement|Measurement]] being in accord with fact or reality. 
 > In everyday language, it is typically ascribed to things that aim to represent reality 
 > or otherwise correspond to it, such as beliefs, propositions, and declarative sentences.
 >

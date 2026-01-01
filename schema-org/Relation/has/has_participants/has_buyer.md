@@ -24,6 +24,11 @@ title: has_buyer
 type: Predi_Relation
 ---
 
+# [[has_buyer]] 
+
+#is_/opposite_of :: [[has_seller]]  
+
+
 Use it like this: 
 - [ #has_/buyer :: Organization, Person ] or 
 - [ has_buyer :: Organization, Person ] 
@@ -40,7 +45,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_buyer](/_Standards/schema-org/Relation/has/has_buyer.md) 
+### #is_/same_as :: [has_buyer](has_buyer.md) 
 
 ### #is_/same_as :: [has_buyer.public](/_public/schema-org/Relation/has/has_buyer.public.md) 
 

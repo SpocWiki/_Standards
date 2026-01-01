@@ -24,6 +24,10 @@ title: has_lender
 type: Predi_Relation
 ---
 
+# [[has_lender]] 
+
+#is_/opposite_of :: [[has_borrower]] 
+
 Use it like this: 
 - [ #has_/lender :: Organization, Person ] or 
 - [ has_lender :: Organization, Person ] 
@@ -40,7 +44,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_lender](/_Standards/schema-org/Relation/has/has_lender.md) 
+### #is_/same_as :: [has_lender](has_lender.md) 
 
 ### #is_/same_as :: [has_lender.public](/_public/schema-org/Relation/has/has_lender.public.md) 
 

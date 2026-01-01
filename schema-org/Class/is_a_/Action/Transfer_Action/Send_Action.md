@@ -27,6 +27,8 @@ title: is_a_send_action Class
 type: Type
 ---
 
+# [[Send_Action]] 
+
 Class of all send_actions.
 
 Tag Instances like this: 

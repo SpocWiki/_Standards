@@ -28,19 +28,20 @@ Use it like this:
 - [ #has_/sender :: Audience, Organization, Person ] or 
 - [ has_sender :: Audience, Organization, Person ] 
 
-A sub property of participant. The participant who is at the sending end of the action.
+A sub property of Participant. 
+The participant who is at the sending end of the action.
 
 Relation describes that: 
 [ #has_/domain  :: Message, ReceiveAction ]
 ( #has_/name :: is_sender )
 ( #has_/range :: Audience, Organization, Person )
 
-[ #is_/sub_property_of  :: participant ]
+#is_/sub_property_of  :: participant 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sender](/_Standards/schema-org/Relation/has/has_sender.md) 
+### #is_/same_as :: [has_sender](has_sender.md) 
 
 ### #is_/same_as :: [has_sender.public](/_public/schema-org/Relation/has/has_sender.public.md) 
 

@@ -79,7 +79,7 @@ Commons_category: Conspiracy theories
 PhilPapers_topic: conspiracy-theories
 ---
 
-# [[Conspiracy-Theory]] 
+# [[Conspiracy_Theory]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Conspiracy_theory,159535|WD~Conspiracy_theory,159535]] 
 

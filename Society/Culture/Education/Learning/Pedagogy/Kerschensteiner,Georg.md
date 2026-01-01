@@ -1,0 +1,16 @@
+﻿---
+aliases:
+- "Georg Kerschensteiner"
+---
+
+> Georg Michael Anton Kerschensteiner (July 29, 1854 in München – January 15, 1932 in München) 
+> was a German professor and educational theorist. 
+> 
+> He was director of public schools in Munich from 1895 to 1919 and became a professor at the University of Munich in 1920. The author of Theorie der Bildungsorganisation (1933), Kerschensteiner is primarily known for developing a pragmatic approach to education, which included the integration of academic study with physical activity and the establishment of a network of vocational schools.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Kerschensteiner)
+
+
+
+#has_/created_/quote :: Bildung is das was übrig bleibt wenn man alles was man gelernt hat, wieder vergessen hat. 
+

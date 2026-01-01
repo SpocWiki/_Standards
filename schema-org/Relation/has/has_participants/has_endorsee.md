@@ -40,7 +40,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_endorsee](/_Standards/schema-org/Relation/has/has_endorsee.md) 
+### #is_/same_as :: [has_endorsee](has_endorsee.md) 
 
 ### #is_/same_as :: [has_endorsee.public](/_public/schema-org/Relation/has/has_endorsee.public.md) 
 

@@ -24,6 +24,10 @@ title: has_winner
 type: Predi_Relation
 ---
 
+# [[has_winner]] 
+
+#is_/opposite_of :: [[has_loser]] 
+
 Use it like this: 
 - [ #has_/winner :: Person ] or 
 - [ has_winner :: Person ] 
@@ -40,7 +44,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_winner](/_Standards/schema-org/Relation/has/has_winner.md) 
+### #is_/same_as :: [has_winner](has_winner.md) 
 
 ### #is_/same_as :: [has_winner.public](/_public/schema-org/Relation/has/has_winner.public.md) 
 

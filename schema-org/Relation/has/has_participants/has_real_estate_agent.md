@@ -45,7 +45,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_real_estate_agent](/_Standards/schema-org/Relation/has/has_real_estate_agent.md) 
+### #is_/same_as :: [has_real_estate_agent](has_real_estate_agent.md) 
 
 ### #is_/same_as :: [has_real_estate_agent.public](/_public/schema-org/Relation/has/has_real_estate_agent.public.md) 
 

@@ -46,7 +46,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sports_team](/_Standards/schema-org/Relation/has/has_sports_team.md) 
+### #is_/same_as :: [has_sports_team](has_sports_team.md) 
 
 ### #is_/same_as :: [has_sports_team.public](/_public/schema-org/Relation/has/has_sports_team.public.md) 
 

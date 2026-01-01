@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "{ newTitle: }":
 has_id_wikidata: Q133500
 has_effect:
   - "[[_Standards/WikiData/WD~experience,164359]]"
@@ -48,6 +49,35 @@ MeSH_tree_code:
   - F02.784.629.529
 Commons_category: Learning
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NAUCHENIE.html
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Learning]] 
@@ -95,3 +125,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NAUCHENIE.html
 
 ### #is_/same_as :: [Learning.secret](/_secret/Society/Culture/Education/Learning.secret.md)
 
+
+# [[Learning]] 
+
+#is_/part_of :: [[Learning]] 
+
+![[Learning.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Learning.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

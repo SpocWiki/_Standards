@@ -8,22 +8,38 @@ aliases:
   - variadic
   - adicity
   - Arity
+  - Rank
+  - adicity
+  - degree
+  - valency
+  - Stelligkeit
 ---
 
-0. nullary
-1. Unary 
-2. Binary 
-3. Ternary 
+# [[Arity]] 
+
+The Arity of a [[../Mathematics/Function(Math)|Function(Math)]] is one less than the Arity of the [[../../Knowledge/Math/Relation(Math)|Relation(Math)]] 
+describing the same Function. 
+
+Optionality/Negligence/Filtering of Arguments 
+performed during Projection, reduce the Arity, 
+allowing to apply well-known Operators on the Projection. 
+
+0. nullary applies only to Functions, usually to pure constant Functions, 
+   as non-constant Functions like [[Now]] are impure Functions in the mathematical Sense 
+1. [[Arity|Unary]]   
+2. [[Arity|Binary]] 
+3. [[Arity|Ternary]] 
 4. Quaternary 
 5. variadic 
 
 ## #has_/text_of_/abstract 
 
 > In logic, mathematics, and computer science, 
-> **Arity** ( ) is the number of arguments or operands 
+> **Arity** is the number of arguments or operands 
 > taken by a [[../Mathematics/Function(Math)|Function(Math)]], operation, operator, [[Tuple]], [[Record]] or [[Relation]]. 
 > 
 > In mathematics, arity may also be called __rank__, but this word can have many other meanings. 
+> 
 > In logic and philosophy, arity may also be called adicity and degree. 
 > In linguistics, it is usually named valency.
 >

@@ -27,6 +27,8 @@ title: is_a_lend_action Class
 type: Type
 ---
 
+# [[Lend_Action]] 
+
 Class of all lend_actions.
 
 Tag Instances like this: 

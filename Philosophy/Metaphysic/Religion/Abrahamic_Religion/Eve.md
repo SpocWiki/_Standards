@@ -72,6 +72,9 @@ ISNI: 0000000483327585
 
 #is_/same_as :: [[../../../../WikiData/WD~Eve,830183|WD~Eve,830183]] 
 
+Alternatively, Eve is the Name for the [[../../../../Technology/IT/Cryptography/Protocol-Role|Protocol-Role]] of a passive eavesdropper 
+in Threat modeling.
+
 ## #has_/text_of_/abstract 
 
 > **Eve** is a figure from the Book of Genesis (ספר בראשית) in the Hebrew Bible. 

@@ -42,7 +42,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_recipient](/_Standards/schema-org/Relation/has/has_recipient.md) 
+### #is_/same_as :: [has_recipient](has_recipient.md) 
 
 ### #is_/same_as :: [has_recipient.public](/_public/schema-org/Relation/has/has_recipient.public.md) 
 
