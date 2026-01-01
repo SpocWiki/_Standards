@@ -49,6 +49,7 @@ OpenStreetMap_key: pedagogy
 > as they reflect different social, political, and cultural contexts.
 >
 > Pedagogy is often described as the act of teaching. 
+> 
 > The pedagogy adopted by teachers shapes their actions, judgments, 
 > and teaching strategies by taking into consideration theories of learning, 
 > understandings of students and their needs, 

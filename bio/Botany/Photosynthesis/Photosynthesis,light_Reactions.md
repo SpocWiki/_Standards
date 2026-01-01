@@ -14,7 +14,7 @@ part_of: "[[_Standards/WikiData/WD~photosynthesis,11982]]"
 # [[Photosynthesis,light_Reactions]] 
 
 #is_/same_as :: [[../../../WikiData/WD~light-dependent_reactions,862876|WD~light-dependent_reactions,862876]] 
-#has_/next_/state :: [[../../../WikiData/Photosynthesis,dark_Reaction|Photosynthesis,dark_Reaction]] 
+#has_/next_/state :: [[Photosynthesis,dark_Reaction|Photosynthesis,dark_Reaction]] 
 
 ## #has_/text_of_/abstract 
 

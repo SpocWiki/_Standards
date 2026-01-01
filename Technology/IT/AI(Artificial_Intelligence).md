@@ -156,7 +156,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_artificial_intelligence,
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "ArtificialIntelligence"]
 ---
 
-# [[Artificial_Intelligence]] 
+# [[AI(Artificial_Intelligence)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  
 

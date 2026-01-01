@@ -1,5 +1,12 @@
+---
+aliases:
+  - Tertiary education 
+  - higher education
+  - post-secondary education
+  - Higher_Education
+---
 
-# [[Higher_Education]] 
+# [[Tertiary_Education]] 
 
 #is_/same_as :: [[WD~Higher_education,136822]] 
 
