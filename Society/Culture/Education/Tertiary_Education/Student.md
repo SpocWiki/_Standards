@@ -75,7 +75,7 @@ IPTC_NewsCode: mediatopic/20000415
 
 # [[Student]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Student,48282|WD~Student,48282]]  
+#is_/same_as :: [[../../../../WikiData/WD~Student,48282|WD~Student,48282]]  
 
 ## #has_/text_of_/abstract 
 
