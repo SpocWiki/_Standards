@@ -10,9 +10,10 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > In music, a musical ensemble or band is a group of musicians that works together to perform music. 
-> Some types of musical bands are:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20musical%20band%20types)
+
+## Some types of musical bands are:
 
 1. [All-female band](https://en.wikipedia.org/wiki/All-female_band "All-female band")
 2. [Backup band](https://en.wikipedia.org/wiki/Backup_band "Backup band")
