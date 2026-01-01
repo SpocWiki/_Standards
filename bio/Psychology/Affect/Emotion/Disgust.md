@@ -2,6 +2,8 @@
 aliases:
   - Ekel
   - Disgust
+  - Icky
+  - yuck
 has_id_wikidata: Q208351
 studied_by: "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
 instance_of:

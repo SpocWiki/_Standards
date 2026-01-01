@@ -26,8 +26,8 @@ Commons_category: Exponential functions
 # [[Exponential_Function]] 
 
 #is_/inverse_of :: [[Natural_Logarithm]] 
-#is_/instance_of :: [[../Function~binary/Operator~binary/Exponentiation|Exponentiation]]  
-#is_/same_as :: [[../../../WikiData/WD~Exponential_function,168698|WD~Exponential_function,168698]] 
+#is_/instance_of :: [[../../Function~binary/Operator~binary/Exponentiation|Exponentiation]]  
+#is_/same_as :: [[../../../../WikiData/WD~Exponential_function,168698|WD~Exponential_function,168698]] 
 
 ## #has_/text_of_/abstract 
 
@@ -70,7 +70,7 @@ Commons_category: Exponential functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exponential_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Exponential_Function.md) 
+### #is_/same_as :: [Exponential_Function](Exponential_Function.md) 
 
 ### #is_/same_as :: [Exponential_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Exponential_Function.public.md) 
 

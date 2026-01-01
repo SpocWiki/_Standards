@@ -1,0 +1,40 @@
+
+# [[Function~variadic]] 
+
+
+
+## #has_/text_of_/abstract 
+
+> In mathematics and in computer programming, 
+> a **Variadic function** is a function of variable [[../../schema-org/Arity|Arity]], 
+> i.e., one which accepts a variable number of arguments. 
+> 
+> Support for variadic functions differs widely among programming languages.
+>
+> The term variadic is a neologism, dating back to 1936/1937. 
+> The term was not widely used until the 1970s.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Variadic%20function) 
+
+
+| Function Name     | Language   | Min | Variadic Mechanism      | Use Case             |
+| ----------------- | ---------- | --: | ----------------------- | -------------------- |
+| max               | Python     |   1 | *args tuple             | comparison           |
+| Math.max          | JavaScript |   1 | rest parameters         | numeric comparison   |
+| sum               | Python     |   1 | iterable expansion      | aggregation          |
+| printf            | C          |   1 | ellipsis `...`          | formatted output     |
+| scanf             | C          |   1 | ellipsis `...`          | formatted input      |
+| printf            | C++        |   1 | inherited C ellipsis    | formatted output     |
+| std::format       | C++        |   1 | template parameter pack | type-safe formatting |
+| System.out.printf | Java       |   1 | varargs                 | formatted output     |
+| String.format     | Java       |   1 | varargs                 | string formatting    |
+| Console.WriteLine | C#         |   1 | params array            | formatted output     |
+| String.Format     | C#         |   1 | params array            | string formatting    |
+| print             | Python     |   0 | *args tuple             | standard output      |
+| console.log       | JavaScript |   0 | rest parameters         | logging              |
+| printf            | PHP        |   1 | internal varargs        | formatted output     |
+| puts              | Ruby       |   0 | splat operator          | output               |
+| fmt.Printf        | Go         |   1 | variadic slice          | formatted output     |
+| println!          | Rust       |   1 | macro token pack        | formatted output     |
+| print             | Swift      |   0 | variadic parameters     | output               |
+| println           | Kotlin     |   1 | vararg                  | output               |

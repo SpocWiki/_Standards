@@ -8,7 +8,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~special_function,867707]]"
   - "[[_Standards/WikiData/WD~function,11348]]"
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
@@ -29,7 +29,7 @@ Commons_category: Gamma and related functions
 
 # [[Gamma_Function]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Gamma_function,190573|WD~Gamma_function,190573]] 
+#is_/same_as :: [[../../../../WikiData/WD~Gamma_function,190573|WD~Gamma_function,190573]] 
 
 ## #has_/text_of_/abstract 
 
@@ -52,7 +52,7 @@ Commons_category: Gamma and related functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gamma_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Gamma_Function.md) 
+### #is_/same_as :: [Gamma_Function](Gamma_Function.md) 
 
 ### #is_/same_as :: [Gamma_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Gamma_Function.public.md) 
 

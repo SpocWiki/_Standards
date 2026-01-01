@@ -26,11 +26,12 @@ allowing to apply well-known Operators on the Projection.
 
 0. nullary applies only to Functions, usually to pure constant Functions, 
    as non-constant Functions like [[Now]] are impure Functions in the mathematical Sense 
-1. [[Arity|Unary]]   
-2. [[Arity|Binary]] 
-3. [[Arity|Ternary]] 
-4. Quaternary 
-5. variadic 
+1. [[../Mathematics/Function(Math)/Function~unary|unary Function]]    
+2. [[../Mathematics/Function(Math)/Function~binary|binary Function]] 
+3. [[../Mathematics/Function(Math)/Function~ternary|ternary Function]] 
+4. [[../Mathematics/Function(Math)/Function~quaternary|quaternary Function]] 
+5. ...
+6. [[../Mathematics/Function(Math)/Function~variadic|variadic Function]] 
 
 ## #has_/text_of_/abstract 
 

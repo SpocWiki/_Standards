@@ -28,9 +28,9 @@ power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" x
 
 # [[Natural_Logarithm]] 
 
-#is_/inverse_of :: [[../Function~unary/Exponential_Function]] 
+#is_/inverse_of :: [[Operator~unary/Exponential_Function]] 
 #is_/same_as :: [[wd~Natural_Logarithm,204037]] 
-#is_/instance_of :: [[../Function~binary/Operator~binary/Logarithm|Logarithm]] 
+#is_/instance_of :: [[../../Function~binary/Operator~binary/Logarithm|Logarithm]] 
 
 ## #has_/text_of_/abstract 
 
@@ -73,7 +73,7 @@ power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Natural_Logarithm](/_Standards/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.md) 
+### #is_/same_as :: [Natural_Logarithm](Natural_Logarithm.md) 
 
 ### #is_/same_as :: [Natural_Logarithm.public](/_public/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.public.md) 
 

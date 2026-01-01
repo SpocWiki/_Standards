@@ -37,7 +37,7 @@ Commons_category: Factorial (function)
 
 # [[Factorial]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Factorial,120976|WD~Factorial,120976]] 
+#is_/same_as :: [[../../../../WikiData/WD~Factorial,120976|WD~Factorial,120976]] 
 
 ## #has_/text_of_/abstract 
 
@@ -65,7 +65,7 @@ Commons_category: Factorial (function)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Factorial](/_Standards/Mathematics/Function(Math)/Function~unary/Factorial.md) 
+### #is_/same_as :: [Factorial](Factorial.md) 
 
 ### #is_/same_as :: [Factorial.public](/_public/Mathematics/Function(Math)/Function~unary/Factorial.public.md) 
 

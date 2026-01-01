@@ -15,7 +15,7 @@ Commons_category: Inverse trigonometric functions
 
 # [[Inverse_trigonometric_Function]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Inverse_trigonometric_function,674533|WD~Inverse_trigonometric_function,674533]] 
+#is_/same_as :: [[../../../../WikiData/WD~Inverse_trigonometric_function,674533|WD~Inverse_trigonometric_function,674533]] 
 
 ## #has_/text_of_/abstract 
 
@@ -34,7 +34,7 @@ Commons_category: Inverse trigonometric functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inverse_trigonometric_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.md) 
+### #is_/same_as :: [Inverse_trigonometric_Function](Inverse_trigonometric_Function.md) 
 
 ### #is_/same_as :: [Inverse_trigonometric_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.public.md) 
 
