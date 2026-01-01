@@ -38,7 +38,7 @@ aliases:
 His criterion for Ethics is the capability to suffer. 
 Unlike Happiness, Misery can clearly be identified. 
 
-AI and Bot should not impost for Humans. 
+AI and Bots should not impost for Humans. 
 AIs should not be allowed to pretend to have Feelings. 
 
 
