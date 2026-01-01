@@ -64,8 +64,8 @@ Colon_Classification: S:43
 > and retrieved when needed. 
 > 
 > It is the retention of information over time for the purpose of influencing future action. 
-> If past events could not be remembered, it would be impossible for language, 
-> relationships, or personal identity to develop. 
+> If past events could not be remembered, 
+> it would be impossible for language, relationships, or personal identity to develop. 
 > 
 > Memory loss is usually described as forgetfulness or amnesia.
 >
@@ -76,13 +76,108 @@ Colon_Classification: S:43
 > - long-term memory. 
 > This can be related to the neuron.
 >
-> The sensory processor allows information from the outside world to be sensed in the form of chemical and physical stimuli and attended to various levels of focus and intent. Working memory serves as an encoding and retrieval processor. Information in the form of stimuli is encoded in accordance with explicit or implicit functions by the working memory processor. The working memory also retrieves information from previously stored material. Finally, the function of long-term memory is to store through various categorical models or systems.
+> The **sensory processor** allows information from the outside world to be 
+> sensed in the form of chemical and physical stimuli 
+> and attended to various levels of focus and intent. 
+> 
+> **Working memory** serves as an encoding and retrieval processor. 
+> Information in the form of stimuli is encoded in accordance with 
+> explicit or implicit functions by the working memory processor. 
+> The working memory also retrieves information from previously stored material. 
+> 
+> Finally, the function of **long-term memory** is to 
+> store through various categorical models or systems.
 >
-> Declarative, or explicit memory, is the conscious storage and recollection of data. Under declarative memory resides semantic and episodic memory. Semantic memory refers to memory that is encoded with specific meaning. Meanwhile, episodic memory refers to information that is encoded along a spatial and temporal plane. Declarative memory is usually the primary process thought of when referencing memory. Non-declarative, or implicit, memory is the unconscious storage and recollection of information. An example of a non-declarative process would be the unconscious learning or retrieval of information by way of procedural memory, or a priming phenomenon. Priming is the process of subliminally arousing specific responses from memory and shows that not all memory is consciously activated, whereas procedural memory is the slow and gradual learning of skills that often occurs without conscious attention to learning.
+> Declarative, or explicit memory, is the conscious storage and recollection of data. 
+> Under declarative memory resides semantic and episodic memory. 
+> 
+> **Semantic memory** refers to memory that is encoded with specific meaning. 
+> 
+> **Episodic memory** refers to information encoded along a spatial and temporal plane. 
+> 
+> Declarative memory is usually the primary process thought of when referencing memory. 
+> Non-declarative, or 
+> implicit, memory is the unconscious storage and recollection of information. 
+> 
+> An example of a non-declarative process would be 
+> the unconscious learning or retrieval of information by way of **procedural memory**, 
+> or a priming phenomenon. 
+> **Priming** is the process of subliminally arousing specific responses from memory 
+> and shows that not all memory is consciously activated, 
+> whereas procedural memory is the slow and gradual learning of skills 
+> that often occurs without conscious attention to learning.
 >
-> Memory is not a perfect processor and is affected by many factors. The ways by which information is encoded, stored, and retrieved can all be corrupted. Pain, for example, has been identified as a physical condition that impairs memory, and has been noted in animal models as well as chronic pain patients. The amount of attention given new stimuli can diminish the amount of information that becomes encoded for storage. Also, the storage process can become corrupted by physical damage to areas of the brain that are associated with memory storage, such as the hippocampus. Finally, the retrieval of information from long-term memory can be disrupted because of decay within long-term memory. Normal functioning, decay over time, and brain damage all affect the accuracy and capacity of the memory.
+> Memory is not a perfect processor and is affected by many factors. 
+> The ways by which information is encoded, stored, and retrieved can all be corrupted. 
+> 
+> Pain, for example, has been identified as a physical condition that impairs memory, 
+> and has been noted in animal models as well as chronic pain patients. 
+> 
+> The amount of attention given to **new stimuli can diminish** 
+> the amount of information that becomes **encoded** for storage. 
+> 
+> Also, the **storage process** can become corrupted 
+> by physical damage to areas of the brain that are associated with memory storage, 
+> such as the [[../../Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus|Hippocampus]] which starts to work only after the first year in humans. 
+> 
+> Finally, the **retrieval** of information from long-term memory can be disrupted 
+> because of decay within long-term memory. 
+> 
+> Normal functioning, decay over time, and brain damage 
+> all affect the accuracy and capacity of the memory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Memory) 
+
+## explicit memory 
+
+Declarative, or explicit memory, is the conscious storage and recollection of data. 
+Under declarative memory resides semantic and episodic memory. 
+
+### explicit Memory is re-constructive  
+
+Memory works usually re-constructive, i
+.e. it is re-constructed each time from loose Fragments. 
+Many Details are made up when missing. 
+The more often it is reconstructed, the more we believe in it, 
+even when it becomes distorted. 
+Even Flashlight Memories like 9/11 are subject to that. 
+
+Exceptions are traumatic Experiences. 
+
+
+### Episodic Memory 
+
+Autobiographic, Associative 
+
+Episodic memory refers to information that is encoded along a spatial and temporal plane. 
+Declarative memory is usually the primary process thought of when referencing memory. 
+
+### Semantic Memory 
+
+Facts 
+
+Semantic memory refers to memory that is encoded with specific meaning. 
+
+
+## implicit memory 
+
+Non-declarative, or implicit, memory is the unconscious storage and recollection of information. 
+An example of a non-declarative process would be the 
+unconscious learning or retrieval of information by way of procedural memory, 
+or a priming phenomenon. 
+
+### Procedural Memory 
+
+Capabilities 
+
+Procedural memory is the slow and gradual learning of skills 
+that often occurs without conscious attention to learning.
+
+
+### Priming
+
+Priming is the process of subliminally arousing specific responses from memory 
+and shows that not all memory is consciously activated, 
 
 
 ## Confidential Links & Embeds: 

@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Verschchwörungstheorie
+  - Verschwörungsmythos
 has_id_wikidata: Q159535
 significant_person:
   - "[[_Standards/WikiData/WD~Karl_Popper,81244]]"
@@ -77,9 +79,17 @@ Commons_category: Conspiracy theories
 PhilPapers_topic: conspiracy-theories
 ---
 
-# [[Conspiracy_theory]] 
+# [[Conspiracy-Theory]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Conspiracy_theory,159535|WD~Conspiracy_theory,159535]] 
+
+
+## Markers 
+
+- nothing happens by accident 
+- we are being lied at 
+- disconnected parties conspire against me/us 
+- 
 
 ## #has_/text_of_/abstract 
 
@@ -92,9 +102,16 @@ PhilPapers_topic: conspiracy-theories
 > implying that the appeal of a conspiracy theory is based in prejudice, 
 > emotional conviction, insufficient evidence, and/or paranoia. 
 > 
-> A conspiracy theory is distinct from a conspiracy; it refers to a hypothesized conspiracy with specific characteristics, including but not limited to opposition to the mainstream consensus among those who are qualified to evaluate its accuracy, such as scientists or historians. As such conspiracy theories are identified as lay theories.
+> A conspiracy theory is distinct from a conspiracy; it refers to 
+> a **hypothesized** conspiracy with specific characteristics, including but not limited to 
+> - opposition to the mainstream consensus among people qualified to evaluate its accuracy, such as scientists or historians. 
+> As such conspiracy theories are identified as **lay theories**.
 >
-> Conspiracy theories tend to be internally consistent and correlate with each other; they are generally designed to resist falsification either by evidence against them or a lack of evidence for them. They are reinforced by circular reasoning: both evidence against the conspiracy and absence of evidence for it are misinterpreted as evidence of its truth. Psychologist Stephan Lewandowsky observes "the stronger the evidence against a conspiracy, the more the conspirators must want people to believe their version of events." As a consequence, the conspiracy becomes a matter of faith rather than something that can be proven or disproven. Studies have linked belief in conspiracy theories to distrust of authority and political cynicism. Some researchers suggest that conspiracist ideation—belief in conspiracy theories—may be psychologically harmful or pathological. Such belief is correlated with psychological projection, paranoia, and Machiavellianism.
+> Conspiracy theories tend to be internally consistent and correlate with each other; 
+> they are generally **designed to resist [[Falsification]]**, 
+> either by evidence against them or a lack of evidence for them. 
+> 
+> They are **reinforced by circular reasoning**: both evidence ag+ainst the conspiracy and absence of evidence for it are misinterpreted as evidence of its truth. Psychologist Stephan Lewandowsky observes "the stronger the evidence against a conspiracy, the more the conspirators must want people to believe their version of events." As a consequence, the conspiracy becomes a matter of faith rather than something that can be proven or disproven. Studies have linked belief in conspiracy theories to distrust of authority and political cynicism. Some researchers suggest that conspiracist ideation—belief in conspiracy theories—may be psychologically harmful or pathological. Such belief is correlated with psychological projection, paranoia, and Machiavellianism.
 >
 > Psychologists usually attribute belief in conspiracy theories to a number of psychopathological conditions such as paranoia, schizotypy, narcissism, and insecure attachment, or to a form of cognitive bias called "illusory pattern perception". It has also been linked with the so-called Dark triad personality types, whose common feature is lack of empathy. However, a 2020 review article found that most cognitive scientists view conspiracy theorizing as typically nonpathological, given that unfounded belief in conspiracy is common across both historical and contemporary cultures, and may arise from innate human tendencies towards gossip, group cohesion, and religion. One historical review of conspiracy theories concluded that "Evidence suggests that the aversive feelings that people experience when in crisis—fear, uncertainty, and the feeling of being out of control—stimulate a motivation to make sense of the situation, increasing the likelihood of perceiving conspiracies in social situations."
 >

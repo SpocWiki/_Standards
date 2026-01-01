@@ -70,7 +70,16 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.web
 
 ## #has_/text_of_/abstract 
 
-> The **Brain** is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing and olfaction. Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing those information (thought, cognition, and intelligence) and the coordination of motor control (muscle activity and endocrine system).
+> The **Brain** is an organ that serves as the 
+> center of the nervous system in all vertebrate and most invertebrate animals. 
+> 
+> It consists of nervous tissue and is typically located in the head (cephalization), 
+> usually near organs for special senses such as vision, hearing and olfaction. 
+> 
+> Being the most specialized organ, it is responsible for 
+> - receiving information from the sensory nervous system, 
+> - processing those information (thought, cognition, and intelligence) and the 
+> - coordination of motor control (muscle activity and endocrine system).
 >
 > While invertebrate brains arise from paired segmental ganglia (each of which is only responsible for the respective body segment) of the ventral nerve cord, vertebrate brains develop axially from the midline dorsal nerve cord as a vesicular enlargement at the rostral end of the neural tube, with centralized control over all body segments. All vertebrate brains can be embryonically divided into three parts: the forebrain (prosencephalon, subdivided into telencephalon and diencephalon), midbrain (mesencephalon) and hindbrain (rhombencephalon, subdivided into metencephalon and myelencephalon). The spinal cord, which directly interacts with somatic functions below the head, can be considered a caudal extension of the myelencephalon enclosed inside the vertebral column. Together, the brain and spinal cord constitute the central nervous system in all vertebrates.
 >
