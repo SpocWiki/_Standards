@@ -138,6 +138,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+#has_/created_/quote :: The reasonable Man adapts himself to the World; the unreasonable persists in trying to adapt the World to himself. Therefore all Progress depends on the unreasonable Man. 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~George_Bernard_Shaw,19185]]  
 
