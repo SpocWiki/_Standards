@@ -49,8 +49,10 @@ used_by:
 
 
 #is_/better_than :: [[../../../IT/Data|Data]]  
-#is_/worse_than :: [[Knowledge]]   
+#is_/worse_than :: [[./Knowledge]]   
 #is_/same_as :: [[../../WikiData/WD~Information,11028|WD~Information,11028]] 
+
+Information is Data with Relationships and Context 
 
 ## #has_/text_of_/abstract 
 
