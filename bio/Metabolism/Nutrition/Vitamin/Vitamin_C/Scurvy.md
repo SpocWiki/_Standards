@@ -4,7 +4,7 @@ aliases:
   - Scurvy
 ---
 
-#is_/similar_to :: [[Vitamin/Beri_Beri]] 
+#is_/similar_to :: [[../Vitamin_B/Thiamine/Beri_Beri]] 
 
 ## #has_/text_of_/abstract 
 
@@ -23,7 +23,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scurvy](/_Standards/bio/Metabolism/Nutrition/Vitamin/Scurvy.md) 
+### #is_/same_as :: [Scurvy](Scurvy.md) 
 
 ### #is_/same_as :: [Scurvy.public](/_public/bio/Metabolism/Nutrition/Vitamin/Scurvy.public.md) 
 

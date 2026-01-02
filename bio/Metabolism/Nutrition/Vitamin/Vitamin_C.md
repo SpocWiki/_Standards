@@ -5,7 +5,11 @@ aliases:
   - ascorbic acid
   - ascorbate
   - Vitamin C
+  - Ascorbinsäure
+  - 
 ---
+
+# [[Vitamin_C]] 
 
 ## #has_/text_of_/abstract 
 

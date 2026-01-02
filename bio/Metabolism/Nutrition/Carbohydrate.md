@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kohlehydrate
+  - Kohlenhydrate
   - Carbohydrate
 has_id_wikidata: Q11358
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20werden%20Kohlenhydrate%20verstoffwechselt.webm

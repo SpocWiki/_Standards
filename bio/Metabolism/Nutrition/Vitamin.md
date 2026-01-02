@@ -43,7 +43,7 @@ Dewey_Decimal_Classification: 572.58
 
 #is_/same_as :: [[../../../WikiData/WD~Vitamin,34956|WD~Vitamin,34956]] 
 
-Vitamin C has been discovered by [[Lind,James]] in 1747 to prevent [[Vitamin/Scurvy]]. 
+Vitamin C has been discovered by [[Lind,James]] in 1747 to prevent [[Vitamin/Vitamin_C/Scurvy]]. 
 Since Lemons were too expensive and perishable, 
 1770 [[../../../Earth/Explorer/Early_modern_Explorer/Cook,James|James Cook]] introduced Sauerkraut that was conserved 
 1881 Nikolai Lunin (scientist) discovered the existence of vitamins. 

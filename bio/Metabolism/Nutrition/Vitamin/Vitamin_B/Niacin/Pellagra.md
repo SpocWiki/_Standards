@@ -12,7 +12,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pellagra](/_Standards/bio/Metabolism/Nutrition/Vitamin/Pellagra.md) 
+### #is_/same_as :: [Pellagra](Pellagra.md) 
 
 ### #is_/same_as :: [Pellagra.public](/_public/bio/Metabolism/Nutrition/Vitamin/Pellagra.public.md) 
 

@@ -24,9 +24,15 @@ MeSH_tree_code:
 
 ## #has_/text_of_/abstract 
 
-> The term **Chloride** refers to a compound or molecule that contains either a chlorine anion (Cl−), which is a negatively charged chlorine atom, or a non-charged chlorine atom covalently bonded to the rest of the molecule by a single bond (−Cl). The pronunciation of the word "chloride" is .
+> The term **Chloride** refers to a compound or molecule 
+> that contains either a chlorine anion (Cl−), which is a negatively charged chlorine atom, 
+> or a non-charged chlorine atom covalently 
+> bonded to the rest of the molecule by a single bond (−Cl). 
+> The pronunciation of the word "chloride" is .
 >
-> Chloride salts such as sodium chloride are often soluble in water. It is an essential electrolyte located in all body fluids responsible for maintaining acid/base balance, transmitting nerve impulses and regulating liquid flow in and out of cells. Other examples of ionic chlorides include potassium chloride (KCl), calcium chloride (CaCl2), and ammonium chloride (NH4Cl). Examples of covalent chlorides include methyl chloride (CH3Cl), carbon tetrachloride (CCl4), sulfuryl chloride (SO2Cl2), and monochloramine (NH2Cl).
+> Chloride salts such as sodium chloride are often soluble in water. 
+> 
+> It is an essential electrolyte located in all body fluids responsible for maintaining acid/base balance, transmitting nerve impulses and regulating liquid flow in and out of cells. Other examples of ionic chlorides include potassium chloride (KCl), calcium chloride (CaCl2), and ammonium chloride (NH4Cl). Examples of covalent chlorides include methyl chloride (CH3Cl), carbon tetrachloride (CCl4), sulfuryl chloride (SO2Cl2), and monochloramine (NH2Cl).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chloride) 
 

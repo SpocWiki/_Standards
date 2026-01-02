@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Selen
 has_id_wikidata: Q876
 associated_hazard: "[[_Standards/WikiData/WD~selenium_exposure,2268113]]"
 atomic_number: 34

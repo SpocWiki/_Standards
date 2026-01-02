@@ -6,7 +6,7 @@ aliases:
   - Beri_Beri
 ---
 
-#is_/similar_to :: [[Scurvy]] 
+#is_/similar_to :: [[Vitamin_C/Scurvy]] 
 
 ## #has_/text_of_/abstract 
 
@@ -46,7 +46,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beri_Beri](/_Standards/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.md) 
+### #is_/same_as :: [Beri_Beri](Beri_Beri.md) 
 
 ### #is_/same_as :: [Beri_Beri.public](/_public/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.public.md) 
 

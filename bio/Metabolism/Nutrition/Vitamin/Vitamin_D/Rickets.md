@@ -9,6 +9,7 @@ aliases:
 > **Rickets**, scientific nomenclature: rachitis (from Greek ῥαχίτης rhakhítēs, meaning 'in or of the spine'), 
 > is a condition that results in weak or soft bones in children 
 > and may have either dietary deficiency or genetic causes. 
+> 
 > Symptoms include bowed legs, stunted growth, bone pain, large forehead, and trouble sleeping. 
 > Complications may include bone deformities, bone pseudofractures and fractures, muscle spasms, 
 > or an abnormally curved spine. The analogous condition in adults is osteomalacia.
@@ -32,7 +33,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rickets](/_Standards/bio/Metabolism/Nutrition/Vitamin/Rickets.md) 
+### #is_/same_as :: [Rickets](Rickets.md) 
 
 ### #is_/same_as :: [Rickets.public](/_public/bio/Metabolism/Nutrition/Vitamin/Rickets.public.md) 
 
