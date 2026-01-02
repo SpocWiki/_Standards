@@ -37,6 +37,8 @@ IPTC_NewsCode: mediatopic/20000768
 
 #is_/same_as :: [[../../WikiData/WD~Community,177634|WD~Community,177634]] 
 
+The Structure and Processes of Communities depends very much on their Size. 
+
 ## #has_/text_of_/abstract 
 
 > A **Community** is a social unit (a group of people) with a **shared socially-significant characteristic**, 

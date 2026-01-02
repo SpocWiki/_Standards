@@ -6,30 +6,172 @@ aliases:
   - is_an_organization
   - dbo:Organization
   - schema:Organization
+  - Organisation
+has_id_wikidata: Q43229
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - organization
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_organization Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_organization Class
 type: Type
+has_characteristic:
+  - "[[_Standards/WikiData/WD~organizational_culture,730573]]"
+  - "[[_Standards/WikiData/WD~organizational_structure,759524]]"
+  - "[[_Standards/WikiData/WD~organizational_learning,1430172]]"
+  - "[[_Standards/WikiData/WD~organizational_communication,1937189]]"
+  - "[[_Standards/WikiData/WD~organizational_conflict,2310419]]"
+  - "[[_Standards/WikiData/WD~organizational_memory,2727939]]"
+  - "[[_Standards/WikiData/WD~organizational_life_cycle,3535173]]"
+  - "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
+  - "[[_Standards/WikiData/WD~organizational_behavior_studies,19483216]]"
+  - "[[_Standards/WikiData/WD~organizational_identity,25048163]]"
+  - "[[_Standards/WikiData/WD~organisation's_goals,53281408]]"
+  - "[[_Standards/WikiData/WD~resolution_to_dissolve,112692667]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~complex_system,854457]]"
+  - "[[_Standards/WikiData/WD~social_system,1639378]]"
+  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
+  - "[[_Standards/WikiData/WD~person_or_organization,106559804]]"
+  - "[[_Standards/WikiData/WD~corporate_body,106668099]]"
+different_from:
+  - "[[_Standards/WikiData/WD~organization,2029841]]"
+  - "[[_Standards/WikiData/WD~organization_unit,10387680]]"
+  - "[[_Standards/WikiData/WD~facility,13226383]]"
+  - "[[_Standards/WikiData/WD~arranging,36993249]]"
+  - "[[_Standards/WikiData/WD~corporate_body,106668099]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~organizational_studies,2029930]]"
+  - "[[_Standards/WikiData/WD~sociology_of_organisations,9339103]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Organizations,5613113]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_organization,6190581]]"
+  - "[[_Standards/WikiData/WD~Template_Aspects_of_organizations,6688962]]"
+  - "[[_Standards/WikiData/WD~Template_Org_stub,7786335]]"
+  - "[[_Standards/WikiData/WD~Q26117813,26117813]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_organization_Wikidata,57971242]]"
+related_category: "[[_Standards/WikiData/WD~Category_Types_of_organization,6448834]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_organizations,8103926]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_organizations,17166051]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
+  - "[[_Standards/WikiData/WD~social_science_concept,131362181]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+properties_for_this_type:
+  - child organization or unit
+  - industry
+  - member of
+  - archives at
+  - chairperson
+  - has part(s)
+  - inception
+  - dissolved, abolished or demolished date
+  - location of formation
+  - parent organization or unit
+  - separated from
+  - official website
+  - product or material produced
+  - employees
+  - Legal Entity Identifier
+  - IRS Employer Identification Number
+  - OpenCorporates ID
+  - phone number
+  - motto text
+  - legal form
+  - motto
+  - DOI prefix
+  - native label
+  - chief operating officer
+  - short name
+  - owner of
+  - CTHS society ID
+  - Crunchbase organization ID
+  - total revenue
+  - BiblioNet publisher ID
+  - AGORHA person/institution ID
+  - position held by head of the organization
+  - P2391
+  - total assets
+  - operating area
+  - partnership with
+  - EU Transparency Register ID
+  - ResearchGate institute ID
+  - D-U-N-S number
+  - source of income
+  - house publication
+  - fax number
+  - Scottish Charity number
+  - KvK company ID
+  - Actorenregister ID
+  - board member
+  - Ringgold ID
+  - Australian Government Organisations Register ID
+  - Australian Company Number
+  - ARCHON code
+  - autonomous system number
+  - GuideStar Israel organization ID
+  - members have occupation
+  - Biodiversity Repository ID
+  - LinkedIn company or organization ID
+  - official app
+  - C-SPAN organization ID
+  - supervisory board member
+  - grants
+  - street address
+  - ROR ID
+  - country
+  - field of work
+  - founded by
+  - located in the administrative territorial entity
+  - logo image
+  - headquarters location
+  - chief executive officer
+  - ISNI
+main_Wikidata_property: represents
+equivalent_class:
+  - http://xmlns.com/foaf/0.1/Organization
+  - http://dbpedia.org/ontology/Organisation
+  - http://id.loc.gov/ontologies/bibframe/Organization
+  - http://purl.bioontology.org/ontology/HL7/C1561598
+  - http://purl.bioontology.org/ontology/STY/T092
+  - http://purl.obolibrary.org/obo/OBI_0000245
+  - http://sw-portal.deri.org/ontologies/swportal#Organization
+  - http://www.popoloproject.com/specs/organization.html
+  - http://www.w3.org/ns/org#Organization
+  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q4,4]]"
+  - https://schema.org/Organization
+  - https://www.w3.org/ns/activitystreams#Organization
+OmegaWiki_Defined_Meaning: "4987"
+IMDb_keyword: organization
+DataTrek_identifier: Q94
+Dewey_Decimal_Classification: "060"
+U_S_National_Archives_Identifier: "10641726"
+Commons_category: Organizations
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ExecutiveComitee-IAU-2018-2021.jpg
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Octicons-organization.svg
+exact_match: https://w3id.org/italia/onto/COV/Organization
+Provenio_UUID: 749e9694-bc53-4416-9a7e-f4909da0aafd
+UMLS_CUI: C0029246
+MeSH_tree_code: N03.540
 ---
 
 # [[Organization]]
 
-[[../../../schema-org/Class|Class]] of all organizations.
+#is_/same_as :: [[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]
+
+[[../../../schema-org/Class|Class]] of all (human) organizations.
 
 Tag Instances like this: 
 #is_an_/organization
@@ -46,13 +188,13 @@ An organization such as a [[Organization/Educational_Organization/School|school]
 
 ## #has_/text_of_/abstract 
 
-> An **Organization** or organisation (Commonwealth English; see spelling differences) is an entity—
+> An **Organization** or organisation (Commonwealth English) is an entity—
 > such as a company, or corporation or an institution (formal organization), 
 > or an association—comprising one or more people and having a particular purpose.
 >
 > Organizations may also operate secretly or illegally in the case of secret societies, 
 > criminal organizations, and resistance movements. 
-> And in some cases may have obstacles from other organizations (e.g.: MLK's organization). 
+> And in some cases may have obstacles from other organizations. 
 >
 > What makes an organization recognized by the government is 
 > - either filling out incorporation 
