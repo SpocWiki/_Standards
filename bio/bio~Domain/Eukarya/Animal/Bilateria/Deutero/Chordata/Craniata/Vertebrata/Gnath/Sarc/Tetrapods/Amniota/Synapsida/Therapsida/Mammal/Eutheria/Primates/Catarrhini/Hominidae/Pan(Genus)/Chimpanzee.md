@@ -64,8 +64,8 @@ EPPO_Code: PANZTR
 
 ![Pan_troglodytes](Chimpanzee/Pan_troglodytes.jpg)
 
-![](Chimpanzee/hugh_portrait.jpg)
-![](Chimpanzee/mike_portrait.jpg)
+![](Chimpanzee/Chimp_hugh.jpg)
+![](Chimpanzee/Chimp_mike.jpg)
 
 ## #has_/text_of_/abstract 
 

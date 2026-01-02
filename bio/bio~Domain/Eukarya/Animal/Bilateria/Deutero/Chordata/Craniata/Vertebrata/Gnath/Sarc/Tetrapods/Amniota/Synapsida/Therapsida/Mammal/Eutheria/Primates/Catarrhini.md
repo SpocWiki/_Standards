@@ -291,7 +291,7 @@ Morotopithecus. Journal of Human Evolution
  
   -------------------------------------------------------------------------
 
-![Lowland gorilla](Catarrhini/Hominidae/Gorilla/Gorilla_gorilla0088.jpg)
+![Lowland gorilla](Catarrhini/Hominidae/Gorilla/Lowland_Gorilla.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Gorilla gorilla gorilla

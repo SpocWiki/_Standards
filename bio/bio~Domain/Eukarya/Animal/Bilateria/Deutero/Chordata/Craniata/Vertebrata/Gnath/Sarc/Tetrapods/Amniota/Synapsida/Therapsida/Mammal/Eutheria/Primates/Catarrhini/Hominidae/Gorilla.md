@@ -3,6 +3,30 @@ aliases:
   - Gorilla
 title: Gorilla
 has_id_wikidata: Q36611
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gorillas,7010889]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q25942228,25942228]]"
+parent_taxon: "[[_Standards/WikiData/WD~Gorillina,67528297]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+gestation_period: 270
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+Commons_gallery: Gorilla
+Commons_category: Gorilla
+taxon_name: Gorilla
+ITIS_TSN: "572837"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lowland%20Gorilla%20%288973697544%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20gorilla%2C%202-year-old%2C%20Mubare%20Group%2C%20Buhoma%2C%20Bwindi%20Impenetrable%20Forest%2C%20Uganda.jpg
+IMDb_keyword: gorilla
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ZL%20Gorilla%20%28genus%29.png
+EPPO_Code: 1GORIG
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/GORILLI.html
+NBN_System_Key: NHMSYS0000376721
+Unicode_character: 🦍
 ---
 
 # [[Gorilla]] 
@@ -10,7 +34,8 @@ has_id_wikidata: Q36611
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]] 
 
 ![ ](Gorilla/Gorilla_and_Baby.jpg) 
-![ ](Gorilla/Gorilla057.jpg)
+![ ](Gorilla/Gorilla_Silverback.jpg)
+![Lowland_Gorilla](Gorilla/Lowland_Gorilla.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -78,7 +103,7 @@ has_id_wikidata: Q36611
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   Copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
   ----------------------------------------------------------------
-![](Gorilla/Gorilla057.jpg) 
+![](Gorilla/Gorilla_Silverback.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Gorilla gorilla

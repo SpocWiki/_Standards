@@ -38,8 +38,8 @@ U_S_National_Archives_Identifier: 10647859
 
 # [[Pan(Genus)]] 
 
-![](Pan(Genus)/Chimpanzee/hugh_portrait.jpg)
-![](Pan(Genus)/Chimpanzee/mike_portrait.jpg)
+![](Pan(Genus)/Chimpanzee/Chimp_hugh.jpg)
+![](Pan(Genus)/Chimpanzee/Chimp_mike.jpg)
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Pan,80174|WD~Pan,80174]] 
 
@@ -106,7 +106,7 @@ U_S_National_Archives_Identifier: 10647859
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/hugh_portrait.jpg) 
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/Chimp_hugh.jpg) 
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
@@ -119,7 +119,7 @@ View                 Frontal
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/mike_portrait.jpg) 
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/Chimp_mike.jpg) 
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
