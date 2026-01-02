@@ -1,14 +1,29 @@
+---
+aliases:
+  - Einsicht
+has_id_wikidata: Q1553259
+facet_of:
+  - "[[_Standards/WikiData/WD~causality,179289]]"
+  - "[[_Standards/WikiData/WD~storytelling,989963]]"
+  - "[[_Standards/WikiData/WD~strategic_thinking,7621861]]"
+  - "[[_Standards/WikiData/WD~psychology,9418]]"
+different_from: "[[_Standards/WikiData/WD~cognitive_faculty,9372276]]"
+subclass_of: "[[_Standards/WikiData/WD~understanding,46744]]"
+---
 
 # [[Insight]] 
 
 #is_/better_than :: [[Epistemology/Knowledge|Knowledge]] 
 #is_/worse_than :: [[Epistemology/Wisdom]] 
+#is_/part_of :: [[Knowledge/Knowledge_Pyramid|Knowledge_Pyramid]] 
 
-#is_/similar_to :: Link 
+#is_/similar_to :: [[WD~Insight,1553259]] 
+
+Insight is associated with [[../../bio/Psychology/Cognition/Intelligence|Intelligence]], whereas knowledge can be acquired through rote learning alone.
 
 ## #has_/text_of_/abstract 
 
-> **Insight** is the understanding of a specific cause and effect within a particular context. 
+> **Insight** is the understanding of a specific cause and effect **within a particular context**. 
 > The term insight can have several related meanings:
 > - a piece of information
 > - the act or result of understanding the inner nature of things or of seeing intuitively (called noesis in Greek)

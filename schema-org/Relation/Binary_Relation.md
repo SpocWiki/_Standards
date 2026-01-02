@@ -4,6 +4,7 @@ aliases:
   - dyadic relation
   - Binary_Relation
   - Binary Relation
+  - Relation~binary
 has_id_wikidata: Q130901
 part_of: "[[_Standards/WikiData/WD~Cartesian_product,173740]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~ordered_pair,191290]]"
@@ -31,7 +32,8 @@ described_at_URL:
 
 # [[Binary_Relation]] 
 
-#is_/same_as :: [[wd~binary_relation,130901]]
+#is_/same_as :: [[_Standards/WikiData/WD~binary_relation,130901]]
+#is_/same_as :: [[_Standards/WikiData/WD~,]]
 
 ## #has_/text_of_/abstract 
 

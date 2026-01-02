@@ -51,11 +51,13 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_knowledge,7112676]]'
 
 # [[Knowledge]] 
 
-#is_/better_than :: [[Information]]  
-#is_/worse_than :: [[Insight]]  
+#is_/better_than :: [[./Information]]  
+#is_/worse_than :: [[./Insight]]  
+#is_/worse_than :: [[./Wisdom]]   
 #is_/same_as :: [[../../WikiData/WD~Knowledge,9081|WD~Knowledge,9081]] 
 
-mental possession of information or skills, contributing to understanding
+Knowledge is mental possession of information or skills, contributing to understanding of Information. 
+Knowledge introduces understanding and predictive capacity.
 
 ## #has_/text_of_/abstract 
 

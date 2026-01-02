@@ -33,6 +33,17 @@ Wikidata_property: measures
 
 #is_/same_as :: [[../../WikiData/WD~Measurement,12453|WD~Measurement,12453]] 
 
+
+| Concept                                                  | Definition                                                       | Notes                                                                              |
+| -------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Resolution                                               | Smallest detectable change in a measurement                      | Depends on instrument digits; <br>limits granularity                               |
+| [[../../Science/Physics/Measurement/Accuracy\|Accuracy]] | Closeness of measured value to the true value                    | Includes both systematic and random errors; affected by calibration                |
+| [[./Measurement/Precision\|Precision]]                   | Repeatability or consistency of repeated measurements            | Independent of true value; low std dev = high precision                            |
+| [[./Measurement/Trueness\|Trueness]]                     | Closeness of the mean of repeated measurements to the true value | Measures **systematic error only**; high trueness + high precision = high accuracy |
+| Sensitivity                                              | Output change per unit change in input                           | Indicates responsiveness of sensor                                                 |
+| Linearity                                                | Deviation from ideal straight-line response                      | Important in calibration; affects accuracy at different ranges                     |
+| [[./Measurement/Repeatability\|Repeatability]]           | Agreement of repeated measurements under identical conditions    | Component of precision; purely statistical                                         |
+
 ## #has_/text_of_/abstract 
 
 > **Measurement** is the quantification of attributes of an object or event, 

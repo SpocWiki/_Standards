@@ -27,6 +27,10 @@ title: is_a_lend_action Class
 type: Type
 ---
 
+# [[Lend_Action]] 
+
+#is_/inverse_of :: [[Borrow_Action]]  
+
 Class of all lend_actions.
 
 Tag Instances like this: 
@@ -34,7 +38,7 @@ Tag Instances like this:
 
 The act of providing an object under an agreement that it will be returned at a later date. Reciprocal of BorrowAction.
 
-Related actions:
+Related actions: 
 
 <ul>
 <li>[[BorrowAction]]: Reciprocal of LendAction.</li>

@@ -20,8 +20,8 @@ Commons_category: Symbols for binary operations
 
 ## #has_/text_of_/abstract 
 
-> An unary operation is an operation with only one operand, i.e. a single input. 
-> It is also an unary homogenous Function, i.e. it maps to its Domain. 
+> An unary operation is an homogenous [[../Function~unary|unary Function]], i.e. it maps back to its Domain.
+> IT takes only one operand, i.e. a single input. 
 > 
 > This is in contrast to general unary Functions 
 > and to binary operations, which use two operands. 

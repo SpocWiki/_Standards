@@ -2,6 +2,7 @@
 aliases:
   - Gedächtnis
   - Memory
+  - "{ newTitle: }":
 has_id_wikidata: Q492
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20fonctionne%20notre%20m%C3%A9moire.webm
@@ -52,6 +53,35 @@ Iconclass_notation: 52A3
 MeSH_tree_code: F02.463.425.540
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/PAMYAT.html
 Colon_Classification: S:43
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Memory]] 
@@ -196,3 +226,22 @@ and shows that not all memory is consciously activated,
 
 ### #is_/same_as :: [Memory.secret](/_secret/bio/Psychology/Mind/Memory.secret.md)
 
+
+# [[Memory]] 
+
+#is_/part_of :: [[Memory]] 
+
+![[Memory.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Memory.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

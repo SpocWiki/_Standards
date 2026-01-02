@@ -1,5 +1,6 @@
 ---
 aliases:
+  - unary relation
 has_id_wikidata: Q36161
 subclass_of:
   - "[[_Standards/WikiData/WD~algebraic_structure,205464]]"
@@ -39,6 +40,10 @@ Commons_category: Sets (mathematics)
 
 #is_/same_as :: [[../../WikiData/WD~Set,36161|WD~Set,36161]] 
 #is_/similar_to :: [[../../schema-org/Class|Class]] 
+
+A Set can be considered an unary [[../../schema-org/Relation|Relation]]. 
+Conversely any [[../../schema-org/Relation|Relation]] of [[../../schema-org/Arity|Arity]] N 
+is a Subset of the [[../../../Knowledge/Math/Product-Set|Cartesian Product]] of its N Factor-Sets. 
 
 ## #has_/text_of_/abstract 
 

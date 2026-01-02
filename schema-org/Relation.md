@@ -1,6 +1,7 @@
 ---
 aliases:
   - Relation
+has_id_wikidata: Q203066
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -10,9 +11,25 @@ tags:
   - class/Relation
   - schema-org/Relation
 type: Property
+has_part_s_:
+  - "[[_Standards/WikiData/WD~binary_relation,130901]]"
+  - "[[_Standards/WikiData/WD~𝑛_tuple,600590]]"
+  - "[[_Standards/WikiData/WD~ternary_relation,3756532]]"
+different_from: "[[_Standards/WikiData/WD~relation,930933]]"
+represents: "[[_Standards/WikiData/WD~relation,930933]]"
+has_characteristic: "[[_Standards/WikiData/WD~arity,1315869]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Mathematical_relations,6585116]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~relation_(mathematics),107223533]]"
+  - "[[_Standards/WikiData/WD~set,36161]]"
+Iconclass_notation: 51B1
+Commons_category: Relations (mathematics)
 ---
 
 # [[Relation]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~relation,203066]]
 
 A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
 A binary Relation {sRo} has the Subject/Key and the Object/Value 

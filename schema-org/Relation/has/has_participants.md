@@ -3,12 +3,13 @@ aliases:
   - has_participant
   - has_participants
   - has participants
+  - Participant
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 has_sub_properties:
   - has_borrower
   - has_lender
@@ -27,11 +28,11 @@ isDeleted: false
 isReadOnly: false
 keywords:
   - participant
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_participant
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation

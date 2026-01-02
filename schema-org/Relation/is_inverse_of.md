@@ -37,6 +37,21 @@ Relates a property to a property that is its inverse / converse.
 
 #is_/different_from :: [[is_complement_of]]  
 
+owl:inverseOf is defined only for binary object properties with arity 2 count. 
+
+Positional-only semantics scale poorly beyond arity 2 count, leading to ambiguity. 
+
+OWL does not natively support n-ary predicates, so participant roles are represented via reified events and role-specific object properties.
+In OWL-based systems, participant roles appear as properties such as hasAgent, hasPatient, or hasInstrument. 
+
+Schema.org encodes participant roles implicitly through properties like agent, participant, lender, borrower, fromLocation, and toLocation. 
+
+### Upper Ontologies
+
+Upper ontologies such as DOLCE and BFO explicitly formalize roles as dependent continuants or qualities.  
+This approach is dominant in academic ontology design,
+
+
 Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
 For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
 

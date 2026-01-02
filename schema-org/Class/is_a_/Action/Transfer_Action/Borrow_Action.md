@@ -29,6 +29,8 @@ type: Type
 
 # [[Borrow_Action]] 
 
+#is_/inverse_of :: [[Lend_Action]] 
+
 Class of all borrow_actions.
 
 Tag Instances like this: 

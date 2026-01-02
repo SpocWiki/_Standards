@@ -70,7 +70,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHELOVEKOOBRAZNIE_OBEZYAN
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Hominoidea,102470|WD~Hominoidea,102470]] 
 ## Humans, great apes, and their extinct relatives 
-![chimpanzee](Hominidae/Pan_troglodytes0113.jpg)) ![](Hominidae/Gorilla_gorilla0088.jpg) ![Orangutan](Hominidae/Pongo_pygmaeus0055.jpg) 
+![chimpanzee](Hominidae/Pan_troglodytes0113.jpg)) ![](Hominidae/Gorilla/Gorilla_gorilla0088.jpg) ![Orangutan](Hominidae/Pongo_pygmaeus0055.jpg) 
 
 Hominidae is a biological family commonly referred to as the great apes or hominids. This family includes humans (Homo sapiens) as well as several other closely related species. Hominidae belongs to the order Primates and the superfamily Hominoidea.
 

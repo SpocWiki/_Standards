@@ -16,8 +16,7 @@ Commons_category: Symbols for binary operations
 
 # [[Operator~binary]] 
 
-#is_a_ :: [[Function~binary]] 
-
+#is_/sub_class_of :: [[../Function~binary|Function~binary]] 
 #is_/same_as :: [[_Standards/WikiData/WD~binary_operator,30242895]] 
 
 op: D x D => D  is a **ternary homogenous Relation** or a **binary Function in D**.
