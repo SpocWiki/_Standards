@@ -1,0 +1,78 @@
+---
+aliases:
+  - Pan_troglodytes
+  - Chimpanzee
+  - Pan troglodytes
+has_id_wikidata: Q4126704
+different_from: "[[_Standards/WikiData/WD~Pan,80174]]"
+parent_taxon: "[[_Standards/WikiData/WD~Pan,80174]]"
+main_food_source:
+  - "[[_Standards/WikiData/WD~bird_egg,659503]]"
+  - "[[_Standards/WikiData/WD~fruit,3314483]]"
+  - "[[_Standards/WikiData/WD~bird,5113]]"
+  - "[[_Standards/WikiData/WD~honey,10987]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+original_combination: "[[_Standards/WikiData/WD~Simia_troglodytes,46122413]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pan_troglodytes,55301048]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+gestation_period: 225
+longest_observed_lifespan: 59.4
+ITIS_TSN: "573082"
+taxon_common_name:
+  - Chimpanzee
+  - szympans zwyczajny
+  - Schimpanse
+  - Chimpanzé
+  - Ximpancé
+  - κοινός χιμπαντζής
+  - Common Chimpanzee
+  - Robust Chimpanzee
+  - Savanna Chimpanzee
+  - Chimpancé
+  - navadni šimpanz
+  - 黑猩猩
+OmegaWiki_Defined_Meaning: "1391514"
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s005.oga
+short_name: P. troglodytes
+start_time: -4000000-01-01T00:00:00Z
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/013%20Alpha%20male%20chimpanzee%20at%20Kibale%20forest%20National%20Park%20Photo%20by%20Giles%20Laurent.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gombe%20Stream%20NP%20Beute.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pan%20troglodytes%20area.png
+exact_match: http://wordnet-rdf.princeton.edu/wn30/02481823-n
+sequenced_genome_URL: http://www.ensembl.org/Pan_troglodytes
+MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.620
+UMLS_CUI: C0008111
+Commons_gallery: Pan troglodytes
+Commons_category: Pan troglodytes
+taxon_name: Pan troglodytes
+EPPO_Code: PANZTR
+---
+
+# [[Chimpanzee]] 
+
+#is_/same_as :: [[WD~Chimpanzee,4126704]]
+
+## #has_/text_of_/abstract 
+
+> The chimpanzee (Pan troglodytes), also simply known as the chimp, is a species of great ape native to the forests and savannahs of tropical Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and the bonobo are the only species in the genus Pan. Evidence from fossils and DNA sequencing shows that Pan is a sister taxon to the human lineage and is thus humans' closest living relative.
+>
+> The chimpanzee is covered in coarse black hair but has a bare face, fingers, toes, palms of the hands, and soles of the feet. It is larger and more robust than the bonobo, weighing 40–70 kg (88–154 lb) for males and 27–50 kg (60–110 lb) for females and standing 150 cm (4 ft 11 in).
+>
+> The chimpanzee lives in groups that range in size from 15 to 150 members, although individuals travel and forage in much smaller groups during the day. The species lives in a strict male-dominated hierarchy, where disputes are generally settled without the need for violence. Nearly all chimpanzee populations have been recorded using tools, modifying sticks, rocks, grass and leaves and using them for hunting and acquiring honey, termites, ants, nuts and water. The species has also been found creating sharpened sticks to spear small mammals. Its gestation period is eight months. The infant is weaned at about three years old but usually maintains a close relationship with its mother for several years more.
+>
+> The chimpanzee is listed on the IUCN Red List as an endangered species. Between 170,000 and 300,000 individuals are estimated across its range. The biggest threats to the chimpanzee are habitat loss, poaching, and disease. Chimpanzees appear in Western popular culture as stereotyped clown-figures and have featured in entertainments such as chimpanzees' tea parties, circus acts and stage shows. Although chimpanzees have been kept as pets, their strength, aggressiveness, and unpredictability makes them dangerous in this role. Some hundreds have been kept in laboratories for research, especially in the United States. Many attempts have been made to teach languages such as American Sign Language to chimpanzees, with limited success.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Chimpanzee) 
+
+
+
