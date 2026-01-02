@@ -19,8 +19,10 @@ aliases:
 > is an Israeli author, public intellectual, historian 
 > and professor in the Department of History at the Hebrew University of Jerusalem. 
 > 
-> He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind (2014), 
-> Homo Deus: A Brief History of Tomorrow (2016), and 21 Lessons for the 21st Century (2018). 
+> He is the author of the popular science bestsellers 
+> - Sapiens: A Brief History of Humankind (2014), 
+> - Homo Deus: A Brief History of Tomorrow (2016), and 21 Lessons for the 21st Century (2018). 
+> - Nexus (2025) 
 > His writings examine free will, consciousness, intelligence, happiness, and suffering.
 >
 > Harari writes about a "cognitive revolution" 
