@@ -2,12 +2,13 @@
 aliases:
   - Chlorid
   - Chloride
+  - "{ newTitle: }":
 has_id_wikidata: Q44791900
-different_from: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-has_part_s_: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-subclass_of: '[[_Standards/WikiData/WD~halide,193086]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chlorides,20690402]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+different_from: "[[_Standards/WikiData/WD~chloride_ion,108200]]"
+has_part_s_: "[[_Standards/WikiData/WD~chloride_ion,108200]]"
+subclass_of: "[[_Standards/WikiData/WD~halide,193086]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chlorides,20690402]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 Commons_category: Chlorides
 Common_Procurement_Vocabulary_code: 24312120
 UMLS_CUI:
@@ -16,6 +17,35 @@ UMLS_CUI:
 MeSH_tree_code:
   - D01.210.450.150
   - D01.248.497.158.215
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Chloride]] 
@@ -53,3 +83,22 @@ MeSH_tree_code:
 
 ### #is_/same_as :: [Chloride.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret.md)
 
+
+# [[Chloride]] 
+
+#is_/part_of :: [[Chloride]] 
+
+![[Chloride.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Chloride.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
