@@ -39,7 +39,7 @@ title: Araneidae
 
 [Jonathan Coddington]()
 
-![Banded Argiope](Araneidae/Argiope_trifasciata.jpg)![](Araneidae/Araneus_diadematus_4-8001.jpg))![](Araneidae/micrathena_gracilis01b.jpg))
+![Banded Argiope](Araneidae/Argiope_trifasciata.jpg)![](Araneidae/Araneus_diadematus_4-8001.jpg))![](Araneidae/micrathena_gracilis01b.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
@@ -53,7 +53,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Specimen Condition   Live Specimen
   Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
-![](Araneidae/Araneus_diadematus_4-8001.jpg))
+![](Araneidae/Araneus_diadematus_4-8001.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Arachnida:Spider:Araneidae: Araneus diadematus
@@ -63,7 +63,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
-![](Araneidae/micrathena_gracilis01b.jpg))
+![](Araneidae/micrathena_gracilis01b.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Micrathena gracilis

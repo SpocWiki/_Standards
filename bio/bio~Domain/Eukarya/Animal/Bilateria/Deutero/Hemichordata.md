@@ -55,7 +55,7 @@ Saccoglossus kowalevskii (Enteropneusta: Harrimaniidae).
 The grid lines are 0.25 inches apart. 
 Photograph by David Remsen, copyright © 1995,
 [Marine Biological Laboratory](http://www.mbl.edu/), Woods Hole.
-![saccoglossus](Hemichordata/saccoglossus.gif))
+![saccoglossus](Hemichordata/saccoglossus.gif) 
 
 
 ## Confidential Links & Embeds: 

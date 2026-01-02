@@ -117,19 +117,19 @@ Centipedes
 ## Title Illustrations
 
 ------------------------------------------------------------------------------------ 
-![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg))
+![House centipede, Scutigera coleoptrata](Centipede/Scutigera_coleoptra.jpg) 
 Scientific Name ::  Scutigera coleoptrata
 Comments          House centipede, Notostigmophora
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
 ------------------------------------------------------------------------------------ 
-![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg))
+![Desert centipede, Scolopendra](Centipede/Scolopendra.jpg) 
 Scientific Name ::  Scolopendra
 Comments          Desert centipede, Scolopendromorpha
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
 ------------------------------------------------------------------------------------ 
-![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg))
+![Garden centipede, Lithobius forficatus](Centipede/Lithobius_forficatus.jpg) 
 Scientific Name ::  Lithobius forficatus
 Comments          Garden centipede, Lithobiidae
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 

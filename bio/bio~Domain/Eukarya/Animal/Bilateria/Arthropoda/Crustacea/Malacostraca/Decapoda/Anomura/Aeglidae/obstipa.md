@@ -83,7 +83,7 @@ title: Aegla obstipa
 
 # *Aegla obstipa* 
 
-![ ](obstipa/obstipa1.jpg))
+![ ](obstipa/obstipa1.jpg) 
 
 Containing group:[Aeglidae](../Aeglidae.md) 
 
@@ -106,7 +106,7 @@ Sanga Picada da Cruz, 3rd District, Tapes, Rio Grande do Sul, Brazil.
 ### Distribution
 
 Sanga Picada da Cruz, Tapes, Rio Grande do Sul, Brazil.
-![ ](obstipa/_obstipa1.jpg))
+![ ](obstipa/_obstipa1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References
@@ -117,7 +117,7 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 ## Title Illustrations
 
 ----------------- 
-![](obstipa/obstipa1.jpg))
+![](obstipa/obstipa1.jpg) 
 Scientific Name ::  Aegla obstipa
 Creator           Ana Rossi
 Sex ::             Male

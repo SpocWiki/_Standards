@@ -5,7 +5,7 @@ title: Potamochoerus
 ---
 
 # [[Potamochoerus]] 
-![ ](Potamochoerus/126136127_3fa04e5125_o.jpg))
+![ ](Potamochoerus/126136127_3fa04e5125_o.jpg) 
 ![](Potamochoerus/bushpig.jpg)
 
 ## #has_/text_of_/abstract 
@@ -62,7 +62,7 @@ Survey and Conservation Action Plan.
 
 
 ------------------------------------------------------------- 
-![](Potamochoerus/126136127_3fa04e5125_o.jpg))
+![](Potamochoerus/126136127_3fa04e5125_o.jpg) 
 Scientific Name ::     Potamochoerus larvatus
 Location ::           captive, Uganda
 Specimen Condition   Live Specimen

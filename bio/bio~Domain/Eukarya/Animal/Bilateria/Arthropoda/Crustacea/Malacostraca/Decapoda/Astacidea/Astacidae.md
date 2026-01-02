@@ -6,7 +6,7 @@ title: Astacidae
 
 # [[Astacidae]] 
 
-![Pacifastacu leniusculus](Astacidae/p.jpg))
+![Pacifastacu leniusculus](Astacidae/p.jpg) 
 Photograph copyright © 1995 David Holdich
 
 ## #has_/text_of_/abstract 

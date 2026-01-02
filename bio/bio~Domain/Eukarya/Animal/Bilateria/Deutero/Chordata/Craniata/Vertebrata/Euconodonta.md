@@ -122,7 +122,7 @@ body shape, and tail stucture of the euconodonta are strikingly
 vertebrate-like. (After Purnell et al. 1995.)
 
 ---------- 
-![euconodonta](Euconodonta/euconodonta.gif))
+![euconodonta](Euconodonta/euconodonta.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 

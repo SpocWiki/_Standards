@@ -66,7 +66,7 @@ Body Part            Inflorescence
 Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 -------------------- 
-![Sambucus_nigra](Adoxaceae/Sambucus_nigra.jpg))
+![Sambucus_nigra](Adoxaceae/Sambucus_nigra.jpg) 
 Scientific Name ::     Sambucus nigra cerulea
 Comments             blue elderberry, one shrub in typical habitat
 Acknowledgements     Photograph courtesy InsectImages.org (#1208060)

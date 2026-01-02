@@ -128,7 +128,7 @@ and Evolution 40(3):739-749.
 
 ## Title Illustrations
 
-![](Capra/Goat/Goat.jpg))
+![](Capra/Goat/Goat.jpg) 
 
   ---------------------------
   Scientific Name ::     Capra hircus

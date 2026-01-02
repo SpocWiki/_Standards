@@ -589,7 +589,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
 
 ## Title Illustrations
 
-![](Eutheria/0707elephant.jpg))
+![](Eutheria/0707elephant.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Loxodonta africana
@@ -598,7 +598,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Two-toed sloth juvenile ](Eutheria/sloth.jpg))
+![Two-toed sloth juvenile ](Eutheria/sloth.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::   Choloepus hoffmani
@@ -607,7 +607,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Copyright ::          © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Killer whale](Eutheria/orca.jpg))
+![Killer whale](Eutheria/orca.jpg) 
 
   ----------
   Scientific Name ::     Orcinus orca

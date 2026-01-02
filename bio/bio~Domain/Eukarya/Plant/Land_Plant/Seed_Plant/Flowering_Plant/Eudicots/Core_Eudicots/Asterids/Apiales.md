@@ -70,7 +70,7 @@ NBN_System_Key: NHMSYS0000065728
 
 
 ------------------------------------------------------------------------- 
-![Castor aralia, Kalopanax septemlobus](Apiales/Kalopanax_septemlobus.jpg))
+![Castor aralia, Kalopanax septemlobus](Apiales/Kalopanax_septemlobus.jpg) 
 Scientific Name ::     Kalopanax septemlobus
 Location ::           Vladivostok suburb, Primorsky Territory (Russian Federation)
 Comments             Castor aralia (Araliaceae)
@@ -79,7 +79,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------------ 
-![Stiffleaf cheesewood, Pittosporum crassifolium](Apiales/Pittosporum_crassifolium.jpg))
+![Stiffleaf cheesewood, Pittosporum crassifolium](Apiales/Pittosporum_crassifolium.jpg) 
 Scientific Name ::     Pittosporum crassifolium
 Location ::           Golden Gate Park (San Francisco County, California, USA)
 Comments             Stiffleaf cheesewood (Pittosporaceae)
@@ -89,7 +89,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![Cow parsnip, Heracleum lanatum](Apiales/Heracleum_lanatum.jpg))
+![Cow parsnip, Heracleum lanatum](Apiales/Heracleum_lanatum.jpg) 
 Scientific Name ::     Heracleum lanatum (Apiaceae)
 Location ::           Point Reyes National Seashore (Marin County, California, USA)
 Creator              Photograph by Jo-Ann Ordano

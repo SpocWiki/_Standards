@@ -5,7 +5,7 @@ title: Ourebia ourebi
 ---
 
 # Ourebia ourebi 
-![Ourebia](Ourebia/Ourebia.jpg))
+![Ourebia](Ourebia/Ourebia.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -58,7 +58,7 @@ title: Ourebia ourebi
 ## Title Illustrations
 
 ------------------------------------------------------------- 
-![Ourebia](Ourebia/Ourebia.jpg))
+![Ourebia](Ourebia/Ourebia.jpg) 
 Scientific Name ::     Ourebia ourebi
 Location ::           Murchison Falls, Bunyoro, Uganda
 Specimen Condition   Live Specimen

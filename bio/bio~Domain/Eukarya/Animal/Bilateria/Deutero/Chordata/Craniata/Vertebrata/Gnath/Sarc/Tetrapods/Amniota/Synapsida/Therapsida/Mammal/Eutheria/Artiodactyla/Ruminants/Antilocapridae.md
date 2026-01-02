@@ -5,7 +5,7 @@ title: Antilocapridae
 ---
 
 # [[Antilocapridae]] 
-![](Antilocapridae/Merycodus_necatus_skull.jpg))
+![](Antilocapridae/Merycodus_necatus_skull.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -89,7 +89,7 @@ View                 lateral
 Type                 holotype
 
 ---------------------------------------------------------------------------- 
-![](Antilocapridae/Merycodus_necatus_skull.jpg))
+![](Antilocapridae/Merycodus_necatus_skull.jpg) 
 Scientific Name ::     Merycodus necatus
 Location ::           Barstow, San Bernardino County, California, USA
 Reference            Furlong, E. L. 1927. The occurrence and phylogenetic status of Merycodus from the Mohave Desert Tertiary. University of California Publications. Bulletin of the Department of Geological Sciences 17(4):145-186.

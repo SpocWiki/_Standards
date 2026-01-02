@@ -150,7 +150,7 @@ addition to the integumental photophores: (1) very small, whitish balls
 and (2) whitish rings surrounding chromatophores. Since the function of
 these two structures is unknown, we call the first \"white balls\" and
 the second \"ringed chromatophores\" for descriptive purposes.
-![ ](Mastigoteuthidae/MFlammeaPhot1.jpg))
+![ ](Mastigoteuthidae/MFlammeaPhot1.jpg) 
 
 **Figure**. Ventral view of the head integument of ***M. flammea***,
 Gulf of Mexico. Note that much of the pigmentation does not lie within
@@ -273,7 +273,7 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Title Illustrations
 
-![](Mastigoteuthidae/MAgassShale.jpg))
+![](Mastigoteuthidae/MAgassShale.jpg) 
 
   ------------------------------------------------
   Scientific Name ::     Mastigoteuthis agassizii

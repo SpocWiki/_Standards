@@ -42,7 +42,7 @@ title: Gonatidae
 
 [Tsunemi Kubodera, F. G. Hochberg, Richard E. Young, and Michael Vecchione]()
 
-![ ](Gonatidae/GSteenstrSideMarEco.jpg)![ ](Gonatidae/Gberryi1.jpg))
+![ ](Gonatidae/GSteenstrSideMarEco.jpg)![ ](Gonatidae/Gberryi1.jpg) 
 
 This family contains the following four genera with 19 species.
 
@@ -143,7 +143,7 @@ There have been several recent attempts to unravel the phylogeny of the
 Gonatidae. Nesis (1997) relied on similarity of morphology and,
 apparently, results of protein electrophoresis by Katugin (1993 and
 1995) to derive the following relationships:
-![ ](Gonatidae/GonatidPhylog.jpg))
+![ ](Gonatidae/GonatidPhylog.jpg) 
 
 **Figure**. Phylogeny of the Gonatidae. Chart modified from Nesis
 (1997). Subgenera are in red. Nesis included only species that were well
@@ -154,7 +154,7 @@ Clearly if this phylogeny is correct then ***Gonatopsis*** is
 polyphyletic. More recently Katugin (2004) has reassessed the phylogeny
 of the gonatidae using electrophoretic analysis of allozymes. His
 results are seen below.
-![ ](Gonatidae/GonatidTree2.jpg))
+![ ](Gonatidae/GonatidTree2.jpg) 
 
 **Figure**. Phylogenetic tree of the Gonatidae. Chart modified from
 Katugin (2004). Numbers represent genetic distance based on protein
@@ -179,7 +179,7 @@ nodes. This data suggests that the ***Gonatus*** is paraphyletic.
 ***Gonatopsis borealis*** groups more closely with ***Berryteuthis***
 than other species of ***Gonatopsis*** as suggested by both Nesis (1997)
 and Katugin (2004).
-![ ](Gonatidae/GonatDNAphyl2.jpg))
+![ ](Gonatidae/GonatDNAphyl2.jpg) 
 
 **Figure**. Phylogenetic tree of the Gonatidae. Chart simplified from
 Lindgren et al. (2005) by collapsing nodes with bootstrap support of 50
@@ -274,7 +274,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](Gonatidae/GSteenstrSideMarEco.jpg))
+![](Gonatidae/GSteenstrSideMarEco.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Gonatus steenstrupi
@@ -285,7 +285,7 @@ Zool., 97: 1-159.
   Copyright ::            © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -------------------------------------------------------------------------
-![](Gonatidae/Gberryi1.jpg))
+![](Gonatidae/Gberryi1.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Gonatus berryi

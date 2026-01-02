@@ -217,7 +217,7 @@ shown above.
 
 
 ------------------------------------ 
-![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg))
+![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg) 
 Scientific Name ::     Villebrunaster thorali (Villebrunasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -226,7 +226,7 @@ Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
-![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg))
+![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg) 
 Scientific Name ::     Archegonaster pentagonus (Archegonasteridae)
 Location ::           from former Czechoslovakia
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
@@ -235,7 +235,7 @@ Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
-![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg))
+![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg) 
 Scientific Name ::     Chinianaster levyi (Chinianasteridae)
 Location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.

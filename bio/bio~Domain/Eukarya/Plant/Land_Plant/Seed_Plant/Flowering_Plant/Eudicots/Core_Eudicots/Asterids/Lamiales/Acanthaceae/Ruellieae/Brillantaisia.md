@@ -75,7 +75,7 @@ morphology probably aids in the floral movement mechcanism.
 
 
 ------------------------------------------------------------------------ 
-![Brillantasia_nyanzarum](Brillantaisia/Brillantasia_nyanzarum.jpg))
+![Brillantasia_nyanzarum](Brillantaisia/Brillantasia_nyanzarum.jpg) 
 Scientific Name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
 Location ::           Greenhouse, Duke University
 Specimen Condition   Live Specimen
@@ -83,7 +83,7 @@ Identified By        E. A. Tripp
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ------------------------------------- 
-![](Brillantaisia/Brillantasiaowariensis.jpg))
+![](Brillantaisia/Brillantasiaowariensis.jpg) 
 Scientific Name ::     Brillantaisia owariensis P. Beauv.
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html)

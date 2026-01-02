@@ -140,12 +140,12 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 **Bathyteuthis abyssicola**, Antarctic waters. (Photographs copyright ©
 1998, C. F. E. Roper).
-![](abyssicola/Bathyteuthis2.jpg))
+![](abyssicola/Bathyteuthis2.jpg) 
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper
   ---------
-![](abyssicola/BabyssicolaDraw.jpg))
+![](abyssicola/BabyssicolaDraw.jpg) 
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper

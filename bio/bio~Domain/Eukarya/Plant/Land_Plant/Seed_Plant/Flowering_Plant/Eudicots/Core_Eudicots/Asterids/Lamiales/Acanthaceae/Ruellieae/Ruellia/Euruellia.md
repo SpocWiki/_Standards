@@ -90,7 +90,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Ruellia_nudiflora](Euruellia/Ruellia_nudiflora.jpg))
+![Ruellia_nudiflora](Euruellia/Ruellia_nudiflora.jpg) 
 Scientific Name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
 Location ::           Tabasco, Mexico
 Specimen Condition   Live Specimen
@@ -99,7 +99,7 @@ Collector            Tripp & Dexter
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg))
+![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg) 
 Scientific Name ::     Ruellia malacosperma Greenm.
 Location ::           Oaxaca, Mexico
 Comments             plants cultivated outside a restaurant

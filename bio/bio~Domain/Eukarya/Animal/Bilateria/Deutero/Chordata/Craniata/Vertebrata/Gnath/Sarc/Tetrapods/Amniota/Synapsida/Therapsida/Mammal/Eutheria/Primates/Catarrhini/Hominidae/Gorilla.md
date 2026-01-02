@@ -78,7 +78,7 @@ has_id_wikidata: Q36611
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   Copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
   ----------------------------------------------------------------
-![](Gorilla/Gorilla057.jpg))
+![](Gorilla/Gorilla057.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Gorilla gorilla

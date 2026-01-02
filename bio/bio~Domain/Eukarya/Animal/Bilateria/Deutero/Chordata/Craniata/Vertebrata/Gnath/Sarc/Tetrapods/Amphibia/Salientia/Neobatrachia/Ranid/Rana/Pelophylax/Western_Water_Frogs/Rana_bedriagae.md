@@ -116,7 +116,7 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
 
 ## Title Illustrations
 
-![](Rana_bedriagae/beyshehir.jpg))
+![](Rana_bedriagae/beyshehir.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana bedriagae

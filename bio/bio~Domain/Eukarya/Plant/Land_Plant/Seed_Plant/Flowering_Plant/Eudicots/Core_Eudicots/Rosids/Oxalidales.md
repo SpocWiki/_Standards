@@ -5,7 +5,7 @@ title: Oxalidales
 ---
 
 # [[Oxalidales]] 
-![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg))
+![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -74,7 +74,7 @@ title: Oxalidales
 
 
 ------------------------------------------------------------------------ 
-![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg))
+![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg) 
 Scientific Name ::   Cephalotus follicularis
 Location ::         Native to Southwest Australia
 Comments           Albany pitcher plant. Specimen cultivated at the Botanical Garden Basel, Switzerland.
@@ -82,7 +82,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg))
+![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 Scientific Name ::  Crinodendron hookeranum
 Comments          Flower of the lantern tree (Elaeocarpaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 

@@ -175,7 +175,7 @@ of Comparative Zoology. l54(4): 215-368.
 
 ## Title Illustrations
 
-![](Dendryphantinae/metaphidippus.gif))
+![](Dendryphantinae/metaphidippus.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

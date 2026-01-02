@@ -89,7 +89,7 @@ Hokkaido Imperial University, 20(supplement):357 pages.
 
 ## Title Illustrations
 
-![](Metasepia/Metasepia.jpg))
+![](Metasepia/Metasepia.jpg) 
 
   ------------
   Scientific Name ::  Metasepia tullbergi

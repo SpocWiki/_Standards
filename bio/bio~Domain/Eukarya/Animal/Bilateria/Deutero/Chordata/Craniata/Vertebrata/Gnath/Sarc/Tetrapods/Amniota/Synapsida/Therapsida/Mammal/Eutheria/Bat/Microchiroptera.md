@@ -21,7 +21,7 @@ NBN_System_Key: NHMSYS0000376878
 # [[Microchiroptera]] 🦇 
 
 ## Echolocating Bats 
-![ ](Microchiroptera/pteronotus_parnellii.gif))![ ](Microchiroptera/uroderma1.gif))
+![ ](Microchiroptera/pteronotus_parnellii.gif))![ ](Microchiroptera/uroderma1.gif) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Microchiroptera,971343|WD~Microchiroptera,971343]] 
 
@@ -287,12 +287,12 @@ Distribution from Hill and Smith (1984).
 Pteronotus parnellii (Noctilionoidea) and Uroderma bilobatum(Noctilionoidea)
 
 ---------- 
-![](Microchiroptera/pteronotus_parnellii.gif))
+![](Microchiroptera/pteronotus_parnellii.gif) 
 Scientific Name ::  Pteronotus parnellii
 Copyright ::         © 1997 Nancy Simmons
 
 ---------- 
-![](Microchiroptera/uroderma1.gif))
+![](Microchiroptera/uroderma1.gif) 
 Scientific Name ::  Uroderma bilobatum
 Copyright ::         © 1997 Nancy Simmons
 

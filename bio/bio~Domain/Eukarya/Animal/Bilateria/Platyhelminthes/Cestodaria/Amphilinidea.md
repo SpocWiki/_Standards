@@ -67,7 +67,7 @@ turtles and teleost fish and use crustaceans as intermediate hosts. More
 detail is available on the [Life cycles](http://www.tolweb.org/accessory/Amphilinidea_Life_Cycles?acc_id=1776)
 page. They have 10 hooks of several types at the posterior end (Fig.1),
 and a posteriorly located large seminal receptacle and ovary.
-![ ](Amphilinidea/fig6am.gif))
+![ ](Amphilinidea/fig6am.gif) 
 
 Figure 1. Hooks of larval *Amphilina foliacea*. a. Arrangement of hooks
 in the larva, b. Shape of hooks in greater detail (redrawn from
@@ -77,7 +77,7 @@ The uterus extends from the ovary to the anterior end, back again to the
 posterior end, and forward to open at the anterior end. Small follicular
 yolk glands and testes are scattered over large parts of the body.
 Amphilinids lack an intestine (Fig. 2).
-![ ](Amphilinidea/fig14am.gif))
+![ ](Amphilinidea/fig14am.gif) 
 
 Figure 2. Juvenile *Amphilina foliacea*. Note uterine opening at
 anterior end, and vaginal and male pores at posterior end (redrawn from

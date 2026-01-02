@@ -28,7 +28,7 @@ title: Ustilaginomycetes
 [Robert Bauer, Dominik Begerow, and Franz Oberwinkler]()
 
 ![ ](Ustilaginomycotina/entorrhiza.jpg)
-![ ](Ustilaginomycotina/ustilago.jpg)![](Ustilaginomycotina/exobasidium.jpg))
+![ ](Ustilaginomycotina/ustilago.jpg)![](Ustilaginomycotina/exobasidium.jpg) 
 
 Containing group:[Basidiomycota](../Basidiomycota.md) 
 
@@ -90,7 +90,7 @@ inflorescences, flowers, anthers, ovaries, seeds etc.
 An important apomorphy for the Ustilaginomycetes is the presence of
 zones of host-parasite interaction with fungal deposits resulting from
 exocytosis of primary interactive vesicles (Bauer et al. 1995a, 1997).
-![ ](Ustilaginomycotina/interactionI.jpg))
+![ ](Ustilaginomycotina/interactionI.jpg) 
 
 Fig.1. Transmission electron micrograph showing primary interactive
 vesicles in Exobasidium pachysporum. Scale bar = 0.2 µm. © R. Bauer
@@ -108,7 +108,7 @@ vesicles per interaction site results in local interaction zones, and
 exocytosis of primary interactive vesicles results in the continuous
 deposition of fungal material at the whole contact area with the host
 cell.
-![ ](Ustilaginomycotina/haustorium.jpg))
+![ ](Ustilaginomycotina/haustorium.jpg) 
 
 Fig. 3. Transmission electron micrograph showing a local interaction
 zone (arrows) between Exobasidium pachysporum (lower cell) and its host
@@ -139,7 +139,7 @@ Ustilaginomycetes are without multilayered parenthesomes. In contrast
 with the Urediniomycetes, in most Ustilaginomycetes the septal pores are
 enclosed by distinctive, tripartite membrane caps or discs (Bauer et al.
 1995b, Bauer et al. 1997, Fig. 5).
-![ ](Ustilaginomycotina/porus.jpg))
+![ ](Ustilaginomycotina/porus.jpg) 
 
 Fig. 5. Transmission electron micrograph showing a typical septal pore
 apparatus of the Ustilaginomycetes (Entyloma callitrichis) with two
@@ -160,7 +160,7 @@ the Ustilaginomycetes are dimorphic, producing a yeast or yeast-like
 phase in the haploid state. Almost all Ustilaginomycetes multiply
 mitotically in the saprobic phase, either with yeasts or with
 ballistoconidia, or with both.
-![ ](Ustilaginomycotina/lifecycle.gif))
+![ ](Ustilaginomycotina/lifecycle.gif) 
 
 Fig. 6. Generalized life cycle of the Ustilaginomycetes. © R. Bauer and
 F. Oberwinkler 1997
@@ -313,7 +313,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
 
 ## Title Illustrations
 
-![](Ustilaginomycotina/entorrhiza.jpg))
+![](Ustilaginomycotina/entorrhiza.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Entorrhiza casparyana, Juncus articulatus
@@ -321,7 +321,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
-![](Ustilaginomycotina/ustilago.jpg))
+![](Ustilaginomycotina/ustilago.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Ustilago maydis, Zea mays
@@ -329,7 +329,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
-![](Ustilaginomycotina/exobasidium.jpg))
+![](Ustilaginomycotina/exobasidium.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Exobasidium vaccinii, Vaccinium vitis-idaea

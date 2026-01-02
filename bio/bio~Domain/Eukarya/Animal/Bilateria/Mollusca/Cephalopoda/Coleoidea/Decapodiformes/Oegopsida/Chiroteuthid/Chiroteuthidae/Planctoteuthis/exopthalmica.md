@@ -6,7 +6,7 @@ title: Planctoteuthis exopthalmica
 
 # Planctoteuthis [[exopthalmica]] 
 [(Chun 1910)] 
-![ ](exopthalmica/P.jpg))![ ](exopthalmica/PExopthalmicaDors.jpg))
+![ ](exopthalmica/P.jpg))![ ](exopthalmica/PExopthalmicaDors.jpg) 
 
 Containing group: [Planctoteuthis](../Planctoteuthis.md))*
 
@@ -96,7 +96,7 @@ Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche 
 Size              9.5 mm ML
 
 --------------------------------------------------- 
-![](exopthalmica/PExopthalmicaDors.jpg))
+![](exopthalmica/PExopthalmicaDors.jpg) 
 Scientific Name ::   Planctoteuthis exopthalmica
 Reference          Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
 Life Cycle Stage ::   Paralarva

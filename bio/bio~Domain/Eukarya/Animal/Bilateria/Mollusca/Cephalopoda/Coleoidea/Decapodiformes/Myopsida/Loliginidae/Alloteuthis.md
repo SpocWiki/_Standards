@@ -133,7 +133,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Alloteuthis/AlloteuMedia.jpg))
+![](Alloteuthis/AlloteuMedia.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Alloteuthis media

@@ -32,7 +32,7 @@ title: Planctoteuthis oligobessa
 # *Planctoteuthis oligobessa* [Young 1972] 
 
 [Richard E. Young and Clyde F. E. Roper]()
-![ ](oligobessa/P_004.jpg))
+![ ](oligobessa/P_004.jpg) 
 
 The holotype is deposited in the Santa Barbara Museum of Natural
 History, Santa Barbara, California.
@@ -100,7 +100,7 @@ locality strongly suggests that it is ***P. oligobessa***. The function
 of the tail is unknown although Vecchione et al. (1992) noted that the
 tail of ***Chiroteuthis*** (see Chiroteuthidae page) causes the young
 squid to resemble certain siphonophores suggesting protective mimicry.
-![ ](oligobessa/PlanctoteuthisOligoLive.jpg))
+![ ](oligobessa/PlanctoteuthisOligoLive.jpg) 
 
 **Figure**. Lateral view, insitu, apparently of **P. oligobessa**, taken
 by a remotely operated vehicle (ROV) off California, © MBARI 2001
@@ -163,7 +163,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](oligobessa/P.jpg))
+![](oligobessa/P.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Planctoteuthis oligobessa, Planctoteuthis oligobessa (2)

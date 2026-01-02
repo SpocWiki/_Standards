@@ -121,7 +121,7 @@ Calanus pavo male (Calanidae).
 Image from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904 by
 Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![Calanus_pavo](Calanoida/Calanus_pavo.jpg))
+![Calanus_pavo](Calanoida/Calanus_pavo.jpg) 
 
 
 ## Confidential Links & Embeds: 

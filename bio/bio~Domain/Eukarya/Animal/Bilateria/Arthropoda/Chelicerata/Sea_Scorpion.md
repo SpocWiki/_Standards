@@ -107,7 +107,7 @@ Sea Scorpions
 Images from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904
 by Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![](Sea_Scorpion/Eurypterus.jpg))
+![](Sea_Scorpion/Eurypterus.jpg) 
 ![](Sea_Scorpion/Pterygotus_anglicus.jpg))
 
 

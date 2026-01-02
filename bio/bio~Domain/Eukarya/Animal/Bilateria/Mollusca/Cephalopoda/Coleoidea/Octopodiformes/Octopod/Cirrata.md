@@ -329,7 +329,7 @@ Amer. Malac. Union., 12: 91-112.
 
 ## Title Illustrations
 
-![](Cirrata/Cirrot1.jpg))
+![](Cirrata/Cirrot1.jpg) 
 
   ---------------------
   Scientific Name ::     Cirroteuthidae

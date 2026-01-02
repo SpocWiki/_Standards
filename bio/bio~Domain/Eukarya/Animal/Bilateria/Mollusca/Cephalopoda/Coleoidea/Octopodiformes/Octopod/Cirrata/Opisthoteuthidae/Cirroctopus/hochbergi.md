@@ -91,7 +91,7 @@ Mar. Sci. 20: 421-428.\'
 
 ## Title Illustrations
 
-![](hochbergi/CirroctHochbergi.jpg))
+![](hochbergi/CirroctHochbergi.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Cirroctopus hochbergi

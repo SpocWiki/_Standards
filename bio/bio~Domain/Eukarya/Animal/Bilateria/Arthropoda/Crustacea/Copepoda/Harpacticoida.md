@@ -5,7 +5,7 @@ title: Harpacticoida
 ---
 
 # [[Harpacticoida]] 
-![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg))
+![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ## #has_/text_of_/abstract 
 
 > **Harpacticoida** is an order of copepods, in the subphylum Crustacea. 
@@ -116,7 +116,7 @@ Clytemnestra scutellata female (Clytemnestridae).
 Image from Ernst Haeckel\'s Kunstformen der Natur published 1899-1904 by
 Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
-![](Harpacticoida/Clytemnestra_scutellata.jpg))
+![](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ::::::::::::::::
 
 

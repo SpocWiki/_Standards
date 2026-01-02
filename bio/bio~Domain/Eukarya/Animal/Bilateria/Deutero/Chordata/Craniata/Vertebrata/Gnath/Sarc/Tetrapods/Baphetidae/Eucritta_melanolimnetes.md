@@ -65,7 +65,7 @@ melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http:/
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Eucritta_melanolimnetes/Eucritta.jpg))
+![](Eucritta_melanolimnetes/Eucritta.jpg) 
   Scientific Name ::     Eucritta melanolimnetes
   Reference            see Clack, J. A. 2001 Eucritta melanolimnetes from the Early Carboniferous of Scotland, a stem tetrapod showing a mosaic of characteristics. Trans R. Soc. Ed. 92, 75-95.
   Specimen Condition   Fossil

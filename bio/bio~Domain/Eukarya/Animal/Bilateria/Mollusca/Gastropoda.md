@@ -51,7 +51,7 @@ title: Gastropoda
 
 
 -------------------------------------------------------------------------- 
-![Nudibranchia](Gastropoda/Nudibranchia.jpg))
+![Nudibranchia](Gastropoda/Nudibranchia.jpg) 
 Scientific Name ::  Nudibranchia
 Comments          Silver cloud nudibranch
 Creator           P. Crawford & D. Giberson, UPEI

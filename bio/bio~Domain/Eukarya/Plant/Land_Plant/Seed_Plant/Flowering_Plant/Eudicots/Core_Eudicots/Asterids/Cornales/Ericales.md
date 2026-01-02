@@ -73,7 +73,7 @@ taxon_common_name: 杜鹃花目
 
 
 --------------------------------------------------------------------- 
-![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg))
+![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg) 
 Scientific Name ::  Erica vagans
 Comments          Cornish heath (Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
@@ -88,7 +88,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 --------------------- 
-![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg))
+![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
 Scientific Name ::     Sarracenia alabamensis
 Location ::           Near Selma (Alabama, USA)
 Comments             Pitcher plant (Sarraceniaceae)

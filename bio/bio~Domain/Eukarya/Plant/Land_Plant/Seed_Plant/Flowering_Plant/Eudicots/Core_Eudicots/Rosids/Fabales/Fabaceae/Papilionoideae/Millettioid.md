@@ -96,13 +96,13 @@ paraphyletic Phaseoleae.
 ## Title Illustrations
 
 ---------------------- 
-![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg))
+![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg) 
 Scientific Name ::     Phaseolus vulgaris L.
 Specimen Condition   Live Specimen
 Copyright ::            © [Robert Kiedrowski](http://www.danad.com.pl/foto.htm)
 
 ----------------------- 
-![Erythrina falcata](Millettioid/Erythrina_falcata.jpg))
+![Erythrina falcata](Millettioid/Erythrina_falcata.jpg) 
 Scientific Name ::     Erythrina falcata Bentham
 Location ::           Peru
 Comments             Member of tribe Phaseoleae

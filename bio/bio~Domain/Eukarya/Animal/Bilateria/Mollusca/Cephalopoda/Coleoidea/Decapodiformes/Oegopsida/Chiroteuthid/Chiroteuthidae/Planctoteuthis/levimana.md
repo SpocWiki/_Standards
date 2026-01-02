@@ -79,7 +79,7 @@ Chun in the North Atlantic (31° 59\'N, 15° 5\'W) and probably belongs to
 ***P. levimana***. Whether or not ***P. exopthalmica***, which is now
 based on a single small (9.5 mm ML) paralarva from the Indian Ocean is a
 junior synonym of ***P. levimana*** remains to be determined.
-![ ](levimana/P.jpg))
+![ ](levimana/P.jpg) 
 
 **Figure**. Ventral view of a paralarva of ***P. levimana***, 25 mm ML,
 North Atlantic. Drawing from Chun (1910) identified as ***P.
@@ -123,7 +123,7 @@ from 0-2400 m.
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](levimana/MLevimanaVent.jpg))
+![](levimana/MLevimanaVent.jpg) 
 Scientific Name ::     Planctoteuthis levimana
 Location ::           41°31\'N, 29°55\'W
 Specimen Condition   Fresh

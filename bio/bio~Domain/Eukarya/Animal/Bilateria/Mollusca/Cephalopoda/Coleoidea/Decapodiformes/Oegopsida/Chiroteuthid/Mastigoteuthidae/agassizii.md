@@ -7,7 +7,7 @@ title: Mastigoteuthis agassizii
 # *Mastigoteuthis agassizii* [Verrill, 1881] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](agassizii/MAgassShale2.jpg))
+![ ](agassizii/MAgassShale2.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -141,7 +141,7 @@ Academy of Sciences, 5: 259-446.
 
 ## Title Illustrations
 
-![](agassizii/MAgassShale2.jpg))
+![](agassizii/MAgassShale2.jpg) 
 
   -----------------------------------------------
   Scientific Name ::     Mastigoteuthis agassizii

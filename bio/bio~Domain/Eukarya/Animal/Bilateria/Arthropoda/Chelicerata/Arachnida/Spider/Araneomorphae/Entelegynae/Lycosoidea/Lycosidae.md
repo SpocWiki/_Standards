@@ -164,7 +164,7 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
 
 ## Title Illustrations
 
-![Wolf spider (Lycosa sp.) face, Arizona](Lycosidae/wolfspider_face.jpg))
+![Wolf spider (Lycosa sp.) face, Arizona](Lycosidae/wolfspider_face.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Lycosa

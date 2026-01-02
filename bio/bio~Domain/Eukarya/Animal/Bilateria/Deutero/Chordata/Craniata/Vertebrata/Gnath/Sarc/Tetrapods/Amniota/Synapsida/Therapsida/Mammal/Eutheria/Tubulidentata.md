@@ -113,7 +113,7 @@ View                 Lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![aardvark](Tubulidentata/Orycteropodidae/Orycteropus_afer0073.jpg))
+![aardvark](Tubulidentata/Orycteropodidae/Orycteropus_afer0073.jpg) 
 Scientific Name ::     Orycteropus afer
 Location ::           captive specimen at Frankfurt Zoo (Germany)
 Comments             aardvark

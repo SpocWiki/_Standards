@@ -90,7 +90,7 @@ A pterotracheid with:
 ## Title Illustrations
 
 -------------- 
-![Firoloida desmaresti](Firoloida/Firoloida_desmaresti.jpg))
+![Firoloida desmaresti](Firoloida/Firoloida_desmaresti.jpg) 
 Scientific Name ::     Firoloida desmaresti
 Location ::           off Monterey Bay, California
 Specimen Condition   Live Specimen

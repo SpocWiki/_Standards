@@ -26,7 +26,7 @@ title: Atlanta californiensis
 # *Atlanta californiensis* [Seapy and Richter 1993] 
 
 [Roger R. Seapy](http://www.tolweb.org/)
-![ ](californiensis/a.jpg))
+![ ](californiensis/a.jpg) 
 
 Containing group: [Atlanta](../Atlanta.md))*
 

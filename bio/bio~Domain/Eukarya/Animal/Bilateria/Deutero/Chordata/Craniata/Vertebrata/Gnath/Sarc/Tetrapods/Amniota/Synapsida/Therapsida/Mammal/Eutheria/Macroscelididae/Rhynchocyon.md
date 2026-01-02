@@ -6,7 +6,7 @@ title: Rhynchocyon
 
 # [[Rhynchocyon]] 
 
-![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg))
+![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -68,7 +68,7 @@ Scientific Name ::  Rhynchocyon chrysopygus
 Creator           Joseph Smit (1836--1929)
 
 ----------------------------- 
-![](Rhynchocyon/210618830_bd29523f8b_o.jpg))
+![](Rhynchocyon/210618830_bd29523f8b_o.jpg) 
 Scientific Name ::                    Rhynchocyon petersi
 Location ::                          Philadelphia Zoo
 Acknowledgements                    This image is licensed under the

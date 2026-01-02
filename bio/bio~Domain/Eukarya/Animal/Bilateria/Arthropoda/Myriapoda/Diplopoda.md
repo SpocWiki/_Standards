@@ -126,7 +126,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
 
 --------------------- 
-![Californiulus euphanus](Diplopoda/Californiulus_euphanus.jpg))
+![Californiulus euphanus](Diplopoda/Californiulus_euphanus.jpg) 
 Scientific Name ::     Californiulus euphanus
 Location ::           Catherine Creek, Klickitat County (Washington, US)
 Specimen Condition   Live Specimen

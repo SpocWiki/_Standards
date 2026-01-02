@@ -36,13 +36,13 @@ title: Uloboridae
 -   » Sub-Groups 
 
 # Uloboridae 
-![ ](Uloboridae/philiponellahub.jpg))
+![ ](Uloboridae/philiponellahub.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
-![](Uloboridae/philiponellahub.jpg))
+![](Uloboridae/philiponellahub.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Philoponella sp.

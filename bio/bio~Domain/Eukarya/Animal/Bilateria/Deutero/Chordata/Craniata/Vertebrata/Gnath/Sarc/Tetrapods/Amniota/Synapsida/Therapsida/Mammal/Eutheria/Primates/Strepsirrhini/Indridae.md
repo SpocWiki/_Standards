@@ -5,7 +5,7 @@ title: Indridae
 ---
 
 # [[Indridae]] 
-![Indri sitting in tree](Indridae/Indri_indri0037.jpg))
+![Indri sitting in tree](Indridae/Indri_indri0037.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -50,7 +50,7 @@ title: Indridae
 
 
 ------------------------------------------------------------------------------ 
-![Indri sitting in tree](Indridae/Indri_indri0037.jpg))
+![Indri sitting in tree](Indridae/Indri_indri0037.jpg) 
 Scientific Name ::    Indri indri
 Location ::          Andasibe National Park, Perinet Reserve (Madagascar)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)

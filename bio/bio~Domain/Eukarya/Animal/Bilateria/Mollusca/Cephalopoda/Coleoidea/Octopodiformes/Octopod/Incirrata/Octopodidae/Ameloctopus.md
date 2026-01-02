@@ -129,7 +129,7 @@ waters. Invertebrate Taxonomy 6: 567-82
 ## Title Illustrations 
 
 --------------------------------------------------------------------------- 
-![](Ameloctopus/AmeloctI.JPG))
+![](Ameloctopus/AmeloctI.JPG) 
 Scientific Name ::     Ameloctopus litoralis
 Specimen Condition   Live Specimen
 Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 

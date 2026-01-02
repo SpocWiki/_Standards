@@ -54,7 +54,7 @@ title: Chloranthaceae
 ## Title Illustrations
 
 -------------------------------------------------------- 
-![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg))
+![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg) 
 Scientific Name ::     Sarcandra glabra
 Specimen Condition   Live Specimen
 Body Part            fruits

@@ -302,7 +302,7 @@ available data.
 ## Title Illustrations
 
 --------------- 
-![](Ambystomatidae/opacum.jpg))
+![](Ambystomatidae/opacum.jpg) 
 Scientific Name ::     Ambystomatidae
 Location ::           Eastern United States
 Comments             The marbled salamander with eggs

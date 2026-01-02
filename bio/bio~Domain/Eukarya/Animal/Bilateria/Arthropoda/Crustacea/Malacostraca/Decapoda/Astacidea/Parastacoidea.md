@@ -42,7 +42,7 @@ surface water. In terms of the number of species, morphological
 variability, and ecological diversity, Australia\'s freshwater crayfish
 fauna is rivalled only by that found in the south east of the USA (for
 examples of Australian crayfish diversity, see Merrick, 1993).
-![ ](Parastacoidea/parastacid_map2.gif))
+![ ](Parastacoidea/parastacid_map2.gif) 
 
 Figure 2. Distributions of the remaining Parastacid genera. Note that
 there is an overlap of Parastacus and Samastacus in central Chile that

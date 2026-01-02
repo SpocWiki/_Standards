@@ -70,14 +70,14 @@ seeds have conical tubercles.
 ## Title Illustrations
 
 -------------------------------------------------------------------------- 
-![Cynarospermum](Cynarospermum/Cynaro.jpg))
+![Cynarospermum](Cynarospermum/Cynaro.jpg) 
 Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
 Location ::           Mysore, India
 Specimen Condition   Dead Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Cynarospermum](Cynarospermum/Cynarosp_004.jpg))
+![Cynarospermum](Cynarospermum/Cynarosp_004.jpg) 
 Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
 Location ::           Mysore, India
 Reference            KEW

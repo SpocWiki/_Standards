@@ -283,7 +283,7 @@ free existence as juveniles and adults.
 ## Title Illustrations
 
 -------------------------------------------------------------------------------- 
-![Onychocrinus exsculptus fossil](Crinoidea/onychocrinus.jpg))
+![Onychocrinus exsculptus fossil](Crinoidea/onychocrinus.jpg) 
 Scientific Name ::     Onychocrinus exsculptus
 Location ::           Indiana
 Comments             Cladida
@@ -291,7 +291,7 @@ Specimen Condition   Fossil \-- Period: Lower Mississippian
 Copyright ::            © 1997 [William I. Ausich](http://www.geology.ohio-state.edu/%7Eausich/) 
 
 -------------------------------------------------------------------------------- 
-![Neocrinus decorus](Crinoidea/neocrinus.jpg))
+![Neocrinus decorus](Crinoidea/neocrinus.jpg) 
 Scientific Name ::  Neocrinus decorus
 Location ::        Grand Bahama Island, 420m
 Comments          Isocrinidae

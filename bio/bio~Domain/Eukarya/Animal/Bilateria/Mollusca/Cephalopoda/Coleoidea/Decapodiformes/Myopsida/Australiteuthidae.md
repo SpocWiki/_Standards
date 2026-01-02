@@ -28,7 +28,7 @@ title: Australiteuthis aldrichi
 # *Australiteuthis aldrichi* [Lu, 2005] 
 
 [Chung Cheng Lu and Richard E. Young]()
-![ ](Australiteuthidae/AustAldrichiDV2.jpg))![ ](Australiteuthidae/AustAldrichiDraw.jpg))
+![ ](Australiteuthidae/AustAldrichiDV2.jpg))![ ](Australiteuthidae/AustAldrichiDraw.jpg) 
 
 Containing group:[Myopsida](../Myopsida.md) 
 
@@ -102,7 +102,7 @@ pp.
 
 ## Title Illustrations
 
-![](Australiteuthidae/AustAldrichiDV2.jpg))
+![](Australiteuthidae/AustAldrichiDV2.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Australiteuthis aldrichi
@@ -115,7 +115,7 @@ pp.
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
  
   -------------------------------------------------------------------------
-![](Australiteuthidae/AustAldrichiDraw.jpg))
+![](Australiteuthidae/AustAldrichiDraw.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Australiteuthis aldrichi

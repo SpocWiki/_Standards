@@ -232,7 +232,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 
 ## Title Illustrations
 
-![](Opisthoteuthis/OpisthoExtensaChun.jpg))
+![](Opisthoteuthis/OpisthoExtensaChun.jpg) 
 
   ------------------------------------------------------------
   Scientific Name ::  Opisthoteuthis extensa
@@ -240,7 +240,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   View              Aboral
   Type              Holotype
   ------------------------------------------------------------
-![](Opisthoteuthis/OpisthoChunOral.jpg))
+![](Opisthoteuthis/OpisthoChunOral.jpg) 
 
   ------------------------------------------------------------
   Scientific Name ::  Opisthoteuthis extensa

@@ -6,7 +6,7 @@ title: Magnapinna atlantica
 ---
 
 # *Magnapinna atlantica* [Vecchione and Young 2006] 
-![ ](Magnapinna_atlantica/MagnpinnaSpA.jpg))
+![ ](Magnapinna_atlantica/MagnpinnaSpA.jpg) 
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
@@ -146,7 +146,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Title Illustrations
 
-![](Magnapinna_atlantica/MagnpinnaSpA.jpg))
+![](Magnapinna_atlantica/MagnpinnaSpA.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Magnapinna atlantica

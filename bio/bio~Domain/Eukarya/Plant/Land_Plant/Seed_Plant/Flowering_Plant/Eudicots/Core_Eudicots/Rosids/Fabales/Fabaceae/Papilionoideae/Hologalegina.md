@@ -85,7 +85,7 @@ relationship of Hologalegina to the Millettioids sens. lat. clade.
 ## Title Illustrations
 
 --------------------------- 
-![Pisum sativum](Hologalegina/Pisum_sativum.jpg))
+![Pisum sativum](Hologalegina/Pisum_sativum.jpg) 
 Scientific Name ::     Pisum sativum L.
 Specimen Condition   Live Specimen
 Copyright ::            © [H. Schneider](http://www.biologie.uni-hamburg.de/b-online/e02/02.htm)
@@ -97,7 +97,7 @@ Location ::        Mount Ord, AZ
 Copyright ::         © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
 
 ----------------------------------------- 
-![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg))
+![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg) 
 Scientific Name ::  Lotus corniculatus L.
 Copyright ::         © [Franco Tobias](http://serc.fiu.edu/periphyton/periphyton/factwebpage/Franco%27s%20photo%20webpage/Main%20page.htm)
 

@@ -28,7 +28,7 @@ title: Bathyteuthis bacidifera
 # *Bathyteuthis bacidifera* [Roper 1968] 
 
 [Clyde F. E. Roper]()
-![ ](bacidifera/BathyBacidifera.jpg))
+![ ](bacidifera/BathyBacidifera.jpg) 
 
 The holotype is located at the U.S. National Museum of Natural History,
 Washington.
@@ -106,7 +106,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 ## Title Illustrations
 
-![](bacidifera/BathyBacidifera.jpg))
+![](bacidifera/BathyBacidifera.jpg) 
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper

@@ -98,7 +98,7 @@ and their important role in the primary establishment and maintenance of
 coral reefs. Some red algae are economically important as providers of
 food and gels. For this reason, extensive farming and natural harvest of
 red algae occurs in numerous areas of the world.
-![](Rhodophyta/redintro1a.jpg))
+![](Rhodophyta/redintro1a.jpg) 
 
 Figure 1. Seaweed farmers tending a Kappaphycus line culture in the
 Philippines.\
@@ -118,13 +118,13 @@ distinguish them from other eukaryotic groups:
     pigments
 -   unstacked thylakoids in plastids (Figure 3)
 -   no chloroplast endoplasmic reticulum
-![Griffithsia pacifica](Rhodophyta/redchar1.jpg))
+![Griffithsia pacifica](Rhodophyta/redchar1.jpg) 
 
 Figure 2. Griffithsia pacifica (Florideophyceae). Electron micrograph
 showing cytoplasm with numerous chloroplasts (C) and starch (S). Starch
 is the photosynthetic reserve and is deposited free in the cytoplasm.\
 Image copyright © 2000, C. M. Pueschel.
-![Griffithsia pacifica](Rhodophyta/redchar2.jpg))
+![Griffithsia pacifica](Rhodophyta/redchar2.jpg) 
 
 Figure 3. Griffithsia pacifica (Florideophyceae). Close-up of figure 2
 electron micrograph showing a chloroplast with unstacked photosynthetic

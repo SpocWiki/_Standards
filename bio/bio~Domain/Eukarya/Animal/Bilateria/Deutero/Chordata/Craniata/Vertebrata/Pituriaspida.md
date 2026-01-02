@@ -71,7 +71,7 @@ gill openings and presumably the nasal aperture were all situated on the
 ventral side of the head. Well-developed paired fins attached on either
 sides of the headshield. The only diagnostic feature of pituriaspids is
 an enigmatic pit adjacent to the eyes. (Based on Young 1991.)
-![](Pituriaspida/pituriaspida.gif))
+![](Pituriaspida/pituriaspida.gif) 
 
   Copyright ::   © 1997 Philippe Janvier
 

@@ -84,7 +84,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![](Ruminants/Kobus_ellipsiprymnus4321001.jpg))
+![](Ruminants/Kobus_ellipsiprymnus4321001.jpg) 
 Scientific Name ::     Kobus ellipsiprymnus
 Location ::           East Africa
 Comments             waterbuck

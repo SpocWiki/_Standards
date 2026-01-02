@@ -100,7 +100,7 @@ Aegla
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![Aegla abtao](Aeglidae/abtao.jpg))
+![Aegla abtao](Aeglidae/abtao.jpg) 
 Scientific Name ::  Aegla abtao abtao
 Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 

@@ -41,7 +41,7 @@ title: Mastigoteuthis magna
 # *Mastigoteuthis magna* [Joubin, 1913] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](magna/MastigoMagnaJoub.jpg))![ ](magna/MMagnaLive.jpg))
+![ ](magna/MastigoMagnaJoub.jpg))![ ](magna/MMagnaLive.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -63,7 +63,7 @@ A mastigoteuthid \...
 -   with fin length equal to fin width.
 
 ### Characteristics
-![ ](magna/MastigoMagnaFunCartJoub.jpg))
+![ ](magna/MastigoMagnaFunCartJoub.jpg) 
 
 **Figure**. Ventral view of the funnel component of the funnel
 locking-apparatus of ***M. magna***, holotype . Drawing from Joubin
@@ -133,7 +133,7 @@ Alice (1898-1910). 3e Serie. Monaco.
 
 ## Title Illustrations
 
-![](magna/MastigoMagnaJoub.jpg))
+![](magna/MastigoMagnaJoub.jpg) 
 
   -------------------------------------
   Scientific Name ::  Mastigoteuthis magna
@@ -142,7 +142,7 @@ Alice (1898-1910). 3e Serie. Monaco.
   Size              160 mm ML
   Type              Holotype
   -------------------------------------
-![](magna/MMagnaLive.jpg))
+![](magna/MMagnaLive.jpg) 
 
   -------------------------------
   Scientific Name ::  Mastigoteuthis magna

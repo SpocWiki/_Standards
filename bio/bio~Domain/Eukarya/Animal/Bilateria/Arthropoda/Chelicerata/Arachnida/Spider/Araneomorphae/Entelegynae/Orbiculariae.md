@@ -48,7 +48,7 @@ title: Orbiculariae
 [Jonathan Coddington]()
 
 ![Banded Argiope](Orbiculariae/Argiope_trifasciata.jpg)
-![](Orbiculariae/araneusface.jpg)![ ](Orbiculariae/Latrodectus_curacaviensis.jpg))
+![](Orbiculariae/araneusface.jpg)![ ](Orbiculariae/Latrodectus_curacaviensis.jpg) 
 
 Tree from Griswold et al. 1998 with modifications from Kuntner, 2005
 (Nephilidae conservatively placed in  a basal trichotomy with Araneidae
@@ -135,7 +135,7 @@ America: an identification manual. American Arachnological Society,
   Specimen Condition   Live Specimen
   Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
-![](Orbiculariae/araneusface.jpg))
+![](Orbiculariae/araneusface.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Araneus bicentenarius
@@ -150,7 +150,7 @@ America: an identification manual. American Arachnological Society,
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Orbiculariae/0841.jpg))
+![](Orbiculariae/0841.jpg) 
 
   ---------------------
   Scientific Name ::     Latrodectus curacaviensis

@@ -39,7 +39,7 @@ title: Histioteuthid families
 # Histioteuthid families 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](Histioteuthid/HistioPsychro.jpg))
+![ ](Histioteuthid/HistioPsychro.jpg) 
 
 -   *[Histioteuthidae](Histioteuthidae)*[
     Verrill, 1881]
@@ -89,7 +89,7 @@ to the families of the order Teuthoidea. Smiths. contr. zool., 13:1-32.
 
 ## Title Illustrations
 
-![](Histioteuthid/HistioPsychro.jpg))
+![](Histioteuthid/HistioPsychro.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Histioteuthis hoylei, Psychroteuthis glacialis (2)

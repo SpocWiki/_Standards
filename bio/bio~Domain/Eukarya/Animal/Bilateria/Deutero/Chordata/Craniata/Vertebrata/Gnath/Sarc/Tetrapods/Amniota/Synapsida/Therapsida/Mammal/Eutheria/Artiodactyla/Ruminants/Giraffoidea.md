@@ -68,7 +68,7 @@ title: Giraffoidea
 
 ## Title Illustrations
 
-![](Giraffoidea/Samotherium_skull.jpg))
+![](Giraffoidea/Samotherium_skull.jpg) 
 
 -----------------------------
 Scientific Name ::     Samotherium

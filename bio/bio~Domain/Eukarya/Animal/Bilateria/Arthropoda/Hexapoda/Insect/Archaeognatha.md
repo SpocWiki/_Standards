@@ -85,7 +85,7 @@ feature gives the order its name (Arche - beginning, gnathos - jaw).
 Their abdominal segments bear styles, which are small appendages
 moveable by muscles. They can be seen underneath the abdomen in the
 following picture:
-![ ](Archaeognatha/archaeostyli2.gif))
+![ ](Archaeognatha/archaeostyli2.gif) 
 
 Styli may be remnants of ancestral limbs.
 
@@ -112,7 +112,7 @@ Styli may be remnants of ancestral limbs.
 
 
 --------------------------------------------------------------------------- 
-![Archaeognatha](Archaeognatha/Archaeognatha.jpg))
+![Archaeognatha](Archaeognatha/Archaeognatha.jpg) 
 Scientific Name ::     Archaeognatha
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen

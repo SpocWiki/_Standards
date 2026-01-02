@@ -40,7 +40,7 @@ title: Edwardsiidae
     -   [Metedwardsia](Metedwardsia)
 
 # Edwardsiidae 
-![ ](Edwardsiidae/edwardsiidae.jpg))
+![ ](Edwardsiidae/edwardsiidae.jpg) 
 
 -   *[Edwardsia](Edwardsia)*
 -   *[Isoedwardsia](Isoedwardsia)*
@@ -84,7 +84,7 @@ Nematostella vectensis with egg masses.\
 Photo copyright © 2000, Ron Ates.\
 Permission by Prof. C. Hand to take this picture in the Bodega Marine
 Lab, University of California is gratefully acknowledged.
-![](Edwardsiidae/edwardsiidae.jpg))
+![](Edwardsiidae/edwardsiidae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

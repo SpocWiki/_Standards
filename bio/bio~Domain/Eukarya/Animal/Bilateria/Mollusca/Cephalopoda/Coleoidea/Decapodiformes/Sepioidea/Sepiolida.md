@@ -68,7 +68,7 @@ A sepioid ...
 ## Title Illustrations
 
 ---------------- 
-![](Sepiolida/SepiolidaFams.jpg))
+![](Sepiolida/SepiolidaFams.jpg) 
 Scientific Name ::  Sepioloidea lineolata, Iridoteuthis iris
 Copyright ::         © 2004 Mark Noman, Thomas Burch
 

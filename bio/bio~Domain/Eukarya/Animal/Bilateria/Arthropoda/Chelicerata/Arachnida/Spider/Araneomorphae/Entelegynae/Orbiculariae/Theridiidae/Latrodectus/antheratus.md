@@ -35,13 +35,13 @@ title: Latrodectus antheratus
 
 [Jeremy Miller]()
 
-![ ](antheratus/antheratushabitus1.jpg)![ ](antheratus/antheratuspalp1.jpg))![](antheratus/dsc_00531.jpg))![ ](antheratus/dsc_00661.jpg))
+![ ](antheratus/antheratushabitus1.jpg)![ ](antheratus/antheratuspalp1.jpg))![](antheratus/dsc_00531.jpg))![ ](antheratus/dsc_00661.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](antheratus/antheratushabitus1.jpg))
+![](antheratus/antheratushabitus1.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus antheratus
@@ -54,7 +54,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](antheratus/antheratuspalp1.jpg))
+![](antheratus/antheratuspalp1.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus antheratus
@@ -68,7 +68,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](antheratus/dsc_00531.jpg))
+![](antheratus/dsc_00531.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus antheratus
@@ -80,7 +80,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](antheratus/dsc_00661.jpg))
+![](antheratus/dsc_00661.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus antheratus

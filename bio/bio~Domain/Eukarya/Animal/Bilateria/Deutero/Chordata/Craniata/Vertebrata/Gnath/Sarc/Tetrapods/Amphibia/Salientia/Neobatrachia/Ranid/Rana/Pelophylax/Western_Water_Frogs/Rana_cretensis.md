@@ -140,7 +140,7 @@ Sciences of Philadelphia 470:1-9.
 
 ## Title Illustrations
 
-![](Rana_cretensis/cretensis.jpg))
+![](Rana_cretensis/cretensis.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana cretensis

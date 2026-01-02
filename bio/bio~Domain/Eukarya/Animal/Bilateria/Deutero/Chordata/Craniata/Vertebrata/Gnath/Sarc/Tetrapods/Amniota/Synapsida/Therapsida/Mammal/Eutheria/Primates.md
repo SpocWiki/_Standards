@@ -336,7 +336,7 @@ of extant primates. Nature 416:726-729.
 
 ## Title Illustrations
 
-![Ring-tailed lemurs](Primates/lemurs.jpg))
+![Ring-tailed lemurs](Primates/lemurs.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Lemur catta
@@ -344,7 +344,7 @@ of extant primates. Nature 416:726-729.
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Squirrel monkey (Platyrrhini)](Primates/saimiri.jpg))
+![Squirrel monkey (Platyrrhini)](Primates/saimiri.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Saimiri oerstedi
@@ -352,7 +352,7 @@ of extant primates. Nature 416:726-729.
   Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
-![Vervet monkey (Catarrhini)](Primates/vervet.jpg))
+![Vervet monkey (Catarrhini)](Primates/vervet.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Cercopithecus aethiops

@@ -99,7 +99,7 @@ title: Sapindales
 
 ## Title Illustrations
 
-![California buckeye, Aesculus californica](Sapindales/Aesculus_californica67.jpg))
+![California buckeye, Aesculus californica](Sapindales/Aesculus_californica67.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Aesculus californica
@@ -110,7 +110,7 @@ title: Sapindales
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
-![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg))
+![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Dictamnus dasycarpus
@@ -121,7 +121,7 @@ title: Sapindales
   Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
  
   -------------------------------------------------------------------------
-![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg))
+![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Bursera microphylla

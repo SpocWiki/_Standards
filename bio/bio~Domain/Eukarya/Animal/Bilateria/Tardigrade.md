@@ -77,7 +77,7 @@ Water Bears
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![Diagram of the main external features of a tardigrade](Tardigrade/Tardigrade.gif))
+![Diagram of the main external features of a tardigrade](Tardigrade/Tardigrade.gif) 
 Scientific Name ::  Tardigrada
 Comments          Diagram of the main external features of a tardigrade
 Creator           Ivy Livingstone

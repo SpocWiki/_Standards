@@ -78,14 +78,14 @@ European Journal of Protistology 32:423-448.
 
 ## Title Illustrations
 
-![](melba/fancyromel.gif))
+![](melba/fancyromel.gif) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas melba
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
-![](melba/pancyrom.jpg))
+![](melba/pancyrom.jpg) 
 
   ---------------------------
   Scientific Name ::     Ancyromonas melba

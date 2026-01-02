@@ -122,7 +122,7 @@ to Zoology No. 5:1-24.
 
 ## Title Illustrations
 
-![](Cycloteuthidae/cycloteuthid.jpg))
+![](Cycloteuthidae/cycloteuthid.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Cycloteuthis serventyi, Discoteuthis discus (2)

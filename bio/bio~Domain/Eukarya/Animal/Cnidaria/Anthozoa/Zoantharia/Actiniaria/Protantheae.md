@@ -25,7 +25,7 @@ title: Protantheae
     -  [Protanthea](Protantheae/Protanthea.md) 
 
 # Protantheae 
-![ ](Protantheae/gonactiniidae.jpg))
+![ ](Protantheae/gonactiniidae.jpg) 
 
 -   [Gonactinia](Protantheae/Gonactinia.md "go to ToL page"))*
 -   [Protanthea](Protantheae/Protanthea.md "go to ToL page"))*
@@ -68,7 +68,7 @@ volume 1, number 1.
 Protanthea simplex.\
 Oban (Scotland) taken in Lock Melfort, Scotland.\
 Copyright © 2000, Robin Harvey, S.M.B.A.
-![](Protantheae/gonactiniidae.jpg))
+![](Protantheae/gonactiniidae.jpg) 
 
   ------------
   Copyright ::   © 2000 Robin Harvey, S.M.B.A.

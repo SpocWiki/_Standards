@@ -72,7 +72,7 @@ Contr. Zool., 586:159-190.
 
 ## Title Illustrations
 
-![](Sepia/sepialat.jpg))
+![](Sepia/sepialat.jpg) 
 
   ---------------
   Scientific Name ::  Sepia latimanus, Sepia latimanus (2)

@@ -37,7 +37,7 @@ title: Lolliguncula
 ## Brief squids 
 
 [Michael Vecchione]()
-![ ](Lolliguncula/LOLIGUNCULA21.jpg))![ ](Lolliguncula/LBrevisDrawMV.jpg))
+![ ](Lolliguncula/LOLIGUNCULA21.jpg))![ ](Lolliguncula/LBrevisDrawMV.jpg) 
 
 ***Loliguncula*** contains four species placed in two subgenera.
 
@@ -83,7 +83,7 @@ Members of ***Lolliguncula (Lolliguncula)*** have the modified portion
 of the hectocotylus less than the entire arm (ie, the proximal portion
 is not modified) while ***Lolliguncula (Loliolopsis)*** has the
 hectocotylus modified along the entire arm.
-![ ](Lolliguncula/LLiolopsis.jpg))
+![ ](Lolliguncula/LLiolopsis.jpg) 
 
 **Figure**. Ventral view of ***Lolliguncula (Loliolopsis) diomedeae***
 (holotype of ***Loliolopsis chiroctes***), preserved. Photograph by R.
@@ -157,7 +157,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
 
 ## Title Illustrations
 
-![](Lolliguncula/LOLIGUNCULA21.jpg))
+![](Lolliguncula/LOLIGUNCULA21.jpg) 
 
   ----------
   Scientific Name ::     Lollicuncula brevis
@@ -165,7 +165,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
   View                 Dorsal
   Copyright ::            © 1996 Gus Stacy
   ----------
-![](Lolliguncula/LBrevisDrawMV.jpg))
+![](Lolliguncula/LBrevisDrawMV.jpg) 
 
   ----------------------------------------------------------------------
   Scientific Name ::  Lollicuncula brevis

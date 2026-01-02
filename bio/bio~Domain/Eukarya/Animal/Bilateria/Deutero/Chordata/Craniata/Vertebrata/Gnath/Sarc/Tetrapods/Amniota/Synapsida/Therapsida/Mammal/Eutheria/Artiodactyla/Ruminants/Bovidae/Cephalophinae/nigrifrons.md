@@ -41,7 +41,7 @@ Containing group: [Cephalophinae](../Cephalophinae.md)
 
 ## Title Illustrations
 
-![Black-fronted Duiker (Cephalophus nigrifrons), Kenya ](nigrifrons/BFduiker.jpg))
+![Black-fronted Duiker (Cephalophus nigrifrons), Kenya ](nigrifrons/BFduiker.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Cephalophus nigrifrons

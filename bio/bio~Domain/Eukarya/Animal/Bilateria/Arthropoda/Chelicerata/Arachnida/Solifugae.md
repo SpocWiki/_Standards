@@ -93,7 +93,7 @@ taxon_common_name:
 
 
 -------------- 
-![](Solifugae/Eremochelisbilobatus2.jpg))
+![](Solifugae/Eremochelisbilobatus2.jpg) 
 Scientific Name ::     Eremochelis bilobatus (Muma)
 Specimen Condition   Live Specimen
 Copyright ::            © 2003 Warren E. Savary

@@ -25,13 +25,13 @@ title: Tuberculina maxima
 -   » Sub-Groups 
 
 # *Tuberculina maxima* [Rostr.] 
-![ ](Tuberculina_maxima/tm837.jpg))![ ](Tuberculina_maxima/tmstgt.jpg))![ ](Tuberculina_maxima/tmDAVFP.jpg))
+![ ](Tuberculina_maxima/tm837.jpg))![ ](Tuberculina_maxima/tmstgt.jpg))![ ](Tuberculina_maxima/tmDAVFP.jpg) 
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Tuberculina_maxima/tm837.jpg))
+![](Tuberculina_maxima/tm837.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -44,7 +44,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_maxima/tmstgt.jpg))
+![](Tuberculina_maxima/tmstgt.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -57,7 +57,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_maxima/tmDAVFP.jpg))
+![](Tuberculina_maxima/tmDAVFP.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Cronartium ribicola J. C. Fisch./Pinus albicaulis Engelm.

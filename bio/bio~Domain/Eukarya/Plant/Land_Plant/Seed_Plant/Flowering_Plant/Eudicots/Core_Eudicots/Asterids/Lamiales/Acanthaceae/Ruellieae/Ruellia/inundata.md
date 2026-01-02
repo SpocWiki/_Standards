@@ -70,7 +70,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia paniculata](inundata/Ruellia_paniculata.jpg))
+![Ruellia paniculata](inundata/Ruellia_paniculata.jpg) 
 Scientific Name ::     Ruellia paniculata L.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
@@ -78,7 +78,7 @@ Collector            Tripp & E. Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia_inundata](inundata/Ruellia_inundata.jpg))
+![Ruellia_inundata](inundata/Ruellia_inundata.jpg) 
 Scientific Name ::     Ruellia inundata H. B. K.
 Location ::           Palo Verde Biological Station, Costa Rica
 Specimen Condition   Live Specimen
@@ -87,7 +87,7 @@ Collector            Tripp & Deinert
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------------------------------------------- 
-![Ruellia galeottii](inundata/Ruellia_galeottii.jpg))
+![Ruellia galeottii](inundata/Ruellia_galeottii.jpg) 
 Scientific Name ::  Ruellia galeottii Leonard
 Location ::        Oaxaca, Mexico
 Identified By     Erin A. Tripp

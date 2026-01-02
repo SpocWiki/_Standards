@@ -34,7 +34,7 @@ title: Chiroteuthis veranyi
 # *Chiroteuthis veranyi* [(Ferussac, 1835)] 
 
 [Clyde F. E. Roper and Richard E. Young](http://www.tolweb.org/)
-![ ](veranyi/C.jpg))
+![ ](veranyi/C.jpg) 
 ![ ](veranyi/Cveranyi.jpg)
 
 The holotype was deposited in the Museum of Natural History, Nice,
@@ -98,7 +98,7 @@ The appearance of the visceral photophores are very different from those
 of ***C. spoeli*** (see Life History on the *Chiroteuthis* page). In
 ***C. veranyi*** the photophores are more imbedded in the ink sac and
 seem to have a different internal structure.
-![ ](veranyi/CveranyiVisPhot138MV.jpg))
+![ ](veranyi/CveranyiVisPhot138MV.jpg) 
 
 **Figure**. Ventral view of the visceral photophores of ***C.
 veranyi***. Photograph by M. Vecchione.\
@@ -213,7 +213,7 @@ Zool., 97: 1-159.
   Location ::        Antarctic waters
   Creator           E. McSweeny
   ----------
-![](veranyi/Cveranyi.jpg))
+![](veranyi/Cveranyi.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis veranyi

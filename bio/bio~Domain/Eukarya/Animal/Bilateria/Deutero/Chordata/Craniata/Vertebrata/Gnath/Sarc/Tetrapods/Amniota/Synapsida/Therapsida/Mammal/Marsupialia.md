@@ -49,7 +49,7 @@ taxon_name: Marsupialia
 
 Metatheria, Kangaroos, koalas, gliders, wombats, opossums, bandicoots, bilbies, etc. 
 
-![Koala feeding on Eucalyptus leaves](Marsupialia/koala.jpg) ![](Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo/kangaroos.jpg))
+![Koala feeding on Eucalyptus leaves](Marsupialia/koala.jpg) ![](Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo/kangaroos.jpg) 
 ![Possum](Marsupialia/grtpossum.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Marsupial,25336|WD~Marsupial,25336]]
@@ -154,9 +154,9 @@ Australia, photographed at night in Atherton Tableland, Queensland
 at an elevation of 300-1000 meters.
 
 Photographs copyright © 1995 [Greg and Mary Beth Dimijian](http://www.dimijianimages.com/).
-![Koala feeding on Eucalyptus leaves](Marsupialia/koala.jpg))
+![Koala feeding on Eucalyptus leaves](Marsupialia/koala.jpg) 
 ![Eastern Grey Kangaroo mother and nearly grown joey ](Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo/kangaroos.jpg))
-![Green ringtail possum](Marsupialia/grtpossum.jpg))
+![Green ringtail possum](Marsupialia/grtpossum.jpg) 
 
 
 ## Confidential Links & Embeds: 

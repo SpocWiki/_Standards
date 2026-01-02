@@ -27,13 +27,13 @@ title: Helicobasidium purpureum
 
 ## syn.: Helicobasidium brebissonii [(Desm.) Donk] 
 
-![ ](Helicobasidium_purpureum/hp.jpg)![ ](Helicobasidium_purpureum/frz.jpg))![ ](Helicobasidium_purpureum/sc.jpg))
+![ ](Helicobasidium_purpureum/hp.jpg)![ ](Helicobasidium_purpureum/frz.jpg))![ ](Helicobasidium_purpureum/sc.jpg) 
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Helicobasidium_purpureum/hp.jpg))
+![](Helicobasidium_purpureum/hp.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum Pat. on Carpinus betulus L.
@@ -45,7 +45,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_purpureum/frz.jpg))
+![](Helicobasidium_purpureum/frz.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia sessilis W. G. Schneider in J. Schröt./Arum maculatum L.
@@ -57,7 +57,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_purpureum/sc.jpg))
+![](Helicobasidium_purpureum/sc.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia coronata Corda/Rhamnus cathartica L.

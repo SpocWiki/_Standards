@@ -130,7 +130,7 @@ These ants may serve to guard and protect young, developing fruits.
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg))
+![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg) 
 Scientific Name ::     Ruellia biolleyi Lindau
 Location ::           La Selva Biological Station, Costa Rica
 Acknowledgements     Erin A. Tripp
@@ -141,7 +141,7 @@ Collector            Tripp & McDade
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg))
+![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg) 
 Scientific Name ::     Ruellia macrophylla var. lutea Leonard
 Location ::           Cultivated in DUKE Greenhouses
 Specimen Condition   Live Specimen
@@ -149,7 +149,7 @@ Body Part            flower
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![](Physiruellia/Ruellia_jussieuoides.jpg))
+![](Physiruellia/Ruellia_jussieuoides.jpg) 
 Scientific Name ::     Ruellia jussieuoides Schltdl. & Cham.
 Location ::           Chiapas, Mexico
 Specimen Condition   Live Specimen

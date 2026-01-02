@@ -36,7 +36,7 @@ title: Latrodectus
 ## Widow spiders 
 
 [Jeremy Miller]()
-![ ](Latrodectus/latrohesp.jpg))
+![ ](Latrodectus/latrohesp.jpg) 
 
 Tree simplified from Garb et al. (2004), based on cytochrome oxidase I
 sequence data.
@@ -263,7 +263,7 @@ sacrifice. Behav. Ecol. 15:785-792.
 
 ## Title Illustrations
 
-![](Latrodectus/latrohesp.jpg))
+![](Latrodectus/latrohesp.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     *Latrodectus hesperus*

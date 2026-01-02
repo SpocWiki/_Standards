@@ -68,7 +68,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 
 ## Title Illustrations
 
-![](terricola/famastigot.jpg))
+![](terricola/famastigot.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas terricola

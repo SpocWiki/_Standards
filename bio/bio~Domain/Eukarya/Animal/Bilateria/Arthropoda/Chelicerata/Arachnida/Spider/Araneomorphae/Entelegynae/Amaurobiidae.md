@@ -5,7 +5,7 @@ title: Amaurobiidae
 ---
 
 # [[Amaurobiidae]] 
-![ ](Amaurobiidae/Amaurobius_ferox-8001.jpg))
+![ ](Amaurobiidae/Amaurobius_ferox-8001.jpg) 
 
 # [[Amaurobiidae]] 
 
@@ -120,7 +120,7 @@ title: Amaurobiidae
 ## Title Illustrations
 
 ---------------------------------------------------------------------------- 
-![](Amaurobiidae/Amaurobius_ferox-8001.jpg))
+![](Amaurobiidae/Amaurobius_ferox-8001.jpg) 
 Scientific Name ::     Arachnida:Spider:Amaurobiidae: Amaurobius ferox
 Location ::           "Corno alle Scale" Park, Bologna Province, Emilia Romagna, Italy
 Specimen Condition   Live Specimen

@@ -156,7 +156,7 @@ Robertsonian fusions as the proposed orthogenetic mechanism for
 karyotypic evolution in the sigmodontines.
 
 ### Geographic Distribution
-![ ](Phyllotis/phyllotis.gif))
+![ ](Phyllotis/phyllotis.gif) 
 
 Figure 1. Distribution of the fourteen species of *Phyllotis*. The
 distributions of *P. xanthopygus* and *P. limatus* are combined to

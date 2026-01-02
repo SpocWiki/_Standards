@@ -85,7 +85,7 @@ title: Buthidae
 
 ----------
 Centruroides vittatus. Photograph copyright © Scott A. Stockwell.
-![](../buthoidea.jpg))
+![](../buthoidea.jpg) 
 Copyright ::   © 1988 Scott A. Stockwell
 
 

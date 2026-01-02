@@ -107,7 +107,7 @@ Morcego River, Morretes, Parana, Brazil.
 
 Southeastern Sao Paulo, Brazil; eastern Parana, Brazil; northeastern
 Santa Catarina, Brazil.
-![ ](marginata/_marginata1.jpg))
+![ ](marginata/_marginata1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References

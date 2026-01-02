@@ -51,7 +51,7 @@ title: Reduncinae
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Bohor reedbuck](Reduncinae/reedbuck.jpg))
+![Bohor reedbuck](Reduncinae/reedbuck.jpg) 
 Scientific Name ::     Redunca redunca
 Location ::           Tarangire NP, Tanzania
 Specimen Condition   Live Specimen

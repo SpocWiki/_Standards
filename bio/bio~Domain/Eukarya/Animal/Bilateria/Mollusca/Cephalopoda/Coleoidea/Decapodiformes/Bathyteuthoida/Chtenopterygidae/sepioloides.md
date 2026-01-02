@@ -30,7 +30,7 @@ title: Chtenopteryx sepioloides
 ## Chubby combfin squid 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](sepioloides/ChtenSep.jpg))
+![ ](sepioloides/ChtenSep.jpg) 
 
 Containing group:[Chtenopterygidae](../Chtenopterygidae.md) 
 
@@ -85,7 +85,7 @@ Sud-ouest Pacifique (cephalopodes). Cah. O.R.S.T.O.M., ser. Oceanogr.,
 
 ## Title Illustrations
 
-![](sepioloides/ChtenSep.jpg))
+![](sepioloides/ChtenSep.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Chtenopteryx sepioloides

@@ -144,7 +144,7 @@ of Illinois, had a much stouter body shape but clearly shows the
 tentacles (after Bardack 1991). Copyright © Philippe Janvier.
 
 ---------- 
-![](Hyperotreti/hyperotreti.gif))
+![](Hyperotreti/hyperotreti.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 

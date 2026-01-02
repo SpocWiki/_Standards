@@ -107,7 +107,7 @@ have long necks containing a fluid-filled sac that extends as a
 reservoir into the body (Young, *et al.*, 1985). Contraction of the
 reservoir can greatly increase the length of the neck, thereby extending
 the head from the mantle.
-![ ](Brachioteuthidae/BrachioteuthisLarva.JPG))
+![ ](Brachioteuthidae/BrachioteuthisLarva.JPG) 
 
 **Figure**. Lateral view of a paralarva of ***Brachioteuthis*** sp. just
 a few days post-hatching, Hawaiian waters. Photograph by R. Young.
@@ -123,7 +123,7 @@ Vie Milieu, 35: 203-209.
 
 ## Title Illustrations
 
-![](Brachioteuthidae/Brachioteuthis.jpg))
+![](Brachioteuthidae/Brachioteuthis.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Brachioteuthis sp.

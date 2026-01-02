@@ -36,7 +36,7 @@ NBN_System_Key: NBNSYS0000160265
 # [[Lagomorpha]]
 
 ## Rabbits, hares, and pikas 
-![ ](Lagomorpha/snowshoe.jpg))
+![ ](Lagomorpha/snowshoe.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Lagomorpha,25401|WD~Lagomorpha,25401]] 
 
@@ -111,7 +111,7 @@ NBN_System_Key: NBNSYS0000160265
 -   [Thermophysiology of     Pikas](http://www.aichi-med-u.ac.jp/english/info/medicine/physio2/pika-e.html).
 
 ## Title Illustrations
-![](Lagomorpha/snowshoe.jpg))
+![](Lagomorpha/snowshoe.jpg) 
 **Snowshoe hare** (Lepus americanus, Leporidae). 
 Photograph by Dick Hensel. Courtesy of the [U.S. Fish and Wildlife Service](http://www.fws.gov/).
 

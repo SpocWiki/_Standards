@@ -5,7 +5,7 @@ title: Sepioidea
 ---
 
 # [[Sepioidea]] 
-![ ](Sepioidea/SepioidFams2.jpg))
+![ ](Sepioidea/SepioidFams2.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -157,7 +157,7 @@ are considered to be apomorphic (newly derived) characters are
 
 ## Title Illustrations
 
-![](Sepioidea/SepioidFams2.jpg))
+![](Sepioidea/SepioidFams2.jpg) 
 
 ---------------------
 Scientific Name ::  Sepioloidea lineolata, Sepia apama, Iridoteuthis iris

@@ -96,7 +96,7 @@ whether any of them are monophyletic or not.
 
 
 ----------------- 
-![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg))
+![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg) 
 Scientific Name ::     Labichea lanceolata Benth.
 Location ::           West Australia
 Specimen Condition   Live Specimen
@@ -110,7 +110,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 ----------------- 
-![Petalostylis labicheoides](Cassieae/Petalostylis_labicheoides.jpg))
+![Petalostylis labicheoides](Cassieae/Petalostylis_labicheoides.jpg) 
 Scientific Name ::     Petalostylis labicheoides R.Br.
 Location ::           West Australia
 Specimen Condition   Live Specimen

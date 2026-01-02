@@ -139,7 +139,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 
 ## Title Illustrations
 
-![](Cirroteuthis/CirroteuthisMuelleri.jpg))
+![](Cirroteuthis/CirroteuthisMuelleri.jpg) 
 
   -------------------------------------------------
   Scientific Name ::  Cirroteuthis muelleri

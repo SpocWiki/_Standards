@@ -427,7 +427,7 @@ we consider †Palaeobatrachidae, †Thoraciliacus, †Cordicephalus,
 ## Title Illustrations
 
 -------------------------------------------------------------------------- 
-![habitus of the tailed frog](Salientia/ascaphus.jpg))
+![habitus of the tailed frog](Salientia/ascaphus.jpg) 
 Scientific Name ::     Ascaphus truei
 Location ::           Oregon
 Specimen Condition   Live Specimen

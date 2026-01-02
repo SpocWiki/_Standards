@@ -37,7 +37,7 @@ title: Acontiaria
 
 # Acontiaria 
 
-![ ](Acontiaria/sagartiidaesm.jpg)![ ](Acontiaria/diadumenidaesm.jpg))
+![ ](Acontiaria/sagartiidaesm.jpg)![ ](Acontiaria/diadumenidaesm.jpg) 
 
 -   *[Acontiophoridae](Acontiophoridae)*
 -   *[Bathyphelliidae](Bathyphelliidae)*
@@ -73,7 +73,7 @@ Right:\
 Diadumene cincta (Diadumenidae). The Netherlands.
 
 Photographs copyright © 2000, Ron Ates.
-![](Acontiaria/sagartiidaesm.jpg))
+![](Acontiaria/sagartiidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

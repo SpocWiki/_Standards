@@ -29,7 +29,7 @@ Arroio Carvalho, Terra de Areia, Rio Grande do Sul, Brazil.
 ### Distribution
 
 Arroio Carvalho, Terra de Areia, Rio Grande do Sul, Brazil.
-![ ](ligulata/_ligulata1.jpg))
+![ ](ligulata/_ligulata1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References

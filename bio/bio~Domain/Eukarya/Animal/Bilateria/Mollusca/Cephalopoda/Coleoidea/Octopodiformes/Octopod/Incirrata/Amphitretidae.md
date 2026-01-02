@@ -161,7 +161,7 @@ African Jour. Mar. Sci. (in press).
 
 ## Title Illustrations
 
-![](Amphitretidae/AmphitretusMBARI.jpg))
+![](Amphitretidae/AmphitretusMBARI.jpg) 
 
   --------------------------------
   Scientific Name ::     Amphitretus pelagicus

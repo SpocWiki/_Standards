@@ -101,7 +101,7 @@ noctiflora* (Nees) A. Gray.\
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Ruellia strepens](humilis/Ruellia_strepens.jpg))
+![Ruellia strepens](humilis/Ruellia_strepens.jpg) 
 Scientific Name ::     Ruellia strepens L.
 Specimen Condition   Live Specimen
 Identified By        Erin A. Tripp

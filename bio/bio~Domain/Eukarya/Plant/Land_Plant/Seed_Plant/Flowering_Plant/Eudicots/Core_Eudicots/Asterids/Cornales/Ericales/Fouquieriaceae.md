@@ -43,7 +43,7 @@ title: Fouquieria
 
 
 ------------------------------------------------------------- 
-![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg))
+![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg) 
 Scientific Name ::     Fouquieria splendens
 Location ::           Anza-Borrego Desert State Park, California, USA
 Specimen Condition   Live Specimen
@@ -53,7 +53,7 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
 ------------------------------------------------------------- 
-![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg))
+![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg) 
 Scientific Name ::     Fouquieria splendens
 Location ::           Anza-Borrego Desert State Park, California, USA
 Specimen Condition   Live Specimen

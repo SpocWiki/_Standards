@@ -109,13 +109,13 @@ or dry 3-valved capsules, occasionally indehiscent. *Seeds* arillate
 ## Title Illustrations
 
 -------------------- 
-![Casearia arborea](Samydaceae/Casearia_arborea.jpg))
+![Casearia arborea](Samydaceae/Casearia_arborea.jpg) 
 Scientific Name ::  Casearia arborea
 Location ::        Costa Rica: Heredia: Estacion Biologica La Selva
 Copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
 -------------------- 
-![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg))
+![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg) 
 Scientific Name ::  Casearia corymbosa
 Location ::        Costa Rica: Guanacaste: Palo Verde
 Copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)

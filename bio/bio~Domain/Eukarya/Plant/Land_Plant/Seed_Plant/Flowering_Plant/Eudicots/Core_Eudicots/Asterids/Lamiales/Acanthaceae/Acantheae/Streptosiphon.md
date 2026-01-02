@@ -89,7 +89,7 @@ Collector            Mwasumbi & Clarke
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![](Streptosiphon/Streptosiphon.jpg))
+![](Streptosiphon/Streptosiphon.jpg) 
 Scientific Name ::     Streptosiphon hirsutus Mildbr.
 Location ::           Tanzania
 Specimen Condition   Dead Specimen

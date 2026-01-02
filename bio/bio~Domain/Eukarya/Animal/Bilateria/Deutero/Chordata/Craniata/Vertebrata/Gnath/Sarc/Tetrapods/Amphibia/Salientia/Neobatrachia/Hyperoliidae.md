@@ -157,7 +157,7 @@ Kassina maculata; photo © David Cannatella\
 
 ------------------------------------------------------------------------
 2. Kassina sp.; photo © David Cannatella\
-![Kassina](Hyperoliidae/kassina.jpg))
+![Kassina](Hyperoliidae/kassina.jpg) 
 
 
 ## Confidential Links & Embeds: 

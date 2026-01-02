@@ -98,7 +98,7 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
 
 ## Title Illustrations
 
-![](Myopsida/LpealeiiMV3.jpg))
+![](Myopsida/LpealeiiMV3.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Loligo plei

@@ -90,7 +90,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 ----------------------------------------------------------- 
-![Brachiopoda](Brachiopoda/Brachiopoda-Fossil.jpg))
+![Brachiopoda](Brachiopoda/Brachiopoda-Fossil.jpg) 
 Scientific Name ::     Brachiopoda
 Location ::           Upper Fullers Earth Clays, West Bay, Dorset UK
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).

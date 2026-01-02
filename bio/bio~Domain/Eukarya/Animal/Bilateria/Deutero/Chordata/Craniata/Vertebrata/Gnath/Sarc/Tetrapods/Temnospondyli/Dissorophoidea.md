@@ -195,7 +195,7 @@ specimens (Anderson and Bolt, 2005).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Dissorophoidea/ecolsonia.jpg))
+![](Dissorophoidea/ecolsonia.jpg) 
 Scientific Name ::     Ecolsonia cutlerensis
 Location ::           North-central New Mexico
 Specimen Condition   Fossil \-- Period: Early Permian (Cutler Fm)

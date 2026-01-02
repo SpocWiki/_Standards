@@ -58,14 +58,14 @@ London.
 
 ## Title Illustrations
 
-![](sigmoides/fancyrosig.gif))
+![](sigmoides/fancyrosig.gif) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas sigmoides
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
-![](sigmoides/pancyrosc.jpg))
+![](sigmoides/pancyrosc.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ancyromonas sigmoides

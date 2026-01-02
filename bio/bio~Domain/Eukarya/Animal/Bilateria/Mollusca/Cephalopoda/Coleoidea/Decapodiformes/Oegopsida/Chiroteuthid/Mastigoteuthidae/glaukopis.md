@@ -124,7 +124,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 
 ## Title Illustrations
 
-![](glaukopis/MastGlaukop.jpg))
+![](glaukopis/MastGlaukop.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Mastigoteuthis glaukopis
@@ -134,7 +134,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
   Size              37 mm ML
   Type              Holotype
   ------------------------------------------------------
-![](glaukopis/MGlaukopHolo798.jpg))
+![](glaukopis/MGlaukopHolo798.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Mastigoteuthis glaukopis

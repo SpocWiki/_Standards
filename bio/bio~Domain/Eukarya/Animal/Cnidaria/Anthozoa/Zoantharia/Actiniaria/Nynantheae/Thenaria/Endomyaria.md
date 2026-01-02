@@ -35,7 +35,7 @@ title: Endomyaria
     -   [Phymanthidae](Phymanthidae)
 
 # Endomyaria 
-![ ](Endomyaria/thalassianthidae.jpg))
+![ ](Endomyaria/thalassianthidae.jpg) 
 ![ ](Endomyaria/actiniidaesm.jpg)
 
 -   *[Aliciidae](Aliciidae)*
@@ -73,12 +73,12 @@ Picture taken in the intertidal near the Bodega Marine Lab, University
 of California.
 
 Photographs copyright © 2000, Ron Ates.
-![](Endomyaria/thalassianthidae.jpg))
+![](Endomyaria/thalassianthidae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Endomyaria/actiniidaesm.jpg))
+![](Endomyaria/actiniidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

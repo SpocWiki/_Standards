@@ -38,7 +38,7 @@ title: Symphytognathidae
 # Symphytognathidae 
 
 [Jonathan Coddington]()
-![ ](Symphytognathidae/anapistula03.jpg))
+![ ](Symphytognathidae/anapistula03.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
@@ -65,7 +65,7 @@ Araneoidea). Zoologica Scripta 32:129-151.
 
 ## Title Illustrations
 
-![](Symphytognathidae/anapistula03.jpg))
+![](Symphytognathidae/anapistula03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Anapistula sp.

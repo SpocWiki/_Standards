@@ -127,7 +127,7 @@ groups are regarded as \"basal\" heterostracan taxa.
 
 ## Title Illustrations
 
-![Heterostraci](Heterostraci/heterostraci.gif))
+![Heterostraci](Heterostraci/heterostraci.gif) 
 
 Scientific Name ::     Protopteraspididae, Pteraspididae, Tolypelepidida, and Psammosteidae
 Comments             Heterostracans are the most diverse group of pteraspidomorphs and lived during the Silurian and Devonian periods. Among the most primitive heterostracans are tolypelepids (top right). Most heterostracans are pteraspidiforms, such as the pteraspidids (bottom right), protopteraspidids (bottom left) and the huge psammosteids (top left), which are the youngest known members of the group.

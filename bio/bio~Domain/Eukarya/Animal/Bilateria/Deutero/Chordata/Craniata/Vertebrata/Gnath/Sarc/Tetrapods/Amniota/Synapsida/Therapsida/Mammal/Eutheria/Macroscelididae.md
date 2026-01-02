@@ -117,7 +117,7 @@ UMLS_CUI: C0324735
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Macroscelididae/elephantulus.jpg))
+![](Macroscelididae/elephantulus.jpg) 
 Scientific Name ::     Elephantulus
 Location ::           Nairobi (Kenya)
 Creator              Lloyd Glenn Ingles
@@ -126,7 +126,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![](Macroscelididae/138405085_592f80cc48_o.jpg))
+![](Macroscelididae/138405085_592f80cc48_o.jpg) 
 Scientific Name ::                    Macroscelides proboscideus
 Location ::                          Grzimekhaus in Frankfurt Zoo
 Acknowledgements                    This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0                                       Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).\

@@ -7,7 +7,7 @@ title: Magnapinna
 ## Magnapinnidae [Vecchione and Young, 1998] 
 
 # *Magnapinna* [Vecchione and Young, 1998] 
-![ ](Magnapinnidae/LongArmSquid1.jpg))
+![ ](Magnapinnidae/LongArmSquid1.jpg) 
 
 Containing group:[Chiroteuthid families](../Chiroteuthid.md) 
 
@@ -119,7 +119,7 @@ arms/tentacles is far greater than in any other squid. The head appears
 to be small. Fin Length of the specimen pictured below is about 80% of
 the ML. Guerra et al (2002) estimated the fin length of their specimen
 at about two thirds of the ML. The fin position is terminal.
-![ ](Magnapinnidae/LongArmVidClose1.jpg))
+![ ](Magnapinnidae/LongArmVidClose1.jpg) 
 
 **Figure**. In-situ images of ***Magnapinna*** sp., Gulf of Mexico.
 **Left** - Side view showing long appendages. **Right** - Dorsal view
@@ -222,7 +222,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Title Illustrations
 
-![](Magnapinnidae/LongArmSquid1.jpg))
+![](Magnapinnidae/LongArmSquid1.jpg) 
 
   ------------------------------------
   Scientific Name ::     Magnapinna sp.

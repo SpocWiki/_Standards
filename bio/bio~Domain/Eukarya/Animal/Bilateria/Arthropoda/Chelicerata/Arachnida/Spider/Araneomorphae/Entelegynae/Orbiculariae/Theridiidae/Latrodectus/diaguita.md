@@ -37,13 +37,13 @@ title: Latrodectus diaguita
 
 ![ ](diaguita/diaguitahabitus03.gif)
 ![ ](diaguita/diaguitapalp.jpg)
-![](diaguita/latrodectusdiaguitadsc_0031.jpg)![ ](diaguita/latrodiaguita.jpg))
+![](diaguita/latrodectusdiaguitadsc_0031.jpg)![ ](diaguita/latrodiaguita.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](diaguita/diaguitahabitus03.gif))
+![](diaguita/diaguitahabitus03.gif) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus diaguita
@@ -55,7 +55,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](diaguita/diaguitapalp.jpg))
+![](diaguita/diaguitapalp.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus diaguita
@@ -69,7 +69,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](diaguita/latrodectusdiaguitadsc_0031.jpg))
+![](diaguita/latrodectusdiaguitadsc_0031.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus diaguita
@@ -82,7 +82,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](diaguita/latrodiaguita.jpg))
+![](diaguita/latrodiaguita.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus diaguita

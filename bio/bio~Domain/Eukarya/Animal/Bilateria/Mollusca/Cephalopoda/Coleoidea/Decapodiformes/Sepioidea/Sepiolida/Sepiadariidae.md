@@ -28,7 +28,7 @@ title: Sepiadariidae
 
 [Richard E. Young]()
 
-![ ](Sepiadariidae/SepLineolata.jpg)![ ](Sepiadariidae/Sepiadar.jpg))
+![ ](Sepiadariidae/SepLineolata.jpg)![ ](Sepiadariidae/Sepiadar.jpg) 
 
 This family has two genera with the following seven species:
 
@@ -94,14 +94,14 @@ No. 513: 1-282.
 
 ## Title Illustrations
 
-![](Sepiadariidae/SepLineolata.jpg))
+![](Sepiadariidae/SepLineolata.jpg) 
 
   -----------
   Scientific Name ::  Sepioloidea lineolata
   Location ::        off south Australia
   Copyright ::         © 1998 Mark Norman
   -----------
-![](Sepiadariidae/Sepiadar.jpg))
+![](Sepiadariidae/Sepiadar.jpg) 
 
   -----------
   Scientific Name ::  Sepiadarium austrinum

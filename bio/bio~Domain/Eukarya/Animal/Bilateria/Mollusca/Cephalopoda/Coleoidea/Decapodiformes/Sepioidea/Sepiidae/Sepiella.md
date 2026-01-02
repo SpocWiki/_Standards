@@ -29,7 +29,7 @@ title: Sepiella
 
 [Katharina M. Mangold (1922-2003) and Richard E. Young]()
 
-![ ](Sepiella/SepiellaNorman.jpg)![ ](Sepiella/Sepiella.jpg))
+![ ](Sepiella/SepiellaNorman.jpg)![ ](Sepiella/Sepiella.jpg) 
 
 This genus contains the following six species:
 
@@ -87,7 +87,7 @@ Africa. Annals of the South African Museum, 59(10):193-313.
 
 ## Title Illustrations
 
-![](Sepiella/SepiellaNorman.jpg))
+![](Sepiella/SepiellaNorman.jpg) 
 
   ----------
   Scientific Name ::     Sepiella inermis
@@ -97,7 +97,7 @@ Africa. Annals of the South African Museum, 59(10):193-313.
   Size                 130 mm ML
   Copyright ::            © 2004 Mark Norman
   ----------
-![](Sepiella/Sepiella.jpg))
+![](Sepiella/Sepiella.jpg) 
 
   ---------------------------------------------
   Scientific Name ::  Sepiella sp.

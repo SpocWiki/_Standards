@@ -98,7 +98,7 @@ extreme transparency.
 
 
 ------------------------------------------------------------------------ 
-![](Atlantidae/AtlantaPeroni11.jpg))
+![](Atlantidae/AtlantaPeroni11.jpg) 
 Scientific Name ::  Atlanta peroni
 Location ::        Hawaiian waters
 Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 

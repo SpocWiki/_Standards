@@ -65,7 +65,7 @@ Tentatively placed with the Hyetussinae.
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
  
   ---------------------------------------------------------------------------
-![](Scopocira/scopocira.gif))
+![](Scopocira/scopocira.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

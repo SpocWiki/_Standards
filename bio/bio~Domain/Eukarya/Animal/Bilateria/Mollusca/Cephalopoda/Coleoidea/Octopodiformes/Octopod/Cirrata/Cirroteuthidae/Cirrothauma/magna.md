@@ -132,7 +132,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 
 ## Title Illustrations
 
-![](magna/CirrothaumaMagna.jpg))
+![](magna/CirrothaumaMagna.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::   Cirrothauma magna
@@ -144,7 +144,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   Size               220 mm ML
   Copyright ::          © 1998 Bulletin of Marine Science
   -------------------------------------------------------------------------------
-![](magna/CirrothaumaMagnaType.jpg))
+![](magna/CirrothaumaMagnaType.jpg) 
 
   --------------------------------
   Scientific Name ::  Cirrothauma magna

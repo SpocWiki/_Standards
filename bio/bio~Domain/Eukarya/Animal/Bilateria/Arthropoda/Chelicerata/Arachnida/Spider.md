@@ -262,7 +262,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------- 
-![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg))
+![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg) 
 Scientific Name ::     Theraphosa blondi
 Comments             Goliath birdeating tarantula
 Specimen Condition   Live Specimen

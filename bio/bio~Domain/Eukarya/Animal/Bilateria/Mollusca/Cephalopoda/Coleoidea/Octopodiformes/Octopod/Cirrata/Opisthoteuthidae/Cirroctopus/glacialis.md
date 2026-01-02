@@ -82,7 +82,7 @@ Mar. Sci. 20: 421-428.
 
 ## Title Illustrations
 
-![](glacialis/CirroctoGlacAreolae.jpg))
+![](glacialis/CirroctoGlacAreolae.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Cirroctopus glacialis
@@ -90,7 +90,7 @@ Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
-![](glacialis/CirroctGlacDors.jpg))
+![](glacialis/CirroctGlacDors.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Cirroctopus glacialis

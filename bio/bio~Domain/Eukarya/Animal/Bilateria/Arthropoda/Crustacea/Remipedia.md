@@ -5,7 +5,7 @@ title: Remipedia
 ---
 
 # [[Remipedia]] 
-![ ](Remipedia/Speleonectes_ondinae.gif))
+![ ](Remipedia/Speleonectes_ondinae.gif) 
 ## #has_/text_of_/abstract 
 
 > **Remipedia** is a class of blind crustaceans, closely related to hexapods, found in coastal aquifers which contain saline groundwater, with populations identified in almost every ocean basin so far explored, including in Australia, the Caribbean Sea, and the Atlantic Ocean. The first described remipede was the fossil Tesnusocaris goldichi (Lower Pennsylvanian). Since 1979, at least seventeen living species have been identified in subtropical regions around the world.

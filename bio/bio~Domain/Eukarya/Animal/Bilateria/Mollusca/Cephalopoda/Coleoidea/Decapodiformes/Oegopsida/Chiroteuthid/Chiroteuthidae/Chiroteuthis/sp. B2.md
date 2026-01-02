@@ -100,7 +100,7 @@ Temperate South Atlantic. Some variation in sucker dentition is apparent
 
 ## Title Illustrations
 
-![](sp._B2/ChiroB2.jpg))
+![](sp._B2/ChiroB2.jpg) 
 
   -----------
   Scientific Name ::   Chiroteuthis sp. B2

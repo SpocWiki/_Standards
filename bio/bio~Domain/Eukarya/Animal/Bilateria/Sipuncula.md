@@ -7,7 +7,7 @@ title: Sipuncula
 # [[Sipuncula]] 
 
 ## Peanut Worms 
-![ ](Sipuncula/phascolopsis.gif))
+![ ](Sipuncula/phascolopsis.gif) 
 
 ## #has_/text_of_/abstract 
 
@@ -61,7 +61,7 @@ title: Sipuncula
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![](Sipuncula/phascolopsis.gif))
+![](Sipuncula/phascolopsis.gif) 
 Scientific Name ::  Phascolopsis gouldii
 Creator           David Remsen
 Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 

@@ -241,7 +241,7 @@ exemplified by the benneviaspidids Hoelaspis (top right) and Tauraspis
 (top left), or the thyestiid Tremataspis (bottom right). The latter has
 lost the paired fins, possibly as a consequence of an adaptation to
 burrowing habits. (based on Janvier 1985a,b; Mark-Kurik & Janvier 1995)
-![](Osteostraci/osteostraci.gif))
+![](Osteostraci/osteostraci.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 

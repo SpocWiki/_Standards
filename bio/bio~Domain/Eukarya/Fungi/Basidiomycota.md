@@ -11,7 +11,7 @@ title: Basidiomycota
 #is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
-![](Basidiomycota/Gymnosporangium.jpg)![](Basidiomycota/Tilletia_controversa.jpg))![](Basidiomycota/Amanita_rubrovaginata.jpg))
+![](Basidiomycota/Gymnosporangium.jpg)![](Basidiomycota/Tilletia_controversa.jpg))![](Basidiomycota/Amanita_rubrovaginata.jpg) 
 
 
 #is_/same_as :: [[../../../../WikiData/WD~Basidiomycota,174698|WD~Basidiomycota,174698]] 
@@ -99,7 +99,7 @@ spores formed, and how the spores are borne on the surface of the
 basidium (Ingold 1991). Typically, four spores are produced on each
 basidium, at the tips of minute stalks called sterigmata (Fig. 1). Each
 spore usually contains one or two of the haploid meiotic products.
-![SEM of the surface of a mushroom gill](Basidiomycota/hymenium7.gif))
+![SEM of the surface of a mushroom gill](Basidiomycota/hymenium7.gif) 
 
 Figure 1. SEM of the surface of a mushroom gill (*Coprinus cinereus*:
 Agaricomycotina) showing several basidia, some with four basidiospores
@@ -132,7 +132,7 @@ of the spore and contributes to its release from the sterigma. This
 mechanism has been termed a \"surface tension catapult\" and it results
 in spores being discharged with a force of about 25,000 *g* (Money 1998,
 Pringle et al. 2005).
-![](Basidiomycota/hilarappendix2.gif))
+![](Basidiomycota/hilarappendix2.gif) 
 
 Figure 2. Scanning electron micrograph showing the hilar droplet at the
 base of a basidiospore (*Coprinus cinereus*: Agaricomycotina).\
@@ -170,7 +170,7 @@ reflecting this presumably homologous similarity. Ascomycota produce
 clamp-like \"croziers\" at the bases of asci (cells in which meiosis
 occurs, homologous to basidia). Croziers may be homologous to clamp
 connections.
-![Diagram of clamp cell formation](Basidiomycota/clamp.gif))
+![Diagram of clamp cell formation](Basidiomycota/clamp.gif) 
 
 Figure 3. Diagram of clamp cell formation: A. Dikaryotic hypha, arrow
 shows direction of hyphal tip growth.\
@@ -419,7 +419,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 
 ## Title Illustrations
 
-![Spore producing structures of the cedar-apple rust fungus on an apple leaf](Basidiomycota/Gymnosporangium.jpg))
+![Spore producing structures of the cedar-apple rust fungus on an apple leaf](Basidiomycota/Gymnosporangium.jpg) 
 
   -----------------------------
   Scientific Name ::                    Gymnosporangium juniperi-virginianae
@@ -434,7 +434,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 
   Copyright ::                           © APS Press
   -----------------------------
-![Teliospores of Tilletia controversa, the dwarf bunt fungus](Basidiomycota/Tilletia_controversa.jpg))
+![Teliospores of Tilletia controversa, the dwarf bunt fungus](Basidiomycota/Tilletia_controversa.jpg) 
 
   -----------------------------------------
   Scientific Name ::   Tilletia controversa
@@ -443,7 +443,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   Life Cycle Stage ::   teliospores
   Copyright ::          © APS Press
   -----------------------------------------
-![Fruiting structures of the mushroom Amanita rubrovaginata](Basidiomycota/Amanita_rubrovaginata.jpg))
+![Fruiting structures of the mushroom Amanita rubrovaginata](Basidiomycota/Amanita_rubrovaginata.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Amanita rubrovaginata

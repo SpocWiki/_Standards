@@ -38,7 +38,7 @@ title: Deinopidae
 # Deinopidae 
 
 [Jonathan Coddington]()
-![ ](Deinopidae/deinopis_spinosus_eyes.jpg))
+![ ](Deinopidae/deinopis_spinosus_eyes.jpg) 
 ![](Deinopidae/deinopis_spinosus05.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
@@ -85,7 +85,7 @@ Amer. Midland Nat. 85:85-96.
 
 ## Title Illustrations
 
-![](Deinopidae/deinopis_spinosus_eyes.jpg))
+![](Deinopidae/deinopis_spinosus_eyes.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Deinopis spinosus
@@ -97,7 +97,7 @@ Amer. Midland Nat. 85:85-96.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Deinopidae/deinopis_spinosus05.jpg))
+![](Deinopidae/deinopis_spinosus05.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Deinopidae

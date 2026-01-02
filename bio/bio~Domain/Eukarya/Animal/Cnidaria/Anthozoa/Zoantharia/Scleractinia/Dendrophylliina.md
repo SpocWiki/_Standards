@@ -61,7 +61,7 @@ contribute to the framework of deep-water coral banks found at depths of
 600-800 m in the Straits of Florida (Cairns and Stanley, 1982).
 
 ------------------------
-![ ](Dendrophylliina/Dendrophyllia_oldroydae.jpg))
+![ ](Dendrophylliina/Dendrophyllia_oldroydae.jpg) 
 ![ ](Dendrophylliina/Notophyllia_recta.jpg))
 
 **Left (top):** *Dendrophyllia oldroydae*: Holotypic colony, collected

@@ -100,7 +100,7 @@ Society 7: 101-106.
 
 ## Title Illustrations
 
-![](Heliophaninae/marchena.gif))
+![](Heliophaninae/marchena.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

@@ -41,7 +41,7 @@ title: Mastigoteuthis schmidti
 # *Mastigoteuthis schmidti* [Degner, 1925] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](schmidti/MShmidti.jpg))
+![ ](schmidti/MShmidti.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -58,7 +58,7 @@ photophores, no eyelid photophores, toothed arm suckers) \...
 -   with a temperate Eastern North Atlantic habitat.
 
 ### Characteristics
-![ ](schmidti/MShmidtiClubSuck.jpg))
+![ ](schmidti/MShmidtiClubSuck.jpg) 
 
 **Figure**. Oral view of a club sucker of ***M. schmidti***. Drawing
 from Degner (1925).
@@ -123,7 +123,7 @@ Type locality: North Atlantic, Bay of Biscay at 46°30\'N, 7°00\'W.
 
 ## Title Illustrations
 
-![](schmidti/MShmidti.jpg))
+![](schmidti/MShmidti.jpg) 
 
   ------------------------------------------------
   Scientific Name ::  Mastigoteuthis schmidti

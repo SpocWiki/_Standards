@@ -25,7 +25,7 @@ title: Agaricomycotina
 ## Jelly Fungi, Yeasts, and Mushrooms 
 
 [David S. Hibbett]()
-![Calocera viscosa](Agaricomycotina/Calocera_viscosa.jpg))![](Agaricomycotina/Filobasidiella_neoformans.jpg))
+![Calocera viscosa](Agaricomycotina/Calocera_viscosa.jpg))![](Agaricomycotina/Filobasidiella_neoformans.jpg) 
 ![Gomphus](Agaricomycotina/Gomphus.jpg)
 
 This tree represents a consensus among several phylogenetic analyses of
@@ -72,7 +72,7 @@ are the Tremellomycetes and Dacrymycetes. These latter groups include
 \"jelly fungi\" (Fig. 1), which have gelatinous, often translucent
 fruiting bodies (e.g., \"witches butter\" *Tremella mesenterica*), as
 well as many yeast-forming species (Hibbett 2007).\
-![Phlogiotis (Tremiscus) helvelloides](Agaricomycotina/Fig1_small.jpg))
+![Phlogiotis (Tremiscus) helvelloides](Agaricomycotina/Fig1_small.jpg) 
 
 Figure 1. *Phlogiotis (Tremiscus) helvelloides* (Auriculariales).\
 © David S. Hibbett.
@@ -95,7 +95,7 @@ which are in the Agaricomycetes. Several jelly fungi are cultivated for
 food in Asia, including the \"wood ear\" fungus, *Auricularia
 auricula-judae* (Fig. 2), and the white jelly fungus, *Tremella
 fuciformis*.
-![](Agaricomycotina/Fig2_small.jpg))
+![](Agaricomycotina/Fig2_small.jpg) 
 
 Figure 2. Cultivated fruiting bodies of *Auricularia auricula-judae*
 (Auriculariales).\
@@ -128,7 +128,7 @@ secondary spores directly from basidiospores. The Agaricomycotina
 display variation in this character also. It is therefore not surprising
 that the Agaricomycotina, as delimited here, was not formally recognized
 as a taxonomic group before the advent of molecular characters.
-![](Agaricomycotina/Fig3_small.jpg))
+![](Agaricomycotina/Fig3_small.jpg) 
 
 Figure 3. Two-spored \"tuning fork\" basidia of the jelly fungus
 *Dacrymyces*.\
@@ -155,7 +155,7 @@ pore cap forms a smooth, dome-shaped covering over the dolipore. Most
 Agaricomycetes have \"perforate\" parenthesomes, in which  the septal
 pore cap has openings of varying sizes, and appears discontinuous in
 section.\
-![Dolipore septa with perforate parenthesome](Agaricomycotina/Fig4_small.jpg))
+![Dolipore septa with perforate parenthesome](Agaricomycotina/Fig4_small.jpg) 
 
 Figure 4. Dolipore septa with perforate parenthesome (septal pore cap).\
 From Moore and Marchant (1972); used with permission.
@@ -253,7 +253,7 @@ in phylograms (Hibbett et al. 1997, Matheny et al. 2007, Moncalvo et al.
 2007). Analyses using protein-coding genes leave little doubt that these
 taxa are in the Cantharellales clade of the Agaricomycetes (Matheny et
 al. 2007, Moncalvo et al. 2007).
-![](Agaricomycotina/Fig5_small.gif))
+![](Agaricomycotina/Fig5_small.gif) 
 
 Figure 5. Schematic representation of the phylogenetic tree of Weiß and
 Oberwinkler (2001). Numbers along branches indicate bootstrap
@@ -451,7 +451,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 
 ## Title Illustrations
 
-![Calocera viscosa](Agaricomycotina/Calocera_viscosa.jpg))
+![Calocera viscosa](Agaricomycotina/Calocera_viscosa.jpg) 
 
   ---------------
   Scientific Name ::    Calocera viscosa
@@ -460,7 +460,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Source Collection   [MykoWeb](http://www.mykoweb.com/)
   Copyright ::           © Mike Wood
   ---------------
-![Filobasidiella (Cryptococcus) neoformans](Agaricomycotina/Filobasidiella_neoformans.jpg))
+![Filobasidiella (Cryptococcus) neoformans](Agaricomycotina/Filobasidiella_neoformans.jpg) 
 
   ---------------------------------------
   Scientific Name ::   Filobasidiella (Cryptococcus) neoformans
@@ -468,7 +468,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Acknowledgements   Image from the [Duke University Mycology Research Unit](http://www.dumru.mc.duke.edu/); used with permission
   Copyright ::          © Wiley Schell
   ---------------------------------------
-![Gomphus](Agaricomycotina/Gomphus.jpg))
+![Gomphus](Agaricomycotina/Gomphus.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Gomphus

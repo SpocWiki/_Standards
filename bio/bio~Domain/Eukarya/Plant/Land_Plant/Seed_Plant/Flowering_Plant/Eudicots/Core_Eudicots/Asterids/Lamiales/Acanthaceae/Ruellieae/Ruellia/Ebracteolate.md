@@ -134,7 +134,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 
 ## Title Illustrations
 
-![](Ebracteolate/dscn0140.jpg))
+![](Ebracteolate/dscn0140.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia mcvaughii T. F. Daniel
@@ -145,7 +145,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
-![](Ebracteolate/picture259.jpg))
+![](Ebracteolate/picture259.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia tubiflora H. B. K.
@@ -156,7 +156,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
-![](Ebracteolate/dscn0057.jpg))
+![](Ebracteolate/dscn0057.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia foetida Willd.

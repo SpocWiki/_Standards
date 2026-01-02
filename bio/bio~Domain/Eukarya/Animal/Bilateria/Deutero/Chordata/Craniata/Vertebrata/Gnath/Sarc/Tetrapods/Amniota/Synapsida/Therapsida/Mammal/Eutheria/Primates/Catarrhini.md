@@ -263,7 +263,7 @@ Morotopithecus. Journal of Human Evolution
 
 ## Title Illustrations
 
-![](Catarrhini/Semnopithecus_entellus12.jpg))
+![](Catarrhini/Semnopithecus_entellus12.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Presbytis (Semnopithecus) entellus
@@ -275,7 +275,7 @@ Morotopithecus. Journal of Human Evolution
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
-![Adult male olive baboon (Papio anubis) eating meat](Catarrhini/babmeat.jpg))
+![Adult male olive baboon (Papio anubis) eating meat](Catarrhini/babmeat.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Papio anubis

@@ -27,7 +27,7 @@ title: Helicobasidium longisporum
 
 ## syn.: Helicobasidium compactum [Boedijn] 
 
-![ ](rr.jpg)![ ](Helicobasidium_longisporum/Hlstgt.jpg))
+![ ](rr.jpg)![ ](Helicobasidium_longisporum/Hlstgt.jpg) 
 ![ ](Helicobasidium_longisporum/TpGsTUB012677.jpg)
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
@@ -47,7 +47,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/Hlstgt.jpg))
+![](Helicobasidium_longisporum/Hlstgt.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.
@@ -60,7 +60,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidium_longisporum/TpGsTUB012677.jpg))
+![](Helicobasidium_longisporum/TpGsTUB012677.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.

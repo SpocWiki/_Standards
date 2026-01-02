@@ -70,7 +70,7 @@ Society 7: 101-106.
 
 ## Title Illustrations
 
-![](Thiodininae/thiodina.gif))
+![](Thiodininae/thiodina.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

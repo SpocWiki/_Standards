@@ -84,7 +84,7 @@ taxon_common_name: 金虎尾目
 
 
 ------------------------------------------------------------------------------ 
-![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg))
+![Red willow, Salix laevigata](Malpighiales/Salix_laevigata.jpg) 
 Scientific Name ::     Salix laevigata
 Location ::           Kearsarge Pass (Fresno County, California, USA)
 Comments             Red willow (Salicaceae)
@@ -94,7 +94,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
-![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg))
+![Euphorbia canariensis](Malpighiales/Euphorbia_canariensis.jpg) 
 Scientific Name ::   Euphorbia canariensis
 Location ::         Buenavista del Norte, Teneriffa, Canary Islands
 Comments           Euphorbiaceae
@@ -102,7 +102,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg))
+![Hypericum cerastoides](Malpighiales/Hypericum_cerastoides.jpg) 
 Scientific Name ::  Hypericum cerastoides
 Comments          Hypericaceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 

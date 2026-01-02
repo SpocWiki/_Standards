@@ -88,7 +88,7 @@ Flatworms, tapeworms, flukes
 
 Stylochus. Photograph from Gray Museum Slide Collection, copyright ©
 1995, [Marine Biological Laboratory](http://www.mbl.edu/), Woods Hole.
-![Stylochus](Platyhelminthes/stylochus.gif))
+![Stylochus](Platyhelminthes/stylochus.gif) 
 Copyright ::   © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 

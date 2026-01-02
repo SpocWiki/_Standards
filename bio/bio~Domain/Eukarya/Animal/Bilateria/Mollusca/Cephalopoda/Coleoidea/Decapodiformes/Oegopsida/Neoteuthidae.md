@@ -41,7 +41,7 @@ title: Neoteuthidae
 # Neoteuthidae [Naef, 1921] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Neoteuthidae/NEO.JPG))
+![ ](Neoteuthidae/NEO.JPG) 
 ![ ](Neoteuthidae/NeoDraw.jpg)
 
 This family has four genera, each with a single species.
@@ -155,7 +155,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](Neoteuthidae/NEO.JPG))
+![](Neoteuthidae/NEO.JPG) 
 
   ------------
   Scientific Name ::   Neoteuthis
@@ -164,7 +164,7 @@ Zool., 97: 1-159.
   Life Cycle Stage ::   juvenile
   Copyright ::          © 1996 Ron Gilmer
   ------------
-![](Neoteuthidae/NeoDraw.jpg))
+![](Neoteuthidae/NeoDraw.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Neoteuthis thielei

@@ -118,7 +118,7 @@ the water frog populations in western Greece. Zoologischer Anzeiger
 
 ## Title Illustrations
 
-![](Rana_epeirotica/epeirotica.jpg))
+![](Rana_epeirotica/epeirotica.jpg) 
 
   ----------
   Scientific Name ::  Rana epeirotica

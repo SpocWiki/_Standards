@@ -396,7 +396,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
 
 ## Title Illustrations
 
-![coccoid cells of Gymnochlora stellata](Chlorarachniophytes/Gste.jpg))
+![coccoid cells of Gymnochlora stellata](Chlorarachniophytes/Gste.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Gymnochlora stellata
@@ -404,7 +404,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
   -----------------------------------------------------------------------------
-![Coccoid cells of Lotharella globosa](Chlorarachniophytes/Lglo.jpg))
+![Coccoid cells of Lotharella globosa](Chlorarachniophytes/Lglo.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Lotharella globosa
@@ -412,7 +412,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
   -----------------------------------------------------------------------------
-![](Chlorarachniophytes/Gste2.jpg))
+![](Chlorarachniophytes/Gste2.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Gymnochlora stellata

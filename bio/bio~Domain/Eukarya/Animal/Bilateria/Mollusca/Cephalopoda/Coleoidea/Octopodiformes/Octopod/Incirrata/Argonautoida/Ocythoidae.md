@@ -178,7 +178,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](Ocythoidae/Ocythoe.jpg))
+![](Ocythoidae/Ocythoe.jpg) 
 
   ----------------
   Scientific Name ::  Ocythoe tuberculata
@@ -188,7 +188,7 @@ Zool., 97: 1-159.
   View              Lateral.
   Copyright ::         © 1996 Dorothy Petersen
   ----------------
-![](Ocythoidae/OcythoeDrawFem.jpg))
+![](Ocythoidae/OcythoeDrawFem.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::   Ocythoe tuberculata

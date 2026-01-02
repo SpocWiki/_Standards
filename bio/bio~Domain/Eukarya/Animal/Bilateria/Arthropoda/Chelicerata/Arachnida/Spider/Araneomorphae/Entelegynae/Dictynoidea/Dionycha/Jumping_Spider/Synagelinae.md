@@ -67,7 +67,7 @@ the New World.
 
 ## Title Illustrations
 
-![](Synagelinae/synagelinae.gif))
+![](Synagelinae/synagelinae.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

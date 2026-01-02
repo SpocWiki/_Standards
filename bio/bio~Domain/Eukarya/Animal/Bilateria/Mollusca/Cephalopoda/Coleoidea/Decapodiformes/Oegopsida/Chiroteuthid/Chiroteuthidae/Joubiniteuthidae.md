@@ -9,7 +9,7 @@ title: Joubiniteuthis portieri
 # Joubiniteuthis portieri 
 [Joubin, 1916] 
 
-![ ](Joubiniteuthidae/Joubiniteuthis028.jpg)![ ](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
+![ ](Joubiniteuthidae/Joubiniteuthis028.jpg)![ ](Joubiniteuthidae/JoubiniteuthisDraw1.gif) 
 
 This family contains only a single species.
 
@@ -73,7 +73,7 @@ all pertinent references.
 An advanced paralarval stage has been described (Young, 1991). The
 paralarva (6.9 mm ML without the tail) is very distinctive with large,
 thick tentacles, small fins and long tail.
-![ ](Joubiniteuthidae/JoubiniParal.gif))
+![ ](Joubiniteuthidae/JoubiniParal.gif) 
 
 **Figure**. Ventral (top) and dorsal views of a paralarva of ***J.
 portieri***, 6.9 mm ML, Hawaiian waters. Scale bar is 1 mm. Drawings
@@ -165,7 +165,7 @@ tropical and subtropical latitudes throughout the world\'s oceans.
 ## Title Illustrations
 
 -------------------------- 
-![](Joubiniteuthidae/Joubiniteuthis028.jpg))
+![](Joubiniteuthidae/Joubiniteuthis028.jpg) 
 Scientific Name ::     Joubiniteuthis portieri
 Location ::           Off Northwestern Hawaiian Islands, 1100 m depth.
 Comments             Photograph from Hawaii Undersea Research Laboratory Video-archive
@@ -176,7 +176,7 @@ Size                 30-40 cm total length
 Copyright ::            © Frank Parrish
 
 -------------------------- 
-![](Joubiniteuthidae/JoubiniteuthisDraw1.gif))
+![](Joubiniteuthidae/JoubiniteuthisDraw1.gif) 
 Scientific Name ::     Joubiniteuthis portieri
 Reference            Young, R. E. and C. F. E. Roper. 1969. A monograph of the Cephalopoda of the North Atlantic: The family Joubiniteuthidae. Smithson. Contr. Zool. No. 15: 1-10.
 Specimen Condition   Dead Specimen

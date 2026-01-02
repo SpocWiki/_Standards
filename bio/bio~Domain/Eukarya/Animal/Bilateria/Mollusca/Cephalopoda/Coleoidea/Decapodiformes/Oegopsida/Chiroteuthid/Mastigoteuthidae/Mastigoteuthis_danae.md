@@ -117,7 +117,7 @@ Beaufortia, 47: 91-108.
 
 ## Title Illustrations
 
-![](Mastigoteuthis_danae/MDanaeAll.jpg))
+![](Mastigoteuthis_danae/MDanaeAll.jpg) 
 
   ---------------------------------------------------------
   Scientific Name ::  Mastigoteuthis danae

@@ -269,7 +269,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Title Illustrations
 
-![](talismani/ctalismani1.jpg))
+![](talismani/ctalismani1.jpg) 
 
   ------------------------------------------
   Scientific Name ::     Magnapinna talismani

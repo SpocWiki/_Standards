@@ -78,7 +78,7 @@ the genus.
 
 
 --------------------------------------------------------------------------- 
-![Crossandrella](Crossandrella/Crossandrella.jpg))
+![Crossandrella](Crossandrella/Crossandrella.jpg) 
 Scientific Name ::     Crossandrella dusenii (Lindau) S. Moore
 Location ::           Uganda
 Reference            KEW (K)

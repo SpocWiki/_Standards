@@ -80,7 +80,7 @@ Antarctic waters at 57° 21\'S., 74° 43\'W.
 
 ## Title Illustrations
 
-![](Planctoteuthis_C/ChiroNewGenClubsucker.jpg))
+![](Planctoteuthis_C/ChiroNewGenClubsucker.jpg) 
 
   -------------------------
   Scientific Name ::  New Genus C

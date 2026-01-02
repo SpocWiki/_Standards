@@ -5,7 +5,7 @@ title: Cambaridae
 ---
 
 # [[Cambaridae]]  
-![ ](Cambaridae/Procambarus_nigrocinctus.jpg))
+![ ](Cambaridae/Procambarus_nigrocinctus.jpg) 
 
 ## #has_/text_of_/abstract 
 

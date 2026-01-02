@@ -7,7 +7,7 @@ title: Pelodytidae
 # [[Pelodytidae]]
 
 Parsley Frogs 
-![Pelodytidae](Pelodytidae/pelodytidae.gif))
+![Pelodytidae](Pelodytidae/pelodytidae.gif) 
 
 ## #has_/text_of_/abstract 
 

@@ -23,7 +23,7 @@ title: Protanthea
 -   » Sub-Groups 
 
 # *Protanthea* 
-![ ](Protanthea/gonactiniidae.jpg))
+![ ](Protanthea/gonactiniidae.jpg) 
 
 -   *Protanthea simplex* [Carlgren 1891]
 

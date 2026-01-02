@@ -132,7 +132,7 @@ have been able to place it with certainty.
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Rock rose, Cistus](Malvales/Cistus.jpg))
+![Rock rose, Cistus](Malvales/Cistus.jpg) 
 Scientific Name ::     Cistus
 Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
 Comments             Rock rose (Cistaceae)
@@ -142,7 +142,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
-![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg))
+![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg) 
 Scientific Name ::     Adansonia digitata
 Location ::           East Africa
 Comments             Baobab tree (Core Malvales).
@@ -152,7 +152,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 --------------------------------------------------------------------------------- 
-![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg))
+![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg) 
 Scientific Name ::     Malva sylvestris (Core Malvales)
 Location ::           Bodega Bay (Sonoma County, California, USA)
 Comments             High mallow

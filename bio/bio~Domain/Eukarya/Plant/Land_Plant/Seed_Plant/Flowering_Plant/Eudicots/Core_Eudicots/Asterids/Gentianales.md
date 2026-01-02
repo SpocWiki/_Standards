@@ -74,7 +74,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------- 
-![Rainier pleated gentian, Gentiana calycosa](Gentianales/Gentiana_calycosa.jpg))
+![Rainier pleated gentian, Gentiana calycosa](Gentianales/Gentiana_calycosa.jpg) 
 
 Scientific Name ::    Gentiana calycosa (Gentianaceae)
 Location ::          Kidd Basin, near Kidd Creek, north of Black Mountain in the Trinity Alps (Siskiyou County, California, USA).

@@ -97,7 +97,7 @@ present species are separated by (1) the maximum number of sucker series
 on the arms and tentacular clubs, (2) the presence/absence of
 photophores, (3) the size of the visceral photophore and (4) the mantle
 width relative to the ML.
-![ ](Chtenopterygidae/ChtenopteryxViscPhot.JPG))
+![ ](Chtenopterygidae/ChtenopteryxViscPhot.JPG) 
 
 **Figure**. Photograph of the visceral photophore of ***Chtenopteryx***
 sp., off Hawaii by R. E. Young. The visceral photophore present in some
@@ -220,7 +220,7 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Chtenopterygidae/ChtenFins.jpg))
+![](Chtenopterygidae/ChtenFins.jpg) 
 
   -------------------------------------------------------------------
   Scientific Name ::  Chtenopteryx sp.

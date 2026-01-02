@@ -246,7 +246,7 @@ Clack and Coates 1995, Coates and Clack 1995).
 ## Title Illustrations
 
 --------------- 
-![](Acanthostega/04_Acan_flesh_reconstruct.JPG))
+![](Acanthostega/04_Acan_flesh_reconstruct.JPG) 
 Scientific Name ::     Acanthostega gunnari
 Comments             Reconstruction of Acanthostega.
 Creator              Richard Hammond

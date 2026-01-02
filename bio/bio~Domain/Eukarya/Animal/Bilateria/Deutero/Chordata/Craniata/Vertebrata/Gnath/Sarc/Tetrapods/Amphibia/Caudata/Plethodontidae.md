@@ -354,7 +354,7 @@ Chippindale et al., 2004). 
 ## Title Illustrations
 
 ------------- 
-![](Plethodontidae/plethodondorsalis.jpg))
+![](Plethodontidae/plethodondorsalis.jpg) 
 Scientific Name ::  Plethodon dorsalis
 Location ::        Eastern United States
 Comments          The zigzag salamander

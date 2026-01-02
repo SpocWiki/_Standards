@@ -25,7 +25,7 @@ title: Oxyopidae
 -   » Sub-Groups 
 
 # Oxyopidae 
-![ ](Oxyopidae/Oxyopes_heterophthalmus_2-8001.jpg))
+![ ](Oxyopidae/Oxyopes_heterophthalmus_2-8001.jpg) 
 
 -   *Hamataliwa*
 -   *Hostus*
@@ -41,7 +41,7 @@ Containing group:[Lycosoidea](../Lycosoidea.md)
 
 ## Title Illustrations
 
-![](Oxyopidae/Oxyopes_heterophthalmus_2-8001.jpg))
+![](Oxyopidae/Oxyopes_heterophthalmus_2-8001.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Arachnida:Spider:Oxyopidae: Oxyopes heterophthalmus

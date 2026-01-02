@@ -8,7 +8,7 @@ title: Mastigoteuthis atlantica
 # *Mastigoteuthis atlantica* [Joubin, 1933] 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Mastigoteuthis_atlantica/MastAtlantica.jpg))
+![ ](Mastigoteuthis_atlantica/MastAtlantica.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -104,7 +104,7 @@ new series, 13: 1-49.
 
 ## Title Illustrations
 
-![](Mastigoteuthis_atlantica/MastAtlantica.jpg))
+![](Mastigoteuthis_atlantica/MastAtlantica.jpg) 
 
   ---------------------------------------------------------
   Scientific Name ::  Mastigoteuthis atlantica

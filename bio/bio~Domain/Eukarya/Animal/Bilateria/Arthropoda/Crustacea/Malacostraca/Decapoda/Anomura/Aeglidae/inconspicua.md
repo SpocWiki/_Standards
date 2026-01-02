@@ -5,7 +5,7 @@ title: Aegla inconspicua
 ---
 
 # Aegla inconspicua 
-![ ](inconspicua/inconspicua1.jpg))
+![ ](inconspicua/inconspicua1.jpg) 
 
 Containing group:[Aeglidae](../Aeglidae.md) 
 
@@ -28,7 +28,7 @@ Arroio D. Pedro, Sao Francisco de Paula, Rio Grande do Sul, Brazil.
 ### Distribution
 
 Eastern and northeastern parts of Rio Grande do Sul, Brazil.
-![ ](inconspicua/_inconspicua1.jpg))
+![ ](inconspicua/_inconspicua1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ## Phylogeny 
@@ -112,7 +112,7 @@ Eastern and northeastern parts of Rio Grande do Sul, Brazil.
 ## Title Illustrations
 
 ----------------- 
-![](inconspicua/inconspicua1.jpg))
+![](inconspicua/inconspicua1.jpg) 
 Scientific Name ::  Aegla inconspicua
 Creator           Ana Rossi
 Sex ::             Male

@@ -143,7 +143,7 @@ European Socieity for Evolutionary Biology, Edinburgh 4-8 September
 
 ## Title Illustrations
 
-![](Rana_lessonae/lessonae.jpg))
+![](Rana_lessonae/lessonae.jpg) 
 
   ----------
   Scientific Name ::  Rana lessonae

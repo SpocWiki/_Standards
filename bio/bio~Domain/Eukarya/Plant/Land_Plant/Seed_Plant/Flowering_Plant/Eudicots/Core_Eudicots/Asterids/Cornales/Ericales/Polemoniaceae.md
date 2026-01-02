@@ -389,7 +389,7 @@ Body Part         Inflorescence
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 ------------------------------------------------------------------------ 
-![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg))
+![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg) 
 Scientific Name ::  Ipomopsis aggregata
 Location ::        USA: Utah Co., Utah
 Sex ::             Perfect flowers
@@ -405,7 +405,7 @@ Body Part         Full plant
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 ------------------------------------------------------------------------ 
-![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg))
+![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg) 
 Scientific Name ::  Polemonium occidentale
 Location ::        USA: Juab Co., Utah
 Sex ::             Perfect flowers

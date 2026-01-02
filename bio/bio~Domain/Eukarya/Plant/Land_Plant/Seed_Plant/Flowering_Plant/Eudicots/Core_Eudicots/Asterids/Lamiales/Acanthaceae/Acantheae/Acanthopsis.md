@@ -68,7 +68,7 @@ the former two genera than is supported by our results.
 
 
 -------------------------------------------------------------------------- 
-![](Acanthopsis/acanthopsis-2-1.jpg))
+![](Acanthopsis/acanthopsis-2-1.jpg) 
 Scientific Name ::     Acanthopsis sp. Harv.
 Location ::           South Africa
 Specimen Condition   Live Specimen

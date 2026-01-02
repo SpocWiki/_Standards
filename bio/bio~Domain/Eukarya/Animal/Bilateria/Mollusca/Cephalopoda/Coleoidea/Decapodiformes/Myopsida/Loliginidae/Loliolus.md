@@ -35,7 +35,7 @@ title: Loliolus
 # *Loliolus* [Steenstrup, 1856] 
 
 [Michael Vecchione]()
-![ ](Loliolus/LolioHardwickei.jpg))
+![ ](Loliolus/LolioHardwickei.jpg) 
 
 ***Loliolus*** has six species placed into two subgenera.
 
@@ -96,7 +96,7 @@ hectocotylus varies between subgenera. In ***Loliolus (Loliolus)*** the
 modified portion of the hectocotylus occupies the entire length of the
 arm whereas in ***Loliolus (Nipponololigo)*** some proximal suckers are
 unmodified.
-![ ](Loliolus/LJaponicaCrestSide.jpg))
+![ ](Loliolus/LJaponicaCrestSide.jpg) 
 
 **Figure**. Oral (**top**) and medial (**bottom**) views of a portion of
 the hectocotylus crest of ***L. (N.) japonica***, same hectocotylus as
@@ -158,7 +158,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Loliolus/LolioHardwickei.jpg))
+![](Loliolus/LolioHardwickei.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Loliolus hardwickei

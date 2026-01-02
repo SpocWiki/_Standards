@@ -6,7 +6,7 @@ title: Lemuridae
 
 # [[Lemuridae]] 
 
-![ ](Lemuridae/Sportive_lemur_Lepilemur.jpg)![ ](Lemuridae/CROWNE~2.JPG))
+![ ](Lemuridae/Sportive_lemur_Lepilemur.jpg)![ ](Lemuridae/CROWNE~2.JPG) 
 
 
 ## #has_/text_of_/abstract 
@@ -52,7 +52,7 @@ title: Lemuridae
 
 
 --------------------------------------------------------------------------------- 
-![](Lemuridae/Sportive_lemur_Lepilemur.jpg))
+![](Lemuridae/Sportive_lemur_Lepilemur.jpg) 
 Scientific Name ::     Lepilemur
 Location ::           Ankarafantsika nature reserve, Madagascar
 Comments             Sportive lemur
@@ -62,7 +62,7 @@ Identified By        Jean-Francois Dallaire with the help of a guide
 Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
 
 --------------------------------------------------------------------------------- 
-![](Lemuridae/CROWNE~2.JPG))
+![](Lemuridae/CROWNE~2.JPG) 
 Scientific Name ::     Eulemur coronatus
 Location ::           Ankarana special reserve, Madagascar
 Comments             Crowned lemur

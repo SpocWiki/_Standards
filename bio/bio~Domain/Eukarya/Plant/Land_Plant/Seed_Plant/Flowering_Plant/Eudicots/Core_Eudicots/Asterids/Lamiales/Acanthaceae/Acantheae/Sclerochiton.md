@@ -78,7 +78,7 @@ more data and/or study of additional characters clarifies these enigmas.
 
 
 --------------------------------------------------------------------------- 
-![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg))
+![Sclerochiton harveyanus Nees](Sclerochiton/sclerochiton.jpg) 
 Scientific Name ::     Sclerochiton harveyanus Nees
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
@@ -94,7 +94,7 @@ Collector            Meeuse 9657
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg))
+![Sclerochiton bequaertii](Sclerochiton/Streptosiphon1.jpg) 
 Scientific Name ::  Sclerochiton bequaertii De Wild.
 Reference         Vollesen, Kaj. 1991. A revision of the African genus Sclerochiton (Acanthaceae: Acantheae). Kew Bulletin 46(1):38.
 Creator           Drawn by Eleanor Catherine

@@ -35,7 +35,7 @@ title: Chiroteuthis calyx
 
 [Clyde F. E. Roper and Richard E. Young]()
 
-![ ](calyx/C.jpg)![ ](calyx/C_004.jpg))
+![ ](calyx/C.jpg)![ ](calyx/C_004.jpg) 
 
 The holotype is deposited in the Santa Barbara Museum of Natural
 History, California.
@@ -148,7 +148,7 @@ Zool., 97: 1-159.
   Scientific Name ::  Chiroteuthis calyx
   Creator           D. Galli
   ---------
-![](calyx/C_003.jpg))
+![](calyx/C_003.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Chiroteuthis calyx

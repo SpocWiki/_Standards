@@ -63,7 +63,7 @@ title: Limulus polyphemus
 
 
 ------------------- 
-![](Limulus_polyphemus/Limulus_polyphemus.jpg))
+![](Limulus_polyphemus/Limulus_polyphemus.jpg) 
 Scientific Name ::    Limulus polyphemus
 Location ::          Washington D.C., USA
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)

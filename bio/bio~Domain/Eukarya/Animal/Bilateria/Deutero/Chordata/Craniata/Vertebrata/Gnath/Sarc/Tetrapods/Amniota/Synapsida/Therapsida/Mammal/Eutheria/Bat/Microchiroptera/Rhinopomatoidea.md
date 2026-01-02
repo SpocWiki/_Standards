@@ -99,7 +99,7 @@ Cakenberghe and de Vree (1994) suggests that *Rhinopoma hardwickei* and
 taxon of that clade.
 
 ### Geographic Distribution
-![ ](Rhinopomatoidea/rhinopomatoidea.gif))
+![ ](Rhinopomatoidea/rhinopomatoidea.gif) 
 
 The geographical distribution of Rhinopomatoidea is shown in red.
 Distribution from Hill and Smith (1984).

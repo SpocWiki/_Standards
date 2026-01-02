@@ -82,7 +82,7 @@ drives water into the coelenteron. In most sea anemones and corals, two
 siphonoglyphs are situated diametrically opposite one another in the
 actinopharynx. Siphonoglyphs and their associated structures impart a
 bilateral or biradial symmetry to the polyp (e.g. Shick 1991).
-![ ](Anthozoa/crossup.jpg))
+![ ](Anthozoa/crossup.jpg) 
 ![ ](Anthozoa/crossdown.jpg))
 
 Figure 1. Cross-section of an anthozoan, the sea anemone *Megalactis*
@@ -279,7 +279,7 @@ Kansas Press, Lawrence.
 
 ## Title Illustrations
 
-![](Anthozoa/img0077.jpg))
+![](Anthozoa/img0077.jpg) 
 
   ------------------------
   Scientific Name ::     Stichodactyla mertensii
@@ -287,7 +287,7 @@ Kansas Press, Lawrence.
   Specimen Condition   Live Specimen
   Copyright ::            © 1999 Gerald R. Allen
   ------------------------
-![](Anthozoa/octocorallia.jpg))
+![](Anthozoa/octocorallia.jpg) 
 
   ----------------------------
   Scientific Name ::  Alcyonaria

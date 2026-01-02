@@ -5,7 +5,7 @@ title: Hypochilidae
 ---
 
 # [[Hypochilidae]]  
-![ ](Hypochilidae/hypochilus_pococki.jpg))
+![ ](Hypochilidae/hypochilus_pococki.jpg) 
 
 Containing group:[Araneomorphae](../Araneomorphae.md) 
 
@@ -40,7 +40,7 @@ Containing group:[Araneomorphae](../Araneomorphae.md)
 ## Title Illustrations
 
 --------------------------------------------------------------------------------- 
-![](Hypochilidae/hypochilus_pococki.jpg))
+![](Hypochilidae/hypochilus_pococki.jpg) 
 Scientific Name ::     Hypochilus pococki
 Location ::           Great Smoky Mountains, North Carolina
 Specimen Condition   Live Specimen

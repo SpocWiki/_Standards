@@ -28,7 +28,7 @@ title: Actiniaria
 ## Sea Anemones 
 
 ![ ](Actiniaria/gonactiniidaesm.jpg)
-![ ](Actiniaria/edwardsiidaesm.jpg)![](Actiniaria/diadumenidaesm.jpg))
+![ ](Actiniaria/edwardsiidaesm.jpg)![](Actiniaria/diadumenidaesm.jpg) 
 
 -   [Protantheae](Actiniaria/Protantheae.md "go to ToL page"))*
 -   [Endocoelantheae](Actiniaria/Endocoelantheae.md "go to ToL page"))*
@@ -93,7 +93,7 @@ From left to right:
 -   Diadumene cincta (Nynantheae: Diadumenidae).\
     The Netherlands.\
     Photo copyright © 2000, Ron Ates.
-![](Actiniaria/gonactiniidaesm.jpg))
+![](Actiniaria/gonactiniidaesm.jpg) 
 
   --------
   Copyright ::   © 2000 Robin Harvey
@@ -103,7 +103,7 @@ From left to right:
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Actiniaria/diadumenidaesm.jpg))
+![](Actiniaria/diadumenidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

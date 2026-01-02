@@ -78,7 +78,7 @@ modified from Collins and Henriques, 2000.
 
 ## Title Illustrations
 
-![](gilchristi/StauroGilchristi.jpg))
+![](gilchristi/StauroGilchristi.jpg) 
 
 --------------------------------------------------------------------
 Scientific Name ::  Stauroteuthis gilchristi

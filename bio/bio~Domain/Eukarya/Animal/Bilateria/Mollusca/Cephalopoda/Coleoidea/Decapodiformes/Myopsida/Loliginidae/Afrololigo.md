@@ -37,7 +37,7 @@ title: Afrololigo mercatoris
 # *Afrololigo mercatoris* [(Adam, 1941)] 
 
 [Michael Vecchione]()
-![ ](Afrololigo/Afrologio.jpg))
+![ ](Afrololigo/Afrologio.jpg) 
 
 A single species is presently recognized in ***Afrololigo***.
 
@@ -101,7 +101,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Afrololigo/Afrologio.jpg))
+![](Afrololigo/Afrologio.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Afrololigo mercatoris

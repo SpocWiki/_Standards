@@ -70,14 +70,14 @@ al. 2005). The two genera bear many morphological similarities, but
 
 
 ---------------------- 
-![](Suessenguthia/5592.jpg))
+![](Suessenguthia/5592.jpg) 
 Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
 Location ::           Thailand
 Specimen Condition   Live Specimen
 Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
 
 ---------------------- 
-![](Suessenguthia/5591.jpg))
+![](Suessenguthia/5591.jpg) 
 Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
 Specimen Condition   Live Specimen
 Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)

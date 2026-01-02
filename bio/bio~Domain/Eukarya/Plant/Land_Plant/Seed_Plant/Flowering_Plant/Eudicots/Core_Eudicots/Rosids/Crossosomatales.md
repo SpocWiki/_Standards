@@ -52,7 +52,7 @@ title: Crossosomatales
 
 
 ------------------------------------------------------------------------------ 
-![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg))
+![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg) 
 Scientific Name ::     Crossosoma californicum
 Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
 Comments             California rockflower (Crossosomataceae)
@@ -62,13 +62,13 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
 
 --------------------------------------------------------------------- 
-![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg))
+![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg) 
 Scientific Name ::  Stachyurus chinensis
 Comments          Stachyuraceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 --------------------------------------------------------------------------------- 
-![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg))
+![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg) 
 Scientific Name ::     Staphylea bolanderi
 Location ::           California, USA
 Comments             Bladdernut (Staphyleaceae)

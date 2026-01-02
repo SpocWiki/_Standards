@@ -28,7 +28,7 @@ title: Caryophylliina
 # Caryophylliina 
 
 [Stephen D. Cairns]()
-![ ](Caryophylliina/Deltocyathus_rotulus.jpg))
+![ ](Caryophylliina/Deltocyathus_rotulus.jpg) 
 † ) occurs only in the fossil record, whereas the other two
 superfamilies contain both fossil and Recent taxa.
 

@@ -36,13 +36,13 @@ title: Latrodectus quartus
 [Jeremy Miller]()
 
 ![ ](quartus/dsc_0023.jpg)
-![ ](quartus/dsc_0006.jpg)![](quartus/dsc_0014.jpg))
+![ ](quartus/dsc_0006.jpg)![](quartus/dsc_0014.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](quartus/dsc_0023.jpg))
+![](quartus/dsc_0023.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus quartis
@@ -54,7 +54,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](quartus/dsc_0006.jpg))
+![](quartus/dsc_0006.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus quartis
@@ -66,7 +66,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](quartus/dsc_0014.jpg))
+![](quartus/dsc_0014.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus quartis

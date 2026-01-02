@@ -129,7 +129,7 @@ Sciences of Philadelphia 470:1-9.
 
 ## Title Illustrations
 
-![](Rana_cerigensis/cerigensis.jpg))
+![](Rana_cerigensis/cerigensis.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana cerigensis

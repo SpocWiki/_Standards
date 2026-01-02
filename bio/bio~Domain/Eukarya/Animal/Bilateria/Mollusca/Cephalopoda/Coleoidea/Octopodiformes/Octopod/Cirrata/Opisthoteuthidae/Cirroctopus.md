@@ -183,12 +183,12 @@ Vecchione and Young, 1997).
 -   Dorsal and ventral views of the shell of **G. glacialis**.
     Photograph of stained, preserved shell by R. Young.
 -   Distribution map. Modified slightly from O\'Shea (1999).
-![](Cirroctopus/Cirroctopus.jpg))
+![](Cirroctopus/Cirroctopus.jpg) 
 
   ------
   Copyright ::   © E. McSweeny
   ------
-![](Cirroctopus/CirroctopusDraw.jpg))
+![](Cirroctopus/CirroctopusDraw.jpg) 
 
   -----------------------------------------------------------------------
   Copyright ::   © 1997 [Michael Vecchione](mailto:vecchiom@si.edu) 

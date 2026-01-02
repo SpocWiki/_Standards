@@ -41,7 +41,7 @@ title: Enoploteuthid families
 # Enoploteuthid families 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](Enoploteuthid/EnoploFams.jpg))
+![ ](Enoploteuthid/EnoploFams.jpg) 
 
 Containing group:[Oegopsida](../Oegopsida.md) 
 
@@ -146,7 +146,7 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 
 ## Title Illustrations
 
-![](Enoploteuthid/EnoploFams.jpg))
+![](Enoploteuthid/EnoploFams.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  *Ancistrocheirus lesueurii, Abralia trigonura, Selenoteuthis scintillans, Pyroteuthis addolux*

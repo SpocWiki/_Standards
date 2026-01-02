@@ -224,7 +224,7 @@ al. 2005).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![](Ichthyostega/ichthyostega.jpg))
+![](Ichthyostega/ichthyostega.jpg) 
 Scientific Name ::     Ichthyostega
 Comments             Skeletal reconstruction of *Ichthyostega* based on recent finds and a new interpretation of the hind limb anatomy and proportions.
 Specimen Condition   Fossil \-- Period: Devonian

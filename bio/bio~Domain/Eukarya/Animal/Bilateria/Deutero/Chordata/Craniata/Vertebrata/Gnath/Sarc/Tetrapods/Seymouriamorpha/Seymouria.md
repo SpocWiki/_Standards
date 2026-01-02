@@ -152,7 +152,7 @@ of the Museum of Comparative Zoology 85: 325-409.
 
 ## Title Illustrations
 
-![](Seymouria/Seymouria.gif))
+![](Seymouria/Seymouria.gif) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Seymouria baylorensis

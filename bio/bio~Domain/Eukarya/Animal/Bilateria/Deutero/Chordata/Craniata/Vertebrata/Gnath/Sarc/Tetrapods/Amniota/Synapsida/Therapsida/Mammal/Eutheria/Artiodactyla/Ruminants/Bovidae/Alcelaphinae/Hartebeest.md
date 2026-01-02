@@ -8,7 +8,7 @@ title: Alcelaphus buselaphus
 ---
 
 # Alcelaphus buselaphus 
-![Hartebeest](Hartebeest/Hartebeest.jpg))
+![Hartebeest](Hartebeest/Hartebeest.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -58,7 +58,7 @@ title: Alcelaphus buselaphus
 ## Title Illustrations
 
 ------------------------------ 
-![Hartebeest](Hartebeest/Hartebeest.jpg))
+![Hartebeest](Hartebeest/Hartebeest.jpg) 
 Scientific Name ::     Alcelaphus buselaphus
 Location ::           Kenya
 Comments             Hartbebeest

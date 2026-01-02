@@ -23,7 +23,7 @@ start_time: -37000000-06
 # Dermoptera
 
 ## Colugos or flying lemurs and their extinct relatives 
-![ ](Dermoptera/453554996_ec252c76e5_o.jpg))
+![ ](Dermoptera/453554996_ec252c76e5_o.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Dermoptera,183383|WD~Dermoptera,183383]] 
 
@@ -94,7 +94,7 @@ start_time: -37000000-06
 ## Title Illustrations
 
 ---------------------------------------------------------------- 
-![](Dermoptera/453554996_ec252c76e5_o.jpg))
+![](Dermoptera/453554996_ec252c76e5_o.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Central Catchment area, Singapore
 Specimen Condition   Live Specimen
@@ -106,7 +106,7 @@ Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License
 Copyright ::            © 2006 [Lip Kee Yap](http://flickr.com/people/64565252@N00)
 
 ---------------------------------------------------------------- 
-![](Dermoptera/143391931_24b3a608ff_b.jpg))
+![](Dermoptera/143391931_24b3a608ff_b.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           Langkawi Island, Malaysia
 Specimen Condition   Live Specimen
@@ -116,7 +116,7 @@ Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creat
 Copyright ::            © 2006 [Peter MacDonald](http://flickr.com/people/petermacdonald/)
 
 ------------------------------------------------------------ 
-![](Dermoptera/296191800_deaec8342c_o.jpg))
+![](Dermoptera/296191800_deaec8342c_o.jpg) 
 Scientific Name ::     Cynocephalus variegatus
 Location ::           MacRitchie Reservoir, Singapore
 Specimen Condition   Live Specimen

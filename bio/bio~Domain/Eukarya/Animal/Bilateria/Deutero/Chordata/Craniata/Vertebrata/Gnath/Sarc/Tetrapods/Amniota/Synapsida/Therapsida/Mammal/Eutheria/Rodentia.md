@@ -121,7 +121,7 @@ U_S_National_Archives_Identifier:
 
 ## Rodents: mice, rats, hamsters, squirrels, gophers, porcupines, beavers, etc. 
 
-![](Rodentia/porcufam.jpg)![ ](Rodentia/Spermophilus-parryii.jpg))
+![](Rodentia/porcufam.jpg)![ ](Rodentia/Spermophilus-parryii.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -203,7 +203,7 @@ U_S_National_Archives_Identifier:
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg))
+![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg) 
 Scientific Name ::     Hystrix cristata
 Location ::           Serengeti National Park
 Comments             This was an unusual sighting, not only of a pair with young, but in open country at mid-day. Crested porcupines are mainly nocturnal.
@@ -216,7 +216,7 @@ View                 Frontal/lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![](Rodentia/Spermophilus-parryii.jpg))
+![](Rodentia/Spermophilus-parryii.jpg) 
 Scientific Name ::     Spermophilus parryii
 Comments             Arctic ground squirrel
 Creator              Jim McCarthy

@@ -410,7 +410,7 @@ Zimmer C. Meet the relatives. Discover, 1991, 56-57.
 
 ## Title Illustrations
 
-![](Synapsida/tetraceratops.gif))
+![](Synapsida/tetraceratops.gif) 
 
   ---------------------------------------------------------------------
   Scientific Name ::     Tetraceratops

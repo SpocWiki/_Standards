@@ -104,7 +104,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   Creator           E. McSweeny
   Copyright ::         © 1996 E. McSweeny
   ---------
-![](Cirrothauma/CirrothMagnaDraw.jpg))
+![](Cirrothauma/CirrothMagnaDraw.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::   Cirrothauma magna

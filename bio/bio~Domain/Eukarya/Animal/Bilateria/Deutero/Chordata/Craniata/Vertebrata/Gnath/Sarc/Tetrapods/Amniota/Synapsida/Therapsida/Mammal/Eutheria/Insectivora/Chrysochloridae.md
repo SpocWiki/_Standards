@@ -7,7 +7,7 @@ title: Chrysochloridae
 # [[Chrysochloridae]]
 
 ## Golden Moles 
-![ ](Chrysochloridae/Eremitalpa_granti0047.jpg))
+![ ](Chrysochloridae/Eremitalpa_granti0047.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -72,7 +72,7 @@ title: Chrysochloridae
 
 
 ------------------------------------------------------------------------------ 
-![](Chrysochloridae/Eremitalpa_granti0047.jpg))
+![](Chrysochloridae/Eremitalpa_granti0047.jpg) 
 Scientific Name ::     Eremitalpa granti
 Location ::           Namibia
 Comments             Grant\'s desert golden mole

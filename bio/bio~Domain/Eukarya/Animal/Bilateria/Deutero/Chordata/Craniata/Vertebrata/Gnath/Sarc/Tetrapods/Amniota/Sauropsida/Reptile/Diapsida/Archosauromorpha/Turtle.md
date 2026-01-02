@@ -528,7 +528,7 @@ incorporated into eggshells forming around follicles in the oviducts.
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![Olive ridley turtle](Testudines/01076turtle1.jpg))
+![Olive ridley turtle](Testudines/01076turtle1.jpg) 
 Scientific Name ::     Lepidochelys olivacea
 Location ::           Nancite Beach, Costa Rica
 Comments             Olive ridley turtle

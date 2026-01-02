@@ -34,7 +34,7 @@ title: Latrodectus indistinctus
 # *Latrodectus indistinctus* 
 
 [Jeremy Miller]()
-![ ](indistinctus/dsc_0180.jpg))
+![ ](indistinctus/dsc_0180.jpg) 
 ![ ](indistinctus/dsc_0185.jpg)
 ![](indistinctus/dsc_0083.jpg)
 
@@ -42,7 +42,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](indistinctus/dsc_0180.jpg))
+![](indistinctus/dsc_0180.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus
@@ -54,7 +54,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](indistinctus/dsc_0185.jpg))
+![](indistinctus/dsc_0185.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus
@@ -66,7 +66,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](indistinctus/dsc_0083.jpg))
+![](indistinctus/dsc_0083.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus indistinctus

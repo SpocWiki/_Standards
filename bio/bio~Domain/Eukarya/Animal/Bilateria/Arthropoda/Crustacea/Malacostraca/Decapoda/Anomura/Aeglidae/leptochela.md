@@ -26,7 +26,7 @@ Paulo, Brazil.
 ### Distribution
 
 Gruta dos Paiva, Iporanga, Sao Paulo, Brazil.
-![ ](leptochela/_leptochela1.jpg))
+![ ](leptochela/_leptochela1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References

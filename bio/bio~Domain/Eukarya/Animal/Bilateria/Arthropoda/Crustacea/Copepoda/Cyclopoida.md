@@ -5,7 +5,7 @@ title: Cyclopoida
 ---
 
 # [[Cyclopoida]] 
-![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
+![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -61,7 +61,7 @@ title: Cyclopoida
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg))
+![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 Scientific Name ::   Cyclops
 Creator            Photograph by Jean-François Cornuet
 Sex ::              Female

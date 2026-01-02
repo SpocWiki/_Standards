@@ -75,7 +75,7 @@ soil. Archiv für Protistenkunde 116:254-269.
 
 ## Title Illustrations
 
-![](a.proboscidea/fapusop.jpg))
+![](a.proboscidea/fapusop.jpg) 
 
   -------------
   Scientific Name ::     Apusomonas proboscidea

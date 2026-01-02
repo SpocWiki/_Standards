@@ -39,7 +39,7 @@ title: Nataloidea
 # Nataloidea 
 
 [Nancy B. Simmons and Tenley Conway]()
-![ ](Nataloidea/thyroptera_tricolor.gif))![ ](Nataloidea/furipterus_horrens.gif))
+![ ](Nataloidea/thyroptera_tricolor.gif))![ ](Nataloidea/furipterus_horrens.gif) 
 
 Tree from Simmons (1998) and Simmons and Geisler (1998).
 
@@ -84,7 +84,7 @@ Relationships within the only two speciouse groups, Thyropteridae and
 Natalidae, have never been formally analyzed.
 
 ### Geographic Distribution
-![ ](Nataloidea/nataloidea.gif))
+![ ](Nataloidea/nataloidea.gif) 
 
 The geographical distribution of Nataloidea is shown in red.
 Distribution from Hill and Smith (1984).
@@ -116,13 +116,13 @@ of Natural History. 235:1-182.
 
 Thyroptera tricolor (Thyropteridae) and Furipterus horrens
 (Furipteridae). Copyright © Nancy Simmons 1998
-![](Nataloidea/thyroptera_tricolor.gif))
+![](Nataloidea/thyroptera_tricolor.gif) 
 
   ----------
   Scientific Name ::  Thyroptera tricolor
   Copyright ::         © 1998 Nancy Simmons
   ----------
-![](Nataloidea/furipterus_horrens.gif))
+![](Nataloidea/furipterus_horrens.gif) 
 
   ----------
   Scientific Name ::  Furipterus horrens

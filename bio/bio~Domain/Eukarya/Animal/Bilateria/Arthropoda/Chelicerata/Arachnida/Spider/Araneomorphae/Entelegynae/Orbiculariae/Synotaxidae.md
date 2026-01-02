@@ -38,7 +38,7 @@ title: Synotaxidae
 # Synotaxidae 
 
 [Jonathan Coddington]()
-![ ](Synotaxidae/chileotaxus_sans.jpg))
+![ ](Synotaxidae/chileotaxus_sans.jpg) 
 ![ ](Synotaxidae/synotaxussl6b.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
@@ -74,7 +74,7 @@ Microscop. Soc. 84:177-184.
 
 ## Title Illustrations
 
-![](Synotaxidae/chileotaxus_sans.jpg))
+![](Synotaxidae/chileotaxus_sans.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Chileotaxus sans
@@ -87,7 +87,7 @@ Microscop. Soc. 84:177-184.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Synotaxidae/synotaxussl6b.jpg))
+![](Synotaxidae/synotaxussl6b.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Synotaxus monoceros

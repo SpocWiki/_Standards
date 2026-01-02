@@ -40,7 +40,7 @@ title: Ommastrephidae
 # Ommastrephidae [Steenstrup 1857] 
 
 [Richard E. Young, Michael Vecchione, and Martina A. Compagno Roeleveld (ca. 1946-2006)]()
-![ ](Ommastrephidae/Nototodarus.JPG))![ ](Ommastrephidae/eucleoteuthis.jpg))
+![ ](Ommastrephidae/Nototodarus.JPG))![ ](Ommastrephidae/eucleoteuthis.jpg) 
 
 This family is generally divided into three subfamilies and eleven
 genera that contain 22 species.
@@ -152,7 +152,7 @@ Contr. Zool., No. 586:373-384..
 
 ## Title Illustrations
 
-![](Ommastrephidae/Nototodarus.JPG))
+![](Ommastrephidae/Nototodarus.JPG) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Nototodarus hawaiiensis
@@ -160,7 +160,7 @@ Contr. Zool., No. 586:373-384..
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Ommastrephidae/eucleoteuthis.jpg))
+![](Ommastrephidae/eucleoteuthis.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Eucleoteuthis luminosa

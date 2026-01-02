@@ -93,7 +93,7 @@ title: Insectivora
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![](Insectivora/99051987_7328b57217_o.jpg))
+![](Insectivora/99051987_7328b57217_o.jpg) 
 Scientific Name ::     Blarina carolinensis
 Location ::           Durham, North Carolina, USA
 Comments             Found while raking leaves\--captured briefly, posed, and released. Identified as Blarina carolinesis based on Webster et al., Mammals of the Carolinas, Virginia, and Maryland.

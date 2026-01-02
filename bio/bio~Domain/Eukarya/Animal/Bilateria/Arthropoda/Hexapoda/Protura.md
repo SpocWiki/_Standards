@@ -5,7 +5,7 @@ title: Protura
 ---
 
 # [[Protura]] 
-![ ](Protura/DSCN1510.jpg))
+![ ](Protura/DSCN1510.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -91,7 +91,7 @@ Other characteristics:
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![](Protura/DSCN1510.jpg))
+![](Protura/DSCN1510.jpg) 
 Scientific Name ::     Protura
 Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen

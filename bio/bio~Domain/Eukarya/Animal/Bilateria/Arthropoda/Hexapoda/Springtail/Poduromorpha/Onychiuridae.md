@@ -34,7 +34,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Title Illustrations
 
-![](Onychiuridae/KAbur_ONY_1.jpg))
+![](Onychiuridae/KAbur_ONY_1.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Kalaphorura burmeisteri
@@ -42,7 +42,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
-![](Onychiuridae/TPbie_ONY_3-1.jpg))
+![](Onychiuridae/TPbie_ONY_3-1.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Tetrodontophora bielanensis

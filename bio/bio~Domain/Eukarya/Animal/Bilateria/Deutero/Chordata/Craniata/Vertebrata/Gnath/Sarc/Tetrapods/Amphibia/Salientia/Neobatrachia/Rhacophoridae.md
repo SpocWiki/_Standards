@@ -140,7 +140,7 @@ of the sphenethmoid.
 
 
 ------------------------------------------------------------------------ 
-![](Rhacophoridae/rhacophorus.jpg))
+![](Rhacophoridae/rhacophorus.jpg) 
 1\. Polypedates sp.; Thailand; photo © 1995 David Cannatella\
 Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 

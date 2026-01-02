@@ -106,7 +106,7 @@ Vertebrate Paleontology 29 pages, 6 figures.
 
 ## Title Illustrations
 
-![](Utegenia_shpinari/Utegenia.gif))
+![](Utegenia_shpinari/Utegenia.gif) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Utegenia shpinari

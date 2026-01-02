@@ -7,7 +7,7 @@ title: Entoprocta
 # [[Entoprocta]]
 
 goblet worms, nodding heads, kamptozoans 
-![ ](Entoprocta/ento003b.gif))
+![ ](Entoprocta/ento003b.gif) 
 
 
 ## #has_/text_of_/abstract 
@@ -72,7 +72,7 @@ Drawing by Stritch. Copyright © 2001
 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 -------------------------------------------------------------------------- 
-![](Entoprocta/ento003b.gif))
+![](Entoprocta/ento003b.gif) 
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 

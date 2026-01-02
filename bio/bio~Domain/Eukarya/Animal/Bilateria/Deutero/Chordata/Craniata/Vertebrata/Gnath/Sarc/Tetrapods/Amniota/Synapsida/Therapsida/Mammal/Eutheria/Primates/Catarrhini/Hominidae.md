@@ -154,7 +154,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
 
 ## Title Illustrations 
 
-![chimpanzee](Hominidae/Pan(Genus)/Chimpanzee/Pan_troglodytes.jpg))
+![chimpanzee](Hominidae/Pan(Genus)/Chimpanzee/Pan_troglodytes.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Pan troglodytes
@@ -179,7 +179,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
   Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
-![Orangutan](Hominidae/Orangutan/Pongo_pygmaeus0055.jpg))
+![Orangutan](Hominidae/Orangutan/Pongo_pygmaeus0055.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Pongo pygmaeus

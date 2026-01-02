@@ -42,7 +42,7 @@ title: Theridiidae
 
 [Jeremy Miller]()
 
-![ ](Theridiidae/169251899_3159ed2710_b.jpg)![](Theridiidae/164552677_a414af2940_b.jpg))
+![ ](Theridiidae/169251899_3159ed2710_b.jpg)![](Theridiidae/164552677_a414af2940_b.jpg) 
 
 Tree simplified from Agnarsson (2006).
 
@@ -87,7 +87,7 @@ Theridiids may wrap their prey in silk before applying a poisonous bite
 direct contact with prey until it is safely immobilized. The sticky silk
 used in the wrap attack comes from large, specially modified silk
 spigots that are uniquely elongate.
-![ ](Theridiidae/03102236.jpg))
+![ ](Theridiidae/03102236.jpg) 
 
 Left (top): Comb of serrated setae on fourth tarsus of a *Thwaitesia*
 female. Right (bottom): Spinnerets of an adult *Latrodectus hesperus*
@@ -163,7 +163,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
 ## Title Illustrations
 
-![](Theridiidae/169251899_3159ed2710_b.jpg))
+![](Theridiidae/169251899_3159ed2710_b.jpg) 
 
   -----------------------------
   Scientific Name ::                    Achaearanea tepidariorum
@@ -182,7 +182,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
   Copyright ::                           © 2006 [Glen Peterson](http://flickr.com/people/trombamarina/)
   -----------------------------
-![](Theridiidae/164552677_a414af2940_b.jpg))
+![](Theridiidae/164552677_a414af2940_b.jpg) 
 
   -----------------------------
   Scientific Name ::                    Latrodectus hesperus

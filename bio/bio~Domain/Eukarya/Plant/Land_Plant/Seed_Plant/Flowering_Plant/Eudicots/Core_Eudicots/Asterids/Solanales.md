@@ -59,7 +59,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg))
+![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg) 
 Scientific Name ::     Calystegia dahurica
 Location ::           Vladivostok city, Primorsky Territory (Russian Federation).
 Comments             Convolvulaceae
@@ -68,7 +68,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------------ 
-![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg))
+![Yellow nightshade groundcherry, Physalis crassifolia](Solanales/Physalis_crassifolia.jpg) 
 Scientific Name ::     Physalis crassifolia
 Location ::           Anza Borrego Desert State Park (San Diego County, California, USA).
 Comments             Yellow nightshade groundcherry (Solanaceae).

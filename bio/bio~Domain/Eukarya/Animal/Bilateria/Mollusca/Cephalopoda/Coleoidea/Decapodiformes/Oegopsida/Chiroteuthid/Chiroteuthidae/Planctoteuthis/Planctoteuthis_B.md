@@ -124,7 +124,7 @@ Neptune City, NJ, 351pp.
 
 ## Title Illustrations
 
-![](Planctoteuthis_B/GenusB.jpg))
+![](Planctoteuthis_B/GenusB.jpg) 
 
   --------------
   Scientific Name ::  New Genus B

@@ -38,7 +38,7 @@ title: Promachoteuthis
 # *Promachoteuthis* [Hoyle, 1885] 
 
 [Richard E. Young and Michael Vecchione](http://www.tolweb.org/)
-![ ](Promachoteuthidae/PromachOkutani.jpg))
+![ ](Promachoteuthidae/PromachOkutani.jpg) 
 
 The following five species are known in the family but only one has been
 named.
@@ -159,7 +159,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Title Illustrations
 
-![](Promachoteuthidae/PromachOkutani.jpg))
+![](Promachoteuthidae/PromachOkutani.jpg) 
 
   --------------------------------------------------------------
   Scientific Name ::   Promachoteuthis megaptera

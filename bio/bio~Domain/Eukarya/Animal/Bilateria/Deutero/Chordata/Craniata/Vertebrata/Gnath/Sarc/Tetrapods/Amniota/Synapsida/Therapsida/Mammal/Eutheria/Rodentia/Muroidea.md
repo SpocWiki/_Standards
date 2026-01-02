@@ -93,7 +93,7 @@ that situation.
 
 ## Title Illustrations
 
-![deer mouse](Muroidea/Peromyscus_maniculatus0030.jpg))
+![deer mouse](Muroidea/Peromyscus_maniculatus0030.jpg) 
 
 ------------------------------------------------------------------------------
 Scientific Name ::     Peromyscus maniculatus

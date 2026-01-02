@@ -8,7 +8,7 @@ title: Cheirogaleidae
 
 ## Dwarf Lemurs and Mouse Lemurs 
 
-![ ](Cheirogaleidae/ell.jpg)![](Cheirogaleidae/Allocebus_trichotis_dr.jpg))
+![ ](Cheirogaleidae/ell.jpg)![](Cheirogaleidae/Allocebus_trichotis_dr.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -57,7 +57,7 @@ Scientific Name ::  Cheirogaleus major
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 
 --------------------------------- 
-![drawing of a hairy-eared dwarf lemur](Cheirogaleidae/Allocebus_trichotis_dr.jpg))
+![drawing of a hairy-eared dwarf lemur](Cheirogaleidae/Allocebus_trichotis_dr.jpg) 
 Scientific Name ::  Allocebus trichotis
 Location ::        Madagascar
 Comments          hairy-eared dwarf lemur

@@ -548,7 +548,7 @@ the Transition to Land (1): 291-326. London: Academic Press.
 
 ## Title Illustrations
 
-![](Amniota/Proganochelys.gif))
+![](Amniota/Proganochelys.gif) 
 
   ------------------------------------------------------
   Scientific Name ::     Proganochelys

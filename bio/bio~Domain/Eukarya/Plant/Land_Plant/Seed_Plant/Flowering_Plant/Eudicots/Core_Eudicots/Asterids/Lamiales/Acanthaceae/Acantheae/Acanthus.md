@@ -130,7 +130,7 @@ Collector            W. de Wilde
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![](Acanthus/Acanthus_spinosus-1.jpg))
+![](Acanthus/Acanthus_spinosus-1.jpg) 
 Scientific Name ::     Acanthus spinosissimus Desf.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 

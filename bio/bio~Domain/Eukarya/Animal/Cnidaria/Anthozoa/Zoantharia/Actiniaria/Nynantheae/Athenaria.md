@@ -34,7 +34,7 @@ title: Athenaria
 
 # Athenaria 
 
-![ ](Athenaria/edwardsiidaesm.jpg)![ ](Athenaria/haloclavidaesm.jpg))
+![ ](Athenaria/edwardsiidaesm.jpg)![ ](Athenaria/haloclavidaesm.jpg) 
 
 -   [Edwardsiidae](Athenaria/Edwardsiidae.md "go to ToL page"))*
 -   *[Halcampoididae](Halcampoididae)*

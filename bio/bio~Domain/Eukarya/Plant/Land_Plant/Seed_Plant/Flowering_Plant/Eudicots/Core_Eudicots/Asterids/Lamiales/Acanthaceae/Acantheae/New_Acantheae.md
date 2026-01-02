@@ -93,13 +93,13 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![](New_Acantheae/aph.jpg))
+![](New_Acantheae/aph.jpg) 
 Scientific Name ::     Aphelandra macrophylla Leonard
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 -------------------------------------------------------------------------- 
-![](New_Acantheae/geissomeria.jpg))
+![](New_Acantheae/geissomeria.jpg) 
 Scientific Name ::     Geissomeria tetragona Lindau
 Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 

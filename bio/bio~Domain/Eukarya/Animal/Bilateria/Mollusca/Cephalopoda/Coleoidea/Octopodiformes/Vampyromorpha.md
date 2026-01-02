@@ -8,7 +8,7 @@ title: Vampyroteuthis infernalis
 
 The Vampire Squid 
 
-![ ](Vampyromorpha/VampSeibel.jpg)![ ](Vampyromorpha/VampireDraw.jpg))
+![ ](Vampyromorpha/VampSeibel.jpg)![ ](Vampyromorpha/VampireDraw.jpg) 
 
 Only a single species is known in the Vampyromorpha.
 
@@ -135,7 +135,7 @@ posture the squid would be somewhat more difficult to injure and would
 be covered by a densely pigmented cloak. The oral surface of the arms
 and webs are the most heavily pigmented (black) regions on the animal.
 The posture, therefore, is probably a defensive one.
-![ ](Vampyromorpha/VampArmTip.jpg))
+![ ](Vampyromorpha/VampArmTip.jpg) 
 
 Arm tip from a preserved vampire squid showing the light emitting
 surface (unpigmented), as well as suckers and cirri (photograph
@@ -193,7 +193,7 @@ individuals of less than 20 mm being most abundant at the deeper peak
 suggest that the vampire is restricted to the oxygen minimum layer in
 this bay at an average depth of 690 m and oxygen levels of 0.22 ml/l
 Hunt, 1996.
-![ ](Vampyromorpha/VampireVertDist.JPG))
+![ ](Vampyromorpha/VampireVertDist.JPG) 
 
 Vertical distribution chart modified from Clarke and Lu, 1975.
 
@@ -259,7 +259,7 @@ Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
 ------------------------------------------------------------------------------ 
-![](Vampyromorpha/VampireDraw.jpg))
+![](Vampyromorpha/VampireDraw.jpg) 
 Scientific Name ::  Vampyroteuthis infernalis
 Reference         from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
 Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 

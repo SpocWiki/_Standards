@@ -238,7 +238,7 @@ defined (Gauthier et al., 1989).
 ## Title Illustrations
 
   -------------------------------------------------------------------------------- 
-![](Temnospondyli/Eryops.jpg))
+![](Temnospondyli/Eryops.jpg) 
   Scientific Name ::   Eryops, Orthacanthus, Trimerorhachis
   Comments           The temnospondyl Eryops lunges after the shark Orthacanthus. Another, smaller temnospondyl (Trimerorhachis) swims in the foreground.
   Reference          From Czerkas S. J. & S. A. Czerkas. 1990. Dinosaurs, a complete world history. Surrey: Dragon\'\'s World Ltd.

@@ -30,7 +30,7 @@ title: Urediniomycotina
 ## A diverse group of fungi, including rusts, yeasts, smut-like and jelly-like fungi 
 
 [Elizabeth M. Frieders, David J. McLaughlin, and Les J. Szabo]()
-![ ](Pucciniomycotina/Eo-MIN864444.jpg))
+![ ](Pucciniomycotina/Eo-MIN864444.jpg) 
 ![ ](Pucciniomycotina/CoffeeRust21.jpg)![](Pucciniomycotina/HpMLutz.jpg))
 
 Containing group:[Basidiomycota](../Basidiomycota.md) 
@@ -94,7 +94,7 @@ urediniomycetous yeasts.
 
 ## Title Illustrations
 
-![](Pucciniomycotina/Eo-MIN864444.jpg))
+![](Pucciniomycotina/Eo-MIN864444.jpg) 
 
   ------------------------
   Scientific Name ::     Eocronartium muscicola
@@ -105,7 +105,7 @@ urediniomycetous yeasts.
   Collector            David J. McLaughlin
   Copyright ::            © 2001 [Bell Museum of Natural History](http://fungi.umn.edu/)
   ------------------------
-![](Pucciniomycotina/CoffeeRust21.jpg))
+![](Pucciniomycotina/CoffeeRust21.jpg) 
 
   ------------------------------------------------------------------------------------
   Scientific Name ::     Hemileia vastatrix, Coffee Rust
@@ -118,7 +118,7 @@ urediniomycetous yeasts.
   Copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
  
   ------------------------------------------------------------------------------------
-![](Pucciniomycotina/HpMLutz.jpg))
+![](Pucciniomycotina/HpMLutz.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.

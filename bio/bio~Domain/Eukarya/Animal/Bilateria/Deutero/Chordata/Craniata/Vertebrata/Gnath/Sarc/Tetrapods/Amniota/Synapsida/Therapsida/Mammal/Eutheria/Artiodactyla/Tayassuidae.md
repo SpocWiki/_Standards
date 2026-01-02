@@ -29,7 +29,7 @@ taxon_common_name: pekariji
 
 ## Dicotylidae, peccaries 
 
-![ ](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg))
+![ ](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -118,7 +118,7 @@ taxon_common_name: pekariji
 
 ## Title Illustrations
 
-![](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg))
+![](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg) 
 
 -----------------
 Scientific Name ::     Tayassu tajacu
@@ -126,7 +126,7 @@ Creator              Tom Stehn
 Acknowledgements     courtesy U.S. Fish and Wildlife Service
 Specimen Condition   Live Specimen
 -----------------
-![](Tayassuidae/Platygonus_Skull.jpg))
+![](Tayassuidae/Platygonus_Skull.jpg) 
 
 --------------------------------------------------------------
 Scientific Name ::     Platygonus

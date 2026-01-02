@@ -107,7 +107,7 @@ Collection           Wild collected in Socotra (Yemen)
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia_](Africanis/Ruellia_megachlamys.jpg))
+![Ruellia_](Africanis/Ruellia_megachlamys.jpg) 
 Scientific Name ::     Ruellia megachlamys S. Moore
 Location ::           cultivated, DUKE greenhouses
 Specimen Condition   Live Specimen

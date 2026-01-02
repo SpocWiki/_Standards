@@ -80,7 +80,7 @@ structures. The jaws are (anterior to posterior): **mandibles**,
 **maxillae 1**, **maxillae 2**, **maxillipeds**. As the name implies,
 the maxillipeds are actually the highly modified appendages of the fused
 first thoracic segment.
-![ ](Isopoda/isostruct.gif))
+![ ](Isopoda/isostruct.gif) 
 
 Drawing copyright © 1997 R. Brusca.
 

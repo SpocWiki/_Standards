@@ -166,7 +166,7 @@ page. Paraphyly of **Graomys** with respect to **Andalgalomys** resulted
 in synonomy of the latter.
 
 ### Geographic Distribution
-![ ](Phyllotini/phyllotini.gif))
+![ ](Phyllotini/phyllotini.gif) 
 
 Fig. 3.
 
@@ -239,12 +239,12 @@ the appropriate view below.
 ## Title Illustrations
 
 ---------- 
-![Phyllotis darwini](Phyllotini/Phyllotis/P.jpg))
+![Phyllotis darwini](Phyllotini/Phyllotis/P.jpg) 
 Scientific Name ::  Phyllotis darwini
 Copyright ::         © 1996 P. L. Meserve
 
 ---------- 
-![Chinchilla mouse](Phyllotini/Chinchillula1.jpg))
+![Chinchilla mouse](Phyllotini/Chinchillula1.jpg) 
 Scientific Name ::  Chinchillula sahamae
 Comments          Chinchilla mouse
 Copyright ::         © 1996 J. Anderson

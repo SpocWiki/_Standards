@@ -81,7 +81,7 @@ cephalopods from the Atlantic Ocean. Mitt. Hamb. Zool. Mus. Inst., 97:
 
 ## Title Illustrations
 
-![](canariensis/ChtenCanariensis.jpg))
+![](canariensis/ChtenCanariensis.jpg) 
 
   ------------------------------------------------
   Scientific Name ::   Chtenopteryx canariensis

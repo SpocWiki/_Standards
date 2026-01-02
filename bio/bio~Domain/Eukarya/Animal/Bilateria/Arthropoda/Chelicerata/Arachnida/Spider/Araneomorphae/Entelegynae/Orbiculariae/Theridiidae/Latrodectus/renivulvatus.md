@@ -34,13 +34,13 @@ title: Latrodectus renivulvatus
 # *Latrodectus renivulvatus* 
 
 [Jeremy Miller]()
-![ ](renivulvatus/dsc_0198.jpg))![ ](renivulvatus/dsc_0201.jpg))
+![ ](renivulvatus/dsc_0198.jpg))![ ](renivulvatus/dsc_0201.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](renivulvatus/dsc_0198.jpg))
+![](renivulvatus/dsc_0198.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus renivulvatus
@@ -52,7 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](renivulvatus/dsc_0201.jpg))
+![](renivulvatus/dsc_0201.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus renivulvatus

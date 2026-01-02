@@ -203,7 +203,7 @@ to the eyes. One of the earliest known fossil lamprey, Mayomyzon
 (bottom), from the Late Carboniferous of Illinois, may not have been
 such a parasitic form and had a stouter body than modern lampreys)
 (after Bardack & Zangerl 1971).
-![](Hyperoartia/hyperoartia.gif))
+![](Hyperoartia/hyperoartia.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 

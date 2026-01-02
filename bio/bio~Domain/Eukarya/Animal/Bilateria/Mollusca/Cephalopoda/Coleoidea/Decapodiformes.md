@@ -157,7 +157,7 @@ phylogenic position. While the relationships are still unresolved,
 Young, *et al*. (1998) support its close relationship to the Sepiidae
 and other sepioid families based on arguments mostly put forward by Naef
 (1922). A cladistic study based on morphology has not been made.
-![ ](Decapodiformes/fossilSepioids.JPG))
+![ ](Decapodiformes/fossilSepioids.JPG) 
 
 **Figure**. Drawings from Young et al. (1998) modified from Naef (1922)
 show the similarities between ***Spirulirostra**,* ***Spirulirostrina***
@@ -212,14 +212,14 @@ relationships is badly needed (Young, *et al.*, 1999).
 
 
 ------------------------------------------------------------------------------- 
-![](Decapodiformes/Histioteuthis.jpg))
+![](Decapodiformes/Histioteuthis.jpg) 
 Scientific Name ::  Histioteuthis
 Location ::        Hawaii
 View              Oral view showing eight arms and two tentacles
 Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 ------------------------------------------------------------------------------- 
-![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg))
+![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg) 
 Scientific Name ::  Pyroteuthis addolux
 Location ::        Hawaii
 View              Dorsal view showing eight arms and two tentacles

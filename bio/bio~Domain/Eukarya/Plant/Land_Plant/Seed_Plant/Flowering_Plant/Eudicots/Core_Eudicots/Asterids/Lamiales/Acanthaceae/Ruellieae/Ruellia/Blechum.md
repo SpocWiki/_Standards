@@ -101,7 +101,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 
 ## Title Illustrations
 
-![](Blechum/Blechum_pyramidatum_T_87A84-1.jpg))
+![](Blechum/Blechum_pyramidatum_T_87A84-1.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -111,7 +111,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
-![](Blechum/blechum.jpg))
+![](Blechum/blechum.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -121,21 +121,21 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
  
   ---------------------------------------------------------------------------
-![](Blechum/leavesflowers.jpg))
+![](Blechum/leavesflowers.jpg) 
 
   ---------------------------------
   Scientific Name ::     Blechum costaricense Oerst.
   Specimen Condition   Live Specimen
   Copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
   ---------------------------------
-![](Blechum/R_maya_et157.jpg))
+![](Blechum/R_maya_et157.jpg) 
 
   ----------------------------------------------------------------------
   Scientific Name ::  Ruellia maya T.F. Daniel
   Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   ----------------------------------------------------------------------
-![](Blechum/picture927.jpg))
+![](Blechum/picture927.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia longepetiolata (Oerst.) Hemsl.

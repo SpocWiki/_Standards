@@ -7,7 +7,7 @@ title: Reithrodon
 # [[Reithrodon]]
 
 ## Reithrodontini, Coney rat 
-![Reithrodon auritus](Reithrodon/reithro_005.jpg))
+![Reithrodon auritus](Reithrodon/reithro_005.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -39,7 +39,7 @@ del Fuego to northern Argentina (Pardiñas and Galliari, 2001).  The
 Reithrodontini are viewed as agricultural pests because they consume
 largely only grasses; some have been observed consuming amounts equal to
 their body weight in a single night (Pearson, 1988).
-![ ](Reithrodon/reithro_006.jpg))
+![ ](Reithrodon/reithro_006.jpg) 
 
 *Reithrodon*. © O. Pearson
 ### Characteristics
@@ -172,7 +172,7 @@ unpublished).\
 ## Title Illustrations
 
 --------- 
-![Reithrodon auritus](Reithrodon/reithro.jpg))
+![Reithrodon auritus](Reithrodon/reithro.jpg) 
 Scientific Name ::  Reithrodon auritus
 Copyright ::         © 1997 O. Pearson
 

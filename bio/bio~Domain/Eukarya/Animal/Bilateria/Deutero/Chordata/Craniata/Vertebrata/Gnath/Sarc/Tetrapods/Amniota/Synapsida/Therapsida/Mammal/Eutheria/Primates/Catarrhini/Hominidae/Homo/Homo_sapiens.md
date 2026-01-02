@@ -74,7 +74,7 @@ title: Homo sapiens
 
 ## Title Illustrations
 
-![Charles Darwin at age 72 on the veranda at Down](Homo_sapiens/darwin.jpg))
+![Charles Darwin at age 72 on the veranda at Down](Homo_sapiens/darwin.jpg) 
 
   ------------------------------------------
   Scientific Name ::   Homo sapiens
@@ -83,7 +83,7 @@ title: Homo sapiens
   Creator            Photograph by J. Kirschner
   Acknowledgements   Courtesy Department of Library Services [American Museum of Natural History](http://www.amnh.org/) (Neg. No. 105168).
   ------------------------------------------
-![Children of the Dai minority in a schoolyard](Homo_sapiens/daikids.jpg))
+![Children of the Dai minority in a schoolyard](Homo_sapiens/daikids.jpg) 
 
   --------------------------
   Scientific Name ::   Homo sapiens
@@ -93,7 +93,7 @@ title: Homo sapiens
   Life Cycle Stage ::   children
   Copyright ::          © 1993 [Ethan Michelson](http://www.indiana.edu/%7Eemsoc/index.html)
   --------------------------
-![Woman of the !Kung bushmen](Homo_sapiens/kung.jpg))
+![Woman of the !Kung bushmen](Homo_sapiens/kung.jpg) 
 
   ----------------------
   Scientific Name ::  Homo sapiens

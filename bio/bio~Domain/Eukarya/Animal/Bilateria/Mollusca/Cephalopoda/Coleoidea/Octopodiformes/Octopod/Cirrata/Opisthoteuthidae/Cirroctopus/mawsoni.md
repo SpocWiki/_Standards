@@ -108,7 +108,7 @@ Mar. Sci. 20: 421-428.
 
 ## Title Illustrations
 
-![](mawsoni/CirroctMawsoniVent.jpg))
+![](mawsoni/CirroctMawsoniVent.jpg) 
 
   -------------------------------------------
   Scientific Name ::  Cirroctopus mawsoni
@@ -116,7 +116,7 @@ Mar. Sci. 20: 421-428.
   View              Ventral
   Type              Holotype
   -------------------------------------------
-![](mawsoni/CirroctMawsoniSide.jpg))
+![](mawsoni/CirroctMawsoniSide.jpg) 
 
   -------------------------------------------
   Scientific Name ::  Cirroctopus mawsoni

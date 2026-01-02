@@ -34,7 +34,7 @@ title: Grimalditeuthis bonplandi
 # *Grimalditeuthis bonplandi* [(Verany, 1839)] 
 
 [Richard E. Young and Clyde F. E. Roper]()
-![ ](Grimalditeuthis/Grimalditeuthis.jpg))![ ](Grimalditeuthis/GrimaldiFins.jpg))
+![ ](Grimalditeuthis/Grimalditeuthis.jpg))![ ](Grimalditeuthis/GrimaldiFins.jpg) 
 
 The holotype is thought to be deposited in the Museum of Natural
 History, Nice, France, but its existence is uncertain.
@@ -203,7 +203,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
 
 ## Title Illustrations
 
-![](Grimalditeuthis/Grimalditeuthis.jpg))
+![](Grimalditeuthis/Grimalditeuthis.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Grimalditeuthis bonplandi
@@ -215,7 +215,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
-![](Grimalditeuthis/GrimaldiFins.jpg))
+![](Grimalditeuthis/GrimaldiFins.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Grimalditeuthis bonplandi

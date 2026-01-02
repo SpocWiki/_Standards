@@ -7,7 +7,7 @@ title: Heterohyrax
 # [[Heterohyrax]]
 
 ## Yellow-spotted hyraxes 
-![ ](Heterohyrax/Heterohyrax_brucei1428071.jpg))
+![ ](Heterohyrax/Heterohyrax_brucei1428071.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -49,7 +49,7 @@ title: Heterohyrax
 ## Title Illustrations
 
 ------------------------------ 
-![](Heterohyrax/Heterohyrax_brucei1428071.jpg))
+![](Heterohyrax/Heterohyrax_brucei1428071.jpg) 
 Scientific Name ::     Heterohyrax brucei
 Location ::           Kenya
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1428071)

@@ -114,7 +114,7 @@ Zool., 97: 1-159.
 
 ## Title Illustrations
 
-![](pyrodes/MastigoPyrodes.jpg))
+![](pyrodes/MastigoPyrodes.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::   *Mastigoteuthis pyrodes*

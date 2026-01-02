@@ -62,7 +62,7 @@ Containing group:[Sigmodontinae](../Sigmodontinae.md)
 ## Title Illustrations
 
 --------- 
-![Rhipidomys nitela](Thomasomyine/rhipidomys_nitela.jpg))
+![Rhipidomys nitela](Thomasomyine/rhipidomys_nitela.jpg) 
 Scientific Name ::  Rhipidomys nitela
 Copyright ::         © 1996 Darrin Lunde
 

@@ -219,7 +219,7 @@ addition of data from nuclear genes would be highly desirable.
 
 
 -------------------------- 
-![Fuller\'s teasel, Dipsacus fullonum](Dipsacales/Dipsacus_fullonum.jpg))
+![Fuller\'s teasel, Dipsacus fullonum](Dipsacales/Dipsacus_fullonum.jpg) 
 Scientific Name ::    Dipsacus fullonum
 Location ::          Mt. Shasta (Siskiyou County, California, USA)
 Comments            Fuller\'s teasel (Dipsacaceae)
@@ -227,7 +227,7 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2002 [Molly Elizabeth Bagley](mailto:illustrations@snowcrest.net)
 
 ------------------------------------------------------------------------- 
-![Amur honeysuckle, Lonicera maackii](Dipsacales/Lonicera_maackii.jpg))
+![Amur honeysuckle, Lonicera maackii](Dipsacales/Lonicera_maackii.jpg) 
 Scientific Name ::    Lonicera maackii
 Location ::          Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
 Comments            Amur honeysuckle (Caprifoliaceae)

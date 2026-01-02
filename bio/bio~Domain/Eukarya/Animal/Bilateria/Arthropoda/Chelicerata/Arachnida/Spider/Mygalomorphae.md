@@ -41,7 +41,7 @@ taxon_common_name:
 
 # [[Mygalomorphae]]  
 
-![ ](Mygalomorphae/01082tarantula1.jpg))
+![ ](Mygalomorphae/01082tarantula1.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]] 
 
@@ -79,7 +79,7 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 
 ## Title Illustrations
 
-![](Mygalomorphae/01082tarantula1.jpg))
+![](Mygalomorphae/01082tarantula1.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Theraphosidae and Dendrobatidae

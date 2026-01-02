@@ -303,7 +303,7 @@ acetabulum, and reduction of the pubis to a small rectangular block.
 ## Title Illustrations
 
 ---------------------------------------------------------------- 
-![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg))
+![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg) 
 Scientific Name ::     Edmontonia
 Location ::           North America
 Comments             Life restoration. Two males are shown in a shoving contest of strength.

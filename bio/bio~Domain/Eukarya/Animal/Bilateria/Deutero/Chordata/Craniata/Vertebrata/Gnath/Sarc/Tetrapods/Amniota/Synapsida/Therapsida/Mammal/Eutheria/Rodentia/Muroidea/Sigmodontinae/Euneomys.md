@@ -95,7 +95,7 @@ the appropriate view below.
 
 ## Title Illustrations
 
-![Euneomys chinchilloides](Euneomys/euneomys.jpg))
+![Euneomys chinchilloides](Euneomys/euneomys.jpg) 
 
   ------------
   Scientific Name ::  Euneomys chinchilloides

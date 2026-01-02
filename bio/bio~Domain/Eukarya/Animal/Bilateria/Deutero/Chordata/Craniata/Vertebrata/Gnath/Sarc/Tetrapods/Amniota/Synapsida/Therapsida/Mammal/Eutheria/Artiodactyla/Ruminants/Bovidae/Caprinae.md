@@ -126,7 +126,7 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
 
 ## Title Illustrations
 
-![](Caprinae/Ovis/Ovis_canadensis.jpg))
+![](Caprinae/Ovis/Ovis_canadensis.jpg) 
 
   ------------------------------
   Scientific Name ::     Ovis canadensis
@@ -148,7 +148,7 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   Copyright ::            © G. Keith Douce, The University of Georgia
   ------------------------------
-![](Caprinae/92395489_51a1aa5336_o.jpg))
+![](Caprinae/92395489_51a1aa5336_o.jpg) 
 
   --------------------------------------------------------
   Scientific Name ::     Budorcas taxicolor

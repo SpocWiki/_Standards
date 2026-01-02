@@ -179,7 +179,7 @@ chordate evolution with new LSU and SSU ribosomal DNA data. Molecular
 Biology and Evolution 19:762-776.
 
 ## Title Illustrations
-![Smilisca phaeota frog standing on a leaf](Deutero/1147smilisca1.jpg))
+![Smilisca phaeota frog standing on a leaf](Deutero/1147smilisca1.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::  Smilisca phaeota
@@ -187,7 +187,7 @@ Biology and Evolution 19:762-776.
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ----------------------------------------------------------------------------
-![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg))
+![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Saccoglossus kowalevskii
@@ -195,7 +195,7 @@ Biology and Evolution 19:762-776.
   Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
  
   -------------------------------------------------------------------------------
-![](Deutero/ophio02p.jpg))
+![](Deutero/ophio02p.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Ophiuroidea

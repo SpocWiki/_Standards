@@ -35,7 +35,7 @@ title: Batoteuthis skolops
 ## The Bush-club Squid 
 
 [Richard E. Young and Clyde F. E. Roper]()
-![ ](Batoteuthidae/Batoteuthis.jpg))
+![ ](Batoteuthidae/Batoteuthis.jpg) 
 
 Only this single species is known in the family.
 
@@ -100,7 +100,7 @@ The smallest known individual is 30 mm ML and the largest, 350 mm ML.
 Unfortunately, the largest specimen described with intact tentacles is
 the holotype. A few growth stages have been described. Paralarval and
 mature individuals are unknown.
-![ ](Batoteuthidae/B.jpg))
+![ ](Batoteuthidae/B.jpg) 
 
 **Figure**. Growth stages of ***B. skolops***. **A** - Ventral view of
 subadult (holotype), 51 mm ML, Antarctic waters. **B** - Dorsal view of
@@ -128,7 +128,7 @@ Ser. 2: 185-202.
 
 ## Title Illustrations
 
-![](Batoteuthidae/Batoteuthis.jpg))
+![](Batoteuthidae/Batoteuthis.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::     Batoteuthis skolops

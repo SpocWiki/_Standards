@@ -69,7 +69,7 @@ Evolution 20:409-425.
 
 ## Title Illustrations
 
-![](Cephalophinae/GrayCephalophus.jpg))
+![](Cephalophinae/GrayCephalophus.jpg) 
 
   ----------------------------------
   Scientific Name ::  Cephalophus niger and Cephalophus dorsalis

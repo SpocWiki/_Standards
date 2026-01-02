@@ -45,7 +45,7 @@ title: Onychoteuthidae
 ## Hooksquids 
 
 [Michael Vecchione, Richard E. Young, and Kotaro Tsuchiya]()
-![ ](Onychoteuthidae/Onychoteuthis.jpg))![ ](Onychoteuthidae/OnychoDraw.jpg))
+![ ](Onychoteuthidae/Onychoteuthis.jpg))![ ](Onychoteuthidae/OnychoDraw.jpg) 
 
 The following six genera with about 14 species are presently recognized
 in the family but the systematics within the family is unstable.
@@ -135,7 +135,7 @@ genera.
 
 The following drawings illustrate the characters used in the table
 above.
-![ ](Onychoteuthidae/FinShapes.jpg))
+![ ](Onychoteuthidae/FinShapes.jpg) 
 
 **Top row**:
 
@@ -182,7 +182,7 @@ bootstrap values were low. As can be seen in the following pages,
 several morphological features (e.g., smooth skin, long, asymmetrical
 ventral club hooks) indicate that ***O. knipovitchi*** is an atypical
 member of the genus.
-![ ](Onychoteuthidae/OnychoPhylog.jpg))
+![ ](Onychoteuthidae/OnychoPhylog.jpg) 
 
 **Figure**. Phylogenetic tree of the Onychoteuthidae from Nesis (2000).
 
@@ -241,7 +241,7 @@ robusta* (Verrill, 1881). Bull. Mar. Sci. 49:137-147.
 
 ## Title Illustrations
 
-![](Onychoteuthidae/Onychoteuthis.jpg))
+![](Onychoteuthidae/Onychoteuthis.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Onychoteuthis
@@ -250,7 +250,7 @@ robusta* (Verrill, 1881). Bull. Mar. Sci. 49:137-147.
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Onychoteuthidae/OnychoDraw.jpg))
+![](Onychoteuthidae/OnychoDraw.jpg) 
 
   ------------
   Scientific Name ::  Onychoteuthis

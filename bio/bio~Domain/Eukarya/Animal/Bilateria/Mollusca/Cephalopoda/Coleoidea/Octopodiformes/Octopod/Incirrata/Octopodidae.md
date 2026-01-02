@@ -614,13 +614,13 @@ ligula groove; raised laminae absent
 
 
 ------------- 
-![](Octopodidae/Hapmale2.JPG))
+![](Octopodidae/Hapmale2.JPG) 
 Scientific Name ::  Hapalochlaena maculosa
 Location ::        Victoria, southern Australia
 Copyright ::         © 1996 D. Paul
 
 --------------------------------------------------------------------------- 
-![](Octopodidae/Ameloct1.JPG))
+![](Octopodidae/Ameloct1.JPG) 
 Scientific Name ::     Ameloctopus litoralis
 Location ::           Darwin, northern Australia
 Specimen Condition   Live Specimen

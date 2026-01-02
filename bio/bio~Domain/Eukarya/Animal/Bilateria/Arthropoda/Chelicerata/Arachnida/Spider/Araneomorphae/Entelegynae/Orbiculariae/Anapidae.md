@@ -38,13 +38,13 @@ title: Anapidae
 # Anapidae 
 
 [Jonathan Coddington]()
-![ ](Anapidae/gertschanapis01.jpg))
+![ ](Anapidae/gertschanapis01.jpg) 
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
-![](Anapidae/gertschanapis01.jpg))
+![](Anapidae/gertschanapis01.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Gertschanapis shantzi

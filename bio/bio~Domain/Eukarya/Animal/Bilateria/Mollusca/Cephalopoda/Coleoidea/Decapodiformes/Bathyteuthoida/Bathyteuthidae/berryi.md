@@ -28,7 +28,7 @@ title: Bathyteuthis berryi
 # *Bathyteuthis berryi* [Roper 1968] 
 
 [Clyde F. E. Roper]()
-![ ](berryi/BathyBerryi.jpg))
+![ ](berryi/BathyBerryi.jpg) 
 
 The holotype is housed at the Santa Barbara Museum of Natural History,
 California.
@@ -98,7 +98,7 @@ Contributions to Zoology, No. 97: 1-159
 
 ## Title Illustrations
 
-![](berryi/BathyBerryi.jpg))
+![](berryi/BathyBerryi.jpg) 
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper

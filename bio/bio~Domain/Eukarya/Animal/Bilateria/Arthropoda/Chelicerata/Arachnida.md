@@ -145,7 +145,7 @@ Spiders, mites, scorpions, whipscorpions, pseudoscorpions
 
 
 ## Title Illustrations
-![Dermacentor_occidentalis](Arachnida/Dermacentor_occidentalis.jpg))
+![Dermacentor_occidentalis](Arachnida/Dermacentor_occidentalis.jpg) 
 
 -   Pacific coast tick, Dermacentor occidentalis (Acari). Olympia,
 Thurston County (Washington, US).\
@@ -153,13 +153,13 @@ Photograph courtesy
 [CalPhotos](http://elib.cs.berkeley.edu/photos/), copyright © 2002
 [William Leonard](mailto:mollusca1@attbi.com).
 
-![Smeringurus_mesaensis](Arachnida/Smeringurus_mesaensis.jpg))
+![Smeringurus_mesaensis](Arachnida/Smeringurus_mesaensis.jpg) 
 -   California gold scorpion, Smeringurus mesaensis (Scorpionida). Palm
 Desert (California, US).
 Photograph courtesy [CalPhotos](http://elib.cs.berkeley.edu/photos/), 
 copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl).
 
-![Argiope_bruennichi](Arachnida/Argiope_bruennichi.jpg))
+![Argiope_bruennichi](Arachnida/Argiope_bruennichi.jpg) 
 -   Spider, Argiope bruennichi (Araneae). Coastal grassland, Viareggio
 (Italy) 
 Photograph courtesy [CalPhotos](http://elib.cs.berkeley.edu/photos/), 

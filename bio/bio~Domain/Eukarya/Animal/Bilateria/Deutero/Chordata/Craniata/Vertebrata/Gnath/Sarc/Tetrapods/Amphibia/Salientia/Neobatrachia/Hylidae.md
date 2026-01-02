@@ -117,21 +117,21 @@ Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/)
 
 
 -------------------------------------------------------------------------- 
-![Agalychnis annae](Hylidae/agalychnis.jpg))
+![Agalychnis annae](Hylidae/agalychnis.jpg) 
 Scientific Name ::     Agalychnis annae
 Location ::           Costa Rica
 Specimen Condition   Live Specimen
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
-![](Hylidae/phyllomedusa.jpg))
+![](Hylidae/phyllomedusa.jpg) 
 Scientific Name ::     Phyllomedusa tomopterna
 Location ::           Ecuador
 Specimen Condition   Live Specimen
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
-![Hyla regilla](Hylidae/hyla.jpg))
+![Hyla regilla](Hylidae/hyla.jpg) 
 Scientific Name ::  Hyla regilla
 Location ::        California
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 

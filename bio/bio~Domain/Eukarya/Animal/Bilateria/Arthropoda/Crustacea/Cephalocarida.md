@@ -6,7 +6,7 @@ title: Cephalocarida
 ---
 
 # [[Cephalocarida]] 
-![](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
+![](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 
 
 
 ## #has_/text_of_/abstract 
@@ -59,7 +59,7 @@ title: Cephalocarida
 ## Title Illustrations
 
 -------------------------------------------------------------------------- 
-![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif))
+![External features of a primitive crustacean. Important features are the carapace and the number of legs. ](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 
 Scientific Name ::  Hutchinsoniella
 Comments          External features of a primitive crustacean. Important features are the carapace and the number of legs.
 Creator           J. Soucie

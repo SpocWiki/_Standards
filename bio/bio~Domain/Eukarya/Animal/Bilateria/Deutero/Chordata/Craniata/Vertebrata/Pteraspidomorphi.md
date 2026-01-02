@@ -123,7 +123,7 @@ Pteraspidomorphs are among the earliest known vertebrates. They were
 jawless and possessed a massive dermal skeleton. They are characterized
 by their dermal head armor having large, median, ventral and dorsal
 plates or \"shields\" (red). (after Janvier 1996)
-![](Pteraspidomorphi/pteraspidomorphi.gif))
+![](Pteraspidomorphi/pteraspidomorphi.gif) 
 
   Copyright ::   © 1997 Philippe Janvier
 

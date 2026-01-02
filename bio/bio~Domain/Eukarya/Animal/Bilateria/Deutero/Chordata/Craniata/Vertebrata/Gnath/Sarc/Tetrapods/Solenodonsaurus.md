@@ -129,7 +129,7 @@ anthracosaurs (amniotes and their extinct relatives).
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![](Solenodonsaurus/solenodonsaurus_skeleton.jpg))
+![](Solenodonsaurus/solenodonsaurus_skeleton.jpg) 
 Scientific Name ::     Solenodonsaurus janenschi
 Reference            Reproduced from Laurin M. & R. R. Reisz. 1999. A new study of Solenodonsaurus janenschi, and a reconsideration of amniote origins and stegocephalian evolution. Canadian Journal of Earth Sciences 36:1239-1255.
 Specimen Condition   Fossil

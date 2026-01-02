@@ -144,7 +144,7 @@ tetrapods, when vision is of limited use.
 ## Title Illustrations
 
 --------------------------------------------------------- 
-![](Baphetidae/16_Loxom_cranial_rec.GIF))
+![](Baphetidae/16_Loxom_cranial_rec.GIF) 
 Scientific Name ::   Megalocephalus
 Comments           skull reconstruction
 Reference          Beaumont, E. I. (1977) Cranial morphology of the Loxommatidae (Amphibia: Labyrinthodontia). Philosophical Transactions of the Royal Society, London, B, 280: 29-101.

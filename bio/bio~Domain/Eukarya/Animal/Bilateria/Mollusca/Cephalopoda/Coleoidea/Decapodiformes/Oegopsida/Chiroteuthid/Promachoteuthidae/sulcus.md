@@ -32,7 +32,7 @@ title: Promachoteuthis sulcus
 
 [Richard E. Young and Michael Vecchione]()
 
-![ ](sulcus/PromachoSpC.jpg)![ ](sulcus/promachSpCVent.jpg))
+![ ](sulcus/PromachoSpC.jpg)![ ](sulcus/promachSpCVent.jpg) 
 
 Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
@@ -79,7 +79,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
 
 ## Title Illustrations
 
-![](sulcus/PromachoSpC.jpg))
+![](sulcus/PromachoSpC.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::   Promachoteuthis sulcus
@@ -94,7 +94,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
   Copyright ::          © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
-![](sulcus/promachSpCVent.jpg))
+![](sulcus/promachSpCVent.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sulcus

@@ -32,7 +32,7 @@ title: Promachoteuthis sloani
 
 [Richard E. Young and Michael Vecchione]()
 
-![ ](sloani/PromachHolo.jpg)![ ](sloani/ProSloaniPara1.jpg))
+![ ](sloani/PromachHolo.jpg)![ ](sloani/ProSloaniPara1.jpg) 
 
 Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
 
@@ -113,7 +113,7 @@ Zool., No. 586: 55-68.
 
 ## Title Illustrations
 
-![](sloani/PromachHolo.jpg))
+![](sloani/PromachHolo.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sloani
@@ -126,7 +126,7 @@ Zool., No. 586: 55-68.
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
-![](sloani/ProSloaniPara1.jpg))
+![](sloani/ProSloaniPara1.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Promachoteuthis sloani

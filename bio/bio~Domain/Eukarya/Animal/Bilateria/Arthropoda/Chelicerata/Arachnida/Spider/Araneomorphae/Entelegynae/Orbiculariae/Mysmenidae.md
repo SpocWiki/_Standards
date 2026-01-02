@@ -38,14 +38,14 @@ title: Mysmenidae
 # Mysmenidae 
 
 [Jonathan Coddington]()
-![ ](Mysmenidae/mysmenaclosed.jpg))![ ](Mysmenidae/mysmenaopen.jpg))
+![ ](Mysmenidae/mysmenaclosed.jpg))![ ](Mysmenidae/mysmenaopen.jpg) 
 ![](Mysmenidae/maymena.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
 
 ## Title Illustrations
 
-![](Mysmenidae/mysmenaclosed.jpg))
+![](Mysmenidae/mysmenaclosed.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Mysmena sp.
@@ -57,7 +57,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Mysmenidae/mysmenaopen.jpg))
+![](Mysmenidae/mysmenaopen.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Mysmena sp.
@@ -69,7 +69,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Mysmenidae/maymena.jpg))
+![](Mysmenidae/maymena.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Maymena sp.

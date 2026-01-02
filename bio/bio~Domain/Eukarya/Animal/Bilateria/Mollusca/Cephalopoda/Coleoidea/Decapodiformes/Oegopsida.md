@@ -127,7 +127,7 @@ Decapodiforms \...
 
 ## Title Illustrations
 
-![](Oegopsida/OegopsidTitleFin.jpg))
+![](Oegopsida/OegopsidTitleFin.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::   Pyroteuthis margaritifera, Promachoteuthis sp., Magnapinna ?, Helicocranchia pfefferi, Joubiniteuthis portieri, Onychoteuthis sp., Todarodes sagittatus

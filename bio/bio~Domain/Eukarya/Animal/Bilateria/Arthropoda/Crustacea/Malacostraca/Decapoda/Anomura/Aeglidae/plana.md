@@ -107,7 +107,7 @@ Grande do Sul, Brazil.
 ### Distribution
 
 Eastern Rio Grande do Sul, Brazil.
-![ ](plana/_plana1.jpg))
+![ ](plana/_plana1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References

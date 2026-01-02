@@ -66,7 +66,7 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
 -------------------------------------------------------------------------- 
-![](Peracarida/Gammarus_pulex.jpg))
+![](Peracarida/Gammarus_pulex.jpg) 
 Scientific Name ::  Gammarus pulex
 Creator           Photograph by Jean-François Cornuet
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 

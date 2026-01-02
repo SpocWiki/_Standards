@@ -26,7 +26,7 @@ title: Boloceroidaria
     -   [Nevadneidae](Nevadneidae)
 
 # Boloceroidaria 
-![ ](Boloceroidaria/boloceroididae.jpg))
+![ ](Boloceroidaria/boloceroididae.jpg) 
 
 -   *[Boloceroididae](Boloceroididae)*
 -   *[Nevadneidae](Nevadneidae)*
@@ -52,7 +52,7 @@ volume 1, number 1.
 Bunodeopsis strumosa.\
 Greece.\
 Photo copyright © 2000, Ron Ates.
-![](Boloceroidaria/boloceroididae.jpg))
+![](Boloceroidaria/boloceroididae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

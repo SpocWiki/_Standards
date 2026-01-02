@@ -61,21 +61,21 @@ Mussels, clams, oysters, cockles, etc.
 
 
 -------------------------------------------- 
-![cardiidae](Bivalvia/cardiidae.jpg))
+![cardiidae](Bivalvia/cardiidae.jpg) 
 Scientific Name ::    Cardiidae
 Comments            a cockle
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
-![Tridacnidae](Bivalvia/tridacnidae.jpg))
+![Tridacnidae](Bivalvia/tridacnidae.jpg) 
 Scientific Name ::    Tridacnidae
 Comments            a giant clam
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
-![](Bivalvia/veneridae.jpg))
+![](Bivalvia/veneridae.jpg) 
 Scientific Name ::    Veneridae
 Comments            a venus clam
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.

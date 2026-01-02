@@ -79,7 +79,7 @@ pollinators although empirical studies are few.
 
 
 -------------------------------------------------------------------------- 
-![Salpixantha coccinea](Stenandrium/Salpix.jpg))
+![Salpixantha coccinea](Stenandrium/Salpix.jpg) 
 Scientific Name ::     Salpixantha coccinea Hook.
 Reference            British Museum (BM)
 Specimen Condition   Dead Specimen
@@ -94,7 +94,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Holographis ehrenbergiana](Stenandrium/holographis.jpg))
+![Holographis ehrenbergiana](Stenandrium/holographis.jpg) 
 Scientific Name ::     Holographis ehrenbergiana Nees
 Location ::           Mexico
 Reference            Kew Botanical Gardens (KEW)

@@ -313,7 +313,7 @@ Phuket Mar. Biol. Center. Res. Bull. 66:23-36
 
 ## Title Illustrations
 
-![](Loliginidae/EGGMASS.jpg))
+![](Loliginidae/EGGMASS.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Loliginidae

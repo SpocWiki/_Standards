@@ -57,7 +57,7 @@ title: Acanthopale
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![Acanthopale_pollen](Acanthopale/Acanthopale_pollen.jpg))
+![Acanthopale_pollen](Acanthopale/Acanthopale_pollen.jpg) 
 Scientific Name ::     Acanthopale decempedalis C. B. Clarke
 Specimen Condition   Dead Specimen
 Identified By        Erin A. Tripp

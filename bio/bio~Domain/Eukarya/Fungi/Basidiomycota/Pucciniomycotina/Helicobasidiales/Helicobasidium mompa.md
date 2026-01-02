@@ -24,13 +24,13 @@ title: Helicobasidium mompa
 -   » Sub-Groups 
 
 # *Helicobasidium mompa* [Tanaka] 
-![ ](Helicobasidium_mompa/hm.jpg))
+![ ](Helicobasidium_mompa/hm.jpg) 
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Helicobasidium_mompa/hm.jpg))
+![](Helicobasidium_mompa/hm.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium mompa Tanaka on the roots of Picea abies (L.) Karst.

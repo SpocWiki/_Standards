@@ -100,7 +100,7 @@ hypothesis which is compatible with available morphological data.
  
 
 ### Geographic Distribution
-![ ](Noctilionoidea/noctilionoidea.gif))
+![ ](Noctilionoidea/noctilionoidea.gif) 
 
 The geographical distribution of Noctilionoidea is shown in red.
 Distribution from Hill and Smith (1984).
@@ -144,12 +144,12 @@ Van Valen, T. A. 1979. The evolution of bats. Evolutionary Theory,
 
 Mimon bennettii (Phyllostomidae) and Noctilio leporinus (Noctilionidae).
 Copyright © Nancy Simmons 1998
-![](Noctilionoidea/mimon1.gif))
+![](Noctilionoidea/mimon1.gif) 
 
   ---------
   Copyright ::   © 1998 Nancy Simmons
   ---------
-![](Noctilionoidea/noctilio_leporinus.gif))
+![](Noctilionoidea/noctilio_leporinus.gif) 
 
   ---------
   Copyright ::   © 1998 Nancy Simmons

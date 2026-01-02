@@ -45,7 +45,7 @@ title: Auliscomys
 # Auliscomys 
 
 [Scott J. Steppan]()
-![ ](Auliscomys/boliviensis.jpg))
+![ ](Auliscomys/boliviensis.jpg) 
 
 Containing group:[Phyllotini](../Phyllotini.md) 
 
@@ -79,7 +79,7 @@ Compare all phyllotine genera together by selecting the view below.
 
 ## Title Illustrations
 
-![](Auliscomys/boliviensis.jpg))
+![](Auliscomys/boliviensis.jpg) 
 
   -----------
   Scientific Name ::  Auliscomys boliviensis

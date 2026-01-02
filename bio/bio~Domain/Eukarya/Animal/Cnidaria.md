@@ -146,7 +146,7 @@ time, determined perhaps by size of the colony or environmental
 conditions, rather than or in addition to polyps, medusae are produced
 asexually (in Cubozoa, each polyp metamorphoses into a medusa). They are
 released to take up a pelagic existence and the cycle begins anew.
-![ ](Cnidaria/reproduction.gif))
+![ ](Cnidaria/reproduction.gif) 
 
 Idealized lifecycle of the Cnidaria.
 
@@ -168,7 +168,7 @@ in nature. Ptychocysts are the most taxonomically restricted in
 distribution, occurring only in the anthozoan order Ceriantharia; their
 function is to entangle bits of mud among their robust tubules to form
 the feltwork that constitutes the tube of these burrowing animals.
-![ ](Cnidaria/basitrichs250.jpg))
+![ ](Cnidaria/basitrichs250.jpg) 
 
 **Left:** Fired \"basitrich\" (basitrichous isorhiza) from a sea
 anemone. The now empty capsule is in the lower right of the photo; the
@@ -236,7 +236,7 @@ relationships among Scyphozoa, Cubozoa and Hydrozoa (Bridge et al.
 Bridge et al. (1995). Neither of these treatments attempts to include
 the extinct class Conulata, which has been considered by most
 paleontologists to be related to the Scyphozoa.
-![ ](Cnidaria/bridge.gif))
+![ ](Cnidaria/bridge.gif) 
 
 Alternative views of cnidarian life-cycle evolution and systematic
 relationships. (After Bridge et al. 1995.)

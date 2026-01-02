@@ -166,7 +166,7 @@ morphology of cirrate octopods: locomotion and feeding. Vie Milieu
 
 ## Title Illustrations
 
-![](Opisthoteuthidae/OGRIMALD.jpg))
+![](Opisthoteuthidae/OGRIMALD.jpg) 
 
   ----------------------------------------------------------------------
   Scientific Name ::  Opisthoteuthis grimaldii

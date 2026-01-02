@@ -92,7 +92,7 @@ European Journal of Protistology 32:423-448.
 
 ## Title Illustrations
 
-![Scanning electron micrograph of Ancyromonas sigmoides](Ancyromonas/ancyroms.jpg))
+![Scanning electron micrograph of Ancyromonas sigmoides](Ancyromonas/ancyroms.jpg) 
 
   ------------------
   Scientific Name ::  Ancyromonas sigmoides

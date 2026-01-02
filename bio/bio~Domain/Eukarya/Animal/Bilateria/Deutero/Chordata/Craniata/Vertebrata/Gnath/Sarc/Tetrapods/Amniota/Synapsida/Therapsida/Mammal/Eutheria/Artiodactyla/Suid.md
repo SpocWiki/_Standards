@@ -11,7 +11,7 @@ title: Suidae
 
 ## hogs and pigs 
 
-![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
+![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -75,7 +75,7 @@ title: Suidae
 
 
 ------------------------------------------------------------------------- 
-![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
+![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg) 
 Scientific Name ::   Phacochoerus aethiopicus
 Location ::         Matopos National Park, Zimbabwe
 Comments           Warthogs typically \"kneel\" to graze.

@@ -10,7 +10,7 @@ title: Ichthyomyini
 
 
 ### Geographic Distribution
-![ ](Ichthyomyini/ichthyomyini.gif))
+![ ](Ichthyomyini/ichthyomyini.gif) 
 
 ## Phylogeny 
 

@@ -67,7 +67,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
 ----------------------------------------------------------------------- 
-![](Entelegynae/Dolomedes_tenebrosus.jpg))
+![](Entelegynae/Dolomedes_tenebrosus.jpg) 
 Scientific Name ::     Dolomedes tenebrosus
 Comments             Fishing spider with egg case.
 Specimen Condition   Live Specimen

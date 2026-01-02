@@ -46,7 +46,7 @@ title: Garryales
 
 
 --------------------------------------------------------------------------------- 
-![Fremont silktassel, Garrya fremontii](Garryales/Garrya_fremontii.jpg))
+![Fremont silktassel, Garrya fremontii](Garryales/Garrya_fremontii.jpg) 
 Scientific Name ::     Garrya fremontii
 Location ::           Tilden (Contra Costa County, California, USA)
 Comments             Fremont silktassel

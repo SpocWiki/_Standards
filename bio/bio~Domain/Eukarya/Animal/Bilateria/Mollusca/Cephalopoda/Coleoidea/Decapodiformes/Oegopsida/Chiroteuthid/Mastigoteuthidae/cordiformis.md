@@ -41,7 +41,7 @@ title: Mastigoteuthis cordiformis
 # *Mastigoteuthis cordiformis* [Chun, 1908] 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](cordiformis/MCordNorman.jpg))![ ](cordiformis/cordiformis.jpg))
+![ ](cordiformis/MCordNorman.jpg))![ ](cordiformis/cordiformis.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -117,7 +117,7 @@ Nat. Mus., 234: 1-180.
 
 ## Title Illustrations
 
-![](cordiformis/MCordNorman.jpg))
+![](cordiformis/MCordNorman.jpg) 
 
   ------------
   Scientific Name ::  Mastigoteuthis cordiformis
@@ -126,7 +126,7 @@ Nat. Mus., 234: 1-180.
   Size              325 mm ML
   Copyright ::         © 2004 Mark Norman
   ------------
-![](cordiformis/cordiformis.jpg))
+![](cordiformis/cordiformis.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Mastigoteuthis cordiformis

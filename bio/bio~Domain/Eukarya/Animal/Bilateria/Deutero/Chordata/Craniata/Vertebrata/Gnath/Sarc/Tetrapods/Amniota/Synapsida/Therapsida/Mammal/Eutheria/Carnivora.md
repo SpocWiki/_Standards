@@ -199,17 +199,17 @@ UMLS_CUI: C0562690
 ## Title Illustrations
 
 ---------------------------------------------------------------------------- 
-![pine marten](Carnivora/marten.jpg))
+![pine marten](Carnivora/marten.jpg) 
 -   **Pine Marten** (Martes martes, Mustelidae).
 Photograph by Erwin and Peggy Bauer. Courtesy of the [U.S. Fish and     Wildlife Service](http://www.fws.gov/).
 
 ---------------------------------------------------------------------------- 
-![Leopard](Carnivora/leopard.jpg))
+![Leopard](Carnivora/leopard.jpg) 
 -   **Leopard** (Panthera pardus, Felidae).
 Photographs copyright © 2000 [Greg and Mary Beth     Dimijian](http://www.dimijianimages.com/).
 
 ---------------------------------------------------------------------------- 
-![Australian sea lion pup](Carnivora/seal.jpg))
+![Australian sea lion pup](Carnivora/seal.jpg) 
 -   **Australian sea lion pup** (Neophoca cinerea, Otariidae).
 Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 

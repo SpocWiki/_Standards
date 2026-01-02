@@ -10,7 +10,7 @@ title: Annelida
 
 ![Autolytus pachycerus habitus](Annelida/autolytus_pachycerus.jpg) 
 ![Acrocirrus validus](Annelida/Acrocirrus_validus.jpg) 
-![chloeia](Annelida/chloeia.jpg) ![unidentified leech](Annelida/leech.jpg))
+![chloeia](Annelida/chloeia.jpg) ![unidentified leech](Annelida/leech.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -168,7 +168,7 @@ in fact represent an apomorphy. With regards to the supposedly
 unsegmented Echiura, their reinstatement within Annelida (see McHugh
 1997) suggests that their apparently unsegmented body in fact represents
 a series of fused segments (see Hessling and Westheide 2002).
-![Ophryotrocha habitus](Annelida/ophryotrocha.jpg))
+![Ophryotrocha habitus](Annelida/ophryotrocha.jpg) 
 
 Figure 2. *Ophryotrocha* (Dorvilleidae). Sandgerdi Iceland. Copyright ©
 20001 Greg Rouse.
@@ -189,7 +189,7 @@ controversial (Lüter, 2000b; Lüter and Bartolomaeus, 1997; Stechmann and
 Schlegel, 1999) and the homology of their chaetae with those of annelids
 is unresolved (Lüter, 2000a). There is a distinct possibility therefore
 that chaetae represent an apomorphy for Annelida.
-![chaetae of an annelid](Annelida/chaetae.jpg))
+![chaetae of an annelid](Annelida/chaetae.jpg) 
 
 Figure 3. *Proscoloplos* (Orbiniidae). Bondi, Australia. SEM and Light
 micrographs. Copyright © 2001 Greg Rouse.
@@ -222,7 +222,7 @@ comprises features meaning that the root of the Annelida tree would be
 placed with taxa from Aciculata. This would either result in a
 paraphyletic Phyllodocida or Amphinomida, depending on which taxon is
 used as the root (Fig. 4).
-![Annelida tree from Westheide 1997](Annelida/westheide.gif))![](Annelida/mchugh.gif))
+![Annelida tree from Westheide 1997](Annelida/westheide.gif))![](Annelida/mchugh.gif) 
 
 Figure 4.
 
@@ -282,7 +282,7 @@ profoundly incorrect. If we accept that the basic topology shown in
 Figure 1 is correct, but do not root the tree, then a diagram as shown
 in Figure 5 is the result. This may represent the most conservative
 representation of our understanding of annelid relationships.
-![unrooted Annelida tree](Annelida/unrooted.gif))
+![unrooted Annelida tree](Annelida/unrooted.gif) 
 
 Figure 5.
 
@@ -297,21 +297,21 @@ Comments          Syllidae
 Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
-![Acrocirrus validus habitus](Annelida/Acrocirrus_validus.jpg))
+![Acrocirrus validus habitus](Annelida/Acrocirrus_validus.jpg) 
 Scientific Name ::  Acrocirrus validus
 Location ::        Misaki, Japan
 Comments          Acrocirridae
 Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
-![Chloeia habitus](Annelida/chloeia.jpg))
+![Chloeia habitus](Annelida/chloeia.jpg) 
 Scientific Name ::  Chloeia
 Location ::        Misaki, Japan
 Comments          Amphinomidae
 Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
-![unidentified leech](Annelida/leech.jpg))
+![unidentified leech](Annelida/leech.jpg) 
 Scientific Name ::  Hirudinea
 Location ::        Sydney, Australia
 Comments          unidentified leech

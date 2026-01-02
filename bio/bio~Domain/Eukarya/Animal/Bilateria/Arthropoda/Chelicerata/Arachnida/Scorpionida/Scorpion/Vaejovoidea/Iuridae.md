@@ -46,7 +46,7 @@ title: Iuridae
 ----------
 Hadrurus arizonensis.
 Copyright © 1988, Scott A. Stockwell.
-![arizonensis](Iuridae/iuridae.jpg))
+![arizonensis](Iuridae/iuridae.jpg) 
 Copyright ::   © 1988 Scott A. Stockwell
 
 

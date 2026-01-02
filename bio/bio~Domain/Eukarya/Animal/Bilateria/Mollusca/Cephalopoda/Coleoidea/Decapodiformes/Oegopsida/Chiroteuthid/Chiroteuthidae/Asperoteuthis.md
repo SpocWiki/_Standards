@@ -35,7 +35,7 @@ title: Asperoteuthis
 # *Asperoteuthis* [Nesis, 1980] 
 
 [Richard E. Young and Clyde F. E. Roper](http://www.tolweb.org/)
-![ ](Asperoteuthis/Aacanthoderma.jpg))
+![ ](Asperoteuthis/Aacanthoderma.jpg) 
 
 This genus contains one named species and, at least, two undescribed
 species.
@@ -167,7 +167,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](Asperoteuthis/Aacanthoderma.jpg))
+![](Asperoteuthis/Aacanthoderma.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::  Asperoteuthis acanthoderma

@@ -43,7 +43,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 
 ## Title Illustrations
 
-![](Nesticidae/eidmanellaweb.jpg))
+![](Nesticidae/eidmanellaweb.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Eidmanella pallida

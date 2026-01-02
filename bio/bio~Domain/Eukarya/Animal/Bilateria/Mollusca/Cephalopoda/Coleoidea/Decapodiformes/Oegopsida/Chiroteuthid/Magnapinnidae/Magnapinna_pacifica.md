@@ -11,7 +11,7 @@ title: Magnapinna pacifica
 
 [Michael Vecchione and Richard E. Young]()
 
-![ ](Magnapinna_pacifica/Magnapinna.jpg)![ ](Magnapinna_pacifica/MagnapinnaDraw.jpg))
+![ ](Magnapinna_pacifica/Magnapinna.jpg)![ ](Magnapinna_pacifica/MagnapinnaDraw.jpg) 
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
@@ -209,7 +209,7 @@ The capture localities are:
 -   Juvenile, 49 mm ML; 30° 22\'N, 129° 45\'W.
 -   Paralarva, 19.1 mm ML; 21° 20\'N, 158° 20\'W.
 -   Atlantic specimen, 51 mm ML: 26°52\'N, 85°52\"W.\
-![ ](Magnapinna_pacifica/magnamap.jpg))
+![ ](Magnapinna_pacifica/magnamap.jpg) 
 
 **Figure**. Distribution chart of ***M. pacifica***. White dots indicate
 capture localities. Chart modified from Vecchione and Young (1998).
@@ -246,7 +246,7 @@ African Journal of Marine Science, 20: 429-437.
 
 ## Title Illustrations
 
-![](Magnapinna_pacifica/Magnapinna.jpg))
+![](Magnapinna_pacifica/Magnapinna.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Magnapinna pacifica
@@ -258,7 +258,7 @@ African Journal of Marine Science, 20: 429-437.
   Copyright ::            © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -------------------------------------------------------------------------
-![](Magnapinna_pacifica/MagnapinnaDraw.jpg))
+![](Magnapinna_pacifica/MagnapinnaDraw.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::  Magnapinna pacifica

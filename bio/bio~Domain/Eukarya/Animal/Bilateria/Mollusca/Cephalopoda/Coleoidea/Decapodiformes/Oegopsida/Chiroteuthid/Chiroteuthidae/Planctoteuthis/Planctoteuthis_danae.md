@@ -80,7 +80,7 @@ Young, 1972, both from the Pacific Ocean. The identification of the
 species upon which this vertical distribution is based needs
 confirmation. We know of no other records of ***P. danae*** in the
 Atlantic Ocean. The data could refer to ***P. lippula***.
-![ ](Planctoteuthis_danae/PlanctoDanaeDist.jpg))
+![ ](Planctoteuthis_danae/PlanctoDanaeDist.jpg) 
 
 **Figure**. Vertical distribution graph based on opening/closing nets
 with tows at two localities, one at 11°N Lat. and the other at 18°N
@@ -125,7 +125,7 @@ Lu, 1975 and Lu and Clarke, 1975).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Planctoteuthis_danae/PDanaeType.jpg))
+![](Planctoteuthis_danae/PDanaeType.jpg) 
 Scientific Name ::     Planctoteuthis danae
 Reference            Joubin, L. 1931. Notes preliminaires sur les cephalopodes des croiseires du "Dana" (1921-1922). Annales de l'Institut Oceanographique, 10: 169-211.
 Specimen Condition   Preserved

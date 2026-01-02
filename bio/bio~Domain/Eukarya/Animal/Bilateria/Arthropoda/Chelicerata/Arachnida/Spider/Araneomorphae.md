@@ -5,7 +5,7 @@ title: Araneomorphae
 ---
 
 # [[Araneomorphae]] 
-![ ](Araneomorphae/Dysdera_crocata.jpg))
+![ ](Araneomorphae/Dysdera_crocata.jpg) 
 ![Nephila_clavipes](Araneomorphae/Nephila_clavipes.jpg) 
 ![Lycosa_helluo](Araneomorphae/Lycosa_helluo.jpg) 
 
@@ -42,7 +42,7 @@ title: Araneomorphae
 
 
 ## Title Illustrations
-![Dysdera crocata](Araneomorphae/Dysdera_crocata.jpg))
+![Dysdera crocata](Araneomorphae/Dysdera_crocata.jpg) 
 -   Woodlouse hunter, Dysdera crocata (Haplogynae, Dysderidae).\
 Photograph copyright © Jim Kalisch, [Department of Entomology,     University of Nebraska-Lincoln](http://entomology.unl.edu/).![Nephila_clavipes](Araneomorphae/Nephila_clavipes.jpg))
 -   Golden-silk spider, Nephila clavipes (Entelegynae, Orbicularia,

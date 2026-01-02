@@ -353,7 +353,7 @@ Scientific Name ::  Molossus rufus
 Copyright ::         © 1998 Nancy Simmons
 
 ---------- 
-![](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif))
+![](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif) 
 Scientific Name ::  Phylostomus hastatus
 Copyright ::         © 1994 Nancy Simmons
 

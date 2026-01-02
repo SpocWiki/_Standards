@@ -41,7 +41,7 @@ title: Mastigoteuthis psychrophila
 # *Mastigoteuthis psychrophila* [Nesis, 1977] 
 
 [Richard E. Young and Michael Vecchione]()
-![ ](psychrophila/MpsychrophilaHolo.jpg))
+![ ](psychrophila/MpsychrophilaHolo.jpg) 
 
 Containing group:[Mastigoteuthidae](../Mastigoteuthidae.md) 
 
@@ -111,7 +111,7 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
 
 ## Title Illustrations
 
-![](psychrophila/MpsychrophilaHolo.jpg))
+![](psychrophila/MpsychrophilaHolo.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Mastigoteuthis psychrophila

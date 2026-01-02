@@ -169,7 +169,7 @@ and Anthericaceae and not to Hyacinthaceae.
 ## Title Illustrations
 
 ------------- 
-![Hyacinthus orientalis](Hyacinthaceae/hyacinthus_orientalis.jpg))
+![Hyacinthus orientalis](Hyacinthaceae/hyacinthus_orientalis.jpg) 
 Scientific Name ::  Hyacinthus orientalis L.
 Location ::        cult. Greci, Romania
 Copyright ::         © 2001 M. Pfosser and F. Speta

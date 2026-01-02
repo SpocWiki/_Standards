@@ -202,7 +202,7 @@ the arms are very short. Photograph by R. Young.
 ## Title Illustrations
 
 --------- 
-![](Bolitaenidae/Japetella.jpg))
+![](Bolitaenidae/Japetella.jpg) 
 Scientific Name ::  Japetella diaphana
 Location ::        off Hawaii
 Copyright ::         © 1995 R. E.Young

@@ -113,7 +113,7 @@ Philadelphia 127(2): 13-24.
 
 ## Title Illustrations
 
-![](Rana_ridibunda/ridibunda.jpg))
+![](Rana_ridibunda/ridibunda.jpg) 
 
   ----------
   Scientific Name ::  Rana ridibunda

@@ -37,7 +37,7 @@ title: Pickfordiateuthis
 ## Grass squid 
 
 [Michael Vecchione]()
-![ ](Pickfordiateuthis/Pickfordiateuthis075.jpg))
+![ ](Pickfordiateuthis/Pickfordiateuthis075.jpg) 
 
 The following four species have been described (one has not been named)
 in ***Pickfordiateuthis***.
@@ -73,7 +73,7 @@ Tentacles
 
 Club suckers on manus in two series; suckers on dactylus in four series
 or in two series.
-![ ](Pickfordiateuthis/PickfordBayeri2.jpg))
+![ ](Pickfordiateuthis/PickfordBayeri2.jpg) 
 
 **Figure**. Dorsal view of ***P. bayeri*** in a shipboard aquarium.
 
@@ -92,7 +92,7 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
 
 ## Title Illustrations
 
-![](Pickfordiateuthis/Pickfordiateuthis075.jpg))
+![](Pickfordiateuthis/Pickfordiateuthis075.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Pickfordiateuthis pulchella

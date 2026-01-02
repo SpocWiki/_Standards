@@ -91,7 +91,7 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 
 ------------------------------------------------------------------------- 
-![Daurian rose, Rosa davurica](Rosales/Rosa_davurica.jpg))
+![Daurian rose, Rosa davurica](Rosales/Rosa_davurica.jpg) 
 Scientific Name ::    Rosa davurica
 Location ::          Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
 Comments            Daurian rose (Rosaceae)

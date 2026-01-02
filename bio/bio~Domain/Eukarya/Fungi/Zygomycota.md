@@ -102,7 +102,7 @@ observation of suitable substrates is required for those species that
 either have not or cannot be cultured. Fewer than half of the species
 have been cultured and the majority of these are members of the
 *Mucorales*, a group that includes some of the fastest growing fungi.
-![](Zygomycota/Rhizopus_mycelium.jpg))
+![](Zygomycota/Rhizopus_mycelium.jpg) 
 
 Figure 1. Moldy strawberries covered with *Rhizopus* mycelium. Photo K.
 O\'Donnell.
@@ -122,12 +122,12 @@ previously considered protozoa, however, DNA, biochemistry, and
 morphology suggest these highly reduced, obligate, intracellular
 parasites may have evolved from a zygomycete-like ancestor (Keeling
 2003).
-![Zygospore of Mycotypha africana](Zygomycota/zygospore.jpg))
+![Zygospore of Mycotypha africana](Zygomycota/zygospore.jpg) 
 
 Figure 2. Sexual reproduction. (A) Scanning electron micrograph of
 gametangial fusion in *Mucor mucedo*. (B) Highly ornamented
 zygosporangium of *Mycotypha africana*. (From O\'Donnell 1979).
-![](Zygomycota/multispored_sporangium.jpg))
+![](Zygomycota/multispored_sporangium.jpg) 
 
 Figure 3. Asexual reproduction. (A) Scanning electron micrograph of
 unispored sporangia of *Benjaminiella poitrasii* and (B) dehisced
@@ -184,7 +184,7 @@ only diploid phase takes place within the zygospore. Nuclei within the
 zygospore are believed to undergo meiosis during germination, but this
 has only been demonstrated genetically within the model eukaryote
 *Phycomyces blakesleeanus* (Eslava et al. 1975).
-![](Zygomycota/ZygomycotaLifeCycle.gif))
+![](Zygomycota/ZygomycotaLifeCycle.gif) 
 
 Figure 4. Generalized life cycle of *Zygomycota*. Asexual reproduction
 occurs primarily by sporangiospores produced by mitosis and cell
@@ -219,7 +219,7 @@ Interestingly, species of *Basidiobolus*, *Conidiobolus* and several
 other genera produce a second kind of spore on a long stalk that appears
 to have certain morphological adaptations for efficient insect
 dispersal.
-![](Zygomycota/sporangiophore.jpg))
+![](Zygomycota/sporangiophore.jpg) 
 
 Figure 5. Dichotomously branching sporangiophore of *Thamnidium elegans*
 (*Mucorales*). The few-spored sporangiola are borne at the tips of the
@@ -230,7 +230,7 @@ Sporangiola are simply uni-to-few spored sporangia containing between
 1-to-30 spores (Figures 3A and 5). Merosporangia are elongated
 sporangiola with uniseriate spores usually produced from a vesicle or
 stalk (Figure 6).
-![](Zygomycota/uniseriate_merosporangia.jpg))
+![](Zygomycota/uniseriate_merosporangia.jpg) 
 
 Figure 6. Scanning electron micrograph of uniseriate merosporangia
 produced on a vesicle (hidden beneath merosporangia) of *Syncephalastrum
@@ -247,7 +247,7 @@ larvae of many aquatic insects (Lichtwardt 1986). Trichospores possess
 one to several basal hair-like filaments that likely aid in the
 attachment of the spores to debris and plants in aquatic ecosystems
 before they reenter the arthropod gut.
-![](Zygomycota/Genistellospora_homothallic.jpg))
+![](Zygomycota/Genistellospora_homothallic.jpg) 
 
 Figure 7. Photo of thallus of *Genistellospora homothallica*
 (*Harpellales*) bearing trichospores attached to the hindgut cuticle of
@@ -278,7 +278,7 @@ species) and many *Zoopagales* are typically obligate parasites of
 mucoralean hosts. Other mycoparasites in the *Mucorales* (e.g.,
 *Syzygites*, *Spinellus*) specialize on mushroom fruiting bodies
 (*Basidiomycota*; Figure 8).
-![](Zygomycota/Amoebophilus_simplex.jpg))
+![](Zygomycota/Amoebophilus_simplex.jpg) 
 
 Figure 9. The parasite *Amoebophilus simplex* (*Zoopagales*) and its
 amoeba host. Nutrient transfer occurs through a specialized hypha called
@@ -319,7 +319,7 @@ al. 2001). A large-scale phylogeny of the *Mucorales*, using three genes
 and at least one member of each recognized genus, suggests that several
 of the largest families and the two largest genera (*Mucor* and
 *Absidia*) are polyphyletic (O\'Donnell et al. 2001).
-![](Zygomycota/Kickxella_alabastrina1.jpg))
+![](Zygomycota/Kickxella_alabastrina1.jpg) 
 
 Figure 10. Transmission electron micrograph of vegetative hypha of
 *Kickxella alabastrina* (*Kickxellales*). White line separating the
@@ -591,7 +591,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
 
 ## Title Illustrations
 
-![Phototropic sporangiophores of Pilobolus kleinii](Zygomycota/Pilobolus_kleinii1.jpg))
+![Phototropic sporangiophores of Pilobolus kleinii](Zygomycota/Pilobolus_kleinii1.jpg) 
 
   -------------------------------------------
   Scientific Name ::     Pilobolus kleinii
@@ -600,7 +600,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Specimen Condition   Live Specimen
   Copyright ::            © [Malcolm Storey](http://www.bioimages.org.uk/)
   -------------------------------------------
-![Root maggot fly killed by the insect-destroyer Entomophthora](Zygomycota/Entomophthora2.jpg))
+![Root maggot fly killed by the insect-destroyer Entomophthora](Zygomycota/Entomophthora2.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::     Entomophthora, Delia
@@ -610,7 +610,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Copyright ::            © [George Barron](http://www.uoguelph.ca/%7Egbarron/) 
  
   --------------------------------------------------------------------------
-![Colony bearing unispored sporangia of Genistelloides helicoides](Zygomycota/Genistelloides_helicoides1.jpg))
+![Colony bearing unispored sporangia of Genistelloides helicoides](Zygomycota/Genistelloides_helicoides1.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Genistelloides helicoides

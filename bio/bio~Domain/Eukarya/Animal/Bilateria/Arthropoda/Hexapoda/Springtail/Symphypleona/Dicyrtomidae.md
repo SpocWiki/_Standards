@@ -44,7 +44,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
 
 ## Title Illustrations
 
-![](Dicyrtomidae/DMsau_SMI_1.jpg))
+![](Dicyrtomidae/DMsau_SMI_1.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Dicyrtomina saundersi
@@ -52,7 +52,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
-![](Dicyrtomidae/DIfus_SMI_6.jpg))
+![](Dicyrtomidae/DIfus_SMI_6.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Dicyrtoma fusca

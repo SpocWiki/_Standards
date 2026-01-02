@@ -146,7 +146,7 @@ waters. Ann. South African Mus., 50: 61-88.
 
 ## Title Illustrations
 
-![](mega/Cmega.jpg))
+![](mega/Cmega.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Chiroteuthis mega, Chiroteuthis mega (2), Chiroteuthis mega (3)

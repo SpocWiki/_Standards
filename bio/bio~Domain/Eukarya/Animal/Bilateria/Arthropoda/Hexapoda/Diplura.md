@@ -73,7 +73,7 @@ Other characteristics:
 
 The lack of eyes, color, and long, slender antennae can be seen in the
 following japygid from the Santa Catalina Mountains of Arizona:
-![ ](Diplura/japygid.gif))
+![ ](Diplura/japygid.gif) 
 
 ### References
 
@@ -191,7 +191,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
 
 ## Title Illustrations
 
-![](Diplura/japygid.jpg))
+![](Diplura/japygid.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Japygidae

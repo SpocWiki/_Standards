@@ -7,7 +7,7 @@ title: Pholidota
 # [[Pholidota]]
 
 ## Pangolins and their extinct relatives 
-![Cape pangolin](Pholidota/Pangolin01.jpg))
+![Cape pangolin](Pholidota/Pangolin01.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -73,7 +73,7 @@ title: Pholidota
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Cape pangolin](Pholidota/Pangolin01.jpg))
+![Cape pangolin](Pholidota/Pangolin01.jpg) 
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen
@@ -85,7 +85,7 @@ View                 side
 Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![Cape pangolin](Pholidota/Pangolin02.jpg))
+![Cape pangolin](Pholidota/Pangolin02.jpg) 
 Scientific Name ::     Manis temmincki
 Location ::           Serengeti NP, Tanzania
 Specimen Condition   Live Specimen

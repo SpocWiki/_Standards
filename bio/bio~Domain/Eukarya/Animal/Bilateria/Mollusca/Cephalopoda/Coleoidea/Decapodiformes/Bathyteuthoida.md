@@ -31,7 +31,7 @@ title: Bathyteuthoida
 # Bathyteuthoida [Vecchione, Young and Sweeney, 2004] 
 
 [Richard E. Young and Michael Vecchione](http://www.tolweb.org/)
-![ ](Bathyteuthoida/Bathyteuthis.JPG))
+![ ](Bathyteuthoida/Bathyteuthis.JPG) 
 ![ ](Bathyteuthoida/Chtenopteryx.JPG)
 
 -   *[Bathyteuthidae](Bathyteuthis)*[
@@ -135,7 +135,7 @@ the United States National Museum, 291:1-210.
 
 ## Title Illustrations
 
-![](Bathyteuthoida/Bathyteuthis.JPG))
+![](Bathyteuthoida/Bathyteuthis.JPG) 
 
   ----------------
   Scientific Name ::  Bathyteuthis abyssicola

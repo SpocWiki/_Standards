@@ -123,7 +123,7 @@ species ending as ***sicula*** (not ***siculus***).\"
 The paralarval stages are similar to those of other species of
 ***Chtenopteryx**.* Chromatophore differences, if present, have not been
 identified as yet.
-![ ](sicula/ChtenSiculaParal.gif))
+![ ](sicula/ChtenSiculaParal.gif) 
 
 **Figure**. **Left** - Two very young paralarvae, ca. \...mm ML, side
 view. The circular tentacular clubs have about 20 suckers, irregularly
@@ -177,7 +177,7 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
 
 ## Title Illustrations
 
-![](sicula/ChtenSicula.jpg))
+![](sicula/ChtenSicula.jpg) 
 
   -------------------------------------
   Scientific Name ::  Chtenopteryx sicula

@@ -109,7 +109,7 @@ son yacht par Albert I Prince souverain de Monaco, 9:1-63.
 
 ## Title Illustrations
 
-![](grimaldii/MastGrimald.jpg))
+![](grimaldii/MastGrimald.jpg) 
 
   -----------------------------------------------------------------
   Scientific Name ::  Mastigoteuthis grimaldii

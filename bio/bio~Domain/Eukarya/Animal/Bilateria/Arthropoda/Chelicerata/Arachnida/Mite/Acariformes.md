@@ -129,7 +129,7 @@ press.
 
 Venter of acariform mite (Sarcoptiformes: Oribatida, Lohmanniidae:
 *Meristolohmannia*). SEM copyright © 1998, D. Walter.
-![](Acariformes/venter.gif))
+![](Acariformes/venter.gif) 
 
   --------
   Copyright ::   © 1998 D. Walter

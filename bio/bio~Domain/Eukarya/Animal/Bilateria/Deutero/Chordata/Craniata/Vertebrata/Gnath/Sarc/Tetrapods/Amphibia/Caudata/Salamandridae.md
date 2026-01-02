@@ -348,7 +348,7 @@ of evolution in the Salamandridae.
 ## Title Illustrations
 
 ------------ 
-![](Salamandridae/tarichagranulosa.jpg))
+![](Salamandridae/tarichagranulosa.jpg) 
 Scientific Name ::  Taricha granulosa
 Location ::        California
 Copyright ::         © 1996 Dr. Tom A. Titus

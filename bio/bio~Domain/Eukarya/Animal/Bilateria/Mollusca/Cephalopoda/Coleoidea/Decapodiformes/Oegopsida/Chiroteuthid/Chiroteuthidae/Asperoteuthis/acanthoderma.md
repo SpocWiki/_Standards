@@ -30,7 +30,7 @@ title: Asperoteuthis acanthoderma
 # *Asperoteuthis acanthoderma* [(Lu, 1977)] 
 
 [Richard E. Young and Clyde F. E. Roper](http://www.tolweb.org/)
-![ ](acanthoderma/Aacanthoderma.jpg))
+![ ](acanthoderma/Aacanthoderma.jpg) 
 
 The holotype is deposited in the Zoological Museum, University of
 Copenhagen, Denmark.

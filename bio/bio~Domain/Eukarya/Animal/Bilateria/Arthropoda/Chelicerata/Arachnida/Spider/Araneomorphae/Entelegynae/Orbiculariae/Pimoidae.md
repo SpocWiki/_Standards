@@ -36,7 +36,7 @@ title: Pimoidae
 -   » Sub-Groups 
 
 # Pimoidae 
-![ ](Pimoidae/pimoidae_0730.jpg))
+![ ](Pimoidae/pimoidae_0730.jpg) 
 ![ ](Pimoidae/pimoidae_0988.jpg)
 
 Containing group:[Orbiculariae](../Orbiculariae.md) 
@@ -74,7 +74,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Title Illustrations
 
-![](Pimoidae/pimoidae_0730.jpg))
+![](Pimoidae/pimoidae_0730.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::   Pimoa sp.
@@ -87,7 +87,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Pimoidae/pimoidae_0988.jpg))
+![](Pimoidae/pimoidae_0988.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Pimoa sp.

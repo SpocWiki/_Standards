@@ -135,7 +135,7 @@ these glands.
 
 
 ------------------------------------------------------------------------ 
-![](Ruellia/Ruellia_affinis23.jpg))
+![](Ruellia/Ruellia_affinis23.jpg) 
 Scientific Name ::     Ruellia affinis Lindau
 Location ::           Duke Greenhouses
 Reference            Duke Greenhouses
@@ -143,14 +143,14 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![](Ruellia/et166b.jpg))
+![](Ruellia/et166b.jpg) 
 Scientific Name ::     Ruellia cf. lactea Cav.
 Location ::           Estado de Mexico
 Specimen Condition   Live Specimen
 Identified By        Erin A. Tripp & Tom Daniel
 Collector            Tripp, Acosta, & Blanco
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-![](Ruellia/Ruellia_bourgaei1.jpg))
+![](Ruellia/Ruellia_bourgaei1.jpg) 
 ------------------------
 Scientific Name ::     Ruellia bourgaei Hemsl.
 Location ::           Ixtlahuacán del Río, Jalisco, Mexico

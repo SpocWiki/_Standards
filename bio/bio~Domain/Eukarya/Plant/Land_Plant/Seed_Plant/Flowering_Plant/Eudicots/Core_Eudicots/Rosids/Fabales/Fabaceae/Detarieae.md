@@ -104,20 +104,20 @@ included in Amherstieae.
 ## Title Illustrations
 
 -------------------------- 
-![Brownea macrophylla](Detarieae/Brownea_macrophylla.jpg))
+![Brownea macrophylla](Detarieae/Brownea_macrophylla.jpg) 
 Scientific Name ::     Brownea macrophylla L.
 Location ::           Ecuador
 Specimen Condition   Live Specimen
 Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/default.asp)
 
 -------------------------- 
-![Tamarindus indica](Detarieae/Tamarindus_indica.jpg))
+![Tamarindus indica](Detarieae/Tamarindus_indica.jpg) 
 Scientific Name ::     Tamarindus indica L.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
 
 ----------------------- 
-![Crudia glaberrima](Detarieae/Crudia_glaberrima.jpg))
+![Crudia glaberrima](Detarieae/Crudia_glaberrima.jpg) 
 Scientific Name ::     Crudia glaberrima Macbride
 Location ::           Ecuador
 Specimen Condition   Live Specimen
@@ -125,7 +125,7 @@ Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides
 
 
 -------------------------- 
-![Berlinia bruneelii](Detarieae/Berlinia_bruneelii.jpg))
+![Berlinia bruneelii](Detarieae/Berlinia_bruneelii.jpg) 
 Scientific Name ::     Berlinia bruneelii (De Wild.) Torr. & Hillc.
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm)

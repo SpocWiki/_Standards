@@ -31,7 +31,7 @@ title: Agaricomycetes
 ## Mushroom-Forming Fungi 
 
 [David S. Hibbett]()
-![Lepista mushrooms](Agaricomycetes/Lepista.jpg))![](Agaricomycetes/earthstar200.jpg))
+![Lepista mushrooms](Agaricomycetes/Lepista.jpg))![](Agaricomycetes/earthstar200.jpg) 
 
 This tree is based on multiple analyses of ribosomal RNA (rRNA) gene
 sequences alone (Hibbett and Thorn 2001; Hibbett and Binder 2002) and
@@ -114,7 +114,7 @@ ethnomycology comes from the Pacific Northwest of the United States,
 where Indigenous People have carved figurines out of the fruiting bodies
 of the polypore *Fomitopsis officinalis* to serve as guardians at the
 graves of shamans (Fig. 1; Blanchette et al. 1992).
-![](Agaricomycetes/fig1Right.jpg))
+![](Agaricomycetes/fig1Right.jpg) 
 
 Figure 1. Magic mushrooms. Left: The bioluminescent Agaricomycete,
 *Panellus stypticus* (Agaricales), photographed by its own light. © D.
@@ -144,7 +144,7 @@ conditions by dikaryotic mycelia. Sometimes, mushrooms are produced at
 the periphery of a circular mycelium, resulting in a fairy ring (Fig.
 2). Fairy rings indicate the spatial extent of the mycelium, which is
 otherwise difficult to establish.
-![Fairy ring](Agaricomycetes/fig2.jpg))
+![Fairy ring](Agaricomycetes/fig2.jpg) 
 
 Figure 2. Fairy ring. © Darrell D. Hensley. From the [University of Tennessee Turfgrass Diseases page](http://web.utk.edu/%7Eextepp/profiles/OT/turfgrass/diseases/turf-dis.htm);
 used with permission.
@@ -180,7 +180,7 @@ the production of spores. Variations in these patterns might provide
 clues to phylogenetic relationships in Agaricomycetes, but they have
 been studied in too few species to make broad generalizations (Hibbett
 et al 1994a, Mueller and Ammirati 1993).
-![Basidiosporogenesis](Agaricomycetes/fig3.gif))
+![Basidiosporogenesis](Agaricomycetes/fig3.gif) 
 
 Figure 3. Basidiosporogenesis. A: Pre-fusion dikaryotic stage. B-D:
 Post-fusion diploid nucleus and meiosis. E-G: Spore development and
@@ -193,7 +193,7 @@ bodies, the mycelium also forms other specialized multicellular
 structures. Examples include rootlike rhizomorphs, which enable
 Agaricomycetes to forage along the forest floor (Fig. 4), and sclerotia,
 which are resting structures from which fruiting bodies may be formed.
-![Rhizomorphs of Armillaria in nature](Agaricomycetes/fig4Right.jpg))
+![Rhizomorphs of Armillaria in nature](Agaricomycetes/fig4Right.jpg) 
 
 Figure 4. Rhizomorphs of *Armillaria* in culture (left; © James B.
 Anderson; from the [Mycological Society of America Slide Collection](http://www.bsu.edu/classes/ruch/msa/description.html)) and
@@ -230,7 +230,7 @@ fruiting body, but later becomes exposed as the cap expands (Fig. 5). It
 has been suggested that a developmental arrest in such forms could lead
 to the evolution of gasteroid forms (Bruns et al 1989; Hibbett et al.
 1994b, Thiers 1984).
-![Calvatia](Agaricomycetes/fig5Right.jpg))
+![Calvatia](Agaricomycetes/fig5Right.jpg) 
 
 Figure 5. The hymenium in the hymenomycete *Agaricus* (left, © D.
 Hibbett) is initially concealed by veils. Several groups of puffballs,
@@ -544,7 +544,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
 
 ## Title Illustrations
 
-![Lepista mushrooms](Agaricomycetes/Lepista.jpg))
+![Lepista mushrooms](Agaricomycetes/Lepista.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Lepista cf. nuda
@@ -552,7 +552,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
   -----------------------------------------------------------------------------
-![Earthstar, Geastrum saccatum](Agaricomycetes/earthstar200.jpg))
+![Earthstar, Geastrum saccatum](Agaricomycetes/earthstar200.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Geastrum saccatum

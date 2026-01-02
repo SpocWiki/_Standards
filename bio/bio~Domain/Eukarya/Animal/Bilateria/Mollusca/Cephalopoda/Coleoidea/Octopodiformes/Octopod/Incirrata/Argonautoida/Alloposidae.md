@@ -183,7 +183,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
 
 ## Title Illustrations
 
-![](Alloposidae/HaliphronSide.jpg))
+![](Alloposidae/HaliphronSide.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Haliphron atlanticus
@@ -194,7 +194,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
   Copyright ::         © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
-![](Alloposidae/HaliphronDraw.jpg))
+![](Alloposidae/HaliphronDraw.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::  Haliphron atlanticus

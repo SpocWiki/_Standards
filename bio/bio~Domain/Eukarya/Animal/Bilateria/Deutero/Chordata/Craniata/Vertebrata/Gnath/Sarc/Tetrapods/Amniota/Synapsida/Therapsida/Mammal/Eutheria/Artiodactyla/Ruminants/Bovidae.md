@@ -129,7 +129,7 @@ Africa, Europe, Asia, North America.
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Desert bighorn sheep (Ovis canadensis) and young, Arizona](Bovidae/bighorn_ma_inf.jpg))
+![Desert bighorn sheep (Ovis canadensis) and young, Arizona](Bovidae/bighorn_ma_inf.jpg) 
 Scientific Name ::     Ovis canadensis
 Location ::           Arizona Sonora Desert Museum, Tucson, USA
 Comments             Mother with month-old lamb

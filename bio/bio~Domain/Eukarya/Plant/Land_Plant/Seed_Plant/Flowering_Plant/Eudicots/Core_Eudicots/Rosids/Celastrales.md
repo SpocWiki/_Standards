@@ -51,7 +51,7 @@ title: Celastrales
 
 
 --------------------------------- 
-![California Grass-of-Parnassus, Parnassia californica](Celastrales/Parnassia_californica.jpg))
+![California Grass-of-Parnassus, Parnassia californica](Celastrales/Parnassia_californica.jpg) 
 Scientific Name ::     Parnassia californica
 Location ::           Big Valley, \~5400\', near waterfall, south of Cisco Grove (Placer County, California, USA)
 Comments             California Grass-of-Parnassus (Parnassiaceae)
@@ -60,7 +60,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [Russell Towle](mailto:rtowle@neworld.net)
 
 -------------------------- 
-![Western burning bush, Euonymus occidentalis var. occidentalis](Celastrales/Euonymus_occidentalis.jpg))
+![Western burning bush, Euonymus occidentalis var. occidentalis](Celastrales/Euonymus_occidentalis.jpg) 
 Scientific Name ::     Euonymus occidentalis var. occidentalis
 Location ::           Bear Valley trail, Point Reyes N. S. (Marin County, California, USA)
 Comments             Western burning bush (Celastraceae)
@@ -69,7 +69,7 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [Brad Kelley](mailto:bkelley5@yahoo.com)
 
 --------------------------------- 
-![Oregon boxwood, Paxistima myrsinites](Celastrales/Paxistima_myrsinites.jpg))
+![Oregon boxwood, Paxistima myrsinites](Celastrales/Paxistima_myrsinites.jpg) 
 Scientific Name ::    Paxistima myrsinites
 Location ::          Grayback Pass (Siskiyou County, California, USA)
 Comments            Oregon boxwood (Celastraceae)

@@ -10,7 +10,7 @@ title: Magnapinna sp. B
 # *Magnapinna sp. B* 
 
 [Michael Vecchione and Richard E. Young]()
-![ ](Magnapinna_B/MagnaPinMEtitle.jpg))
+![ ](Magnapinna_B/MagnaPinMEtitle.jpg) 
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md) 
 
@@ -87,7 +87,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Title Illustrations
 
-![](Magnapinna_B/MagnaPinMEtitle.jpg))
+![](Magnapinna_B/MagnaPinMEtitle.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Magnapinna sp. B

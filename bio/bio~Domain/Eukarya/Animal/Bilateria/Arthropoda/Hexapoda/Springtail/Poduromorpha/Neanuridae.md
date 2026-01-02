@@ -38,7 +38,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Title Illustrations
 
-![](Neanuridae/NNmus_NEA_2.jpg))
+![](Neanuridae/NNmus_NEA_2.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Neanura muscorum
@@ -46,7 +46,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
-![](Neanuridae/ANmar_NEA_3.jpg))
+![](Neanuridae/ANmar_NEA_3.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::     Anurida maritima

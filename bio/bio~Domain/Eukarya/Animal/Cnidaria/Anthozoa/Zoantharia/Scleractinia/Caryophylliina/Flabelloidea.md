@@ -27,7 +27,7 @@ title: Flabelloidea
 # Flabelloidea [Bourne 1905] 
 
 [Stephen D. Cairns]()
-![ ](Flabelloidea/Truncatoflabellum_truncum.jpg))
+![ ](Flabelloidea/Truncatoflabellum_truncum.jpg) 
 
 -   *[Flabellidae](Flabellidae)*
 -   *[Guyniidae](Guynia_annulata)*
@@ -107,7 +107,7 @@ of Kansas Press, Lawrence.
 
 ## Title Illustrations
 
-![](Flabelloidea/Truncatoflabellum_truncum.jpg))
+![](Flabelloidea/Truncatoflabellum_truncum.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Truncatoflabellum truncum

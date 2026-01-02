@@ -44,7 +44,7 @@ and the six eyes, grouped in pairs.\
 
 
 --------------------------------------------------------------------------------- 
-![](Sicariidae/loxosceles_laeta_1875.jpg))
+![](Sicariidae/loxosceles_laeta_1875.jpg) 
 Scientific Name ::     Loxosceles laeta
 Location ::           ex Instituto Butanan, Sao Paulo, Brazil
 Specimen Condition   Live Specimen
@@ -54,7 +54,7 @@ Life Cycle Stage ::     adult
 Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 --------------------------------------------------------------------------------- 
-![](Sicariidae/loxosceles_laeta_1888.jpg))
+![](Sicariidae/loxosceles_laeta_1888.jpg) 
 Scientific Name ::     Loxoscleles laeta
 Location ::           ex Instituto Butanan, Sao Paulo, Brazil
 Specimen Condition   Live Specimen
@@ -64,7 +64,7 @@ Life Cycle Stage ::     adult
 Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 --------------------------------------------------------------------------------- 
-![](Sicariidae/loxosceles_laetamm_1898.jpg))
+![](Sicariidae/loxosceles_laetamm_1898.jpg) 
 Scientific Name ::   Loxosceles laeta
 Location ::         ex Instituto Butanan, Sao Paulo Brazil
 Identified By      Jonathan Coddington

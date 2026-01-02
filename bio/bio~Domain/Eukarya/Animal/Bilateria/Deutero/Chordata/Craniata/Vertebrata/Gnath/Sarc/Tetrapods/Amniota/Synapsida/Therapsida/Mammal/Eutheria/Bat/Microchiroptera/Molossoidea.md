@@ -107,13 +107,13 @@ of Natural History. 235:1-82.
 
 ## Title Illustrations
 
-![](Molossoidea/molossus1.gif))
+![](Molossoidea/molossus1.gif) 
 
   ----------
   Scientific Name ::  Molossus rufus
   Copyright ::         © 1998 Nancy Simmons
   ----------
-![](Molossoidea/molossus_rufus.gif))
+![](Molossoidea/molossus_rufus.gif) 
 
   ----------
   Scientific Name ::  Molossus rufus

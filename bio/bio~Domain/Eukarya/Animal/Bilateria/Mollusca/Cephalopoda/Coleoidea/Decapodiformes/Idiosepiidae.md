@@ -31,7 +31,7 @@ title: Idiosepiidae
 ## Pygmy squids 
 
 [Katharina M. Mangold (1922-2003) and Richard E. Young]()
-![ ](Idiosepiidae/Idiosep.JPG))
+![ ](Idiosepiidae/Idiosep.JPG) 
 ![ ](Idiosepiidae/IdiosepiusVoss2.jpg)
 
 This family contains the single genus ***Idiosepius*** with about eight
@@ -129,7 +129,7 @@ Nat. Mus., 234: 1-180.
 
 ## Title Illustrations
 
-![](Idiosepiidae/Idiosep.JPG))
+![](Idiosepiidae/Idiosep.JPG) 
 
   ------------
   Scientific Name ::   Idiosepius notoides
@@ -137,7 +137,7 @@ Nat. Mus., 234: 1-180.
   Acknowledgements   provided by Mark Norman
   Copyright ::          © 1996 David Paul
   ------------
-![](Idiosepiidae/IdiosepiusVoss2.jpg))
+![](Idiosepiidae/IdiosepiusVoss2.jpg) 
 
   ---------------------------------
   Scientific Name ::  Idiosepius pygmaeus

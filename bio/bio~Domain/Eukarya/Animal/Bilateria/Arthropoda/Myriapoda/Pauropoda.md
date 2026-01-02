@@ -98,7 +98,7 @@ far.\
 ## Title Illustrations
 
 --------------------------------------------------------------------------- 
-![pauropod](Pauropoda/Pauropod.jpg))
+![pauropod](Pauropoda/Pauropod.jpg) 
 Scientific Name ::     Pauropoda
 Location ::           USA: North Carolina: Eno River State Park
 Specimen Condition   Live Specimen

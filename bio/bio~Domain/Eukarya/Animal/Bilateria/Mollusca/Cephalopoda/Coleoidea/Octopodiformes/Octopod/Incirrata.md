@@ -213,7 +213,7 @@ African Jour. Mar. Sci. .
 
 ## Title Illustrations
 
-![](Incirrata/ornatus1.jpg))
+![](Incirrata/ornatus1.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Octopus ornatus

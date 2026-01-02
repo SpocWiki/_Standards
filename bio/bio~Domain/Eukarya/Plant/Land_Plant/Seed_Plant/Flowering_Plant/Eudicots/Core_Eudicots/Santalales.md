@@ -45,7 +45,7 @@ title: Santalales
 
 ## Title Illustrations
 
-![Osyris alba](Santalales/Osyris_alba3996.jpg))
+![Osyris alba](Santalales/Osyris_alba3996.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::   Osyris alba
@@ -54,7 +54,7 @@ title: Santalales
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
   Copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
-![Mistletoe growing on the trunk of a whitebeam](Santalales/Viscum_album2019.jpg))
+![Mistletoe growing on the trunk of a whitebeam](Santalales/Viscum_album2019.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::   Viscum album, Sorbus aria

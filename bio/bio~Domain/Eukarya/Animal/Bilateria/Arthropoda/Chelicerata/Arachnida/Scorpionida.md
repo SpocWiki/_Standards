@@ -7,7 +7,7 @@ title: Scorpionida
 # [[Scorpionida]]
 
 Scorpions and their extinct relatives 
-![ ](Scorpionida/Cyclophthalmus_senior.jpg))
+![ ](Scorpionida/Cyclophthalmus_senior.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -152,7 +152,7 @@ Recent.
 ## Title Illustrations
 
 ---------------------------------- 
-![Cyclophthalmus_senior](Scorpionida/Cyclophthalmus_senior.jpg))
+![Cyclophthalmus_senior](Scorpionida/Cyclophthalmus_senior.jpg) 
 Scientific Name ::     Cyclophthalmus senior
 Location ::           Bohemia
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.

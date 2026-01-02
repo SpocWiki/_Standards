@@ -88,7 +88,7 @@ taxon_common_name: 菊目
 
 
 ------------------------------------------------------------------------------ 
-![Menyanthes trifoliata](Asterales/Menyanthes_trifoliata.jpg))
+![Menyanthes trifoliata](Asterales/Menyanthes_trifoliata.jpg) 
 Scientific Name ::    Menyanthes trifoliata
 Comments            Menyanthaceae
 Creator             Photograph by Gladys Lucille Smith
@@ -96,7 +96,7 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
-![Legousia pentagonia](Asterales/Legousia_pentagonia.jpg))
+![Legousia pentagonia](Asterales/Legousia_pentagonia.jpg) 
 Scientific Name ::   Legousia pentagonia
 Location ::         Samos, Greece
 Comments           Campanulaceae
@@ -104,7 +104,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 ------------------------------------------------------------------------ 
-![Erigeron annuus](Asterales/Erigeron_annuus.jpg))
+![Erigeron annuus](Asterales/Erigeron_annuus.jpg) 
 Scientific Name ::   Erigeron annuus
 Location ::         Sevelen SG, Switzerland
 Comments           Asteraceae

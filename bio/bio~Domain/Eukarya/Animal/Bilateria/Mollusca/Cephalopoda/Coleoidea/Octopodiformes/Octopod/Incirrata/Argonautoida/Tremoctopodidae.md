@@ -239,7 +239,7 @@ Mar. Sci. 27: 353-392.
 
 ## Title Illustrations
 
-![](Tremoctopodidae/TremoctSilhou1.jpg))
+![](Tremoctopodidae/TremoctSilhou1.jpg) 
 
   ------------------------
   Scientific Name ::     Tremoctopus violaceus

@@ -126,7 +126,7 @@ waters. Ann. South African Mus., 50: 61-88.
 
 ## Title Illustrations
 
-![](joubini/Cjoubini.jpg))
+![](joubini/Cjoubini.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis joubini

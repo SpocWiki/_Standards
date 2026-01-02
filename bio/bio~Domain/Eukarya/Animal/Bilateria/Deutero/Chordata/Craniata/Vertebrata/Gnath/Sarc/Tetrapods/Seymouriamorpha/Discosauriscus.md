@@ -175,7 +175,7 @@ Forschungshefte, Reihe C 400: 117-139.
 
 ## Title Illustrations
 
-![](Discosauriscus/Disco.gif))
+![](Discosauriscus/Disco.gif) 
 
   ----------------------
   Scientific Name ::  Discosauriscus austriacus

@@ -33,7 +33,7 @@ title: Lycosoidea
     -  [Oxyopidae](Lycosoidea/Oxyopidae.md) 
 
 # Lycosoidea 
-![ ](Lycosoidea/Lycosa_helluo2.jpg))![ ](Lycosoidea/Lynx_Spider0082.jpg))
+![ ](Lycosoidea/Lycosa_helluo2.jpg))![ ](Lycosoidea/Lynx_Spider0082.jpg) 
 
 Tree from Coddington and Levi (1991)
 
@@ -62,7 +62,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
 
 ## Title Illustrations
 
-![](Lycosoidea/Lycosa_helluo2.jpg))
+![](Lycosoidea/Lycosa_helluo2.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Lycosa (Hogna) helluo
@@ -73,7 +73,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
   Copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
  
   -----------------------------------------------------------------------
-![](Lycosoidea/Lynx_Spider0082.jpg))
+![](Lycosoidea/Lynx_Spider0082.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Oxyopidae

@@ -94,7 +94,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Title Illustrations
 
-![](Magnapinna_C/bmsquid7.jpg))
+![](Magnapinna_C/bmsquid7.jpg) 
 
   ----------
   Scientific Name ::     Magnapinna sp. C
@@ -105,7 +105,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   Size                 79 mm ML
   Copyright ::            © Wen-Sung Chung
   ----------
-![](Magnapinna_C/HardysSquid1.gif))
+![](Magnapinna_C/HardysSquid1.gif) 
 
   ------------------------------------------
   Scientific Name ::     Magnapinna sp. C

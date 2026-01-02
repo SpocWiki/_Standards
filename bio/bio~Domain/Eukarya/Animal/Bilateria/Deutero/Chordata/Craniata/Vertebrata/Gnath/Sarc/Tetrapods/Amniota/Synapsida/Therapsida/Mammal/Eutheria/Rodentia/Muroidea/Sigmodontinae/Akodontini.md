@@ -33,7 +33,7 @@ title: Akodontini
 > [Wikipedia](https://en.wikipedia.org/wiki/Akodontini)
 
 ### Geographic Distribution
-![ ](Akodontini/akodontini.gif))
+![ ](Akodontini/akodontini.gif) 
 
 ## Phylogeny 
 

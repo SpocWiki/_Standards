@@ -90,7 +90,7 @@ Africa, Australia, and Eurasia.
 ## Title Illustrations
 
 -------------------------------------------------------------- 
-![](Murinae/327896667_150f8c707e_o.jpg))
+![](Murinae/327896667_150f8c707e_o.jpg) 
 Scientific Name ::     Zyzomys pedunculatus
 Specimen Condition   Live Specimen
 Source               [The extremely rare rodent, the Central Rock-rat (Zyzomys pedunculatus) found only in a few location around Ormiston Gorge.](http://www.flickr.com/photos/centralaustralia/327896667/)
@@ -99,7 +99,7 @@ Image Use ::    [Attribution-ShareAlike 2.0 Creative Commons License](http://cre
 Copyright ::            © 2006 [Michael & Karen](http://flickr.com/people/44489466@N00)
 
 -------------------------------------------------------------- 
-![](Murinae/277642366_884c30cb87_o.jpg))
+![](Murinae/277642366_884c30cb87_o.jpg) 
 Scientific Name ::     Lemniscomys striatus
 Location ::           captive, Zoo München Hellabrunn
 Specimen Condition   Live Specimen

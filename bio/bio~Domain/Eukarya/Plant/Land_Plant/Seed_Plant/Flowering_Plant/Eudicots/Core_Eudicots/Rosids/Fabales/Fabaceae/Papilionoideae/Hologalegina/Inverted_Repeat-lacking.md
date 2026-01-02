@@ -144,13 +144,13 @@ Ellison et al., 2006).
 ## Title Illustrations
 
 ------------------------------ 
-![Medicago sativa](Inverted_Repeat-lacking/Medicago_sativa.jpg))
+![Medicago sativa](Inverted_Repeat-lacking/Medicago_sativa.jpg) 
 Scientific Name ::     Medicago sativa L.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [International Legume Research Institute](http://www.tropicalforages.info/)
 
 --------------------- 
-![Astragalus purshii](Inverted_Repeat-lacking/Astragalus_purshii.jpg))
+![Astragalus purshii](Inverted_Repeat-lacking/Astragalus_purshii.jpg) 
 Scientific Name ::     Astragalus purshii Dougl. ex G.Don
 Location ::           California, USA
 Specimen Condition   Live Specimen
@@ -164,7 +164,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Jardin Mundani](http://jardin-mundani.info/)
 
 ------------------------- 
-![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg))
+![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg) 
 Scientific Name ::     Wisteria sinensis (Sims) Sweet
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/)

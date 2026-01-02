@@ -235,7 +235,7 @@ African Jour. Mar. Sci.., 20: 393-420.
 
 ## Title Illustrations
 
-![](Argonautidae/Argonodo.jpg))
+![](Argonautidae/Argonodo.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Argonauta nodosa
@@ -244,7 +244,7 @@ African Jour. Mar. Sci.., 20: 393-420.
   Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   --------------------------------------------------------------------------
-![](Argonautidae/Argojuv.jpg))
+![](Argonautidae/Argojuv.jpg) 
 
   ------------
   Scientific Name ::   Argonauta nodosa

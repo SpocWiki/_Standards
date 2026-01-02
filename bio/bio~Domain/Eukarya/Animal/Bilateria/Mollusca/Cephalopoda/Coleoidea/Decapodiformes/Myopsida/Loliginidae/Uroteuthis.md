@@ -35,7 +35,7 @@ title: Uroteuthis
 # *Uroteuthis* [Rehder, 1945] 
 
 [Michael Vecchione]()
-![ ](Uroteuthis/Photolol.jpg))
+![ ](Uroteuthis/Photolol.jpg) 
 
 The following fourteen nominal species, divided into three subgenera,
 are presently included in ***Uroteuthis***; however this generic and
@@ -93,7 +93,7 @@ not extend to the tip of the tail. In ***Uroteuthis (Photololigo)*** and
 ***Uroteuthis (Aestuariolus)*** the elongation of the posterior mantle
 is variable but not tail-like and when the mantle is elongate, the fins
 extend along the sides to the posterior tip.
-![ ](Uroteuthis/UroBartchiHolo.jpg))
+![ ](Uroteuthis/UroBartchiHolo.jpg) 
 
 **Figure**. Dorsolateral view of ***U. (U.) bartchi***, holotype, 199 mm
 ML, male, preserved, Philippine waters at 06°05\'N, 121°00\'E, showing
@@ -115,7 +115,7 @@ region of the arm. **Bottom** - Oral view of the hectocotylus of
 ***Uroteuthis (Aestuariolus) nocticula*** , 53 mm ML, male, preserved,
 Bass Strait, Australia at 37°51\'S, 144°56\'E. Note that only modified
 suckers are in the proximal region of the arms. Photographs by R. Young.
-![ ](Uroteuthis/UroNoctiluca.jpg))
+![ ](Uroteuthis/UroNoctiluca.jpg) 
 
 **Figure**. Dorsal view of ***Uroteuthis (Aestuariolus) noctiluca***,
 paratype, preserved. Photograph by R. Young.
@@ -205,7 +205,7 @@ Cook University, North Queensland, Australia.
 
 ## Title Illustrations
 
-![](Uroteuthis/Photolol.jpg))
+![](Uroteuthis/Photolol.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::  Uroteuthis chinensis

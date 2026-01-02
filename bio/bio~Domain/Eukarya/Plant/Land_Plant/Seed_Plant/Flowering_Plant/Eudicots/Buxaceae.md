@@ -55,7 +55,7 @@ title: Buxaceae
 
 
 ## Title Illustrations
-![](Buxaceae/Buxussempervirens-2.jpg))
+![](Buxaceae/Buxussempervirens-2.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Buxus sempervirens
@@ -67,7 +67,7 @@ title: Buxaceae
   Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
  
   ---------------------------------------------------------------------------
-![](Buxaceae/153530768_e421e0f9b5_b.jpg))
+![](Buxaceae/153530768_e421e0f9b5_b.jpg) 
 
   --------------------------------------------------------
   Scientific Name ::     Pachysandra terminalis

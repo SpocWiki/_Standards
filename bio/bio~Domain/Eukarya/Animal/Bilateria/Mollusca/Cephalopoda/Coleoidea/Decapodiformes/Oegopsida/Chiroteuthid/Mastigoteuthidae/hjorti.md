@@ -145,7 +145,7 @@ Technical Report NMFS 152: 1-58.
 
 ## Title Illustrations
 
-![](hjorti/MhjortiSide.jpg))
+![](hjorti/MhjortiSide.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Mastigoteuthis hjorti
@@ -154,7 +154,7 @@ Technical Report NMFS 152: 1-58.
   Copyright ::            © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
-![](hjorti/MHjortiDandV.jpg))
+![](hjorti/MHjortiDandV.jpg) 
 
   -------------------------------------------------------
   Scientific Name ::  Mastigoteuthis hjorti

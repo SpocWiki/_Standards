@@ -94,7 +94,7 @@ Megadermatidae is strongly supported by morphological data (Griffiths,
 1994; Simmons, 1998).
 
 ### Geographic Distribution
-![ ](Rhinolophoidea/rhinolophoidea.gif))
+![ ](Rhinolophoidea/rhinolophoidea.gif) 
 
 The geographical distribution of Rhinolophoidea is shown in red.
 Distribution from Hill and Smith (1984).

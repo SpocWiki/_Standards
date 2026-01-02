@@ -152,7 +152,7 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
     Photograph by Gerald and Buff Corsi, courtesy
     [CalPhotos](http://elib.cs.berkeley.edu/photos/), copyright © 2001
     [California Academy of Sciences](mailto:manzanita@calacademy.org).
-![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg))
+![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg) 
 -   Barnacle, Semibalanus cariosus (Thecostraca, Cirripedia).  Ketchikan
     (Alaska, US).\
     Photograph by Gerald and Buff Corsi, courtesy

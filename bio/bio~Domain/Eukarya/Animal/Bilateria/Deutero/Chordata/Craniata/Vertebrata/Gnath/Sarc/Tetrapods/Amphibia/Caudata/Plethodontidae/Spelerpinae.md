@@ -201,7 +201,7 @@ Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons Licen
 Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 ------------------------------------------------------------------ 
-![](Spelerpinae/112339021_ccfa125dfa_o.jpg))
+![](Spelerpinae/112339021_ccfa125dfa_o.jpg) 
 Scientific Name ::     Eurycea cirrigera
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Specimen Condition   Live Specimen

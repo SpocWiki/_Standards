@@ -185,7 +185,7 @@ Valeriana and Centranthus.
 
 
 ---------------------------------------------------------------------------- 
-![Patrinia triloba](Valerianaceae/Patrinia_triloba.gif))
+![Patrinia triloba](Valerianaceae/Patrinia_triloba.gif) 
 Scientific Name ::  Patrinia triloba
 Comments          Flowers
 Copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 

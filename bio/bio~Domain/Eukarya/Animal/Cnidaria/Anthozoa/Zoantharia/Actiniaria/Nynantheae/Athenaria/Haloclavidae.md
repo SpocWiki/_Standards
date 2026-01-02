@@ -78,7 +78,7 @@ Peachia hastata.\
 Photo copyright © 2000, Ron Ates.\
 France. Collection and donation of this specimen by Dr. R. Dekker (NIOZ,
 Texel, Netherlands) is gratefully acknowledged.
-![](Haloclavidae/haloclavidae.jpg))
+![](Haloclavidae/haloclavidae.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

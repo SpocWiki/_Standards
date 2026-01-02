@@ -19,7 +19,7 @@ taxon_name: Strepsirrhini
 
 # [[Strepsirrhini]] 
 
-![Lesser bushbaby](Strepsirrhini/galago.jpg))
+![Lesser bushbaby](Strepsirrhini/galago.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Strepsirrhini,82265|WD~Strepsirrhini,82265]] 
 
@@ -142,7 +142,7 @@ taxon_name: Strepsirrhini
 
 ## Title Illustrations
 
-![Lesser bushbaby](Strepsirrhini/galago.jpg))
+![Lesser bushbaby](Strepsirrhini/galago.jpg) 
 
 ------------------------------------------------------------------------------
 Scientific Name ::  Galago senegalensis

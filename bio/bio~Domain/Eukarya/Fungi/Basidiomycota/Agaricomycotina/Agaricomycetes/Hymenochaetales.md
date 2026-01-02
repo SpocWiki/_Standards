@@ -33,7 +33,7 @@ title: Hymenochaetoid clade
 ## Hymenochaetaceae 
 
 [Aristóteles Góes-Neto and Cláudia Groposo]()
-![ ](Hymenochaetales/Aurificaria_luteoumbrina.jpg))
+![ ](Hymenochaetales/Aurificaria_luteoumbrina.jpg) 
 
 This tree represents the current knowledge on phylogenetic relationships
 of distinct members of the hymenochaetoid clade, and it is strongly
@@ -74,7 +74,7 @@ World Records\" as possessing the largest known fruiting body of a
 fungus, *Bridgeoporus nobilissimus* (Fig. 4), a rare and endangered
 species, restricted to very large specimens of noble firs in Pacific
 Northwest old-growth forests in North America (Burdsall et al., 1996).
-![ ](Hymenochaetales/trichaptum_byssogenum225.jpg))
+![ ](Hymenochaetales/trichaptum_byssogenum225.jpg) 
 ![ ](Hymenochaetales/B.jpg))
 
 Clockwise from top left: Figure 1: Salmon basidiomata of *Loreleia
@@ -126,7 +126,7 @@ xanthochroic reaction). Setoid structures, especially unbranched setae
 taxa (Oberwinkler, 1977). However, the hymenochaetoid species assigned
 to the other families not only lack this combination of characters but
 also have other markedly different nonmolecular characters.
-![ ](Hymenochaetales/Phellinus_palmicola1691.jpg))
+![ ](Hymenochaetales/Phellinus_palmicola1691.jpg) 
 ![ ](Hymenochaetales/fig14_setae_mev.jpg))
 
 Top: Figure 5: Browinsh basidiome of *Phellinus palmicola* (Berk. &
@@ -137,7 +137,7 @@ of *Phellinus palmicola* (Berk. & Curt.) Ryv. X40. KOH 5% + Phloxin
 stained slide. Figure 8: Scanning electron photomicrograph of hooked and
 straight hymenial setae of *Phellinus wahlbergii* (Fr.) D.A. Reid. X500.
 Figures 5, 6, 7 © Aristóteles Góes-Neto. Figure 8 © Cláudia Groposo.
-![ ](Hymenochaetales/Phellinus_gilvus175.jpg))
+![ ](Hymenochaetales/Phellinus_gilvus175.jpg) 
 ![ ](Hymenochaetales/fig18_stipitate_basidiome.jpg))
 
 Clockwise from top left: Figure 9: Ressupinate basidiome of *Phellinus
@@ -159,7 +159,7 @@ et al., 2001). They exhibit all the three main patterns of hyphal
 systems (mono, di and trimitic), and sterile elements (other than setoid
 structures) of the hymenium are often found in non-hymenochaetacean
 species (Hibbett and Thorne, 2001).
-![ ](Hymenochaetales/fig20_toothed_hymenophore_Hydnochaete1.jpg))
+![ ](Hymenochaetales/fig20_toothed_hymenophore_Hydnochaete1.jpg) 
 ![ ](Hymenochaetales/RickenellaSwartzii1.jpg))
 
 Clockwise from top left: Figure 13: Smooth hymenophore of Hymenochaete
@@ -376,7 +376,7 @@ Biotechnology Adv. 22(1-2):161-187.
 
 ## Title Illustrations
 
-![](Hymenochaetales/Aurificaria_luteoumbrina.jpg))
+![](Hymenochaetales/Aurificaria_luteoumbrina.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Aurificaria luteoumbrina (Romell) D.A. Reid

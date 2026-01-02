@@ -61,7 +61,7 @@ title: Neotragus
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg))
+![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg) 
 Scientific Name ::     Neotragus moschatus
 Location ::           Mt Kenya Safari Club, Kenya
 Comments             Captive, probably from Mt Kenya population.

@@ -22,7 +22,7 @@ UMLS_CUI: C0596222
 
 # [[Branchiopoda]] 
 
-![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
+![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Branchiopoda,188360|WD~Branchiopoda,188360]] 
 
@@ -63,7 +63,7 @@ UMLS_CUI: C0596222
 ## Title Illustrations
 
 --------------------- 
-![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg))
+![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 
 Scientific Name ::     Lepidurus packardi
 Location ::           Shasta County, California, USA
 Comments             Tadpole shrimp

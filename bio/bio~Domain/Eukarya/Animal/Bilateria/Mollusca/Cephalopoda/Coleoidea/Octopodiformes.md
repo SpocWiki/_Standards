@@ -96,7 +96,7 @@ latter is a phylogenetic relict.
     5.  Nephridial coeloms separate.
 
 ### Origin of the Octopoda
-![ ](Octopodiformes/Settlement2.JPG))
+![ ](Octopodiformes/Settlement2.JPG) 
 
 Drawing modified from Young, Vecchione and Donovan, 1999.
 
@@ -176,7 +176,7 @@ Size              25 cm total length
 Copyright ::         © 1999 Brad Seibel
 
 ------------- 
-![](Octopodiformes/Ocyanea.jpg))
+![](Octopodiformes/Ocyanea.jpg) 
 Scientific Name ::  Octopus cyanea
 Location ::        Great Barrier Reef, Australia
 Copyright ::         © 1999 Mark Norman

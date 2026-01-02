@@ -58,7 +58,7 @@ Tropical forests of central Africa, India, and south-eastern Asia.
 ## Title Illustrations
 
 --------------------------------------- 
-![](Tragulidae/tragulus-copy.jpg))
+![](Tragulidae/tragulus-copy.jpg) 
 Scientific Name ::  Tragulus napu
 Reference         Miller, G. S. 1909. The mouse deer of the Rhio-Linga Archipelago. Proceedings of the US National Museum 37:1-9.
 

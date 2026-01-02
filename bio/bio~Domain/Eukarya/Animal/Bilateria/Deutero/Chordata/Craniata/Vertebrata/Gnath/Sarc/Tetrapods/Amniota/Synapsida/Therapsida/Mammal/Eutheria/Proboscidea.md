@@ -119,7 +119,7 @@ taxon_common_name:
 
 ## Title Illustrations
 
-![](Proboscidea/Mastodon_americanus.jpg))
+![](Proboscidea/Mastodon_americanus.jpg) 
 
 -----------------------------
 Scientific Name ::     Mastodon americanus
@@ -128,7 +128,7 @@ Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable
 Specimen Condition   Fossil
 Body Part            skeleton
 -----------------------------
-![](Proboscidea/13040elephant1.jpg))
+![](Proboscidea/13040elephant1.jpg) 
 
 ----------------------------------------------------------------------------
 Scientific Name ::  Loxodonta africana

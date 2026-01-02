@@ -38,7 +38,7 @@ areas and on whale carcasses; eight species, some of which can appear in
 huge abundances, have been described from these habitats to date. Based
 on the few taxa that have been studied, it would appear that hesionids
 are active predators (see Pleijel, 2001 for references).
-![Gyptis](Hesionidae/Gyptis_sp_4.jpg))
+![Gyptis](Hesionidae/Gyptis_sp_4.jpg) 
 
 Figure 3. *Gyptis* sp., from shallow waters of South Australia.
 Copyright © 2004 Greg W. Rouse.
@@ -51,7 +51,7 @@ neurochaetae on segment 1-4 (Fig. 4; Pleijel, 1998). Although several of
 these features are reversed within the group, enlarged ventral cirri
 with well developed cirrophores on segment 1-3 are present in all
 hesionids and not outside this group.
-![ ](Hesionidae/Gyptis_sp_2.jpg))
+![ ](Hesionidae/Gyptis_sp_2.jpg) 
 
 Figure 4. *Gyptis* sp. from South Australia. Top, anterior end in
 dorso-lateral view. Arrows indicate paired antennae (PA), median antenna
@@ -71,7 +71,7 @@ papillae (Fig. 5 right). A well-developed pair of lateral jaws occur in
 *Nereimyra*, *Bonuania* and *Syllidia* (Fig. 5 left) only (homologous
 with jaws in other Phyllodocida such as Nereididae and Chrysopetalidae),
 although several other taxa have a dorsal and/or a ventral tooth.
-![ ](Hesionidae/Gyptis_sp_3.jpg))
+![ ](Hesionidae/Gyptis_sp_3.jpg) 
 
 Figure 5. Left, jaws of *Syllidia armata*, Sweden. Right, *Gyptis* sp.,
 South Australia, ventral view showing everted proboscis with a terminal
@@ -88,7 +88,7 @@ absent, but have been reported for two members, *Sinohesione* and
 *capricornia* (see Westheide et al., 1994 and Pleijel and Rouse, 2000a,
 respectively). Most hesionids have separate sexes, although at least
 some members of *Hesione* are hermaphrodites.
-![Ophiodromus flexuosus](Hesionidae/Ophiodromus_flexuosus_21.jpg))
+![Ophiodromus flexuosus](Hesionidae/Ophiodromus_flexuosus_21.jpg) 
 
 Figure 6. *Hesiospina aurantiaca*, Papua New Guinea, anterior end in
 dorsal view, and *Ophiodromus flexuosus*, southern France, anterior end,
@@ -198,14 +198,14 @@ further discussed on that page.
 
 
 ------------ 
-![Amphiduros fuscescens](Hesionidae/Amphiduros_fuscescens.jpg))
+![Amphiduros fuscescens](Hesionidae/Amphiduros_fuscescens.jpg) 
 Scientific Name ::     Amphiduros fuscescens
 Location ::           Canary Islands
 Specimen Condition   Live Specimen
 Copyright ::            © 2001 Leopoldo Moro
 
 ------------------------------------------------------------------------ 
-![](Hesionidae/Ophiodromus_flexuosus.jpg))
+![](Hesionidae/Ophiodromus_flexuosus.jpg) 
 Scientific Name ::  Ophiodromus flexuosus
 Location ::        southern France
 Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 

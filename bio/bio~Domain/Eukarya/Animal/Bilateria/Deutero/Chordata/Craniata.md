@@ -438,7 +438,7 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
 
 ## Title Illustrations
 
-![](Craniata/skull.gif))
+![](Craniata/skull.gif) 
 
   ---------------
   Scientific Name ::   Homo sapiens

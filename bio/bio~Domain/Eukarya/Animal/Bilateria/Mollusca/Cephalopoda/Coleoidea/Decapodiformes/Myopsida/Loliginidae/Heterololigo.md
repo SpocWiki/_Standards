@@ -37,7 +37,7 @@ title: Heterololigo bleekeri
 # *Heterololigo bleekeri* [(Keferstein, 1866)] 
 
 [Michael Vecchione]()
-![ ](Heterololigo/HBleekeri2.jpg))
+![ ](Heterololigo/HBleekeri2.jpg) 
 
 A single species is present in ***Heterololigo***.
 
@@ -108,7 +108,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Heterololigo/HBleekeri2.jpg))
+![](Heterololigo/HBleekeri2.jpg) 
 
   ------------------------------------------------------------------
   Scientific Name ::   Heterololigo bleekeri

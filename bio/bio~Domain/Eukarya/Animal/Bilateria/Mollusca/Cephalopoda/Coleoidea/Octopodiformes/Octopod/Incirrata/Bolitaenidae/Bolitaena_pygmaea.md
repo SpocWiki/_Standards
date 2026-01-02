@@ -154,13 +154,13 @@ Nesis, 1982).
 
 
 ------------------------------------------------------------------------------- 
-![](Bolitaena_pygmaea/Eledonella.jpg))
+![](Bolitaena_pygmaea/Eledonella.jpg) 
 Scientific Name ::  Bolitaena pygmaea
 Location ::        off Hawaii
 Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 ------------ 
-![](Bolitaena_pygmaea/eledonellaFem.jpg))
+![](Bolitaena_pygmaea/eledonellaFem.jpg) 
 Scientific Name ::  Bolitaena pygmaea
 Reference         modified from Chun, 1910
 

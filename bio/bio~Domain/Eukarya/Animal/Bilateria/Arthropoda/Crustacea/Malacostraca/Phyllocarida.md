@@ -9,7 +9,7 @@ title: Leptostraca
 ## [[Phyllocarida]] 
 
 Leptostraca or Sea fleas 
-![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif))
+![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif) 
 
 ## #has_/text_of_/abstract 
 
@@ -85,7 +85,7 @@ Leptostraca or Sea fleas
 
 Nebalia bipes.
 Drawing from R. La Follette. 1914. A Nebalia from Laguna Beach. Journal of Entomology and Zoology 6:204-208.
-![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif))
+![Nebalia_bipes](Phyllocarida/Nebalia_bipes.gif) 
 
 
 ## Confidential Links & Embeds: 

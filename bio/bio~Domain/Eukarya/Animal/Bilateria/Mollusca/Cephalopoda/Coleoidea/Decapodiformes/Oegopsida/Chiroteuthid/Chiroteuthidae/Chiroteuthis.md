@@ -172,7 +172,7 @@ possess a distal, expanded, paralarval club and a proximal presumptive
 (developing) adult club. The latter   has four series of very small
 suckers which are more regularly arranged and extensive than in
 paralarvae of the other genera except New Genus B.
-![ ](Chiroteuthis/doratopsisTentacle.jpg))
+![ ](Chiroteuthis/doratopsisTentacle.jpg) 
 
 **Figure**. Oral view of a tentacle from an unidentified 28 mm ML
 doratopsis. The paralarval club has large suckers and a keel (but
@@ -184,7 +184,7 @@ All members of the family lack hectocotylized arms. Species of
 ***Chiroteuthis**,* at least, have an elongate penis that can extend
 beyond the mantle opening and probably compensates for the absence of a
 hectocotylus.
-![ ](Chiroteuthis/ChiroBpenisJPG.txt))
+![ ](Chiroteuthis/ChiroBpenisJPG.txt) 
 
 **Figure**. Ventral view of the viscera of a mature male
 ***Chiroteuthis*** sp. with the long, slender penis extending to the
@@ -244,7 +244,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](Chiroteuthis/ChiroAllPhoto.jpg))
+![](Chiroteuthis/ChiroAllPhoto.jpg) 
 
   -------------------------------------------------------------------------------
   Scientific Name ::  Chiroteuthis sp. B2

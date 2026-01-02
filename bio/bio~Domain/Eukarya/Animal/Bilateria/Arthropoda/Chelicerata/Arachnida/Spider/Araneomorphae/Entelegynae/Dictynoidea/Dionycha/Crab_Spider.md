@@ -221,7 +221,7 @@ title: Thomisidae
 
 ## Title Illustrations
 
-![](Crab_Spider/Xisticus_bifasciatus_2-8001.jpg))
+![](Crab_Spider/Xisticus_bifasciatus_2-8001.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Arachnida:Spider:Thomisidae: Xisticus bifasciatus
@@ -231,7 +231,7 @@ title: Thomisidae
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
-![Crab spider eating fly, Arizona](Crab_Spider/whitecrabspider.jpg))
+![Crab spider eating fly, Arizona](Crab_Spider/whitecrabspider.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::     Thomisidae

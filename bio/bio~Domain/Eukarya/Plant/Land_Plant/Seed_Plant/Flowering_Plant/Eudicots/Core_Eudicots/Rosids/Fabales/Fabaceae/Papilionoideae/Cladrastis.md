@@ -129,21 +129,21 @@ a close phylogenetic relationship between these three genera.
 ## Title Illustrations
 
 ----------------------- 
-![Cladrastis kentukea](Cladrastis/Cladrastis_kentukea.jpg))
+![Cladrastis kentukea](Cladrastis/Cladrastis_kentukea.jpg) 
 Scientific Name ::     Cladrastis kentukea (Dum.-Cours.) Rudd
 Location ::           Ithaca, NY, Cornell University Plantations
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Kevin C. Nixon](http://www.plantsystematics.org/)
 
 ------------------------ 
-![Styphnolobium japonicum](Cladrastis/Styphnolobium_japonicum.jpg))
+![Styphnolobium japonicum](Cladrastis/Styphnolobium_japonicum.jpg) 
 Scientific Name ::     Styphnolobium japonicum (L.) Schott
 Comments             Commonly called Japanese Pagodatree or Scholar-tree.
 Specimen Condition   Live Specimen
 Copyright ::            © [Mark Brand](http://www.hort.uconn.edu/plants/index.html)
 
 ------------------------ 
-![Pickeringia montana](Cladrastis/Pickeringia_montana.jpg))
+![Pickeringia montana](Cladrastis/Pickeringia_montana.jpg) 
 Scientific Name ::     Pickeringia montana var. tomentosa
 Comments             Commonly called Chaparral Pea.
 Specimen Condition   Live Specimen

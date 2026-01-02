@@ -9,7 +9,7 @@ title: Nautilidae
 # Nautilidae [Blainville 1825]
 
 Pearly nautiluses 
-![ ](Nautiloidea/NautilusFront.JPG))![ ](Nautiloidea/NautilusInSitu.JPG))
+![ ](Nautiloidea/NautilusFront.JPG))![ ](Nautiloidea/NautilusInSitu.JPG) 
 
 Only these few living species represent this once abundant subclass.
 
@@ -67,7 +67,7 @@ current status, type repository and type locality of all species and all
 pertinent references.
 
 ### Life History
-![ ](Nautiloidea/NautilusEmbryo.jpg))
+![ ](Nautiloidea/NautilusEmbryo.jpg) 
 
 **Figure**. Embryo of ***Nautilus*** sp. removed from the egg case.
 Photograph by J. Arnold.\
@@ -98,7 +98,7 @@ Photograph by J. Arnold.\
 
 
 ------------------------------------------------------------------------- 
-![](Nautiloidea/NautilusFront.JPG))
+![](Nautiloidea/NautilusFront.JPG) 
 Scientific Name ::     Nautilus
 Location ::           Photographed at the U.S. National Zoo in Washington, D.C.
 Specimen Condition   Live Specimen
@@ -106,7 +106,7 @@ View                 frontal
 Copyright ::            © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
 --------------------------------------------------------------------------- 
-![](Nautiloidea/NautilusInSitu.JPG))
+![](Nautiloidea/NautilusInSitu.JPG) 
 Scientific Name ::     Nautilus pompilius
 Location ::           Osprey Reef, Coral Sea
 Specimen Condition   Live Specimen

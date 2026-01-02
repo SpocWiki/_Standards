@@ -25,14 +25,14 @@ title: Tuberculina sbrozzii
 
 # *Tuberculina sbrozzii* [Cavara & Sacc.] 
 
-![ ](Tuberculina_sbrozzii/Tsb1718.jpg)![ ](Tuberculina_sbrozzii/ts1.jpg))
+![ ](Tuberculina_sbrozzii/Tsb1718.jpg)![ ](Tuberculina_sbrozzii/ts1.jpg) 
 ![ ](Tuberculina_sbrozzii/Ts2.jpg)
 
 Containing group:[Helicobasidiales](../Helicobasidiales.md) 
 
 ## Title Illustrations
 
-![](Tuberculina_sbrozzii/Tsb1718.jpg))
+![](Tuberculina_sbrozzii/Tsb1718.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
@@ -44,7 +44,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_sbrozzii/ts1.jpg))
+![](Tuberculina_sbrozzii/ts1.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
@@ -56,7 +56,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Tuberculina_sbrozzii/Ts2.jpg))
+![](Tuberculina_sbrozzii/Ts2.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.

@@ -33,7 +33,7 @@ title: Planctoteuthis lippula
 
 [Richard E. Young and Clyde F. E. Roper]()
 
-![ ](lippula/PlanctoteuthisHaw1.jpg)![ ](lippula/P.jpg))
+![ ](lippula/PlanctoteuthisHaw1.jpg)![ ](lippula/P.jpg) 
 
 Containing group: [Planctoteuthis](../Planctoteuthis.md))*
 
@@ -176,7 +176,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
 
 ## Title Illustrations
 
-![](lippula/PlanctoteuthisHaw1.jpg))
+![](lippula/PlanctoteuthisHaw1.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Planctoteuthis lippula
@@ -187,7 +187,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
-![](levimana/P.jpg))
+![](levimana/P.jpg) 
 
   ------------
   Scientific Name ::     Planctoteuthis lippula

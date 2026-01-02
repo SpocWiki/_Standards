@@ -59,7 +59,7 @@ title: Asterids
 
 
 ------------------------------------------------------------------------ 
-![European ash, Fraxinus excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg))
+![European ash, Fraxinus excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg) 
 Scientific Name ::   Fraxinus excelsior
 Location ::         Allschwil, Basel, Switzerland.
 Comments           European ash (Lamiales, Oleaceae)
@@ -67,13 +67,13 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
-![Bell heather, Erica cinera](Asterids/Erica_cinera.jpg))
+![Bell heather, Erica cinera](Asterids/Erica_cinera.jpg) 
 Scientific Name ::  Erica cinera
 Comments          Bell heather (Ericales, Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------- 
-![Lactuca](Asterids/Lactuca.jpg))
+![Lactuca](Asterids/Lactuca.jpg) 
 Scientific Name ::     Lactuca
 Location ::           Vladivostok city, Primorsky Territory (Russian Federation)
 Comments             Asterales, Asteraceae

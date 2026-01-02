@@ -154,7 +154,7 @@ Neptune City, NJ, 351pp.
   Creator           E. McSweeny
   Copyright ::         © 1996 E. McSweeny
   ---------
-![](murrayi/CirrothaumaMurDraw.jpg))
+![](murrayi/CirrothaumaMurDraw.jpg) 
 
   ---------------------------------------------
   Scientific Name ::  Cirrothauma murrayi
@@ -164,7 +164,7 @@ Neptune City, NJ, 351pp.
   Size              155 mm ML
   Copyright ::         © 1983 R.G. Aldred et al.
   ---------------------------------------------
-![](murrayi/CirrothaumaMurDraw2.jpg))
+![](murrayi/CirrothaumaMurDraw2.jpg) 
 
   ---------------------------------------------------
   Scientific Name ::  Cirrothauma murrayi

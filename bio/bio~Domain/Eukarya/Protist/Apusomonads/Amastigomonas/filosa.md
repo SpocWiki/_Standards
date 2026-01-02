@@ -43,7 +43,7 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
 
 ## Title Illustrations
 
-![](filosa/famastigof.jpg))
+![](filosa/famastigof.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas filosa
@@ -51,7 +51,7 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
-![](filosa/pamastigof.jpg))
+![](filosa/pamastigof.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas filosa

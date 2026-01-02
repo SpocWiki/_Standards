@@ -100,7 +100,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Title Illustrations
 
-![](Apusomonads/pamasdeb.jpg))
+![](Apusomonads/pamasdeb.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Amastigomonas debruynei
@@ -108,7 +108,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
-![](Apusomonads/papuprob.jpg))
+![](Apusomonads/papuprob.jpg) 
 
   ------------
   Scientific Name ::  Apusomonas proboscidea

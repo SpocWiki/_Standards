@@ -123,7 +123,7 @@ Beaufortia, 47: 91-108.
 
 ## Title Illustrations
 
-![](tyroi/MastTyroiDraw.jpg))
+![](tyroi/MastTyroiDraw.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::   Mastigoteuthis tyroi

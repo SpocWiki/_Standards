@@ -31,7 +31,7 @@ title: Promachoteuthis megaptera
 # *Promachoteuthis megaptera* [Hoyle 1885] 
 
 [Richard E. Young and Michael Vecchione](http://www.tolweb.org/)
-![ ](megaptera/PromachOkutani.jpg))
+![ ](megaptera/PromachOkutani.jpg) 
 ![ ](megaptera/PromachMegaptHolo.jpg)
 
 Containing group:[Promachoteuthidae](../Promachoteuthidae.md) 
@@ -117,7 +117,7 @@ Ser., 11: 203-214.
   Life Cycle Stage ::   Immature
   Size               52 mm ML
   --------------------------------------------------------------
-![](megaptera/PromachMegaptHolo.jpg))
+![](megaptera/PromachMegaptHolo.jpg) 
 
   --------------------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis megaptera

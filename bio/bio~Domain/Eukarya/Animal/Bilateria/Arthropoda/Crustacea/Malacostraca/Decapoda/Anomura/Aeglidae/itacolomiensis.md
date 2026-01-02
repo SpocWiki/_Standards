@@ -6,7 +6,7 @@ title: Aegla itacolomiensis
 
 # *Aegla itacolomiensis* 
 
-![ ](itacolomiensis/itacolomiensis1.jpg))
+![ ](itacolomiensis/itacolomiensis1.jpg) 
 
 Containing group:[Aeglidae](../Aeglidae.md) 
 
@@ -29,7 +29,7 @@ Arroio Demetrio, Fazenda Fialho, Taquara, Rio Grando do Sul, Brazil.
 ### Distribution
 
 Eastern Rio Grande do Sul, Brazil.
-![ ](itacolomiensis/_itacolomiensis1.jpg))
+![ ](itacolomiensis/_itacolomiensis1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
@@ -114,7 +114,7 @@ Eastern Rio Grande do Sul, Brazil.
 
 
 ----------------- 
-![](itacolomiensis/itacolomiensis1.jpg))
+![](itacolomiensis/itacolomiensis1.jpg) 
 Scientific Name ::  Aegla itacolomiensis
 Creator           Ana Rossi
 Sex ::             Male

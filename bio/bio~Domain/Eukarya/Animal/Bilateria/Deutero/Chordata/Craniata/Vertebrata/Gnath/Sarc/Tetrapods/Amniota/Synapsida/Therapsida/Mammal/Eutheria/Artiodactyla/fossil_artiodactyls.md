@@ -61,7 +61,7 @@ Containing group:[Artiodactyla](../Artiodactyla.md)
 
 ## Title Illustrations
 
-![Anoplotherium_commune](fossil_artiodactyls/Anoplotherium_commune.jpg))
+![Anoplotherium_commune](fossil_artiodactyls/Anoplotherium_commune.jpg) 
 
 ----------------------------------
 Scientific Name ::     Anoplotherium commune

@@ -368,7 +368,7 @@ of the Bolitoglossinae and another containing members of the Spelerpinae
 ## Title Illustrations
 
 -------------- 
-![](Plethodontinae/plethodonwebsteri.jpg))
+![](Plethodontinae/plethodonwebsteri.jpg) 
 Scientific Name ::     Plethodon websteri
 Location ::           southeastern United States
 Specimen Condition   Live Specimen

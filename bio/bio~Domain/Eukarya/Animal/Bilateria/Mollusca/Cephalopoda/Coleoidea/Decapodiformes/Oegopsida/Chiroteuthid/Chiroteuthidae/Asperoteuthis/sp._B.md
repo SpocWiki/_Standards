@@ -109,7 +109,7 @@ Neptune City, NJ, 351pp.
 
 ## Title Illustrations
 
-![](sp._B/ClarkeAspero1.jpg))
+![](sp._B/ClarkeAspero1.jpg) 
 
   ---------------------------------------------------------
   Scientific Name ::  Asperoteuthis sp. B

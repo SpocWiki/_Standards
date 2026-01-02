@@ -234,7 +234,7 @@ African Jour. Mar. Sci.., 20: 393-420.
 
 ## Title Illustrations
 
-![](Grimpoteuthis/NewGrimpo.JPG))
+![](Grimpoteuthis/NewGrimpo.JPG) 
 
   ---------
   Scientific Name ::  Grimpoteuthis sp.
@@ -242,7 +242,7 @@ African Jour. Mar. Sci.., 20: 393-420.
   Creator           E. McSweeny
   Copyright ::         © E. McSweeny
   ---------
-![](Grimpoteuthis/GimpoteuthisMarEco.jpg))
+![](Grimpoteuthis/GimpoteuthisMarEco.jpg) 
 
   -------------------
   Scientific Name ::     Grimpoteuthis sp.

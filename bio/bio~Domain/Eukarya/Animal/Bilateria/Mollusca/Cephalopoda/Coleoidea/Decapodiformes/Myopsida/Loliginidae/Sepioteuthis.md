@@ -37,7 +37,7 @@ title: Sepioteuthis
 ## Reef squids 
 
 [Michael Vecchione]()
-![ ](Sepioteuthis/SepioteuthisRH.jpg))
+![ ](Sepioteuthis/SepioteuthisRH.jpg) 
 
 Three nominal species are present in ***Sepioteuthis***.
 
@@ -132,7 +132,7 @@ Contr. Zool., 586
 
 ## Title Illustrations
 
-![](Sepioteuthis/SepioteuthisRH.jpg))
+![](Sepioteuthis/SepioteuthisRH.jpg) 
 
   ------------
   Scientific Name ::     Sepioteuthis sepioidea

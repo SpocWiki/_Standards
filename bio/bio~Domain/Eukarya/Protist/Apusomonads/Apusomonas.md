@@ -96,7 +96,7 @@ Soil. Archiv für Protistenkunde 116:254-269.
 
 ## Title Illustrations
 
-![](Apusomonas/papusprobs.jpg))
+![](Apusomonas/papusprobs.jpg) 
 
   --------------------
   Scientific Name ::     Apusomonas proboscidea, Apusomonas australiensis

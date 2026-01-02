@@ -22,7 +22,7 @@ title: Gelidiales
 
 [D. Wilson Freshwater]()
 
-![Gelidiella acerosa](Gelidiales/gacer.jpg)![](Gelidiales/grancanar.jpg))
+![Gelidiella acerosa](Gelidiales/gacer.jpg)![](Gelidiales/grancanar.jpg) 
 
 Tree based on Freshwater et al. 1995, Freshwater and Bailey 1998,
 Shimada et al. 1999, Rico et al. 2002, and Freshwater unpublished. Clade
@@ -164,7 +164,7 @@ press).
 
 ## Title Illustrations
 
-![Gelidiella acerosa](Gelidiales/gacer.jpg))
+![Gelidiella acerosa](Gelidiales/gacer.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::  Gelidiella acerosa
@@ -173,7 +173,7 @@ press).
   Copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
  
   ---------------------------------------------------------------------------
-![Gelidium arbuscula](Gelidiales/grancanar.jpg))
+![Gelidium arbuscula](Gelidiales/grancanar.jpg) 
 
   ---------------------------------------------------------------------------
   Scientific Name ::   Gelidium arbuscula

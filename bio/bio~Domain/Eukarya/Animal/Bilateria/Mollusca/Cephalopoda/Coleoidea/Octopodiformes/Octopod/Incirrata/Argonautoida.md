@@ -113,7 +113,7 @@ anatomical characters. J. Moll. Stud. 63: 311-325.
 
 ## Title Illustrations
 
-![](Argonautoida/ArgonautoidFams.jpg))
+![](Argonautoida/ArgonautoidFams.jpg) 
 
   ---------------------------------------
   Scientific Name ::   Argonauta nodosa, Haliphron atlanticus, Ocythoe tuberculata, Tremoctopus violaceus

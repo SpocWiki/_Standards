@@ -78,7 +78,7 @@ genus as distinct from *Stenandriopsis* may be unwarranted.
 
 
 --------------------------------------------------------------------------- 
-![Achyrocalyx](Stenandriopsis/Achyrocalyx.jpg))
+![Achyrocalyx](Stenandriopsis/Achyrocalyx.jpg) 
 Scientific Name ::     Achyrocalyx gossypinus Benoist
 Location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris
@@ -87,7 +87,7 @@ Collector            Perrier de la Bathie
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
+![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg) 
 Scientific Name ::     Achyrocalyx pungens Benoist
 Location ::           Madagascar
 Specimen Condition   Dead Specimen
@@ -101,7 +101,7 @@ Identified By        K. Vollesen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg))
+![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg) 
 Scientific Name ::     Achyrocalyx pungens Benoist
 Location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris

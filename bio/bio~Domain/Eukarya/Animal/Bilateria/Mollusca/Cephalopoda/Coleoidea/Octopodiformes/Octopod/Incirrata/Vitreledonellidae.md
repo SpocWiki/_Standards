@@ -167,7 +167,7 @@ tropical and subtropical regions of the world\'s oceans (Nesis, 1982).
 ## Title Illustrations
 
 ------------------------------------------------------------------------------- 
-![](Vitreledonellidae/Vitreledonella.JPG))
+![](Vitreledonellidae/Vitreledonella.JPG) 
 Scientific Name ::  Vitreledonellidae
 Location ::        off Hawaii
 Sex ::             Male

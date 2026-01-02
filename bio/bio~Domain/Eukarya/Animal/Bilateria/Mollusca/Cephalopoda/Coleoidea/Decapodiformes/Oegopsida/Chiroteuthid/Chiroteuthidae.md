@@ -94,7 +94,7 @@ The presence of a doratopsis paralarva is the only character that is
 unique to the family. Additional features of the family include an
 indistinct eyelid sinus, absence of occipital folds, olfactory organs on
 long stalks (=slender papillae).
-![ ](Chiroteuthidae/chiroOlfPap.jpg))
+![ ](Chiroteuthidae/chiroOlfPap.jpg) 
 
 **Figure**. Medial view of the olfactory organ of ***Chiroteuthis*** sp.
 from Hawaiian waters. Photograph by R. Young.
@@ -154,7 +154,7 @@ four series throughout its length. In ***Asperoteuthis*** spp. the
 proximal half of the club is bare and the distal half has suckers in
 four series. In ***Grimalditeuthis*** the entire oral surface of the
 club lacks suckers.
-![ ](Chiroteuthidae/chiro-clubs.jpg))
+![ ](Chiroteuthidae/chiro-clubs.jpg) 
 
 **Figure**. Oral views of the clubs of ***Chiroteuthis joubini***
 (left), ***Asperoteuthis acanthoderma*** (middle) and ***Grimalditeuthis
@@ -169,7 +169,7 @@ from the appearance, then disappearance, of suckers on the tentacular
 stalks of the paralarva which typically form the secondary club (see
 Young, 1991). The closest relative to ***Planktoteuthis*** among the
 other genera is unknown.
-![ ](Chiroteuthidae/PlanctoSpAParalClub.jpg))
+![ ](Chiroteuthidae/PlanctoSpAParalClub.jpg) 
 
 **Figure**. Oral view of the doratopsid club of **Planctoteuthis** sp.
 A. Drawing from Young (1991).
@@ -194,7 +194,7 @@ flaps and/or oval bulbs. The latter contain anastomosing canals filled
 with fluid that is lighter than seawater (Hunt, 1996). The overall
 appearance in some cases is reminescent of a siphonophore (Vecchione, et
 al., 1992)
-![ ](Chiroteuthidae/CHIROTAILS.JPG))
+![ ](Chiroteuthidae/CHIROTAILS.JPG) 
 
 **Figure**. Still frames from a videotape of a doratopsis (left) of
 **Chiroteuthis calyx** and the siphonophore **Nanomia bijuga** (right)
@@ -259,7 +259,7 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Title Illustrations
 
-![](Chiroteuthidae/Chiro.jpg))
+![](Chiroteuthidae/Chiro.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis veranyi

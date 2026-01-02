@@ -169,7 +169,7 @@ View                 Lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------- 
-![American bison](Artiodactyla/Bison8B0C52EC0479.jpg))
+![American bison](Artiodactyla/Bison8B0C52EC0479.jpg) 
 Scientific Name ::     Bison bison
 Comments             American bison
 Creator              Steve Maslowski

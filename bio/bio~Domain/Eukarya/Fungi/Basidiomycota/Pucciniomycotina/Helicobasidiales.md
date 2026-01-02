@@ -31,7 +31,7 @@ title: Helicobasidiales
 ## Helicobasidium, Thanatophytum, Tuberculina 
 
 [Matthias Lutz and Robert Bauer](http://www.tolweb.org/)
-![ ](Helicobasidiales/HpMLutz.jpg))![ ](Helicobasidiales/rr.jpg))![ ](Helicobasidiales/tpp.jpg))
+![ ](Helicobasidiales/HpMLutz.jpg))![ ](Helicobasidiales/rr.jpg))![ ](Helicobasidiales/tpp.jpg) 
 
 This tree represents a consensus among several phylogenetic analyses of
 ribosomal DNA sequences (Lutz et al. 2004a, b, Uetake et al. 2002).\
@@ -75,7 +75,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidiales/rr.jpg))
+![](Helicobasidiales/rr.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
@@ -88,7 +88,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
-![](Helicobasidiales/tpp.jpg))
+![](Helicobasidiales/tpp.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Tranzschelia pruni-spinosae (Pers.) Dietel/Anemone ranunculoides L.

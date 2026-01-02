@@ -41,7 +41,7 @@ Mexico. The Parastacidae are distributed in Australia, New Zealand,
 South America, and Madagascar.
 
 ------------------------
-![ ](Astacidea/world_dist.gif))
+![ ](Astacidea/world_dist.gif) 
 
 Figure 1. World distributions of the three crayfish families.
 

@@ -98,7 +98,7 @@ taxon_common_name: 十字花目
 
 ## Title Illustrations
 
-![Coast wallflower, Erysimum ammophilum](Brassicales/Erysimum_ammophilum.jpg))
+![Coast wallflower, Erysimum ammophilum](Brassicales/Erysimum_ammophilum.jpg) 
 
   -------------------------------
   Scientific Name ::     Erysimum ammophilum
@@ -108,7 +108,7 @@ taxon_common_name: 十字花目
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
   -------------------------------
-![Indian cress, Tropaeolum minus](Brassicales/Tropaeolum_minus05199.jpg))
+![Indian cress, Tropaeolum minus](Brassicales/Tropaeolum_minus05199.jpg) 
 
   ---------------------------------------------------------------------
   Scientific Name ::  Tropaeolum minus
@@ -116,7 +116,7 @@ taxon_common_name: 十字花目
   Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
  
   ---------------------------------------------------------------------
-![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg))
+![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg) 
 
   ------------------------------------------------------------------------
   Scientific Name ::   Carica papaya

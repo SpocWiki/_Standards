@@ -119,7 +119,7 @@ in a vertical orientation can be seen the the photographs below. Squid
 were photographed in a shipboard aquarium with vertical lines placed on
 the back of the tank. Note the vertical orientation of the visceral
 nucleus of this squid when its body is in two different postures.
-![ ](Cranchiidae/LeachiaTilt.jpg))
+![ ](Cranchiidae/LeachiaTilt.jpg) 
 
 **Figure**. Side views of ***Leachia pacifica*** in different attitudes.
 Photographs by R. Young.
@@ -167,7 +167,7 @@ Voss N. A., S. J. Stephen and Zh. Dong 1992. Family Cranchiidae Prosch,
 
 ## Title Illustrations
 
-![](Cranchiidae/Mfisheri.jpg))
+![](Cranchiidae/Mfisheri.jpg) 
 
   ------------
   Scientific Name ::   Megalocranchia fisheri

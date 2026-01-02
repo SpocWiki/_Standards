@@ -49,19 +49,19 @@ share a majority of the following characteristics:
 -   cells with multiple nuclei and plastids (Figure 2)
 -   life histories that are some variation of a triphasic alternation of
     generations (Figure 3)
-![](Florideophyceae/florchar1.jpg))
+![](Florideophyceae/florchar1.jpg) 
 
 Figure 1. Electron micrograph of a Cumagloia andersonii (Nemaliales) pit
 plug. The pit plug occupies an aperture in the cell wall (W) and
 consists of a plug core (Co), flanked on either end by a thin inner cap
 layer (IC), and a plate-like outer cap layer (OC).\
 Image copyright © 2000, C.M. Pueschel.
-![](Florideophyceae/florchar2.jpg))
+![](Florideophyceae/florchar2.jpg) 
 
 Figure 2. DAPI stained cell of Agardhiella subulata showing multiple
 brightly fluorescing nuclei.\
 Image copyright © 2000, D.F. Kapraun.
-![Diagram of triphasic life history](Florideophyceae/lifehis.gif))
+![Diagram of triphasic life history](Florideophyceae/lifehis.gif) 
 
 Figure 3. Diagram of triphasic life history. Haploid (1N) male
 gametophytes produce spermatia that are released, while haploid female

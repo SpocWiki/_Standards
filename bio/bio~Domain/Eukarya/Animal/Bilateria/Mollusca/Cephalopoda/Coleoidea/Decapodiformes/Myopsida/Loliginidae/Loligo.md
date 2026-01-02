@@ -37,7 +37,7 @@ title: Loligo
 ## Inshore squid 
 
 [Michael Vecchione]()
-![ ](Loligo/LReynaudiiRH.jpg))
+![ ](Loligo/LReynaudiiRH.jpg) 
 
 The following three species are present in the genus.
 
@@ -202,7 +202,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Loligo/LReynaudiiRH.jpg))
+![](Loligo/LReynaudiiRH.jpg) 
 
   -----------------
   Scientific Name ::     Loligo reynaudii

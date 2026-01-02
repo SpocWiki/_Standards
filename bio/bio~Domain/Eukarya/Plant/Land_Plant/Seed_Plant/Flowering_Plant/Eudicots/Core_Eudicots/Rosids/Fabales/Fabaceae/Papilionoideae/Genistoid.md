@@ -133,17 +133,17 @@ synapomorphy for the Genistoid clade.
 ## Title Illustrations
 
 ---------------------------------- 
-![Lupinus texensis](Genistoid/Lupinus_texensis.jpg))
+![Lupinus texensis](Genistoid/Lupinus_texensis.jpg) 
 Scientific Name ::  Lupinus texensis Hook.
 Copyright ::         © [Bill Lindemann](http://www.depts.ttu.edu/hillcountry/research/images/LUPINUS%20TEXENSIS.JPG)
 
 --------------------------- 
-![Sophora tomentosa](Genistoid/Sophora_tomentosa.jpg))
+![Sophora tomentosa](Genistoid/Sophora_tomentosa.jpg) 
 Scientific Name ::  Sophora tomentosa L.
 Copyright ::         © [J. Paul Scurlock Collection](http://www.fairchildgarden.org/index.html)
 
 ------------------ 
-![Baptisia australis](Genistoid/Baptisia_australis.jpg))
+![Baptisia australis](Genistoid/Baptisia_australis.jpg) 
 Scientific Name ::     Baptisia australis R.Br.
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)

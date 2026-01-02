@@ -31,7 +31,7 @@ title: Bathyteuthis
 # *Bathyteuthis* [Hoyle 1885] 
 
 [Clyde F. E. Roper](http://www.tolweb.org/)
-![ ](Bathyteuthidae/Bathyteuthis.JPG))
+![ ](Bathyteuthidae/Bathyteuthis.JPG) 
 
 The family contains a single genus and the following three species:
 
@@ -208,7 +208,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 ## Title Illustrations
 
-![](Bathyteuthis.JPG))
+![](Bathyteuthis.JPG) 
 
   ----------------
   Scientific Name ::  Bathyteuthis abyssicola

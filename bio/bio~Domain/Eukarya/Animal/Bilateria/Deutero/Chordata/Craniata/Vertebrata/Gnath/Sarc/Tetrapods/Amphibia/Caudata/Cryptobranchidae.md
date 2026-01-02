@@ -200,7 +200,7 @@ grouping is somewhat tentative.
 ## Title Illustrations
 
 -------------- 
-![](Cryptobranchidae/cryptobranchus.jpg))
+![](Cryptobranchidae/cryptobranchus.jpg) 
 Scientific Name ::     Cryptobranchus alleghaniensis
 Location ::           Missouri
 Comments             The hellbender

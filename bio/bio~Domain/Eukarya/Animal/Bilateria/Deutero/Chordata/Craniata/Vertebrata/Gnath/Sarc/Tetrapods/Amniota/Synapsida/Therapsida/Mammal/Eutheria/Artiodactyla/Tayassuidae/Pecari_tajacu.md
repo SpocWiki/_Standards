@@ -8,7 +8,7 @@ title: Pecari tajacu
 # Pecari tajacu
 
 ## collared peccary, javelina 
-![ ](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
+![ ](Pecari_tajacu/121975688_cc08a08d1e_b.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -63,7 +63,7 @@ title: Pecari tajacu
 
 
 ---------------------------- 
-![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg))
+![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg) 
 Scientific Name ::                    Tayassu tajacu
 Location ::                          Living Desert State Park, New Mexico, USA
 Acknowledgements                    The copyright owner has released this image under the

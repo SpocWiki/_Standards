@@ -258,7 +258,7 @@ and reflect their unique evolutionary adaptations for diverse ecological roles a
 
 
 ------------------------------------------------------------------------------ 
-![African lion](Mammal/lion.jpg))
+![African lion](Mammal/lion.jpg) 
 Scientific Name ::     Panthera leo
 Location ::           Okavango Delta, Botswana
 Comments             African lion

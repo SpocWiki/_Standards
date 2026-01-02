@@ -169,7 +169,7 @@ Neptune City, NJ, 351pp.
 
 ## Title Illustrations
 
-![](Sepiolidae/Heteroteuthis.jpg))
+![](Sepiolidae/Heteroteuthis.jpg) 
 
   --------------------------------------------------------------------------------
   Scientific Name ::     Heteroteuthis hawaiiensis

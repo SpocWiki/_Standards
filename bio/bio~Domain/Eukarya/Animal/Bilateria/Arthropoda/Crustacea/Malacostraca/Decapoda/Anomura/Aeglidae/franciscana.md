@@ -105,7 +105,7 @@ Sao Francisco de Paula, Rio Grande do Sul, Brazil.
 
 Northeastern Rio Grande do Sul, Brazil; southeastern Santa Catarina,
 Brazil.
-![ ](franciscana/_franciscana1.jpg))
+![ ](franciscana/_franciscana1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ## Title Illustrations

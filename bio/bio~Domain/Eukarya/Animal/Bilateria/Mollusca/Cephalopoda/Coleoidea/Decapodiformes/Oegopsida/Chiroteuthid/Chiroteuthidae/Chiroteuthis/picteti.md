@@ -35,7 +35,7 @@ title: Chiroteuthis picteti
 
 [Clyde F. E. Roper and Richard E. Young]()
 
-![ ](picteti/Cpicteti1.jpg)![ ](picteti/Cpicteti.jpg))
+![ ](picteti/Cpicteti1.jpg)![ ](picteti/Cpicteti.jpg) 
 
 The holotype is deposited in the Oceanographic Museum of Monaco.
 
@@ -170,14 +170,14 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](picteti/Cpicteti1.jpg))
+![](picteti/Cpicteti1.jpg) 
 
   -----------
   Scientific Name ::   Chiroteuthis picteti
   Location ::         Hawaii
   Life Cycle Stage ::   young subadult
   -----------
-![](picteti/Cpicteti.jpg))
+![](picteti/Cpicteti.jpg) 
 
   ----------
   Scientific Name ::  Chiroteuthis picteti

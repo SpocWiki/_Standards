@@ -8,7 +8,7 @@ title: Edentata
 
 ## Anteaters, sloths, armadillos 
 
-![](Edentata/whitesloth.jpg)![Armadillo](Edentata/armadillo.jpg))![](Edentata/tamandua.jpg))
+![](Edentata/whitesloth.jpg)![Armadillo](Edentata/armadillo.jpg))![](Edentata/tamandua.jpg) 
 
 ## Phylogeny 
 
@@ -79,9 +79,9 @@ rain forest, La Selva Biological Station, Costa Rica.\
 Photograph copyright © 2000 [Greg and Mary Beth     Dimijian](http://www.dimijianimages.com/).
 
 ---------------------------------------------------------------------------- 
-![Three-toed sloth (Bradypodidae) ](Edentata/whitesloth.jpg))
+![Three-toed sloth (Bradypodidae) ](Edentata/whitesloth.jpg) 
 Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
-![Armadillo](Edentata/armadillo.jpg))
+![Armadillo](Edentata/armadillo.jpg) 
 ![Lesser anteater feeding on ants](Edentata/tamandua.jpg))
 Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 

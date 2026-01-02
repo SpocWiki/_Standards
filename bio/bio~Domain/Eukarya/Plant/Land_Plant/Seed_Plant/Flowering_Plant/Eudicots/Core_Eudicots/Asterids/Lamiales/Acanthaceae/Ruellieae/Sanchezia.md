@@ -65,7 +65,7 @@ horticultural industry.
 ## Title Illustrations
 
 --------------------- 
-![](Sanchezia/sancheziaweb.jpg))
+![](Sanchezia/sancheziaweb.jpg) 
 Scientific Name ::  Sanchezia sp. Leonard
 Copyright ::         © [Alexander Schmidt-LeBuhn](mailto:schmidtleb@yahoo.de)
 
@@ -76,7 +76,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Gerald D. Carr](http://www.botany.hawaii.edu/faculty/carr/acanth.htm)
 
 ------------------------------------------------------------------------ 
-![](Sanchezia/sanchezia.jpg))
+![](Sanchezia/sanchezia.jpg) 
 Scientific Name ::     Sanchezia parvibracteata Sprague & Hutch.
 Location ::           Limón Province, Costa Rica
 Specimen Condition   Live Specimen
@@ -93,7 +93,7 @@ Collector            L. A. McDade
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
-![](Sanchezia/san.jpg))
+![](Sanchezia/san.jpg) 
 
 Scientific Name ::     Sanchezia oblonga Ruiz & Pav.
 Location ::           Las Cruces Botanical Garden, Costa Rica, cultivated

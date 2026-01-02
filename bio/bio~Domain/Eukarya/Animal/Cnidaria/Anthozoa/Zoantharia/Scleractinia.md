@@ -107,17 +107,17 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
     collected from shallow water off Pelau. This species belongs to a
     group that consists exclusively of shallow water, zooxanthellate,
     reef corals. (Photograph copyright © D. Faulkner)
-![](Scleractinia/Tubastraea_micrantha.jpg))
+![](Scleractinia/Tubastraea_micrantha.jpg) 
 
   ------
   Copyright ::   © D. Faulkner
   ------
-![](Scleractinia/Letepsammia_formosissima.jpg))
+![](Scleractinia/Letepsammia_formosissima.jpg) 
 
   --------------------
   Copyright ::   © 1986 Gary C. Williams, California Academy of Sciences
   --------------------
-![](Scleractinia/Euphyllia_ancora.jpg))
+![](Scleractinia/Euphyllia_ancora.jpg) 
 
   ------
   Copyright ::   © D. Faulkner

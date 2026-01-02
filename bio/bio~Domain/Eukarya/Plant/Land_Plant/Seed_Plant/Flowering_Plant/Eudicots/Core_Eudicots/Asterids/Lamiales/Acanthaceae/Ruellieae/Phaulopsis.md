@@ -58,7 +58,7 @@ Some have medicinal, cultural, or nutritional uses.
 
 
 ------------------------------------------------------------------------ 
-![](Phaulopsis/Phaulopsis_barteri.jpg))
+![](Phaulopsis/Phaulopsis_barteri.jpg) 
 Scientific Name ::     Phaulopsis barteri T. Anderson
 Location ::           Ghana
 Specimen Condition   Dead Specimen
@@ -66,7 +66,7 @@ Collector            Schmidt
 Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ------------------------------------------------------------------------ 
-![](Phaulopsis/Phaulopsis_barteri_closeup.jpg))
+![](Phaulopsis/Phaulopsis_barteri_closeup.jpg) 
 Scientific Name ::     Phaulopsis barteri T. Anderson
 Location ::           Ghana
 Specimen Condition   Dead Specimen

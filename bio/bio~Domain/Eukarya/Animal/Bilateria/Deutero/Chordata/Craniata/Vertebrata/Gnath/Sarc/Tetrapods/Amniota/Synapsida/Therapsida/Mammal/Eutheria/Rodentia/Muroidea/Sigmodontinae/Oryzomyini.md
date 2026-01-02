@@ -69,7 +69,7 @@ overlap among studies, and disagreements among studies.
 
 
 ---------- 
-![](Oryzomyini/oryzomys.jpg))
+![](Oryzomyini/oryzomys.jpg) 
 Scientific Name ::     Oryzomys palustris
 Creator              R.K. LaVal
 Specimen Condition   Live Specimen

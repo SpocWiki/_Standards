@@ -195,7 +195,7 @@ Identified By        L. A. McDade
 Copyright ::            © 2006 Mark Skinner
 
 --------------------------------------------------------------------------- 
-![Thunbergia redyellow](Acanthaceae/Thunbergia_redyellow.jpg))
+![Thunbergia redyellow](Acanthaceae/Thunbergia_redyellow.jpg) 
 Scientific Name ::     Thunbergia mysorensis T.Anders. ex Bedd. (Thunbergioideae)
 Location ::           Oribi Gorge, Tourist Lodge, South Africa
 Specimen Condition   Live Specimen

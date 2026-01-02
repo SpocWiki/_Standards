@@ -83,7 +83,7 @@ the cuboid/calcaneum articulation, the entepicondylar foramen of the
 humerus is absent while the supertrochlear foramen is present, and a gap
 is present between the trochlear process and articular facet of the
 calcanuem.
-![ ](Sigmodontinae/molar.gif))
+![ ](Sigmodontinae/molar.gif) 
 
 Figure 2. Generalized diagram of a sigmodontine molar, from Reig (1986).
 
@@ -137,7 +137,7 @@ proliferation of \"unique lineages\" (Smith and Patton, 1999) on the
 tree with no tribal affiliation.
 
 ### Geographic Distribution
-![ ](Sigmodontinae/sigmo.gif))
+![ ](Sigmodontinae/sigmo.gif) 
 
 Figure 3. Although several species of sigmodontines can be found as far
 north as the central United States, the large majority of species are

@@ -7,7 +7,7 @@ title: Lepilemur
 # [[Lepilemur]]
 
 ## Lepilemuridae: Sportive Lemurs, Weasel Lemurs 
-![](Lepilemur/Lepilemur_mustelinus_dr.jpg))
+![](Lepilemur/Lepilemur_mustelinus_dr.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -59,7 +59,7 @@ title: Lepilemur
 ## Title Illustrations
 
 ------------------------------------------------ 
-![drawing of a sportive lemur](Lepilemur/Lepilemur_mustelinus_dr.jpg))
+![drawing of a sportive lemur](Lepilemur/Lepilemur_mustelinus_dr.jpg) 
   Scientific Name ::  Lepilemur mustelinus
   Location ::        Madagascar
   Reference         Pollen, F. P. L. and van Dam, D. C. 1868. Récherches sur la Faune de Madagascar et de ses Dépendances. 2me partie. J. K. Steenhoff ed. Leyden.

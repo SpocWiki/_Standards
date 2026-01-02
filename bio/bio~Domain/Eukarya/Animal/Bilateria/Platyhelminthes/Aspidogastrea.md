@@ -74,7 +74,7 @@ Shared characteristics of the group are a large ventral disc with a
 large number of small alveoli (suckerlets) (Fig. 1, see also [Structure of the juvenile and adult](http://www.tolweb.org/accessory/Juvenile_&_Adult_Aspidogastrea?acc_id=1791))
 or a row of suckers and a tegument with short protrusions, so-called
 microtubercles.
-![ ](Aspidogastrea/fig24as.gif))
+![ ](Aspidogastrea/fig24as.gif) 
 
 Figure 1. Whole mount of *Multicotyle purvisi* (redrawn from Rohde,
 1972).
@@ -83,7 +83,7 @@ Larvae have a posterior sucker and in some species a short posterior
 appendage; they either possess a number of ciliated patches, or they are
 non-ciliated (Fig.2), see [Structure of the larvae](http://www.tolweb.org/accessory/Structure_of_the_Aspidogastrea_Larva?acc_id=1792)
 page.
-![ ](Aspidogastrea/fig12as.gif))
+![ ](Aspidogastrea/fig12as.gif) 
 
 Figure 2. Larva of *Lobatostoma manteri* (redrawn from Rohde, 1973a).
 
@@ -184,7 +184,7 @@ of the trematodes, has not been resolved (see discussion in Rohde 2001).
 
 
 --------------------------------------------------------------------------- 
-![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif))
+![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif) 
 Scientific Name ::     Rugogaster hyrdolagi
 Creator              Shirley Dawson
 Specimen Condition   Dead Specimen

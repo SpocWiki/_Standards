@@ -34,13 +34,13 @@ title: Latrodectus geometricus
 # *Latrodectus geometricus* 
 
 [Jeremy Miller]()
-![ ](geometricus/dsc_0039.jpg))![ ](geometricus/dsc_0060.jpg))![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg))
+![ ](geometricus/dsc_0039.jpg))![ ](geometricus/dsc_0060.jpg))![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg) 
 
 Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Title Illustrations
 
-![](geometricus/dsc_0039.jpg))
+![](geometricus/dsc_0039.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus
@@ -52,7 +52,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](geometricus/dsc_0060.jpg))
+![](geometricus/dsc_0060.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus
@@ -64,7 +64,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
-![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg))
+![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg) 
 
   ---------------------------------------------------------------------------------------
   Scientific Name ::     Latrodectus geometricus

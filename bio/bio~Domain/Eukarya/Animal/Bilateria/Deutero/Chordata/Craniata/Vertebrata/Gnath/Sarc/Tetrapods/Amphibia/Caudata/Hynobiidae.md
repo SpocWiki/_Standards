@@ -211,7 +211,7 @@ discussion of hynobiid phylogeny, see Larson et al. (2003).\
 ## Title Illustrations
 
 --------------------------- 
-![](Hynobiidae/batrachuperus.jpg))
+![](Hynobiidae/batrachuperus.jpg) 
 Scientific Name ::     Batrachuperus yenyuanensis
 Location ::           China
 Comments             The specimen was photographed on land although the species is aquatic.

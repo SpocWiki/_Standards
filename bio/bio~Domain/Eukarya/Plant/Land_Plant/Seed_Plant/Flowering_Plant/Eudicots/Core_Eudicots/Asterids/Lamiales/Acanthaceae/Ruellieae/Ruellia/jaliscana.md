@@ -92,7 +92,7 @@ in subsequent months.
 
 
 ----------------------------------------------------------------------- 
-![Ruellia speciosa](jaliscana/Ruellia_speciosa.jpg))
+![Ruellia speciosa](jaliscana/Ruellia_speciosa.jpg) 
 Scientific Name ::     Ruellia speciosa Lindau
 Location ::           Oaxaca, Mexico
 Specimen Condition   Live Specimen
@@ -101,7 +101,7 @@ Collector            Tripp & Acosta
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia bourgaei](jaliscana/Ruellia_bourgaei.jpg))
+![Ruellia bourgaei](jaliscana/Ruellia_bourgaei.jpg) 
 Scientific Name ::     Ruellia bourgaei Hemsl.
 Location ::           Jalisco, Mexico
 Specimen Condition   Live Specimen
@@ -110,7 +110,7 @@ Collector            Tripp & L. Tripp
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
-![Ruellia jaliscana](jaliscana/Ruellia_jaliscana.jpg))
+![Ruellia jaliscana](jaliscana/Ruellia_jaliscana.jpg) 
 Scientific Name ::     Ruellia jaliscana Standl.
 Location ::           Jalisco, Mexico
 Specimen Condition   Live Specimen

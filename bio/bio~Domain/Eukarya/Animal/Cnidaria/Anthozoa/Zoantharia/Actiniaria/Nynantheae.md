@@ -26,7 +26,7 @@ title: Nynantheae
     -  [Thenaria](Nynantheae/Thenaria.md) 
 
 # Nynantheae 
-![ ](Nynantheae/diadumenidaesm.jpg))![ ](Nynantheae/haloclavidaesm.jpg))![](Nynantheae/boloceroididaesm.jpg))
+![ ](Nynantheae/diadumenidaesm.jpg))![ ](Nynantheae/haloclavidaesm.jpg))![](Nynantheae/boloceroididaesm.jpg) 
 
 -   [Athenaria](Nynantheae/Athenaria.md "go to ToL page"))*
 -   [Boloceroidaria](Nynantheae/Boloceroidaria.md "go to ToL page"))*
@@ -73,12 +73,12 @@ Photographs copyright © 2000, Ron Ates.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Nynantheae/haloclavidaesm.jpg))
+![](Nynantheae/haloclavidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Nynantheae/boloceroididaesm.jpg))
+![](Nynantheae/boloceroididaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

@@ -40,7 +40,7 @@ title: Lepidoteuthid families
 # Lepidoteuthid families 
 
 [Michael Vecchione and Richard E. Young]()
-![Habitus of three squid](Lepidoteuthid/LepidoteuthidFams.jpg))
+![Habitus of three squid](Lepidoteuthid/LepidoteuthidFams.jpg) 
 
 -   *[Lepidoteuthidae](Lepidoteuthis_grimaldii)*[
     Pfeffer 1912]
@@ -144,7 +144,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![Habitus of three squid](Lepidoteuthid/LepidoteuthidFams.jpg))
+![Habitus of three squid](Lepidoteuthid/LepidoteuthidFams.jpg) 
 
   ---------------------------------------------------------------------------------------------------------------------
   Scientific Name ::  Lepidoteuthis grimaldii, Octopoteuthis neilseni, Pholidoteuthis adami

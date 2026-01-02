@@ -8,7 +8,7 @@ title: Elephas maximus
 # Elephas maximus
 
 ## Asian Elephant, Indian Elephant 
-![ ](Elephas_maximus/122357538_b19f820aff_o.jpg))
+![ ](Elephas_maximus/122357538_b19f820aff_o.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -55,7 +55,7 @@ title: Elephas maximus
 ## Title Illustrations
 
   ---------------------------------------------------------------- 
-![](Elephas_maximus/122357538_b19f820aff_o.jpg))
+![](Elephas_maximus/122357538_b19f820aff_o.jpg) 
   Scientific Name ::     Elephas maximus
   Location ::           Kabini, Karnataka, India
   Specimen Condition   Live Specimen

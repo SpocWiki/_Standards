@@ -30,7 +30,7 @@ title: Asperoteuthis mangoldae
 # *Asperoteuthis mangoldae* [Young, Vecchione and Roper, 2007] 
 
 [Richard E. Young, Michael Vecchione, and Clyde F. E. Roper]()
-![ ](mangoldae/Asperogrimaldi.jpg))
+![ ](mangoldae/Asperogrimaldi.jpg) 
 
 Containing group: [Asperoteuthis](../Asperoteuthis.md))*
 
@@ -104,14 +104,14 @@ An ***Asperoteuthis*** \...
 
 ***A. mangoldae*** apparently possesses a large secondary tail but a
 specimen with an attached tail has not been captured.
-![ ](mangoldae/AsperogrimaldiTailDraw.jpg))
+![ ](mangoldae/AsperogrimaldiTailDraw.jpg) 
 
 **Figure**. The drawing is a reconstruction based on the collection of a
 damaged tail in the same tow with a small (80 mm ML) ***A. mangoldae***.
 The tail did not match the broken end of the gladius from the specimen
 indicating that a piece of the tail was missing. Tentacular clubs
 missing from specimen, added to drawing. Drawing by A. Hart.
-![ ](mangoldae/AsperoTail.jpg))
+![ ](mangoldae/AsperoTail.jpg) 
 
 **Figure**. The photograph shows the tail of a large ***Asperoteuthis***
 from the same locality and possibly belonging to a large ***A.
@@ -149,7 +149,7 @@ vertical distribution of cephalopods. All specimens were captured during
 the day at depths between 775 and 975 m. The absence of captures in the
 heavily sampled waters from 0-400m depth at night suggests that this
 species is not a vertical migrator.
-![ ](mangoldae/AsperoNewVertDist.JPG))
+![ ](mangoldae/AsperoNewVertDist.JPG) 
 
 **Figure**. Vertical distribution chart of ***A. mangoldae***. Captures
 were made with both open and opening/closing trawls. **Bars** - fishing
@@ -172,7 +172,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 
 ## Title Illustrations
 
-![](mangoldae/Asperogrimaldi.jpg))
+![](mangoldae/Asperogrimaldi.jpg) 
 
   --------------------------------------------------------------------------
   Scientific Name ::   Asperoteuthis mangoldae

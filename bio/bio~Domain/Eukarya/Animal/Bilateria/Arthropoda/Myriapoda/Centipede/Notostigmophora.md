@@ -56,7 +56,7 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
 
 ## Title Illustrations
 
-![](Notostigmophora/Scutigera_coleoptrata-800.jpg))
+![](Notostigmophora/Scutigera_coleoptrata-800.jpg) 
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Chilopoda Scutigeromorpha:Scutigeridae: Scutigera coleoptrata

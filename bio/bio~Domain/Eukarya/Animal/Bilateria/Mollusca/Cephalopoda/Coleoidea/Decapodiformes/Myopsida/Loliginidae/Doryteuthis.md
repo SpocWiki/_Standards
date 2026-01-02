@@ -111,7 +111,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Title Illustrations
 
-![](Doryteuthis/DpealeiiMV2.jpg))
+![](Doryteuthis/DpealeiiMV2.jpg) 
 
   -----------------------------------------------------------------------
   Scientific Name ::     Doryteuthis pealeii

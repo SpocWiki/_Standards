@@ -114,7 +114,7 @@ Porophoraspis type.
 The best known arandaspid, Sacabambaspis, from the Ordovician of
 Bolivia, shows the characteristic, frontally positioned eyes, like car
 head lamps. (after Janvier 1996)
-![](Arandaspida/arandaspida.gif))
+![](Arandaspida/arandaspida.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 

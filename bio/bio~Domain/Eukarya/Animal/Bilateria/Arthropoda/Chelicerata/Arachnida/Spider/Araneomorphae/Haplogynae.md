@@ -51,7 +51,7 @@ title: Haplogynae
 
 
 ---------------------------------------------------------------------- 
-![](Haplogynae/Loxosceles_reclusa.jpg))
+![](Haplogynae/Loxosceles_reclusa.jpg) 
 Scientific Name ::  Loxosceles reclusa
 Comments          Brown recluse spider
 Copyright ::         © [Jim Kalisch](http://entomology.unl.edu/) 

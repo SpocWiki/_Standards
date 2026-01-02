@@ -28,7 +28,7 @@ title: Thenaria
 
 # Thenaria 
 
-![ ](Thenaria/aurelianidaesm.jpg)![ ](Thenaria/hormathiidaesm.jpg))![](Thenaria/diadumenidaesm.jpg))
+![ ](Thenaria/aurelianidaesm.jpg)![ ](Thenaria/hormathiidaesm.jpg))![](Thenaria/diadumenidaesm.jpg) 
 
 -   [Endomyaria](Thenaria/Endomyaria.md "go to ToL page"))*
 -   [Mesomyaria](Thenaria/Mesomyaria.md "go to ToL page"))*
@@ -97,12 +97,12 @@ From left to right:
     The Netherlands.
 
 Photographs copyright © 2000, Ron Ates.
-![](Thenaria/aurelianidaesm.jpg))
+![](Thenaria/aurelianidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](Thenaria/hormathiidaesm.jpg))
+![](Thenaria/hormathiidaesm.jpg) 
 
   -------
   Copyright ::   © 2000 Ron Ates

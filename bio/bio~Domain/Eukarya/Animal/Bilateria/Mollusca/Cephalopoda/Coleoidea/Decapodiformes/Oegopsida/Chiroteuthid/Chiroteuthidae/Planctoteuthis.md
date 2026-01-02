@@ -156,7 +156,7 @@ temperate oceans of the world.
 
 
 ----------------------------- 
-![](Planctoteuthis/PlanctoteuthisOligoLive.jpg))
+![](Planctoteuthis/PlanctoteuthisOligoLive.jpg) 
 Scientific Name ::     Planctoteuthis oligobessa
 Location ::           32° 52.29 N, 131° 17.49 W, North Pacific off California
 Specimen Condition   Live Specimen

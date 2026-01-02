@@ -36,7 +36,7 @@ title: Theridiosomatidae
 -   » Sub-Groups 
 
 # Theridiosomatidae 
-![ ](Theridiosomatidae/chthonos_2916.jpg))
+![ ](Theridiosomatidae/chthonos_2916.jpg) 
 ![ ](Theridiosomatidae/ogulnius03.jpg)![](Theridiosomatidae/theridiosoma_gemmosum03.jpg))![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg))
 
 Tree from Griswold et al. 1998.
@@ -78,7 +78,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Title Illustrations
 
-![](Theridiosomatidae/chthonos_2916.jpg))
+![](Theridiosomatidae/chthonos_2916.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Chthonos sp.
@@ -91,7 +91,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/ogulnius03.jpg))
+![](Theridiosomatidae/ogulnius03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ogulnius sp.
@@ -104,7 +104,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/theridiosoma_gemmosum03.jpg))
+![](Theridiosomatidae/theridiosoma_gemmosum03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Theridiosoma gemmosum
@@ -118,7 +118,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
-![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg))
+![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Theridiosoma gemmosum

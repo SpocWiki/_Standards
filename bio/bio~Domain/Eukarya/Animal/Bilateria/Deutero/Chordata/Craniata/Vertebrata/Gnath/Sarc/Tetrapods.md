@@ -34,7 +34,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Tetrapoda,19159|WD~Tetrapoda,19159]]  
 
 Stegocephalians: Tetrapods and other digit-bearing vertebrates 
-![Ichthyostegalia](Tetrapods/Ichthyostegalia.jpg))
+![Ichthyostegalia](Tetrapods/Ichthyostegalia.jpg) 
 
 Terrestrial vertebrates, also known as tetrapods, 
 are distinguished from their parent group within the superclass Osteichthyes (bony fish) 

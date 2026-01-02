@@ -29,7 +29,7 @@ Barragem do Salto, Sao Francisco de Paula, Rio Grande do Sul, Brazil.
 ### Distribution
 
 Northeastern Rio Grande do Sul, Brazil.
-![ ](serrana/_serrana1.jpg))
+![ ](serrana/_serrana1.jpg) 
 
 © 1994 Georgina Bond-Buckup, Ludwig Buckup
 ### References

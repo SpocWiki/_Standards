@@ -69,7 +69,7 @@ The above discription is taken from Roper and Young (1968). [More details of the
 
 The smallest known specimen (see drawing) is 10.5 mm ML and looks much
 like the larger specimen except that the fins are relatively smaller.
-![ ](Promachoteuthis_B/PromachSmall.jpg))
+![ ](Promachoteuthis_B/PromachSmall.jpg) 
 
 **Figure**. Ventral view of ***Promachoteuthis.*** sp. B, 10.5 mm ML.
 Drawing from Roper and Young (1968).
@@ -133,7 +133,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Title Illustrations
 
-![](Promachoteuthis_B/PromachSpBDors.jpg))
+![](Promachoteuthis_B/PromachSpBDors.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B
@@ -143,7 +143,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -----------------------------------------------------------------------------
-![](Promachoteuthis_B/Promach1Vent.jpg))
+![](Promachoteuthis_B/Promach1Vent.jpg) 
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B

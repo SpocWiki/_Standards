@@ -34,7 +34,7 @@ title: Chiroteuthis spoeli
 # *Chiroteuthis spoeli* [Salcedo-Vargas, 1996] 
 
 [Clyde F. E. Roper and Richard E. Young]()
-![ ](spoeli/CspB1.jpg))
+![ ](spoeli/CspB1.jpg) 
 ![ ](spoeli/CspoeliLive.jpg)
 
 The illustrated squid is deposited in the National Museum of Natural
@@ -130,7 +130,7 @@ known from a few squid captured off Hawaii. The three captures made
 during the day suggest a habitat between depths of 700 and 800 m. At
 night captures were scattered from the surface to 750 m with most from
 the upper 200 m.
-![ ](spoeli/ChiroBVertDist.JPG))
+![ ](spoeli/ChiroBVertDist.JPG) 
 
 **Figure**. Depth chart of the vertical distribution of ***C. spoeli***,
 Hawaiian waters. Captures were made with both open and opening/closing
@@ -158,7 +158,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Title Illustrations
 
-![](spoeli/CspB1.jpg))
+![](spoeli/CspB1.jpg) 
 
   -------------------------------------------------------------------------
   Scientific Name ::  Chiroteuthis spoeli
@@ -167,7 +167,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -------------------------------------------------------------------------
-![](spoeli/CspoeliLive.jpg))
+![](spoeli/CspoeliLive.jpg) 
 
   ------------
   Scientific Name ::  Chiroteuthis spoeli

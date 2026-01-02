@@ -81,14 +81,14 @@ is apparently lacking or dimorphic in some Malagasy species (Vollesen
 
 
 --------------------------------------------------------------------------- 
-![Crossandra nilotica](Crossandra/crossandra.jpg))
+![Crossandra nilotica](Crossandra/crossandra.jpg) 
 Scientific Name ::     Crossandra nilotica Oliv.
 Location ::           Tsombitse Park, Tana, Malagasy Republic, Cultivated
 Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 -------------------------------------------------------------------------- 
-![Crossandra infundibuliformis](Crossandra/crossandra.jpg))
+![Crossandra infundibuliformis](Crossandra/crossandra.jpg) 
 Scientific Name ::     Crossandra infundibuliformis Nees
 Specimen Condition   Live Specimen
 Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 

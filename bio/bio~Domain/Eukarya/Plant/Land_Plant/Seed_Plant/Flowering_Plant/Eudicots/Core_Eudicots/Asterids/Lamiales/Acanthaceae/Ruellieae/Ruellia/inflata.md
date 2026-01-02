@@ -65,7 +65,7 @@ which is an unusual habit in *Ruellia*.
 ## Title Illustrations
 
 --------------------------------------------------------------------- 
-![Ruellia elegans](inflata/Ruellia_elegans.jpg))
+![Ruellia elegans](inflata/Ruellia_elegans.jpg) 
 Scientific Name ::     Ruellia elegans
 Specimen Condition   Live Specimen
 Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 

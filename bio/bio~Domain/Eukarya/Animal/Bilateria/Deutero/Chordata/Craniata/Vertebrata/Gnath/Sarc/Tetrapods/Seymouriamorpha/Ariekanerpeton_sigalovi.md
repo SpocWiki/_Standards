@@ -97,7 +97,7 @@ Vertebrate Paleontology 16 (4): 653-665.
 
 ## Title Illustrations
 
-![](Ariekanerpeton_sigalovi/Ariekanerpeton.gif))
+![](Ariekanerpeton_sigalovi/Ariekanerpeton.gif) 
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Ariekanerpeton sigalovi

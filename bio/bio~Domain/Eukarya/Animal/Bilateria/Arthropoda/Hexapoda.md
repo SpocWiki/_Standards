@@ -178,7 +178,7 @@ evidence, with additional references, see Kristensen (1991).
 ## Title Illustrations
 
 ------------------------------------------------------------------------ 
-![](Hexapoda/Monobella_grassei.jpg))
+![](Hexapoda/Monobella_grassei.jpg) 
 Scientific Name ::     Monobella grassei
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
@@ -191,7 +191,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
 
 ------------------------------------------------------------------------------ 
-![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg))
+![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg) 
 Scientific Name ::     Mantis religiosa
 Comments             Praying mantis
 Creator              Photograph by Robert Potts

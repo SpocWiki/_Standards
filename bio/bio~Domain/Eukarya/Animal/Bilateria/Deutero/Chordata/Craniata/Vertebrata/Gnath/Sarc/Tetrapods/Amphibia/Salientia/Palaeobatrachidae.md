@@ -99,7 +99,7 @@ features found in the Tertiary fossils.
 ## Title Illustrations
 
 -------------------------------------------------------------------------- 
-![Palaeobatrachus cast](Palaeobatrachidae/paleobatrachus.jpg))
+![Palaeobatrachus cast](Palaeobatrachidae/paleobatrachus.jpg) 
 Scientific Name ::     Palaeobatrachus
 Comments             cast
 Specimen Condition   Fossil

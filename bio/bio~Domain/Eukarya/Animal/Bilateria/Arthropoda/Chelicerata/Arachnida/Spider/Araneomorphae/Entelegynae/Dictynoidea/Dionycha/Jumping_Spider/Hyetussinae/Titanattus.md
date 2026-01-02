@@ -52,7 +52,7 @@ Proszynski\'s Catalogue entry for
 
 ## Title Illustrations
 
-![](Titanattus/titanattus.gif))
+![](Titanattus/titanattus.gif) 
 
   ---------------------------------------------------------------------------
   Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 

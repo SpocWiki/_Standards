@@ -91,7 +91,7 @@ embryo straight, cotyledons foliaceous.
 
 
 ------------------------------------------------------------------------- 
-![Lacistema](Lacistemataceae/Lacistema.jpg))
+![Lacistema](Lacistemataceae/Lacistema.jpg) 
 Scientific Name ::     Lacistema aggregatum
 Location ::           Costa Rica: Guanacaste: 25 km NE of Liberia
 Specimen Condition   Live Specimen
@@ -101,7 +101,7 @@ Collector            Mac H. Alford
 Copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/) 
 
 -------------------------- 
-![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg))
+![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg) 
 Scientific Name ::  Lacistema aggregatum
 Location ::        Panama: Barro Colorado Island
 Creator           Steven Paton

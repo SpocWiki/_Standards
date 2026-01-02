@@ -112,7 +112,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
 
 ## Title Illustrations
 
-![](Cirroteuthidae/Cirro2.JPG))
+![](Cirroteuthidae/Cirro2.JPG) 
 
   -----------------------
   Scientific Name ::     Cirroteuthis magna

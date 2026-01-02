@@ -151,7 +151,7 @@ Mammalogy 76:1088-1099.
 
 ## Title Illustrations
 
-![Heterohyrax brucei feeding in Acacia tortilis](Hyracoidea/1708bushhyrax.jpg))
+![Heterohyrax brucei feeding in Acacia tortilis](Hyracoidea/1708bushhyrax.jpg) 
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Heterohyrax brucei, Acacia tortilis

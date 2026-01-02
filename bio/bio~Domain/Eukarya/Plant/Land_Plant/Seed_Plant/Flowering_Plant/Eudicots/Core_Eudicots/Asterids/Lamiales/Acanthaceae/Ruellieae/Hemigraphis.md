@@ -86,13 +86,13 @@ several small, segregate genera of Strobilanthinae (sensu Bremekamp
 
 
 ------------------------------------- 
-![](Hemigraphis/Hemigraphisalternata.jpg))
+![](Hemigraphis/Hemigraphisalternata.jpg) 
 Scientific Name ::     Hemigraphis alternata T.Anders.
 Specimen Condition   Live Specimen
 Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
 
 ------------------------- 
-![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg))
+![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 
 Scientific Name ::     Hemigraphis repanda Lindau
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)

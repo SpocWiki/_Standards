@@ -114,7 +114,7 @@ Natural Sciences of Philadelphia, (468): 1-3.
 
 *Rana shqiperica*.\
 Photographs copyright © 1995, Hansjürg Hotz.
-![](Rana_shqiperica/shqiperica.jpg))
+![](Rana_shqiperica/shqiperica.jpg) 
 
   ---------
   Copyright ::   © 1995 Hansjürg Hotz

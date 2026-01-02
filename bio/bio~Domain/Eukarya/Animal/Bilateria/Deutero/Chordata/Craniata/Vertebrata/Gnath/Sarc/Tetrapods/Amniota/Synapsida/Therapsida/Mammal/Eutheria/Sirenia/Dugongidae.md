@@ -7,7 +7,7 @@ title: Dugongidae
 # [[Dugongidae]] 
 
 Dugongs 
-![ ](Dugongidae/Hydrodamalis_gigas_skull.jpg))
+![ ](Dugongidae/Hydrodamalis_gigas_skull.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -90,7 +90,7 @@ Dugongs
 ## Title Illustrations
 
 ---------------------------- 
-![](Dugongidae/Hydrodamalis_gigas_skull.jpg))
+![](Dugongidae/Hydrodamalis_gigas_skull.jpg) 
 Scientific Name ::  Hydrodamalis gigas
 Location ::        Specimen at the Natural History Museum, London
 Reference         Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London

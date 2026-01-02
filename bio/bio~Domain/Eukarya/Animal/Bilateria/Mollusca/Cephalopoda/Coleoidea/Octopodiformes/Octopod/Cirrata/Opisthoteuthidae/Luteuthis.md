@@ -107,7 +107,7 @@ Cephalopoda: Cirroctopoda) from the South China Sea. Zoological Studies,
 
 ## Title Illustrations
 
-![](Luteuthis/LuteuthisShuishiSide.jpg))
+![](Luteuthis/LuteuthisShuishiSide.jpg) 
 
   -----------------------------------------------------
   Scientific Name ::  Luteuthis shuichi

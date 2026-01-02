@@ -127,7 +127,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 
 ## Title Illustrations
 
-![](flammea/MFlammea.jpg))
+![](flammea/MFlammea.jpg) 
 
   ------------------------------------------------------
   Scientific Name ::  Mastigoteuthis flammea

@@ -43,7 +43,7 @@ title: Salamandra
 ## Title Illustrations
 
 ----------------------------------------------------------------------- 
-![](Salamandra/img_3736_2.jpg))
+![](Salamandra/img_3736_2.jpg) 
 Scientific Name ::     Salamandra salamandra
 Location ::           Romania
 Specimen Condition   Live Specimen
@@ -52,7 +52,7 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © [Horia Bogdan](http://herp-or.uv.ro/index) 
 
 ----------------------------------------------------------------------- 
-![](Salamandra/205901169_5896159ed0_o.jpg))
+![](Salamandra/205901169_5896159ed0_o.jpg) 
 Scientific Name ::     Salamandra atra
 Location ::           Pont de Nant nature reserve in the western swiss alps
 Specimen Condition   Live Specimen

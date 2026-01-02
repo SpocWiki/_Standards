@@ -60,7 +60,7 @@ title: Tenrecidae
 ## Title Illustrations
 
 ------------------------------------------------------------------------------ 
-![](Tenrecidae/Hemicentetes_semispin.jpg))
+![](Tenrecidae/Hemicentetes_semispin.jpg) 
 Scientific Name ::     Hemicentetes semispinosus (Tenrecidae)
 Location ::           Perinet Reserve (Madagascar)
 Comments             Lowland streaked tenrec

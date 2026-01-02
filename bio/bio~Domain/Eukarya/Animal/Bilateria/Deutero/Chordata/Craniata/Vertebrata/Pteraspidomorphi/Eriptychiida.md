@@ -83,7 +83,7 @@ occur in North America, usually in association with Astraspis.
 The overall morphology of eriptychiids is still unknown, despite the
 abundance of their dermal bone fragments bearing large, oval tubercles,
 in the Ordovician of Colorado. (From Ørvig 1958.)
-![](Eriptychiida/eriptychiida.gif))
+![](Eriptychiida/eriptychiida.gif) 
 Copyright ::   © 1997 Philippe Janvier
 
 
