@@ -3,24 +3,25 @@ aliases:
   - Hylobatidae
   - Gibbon
   - Gibbon 1
+  - "{ newTitle: }":
 has_id_wikidata: Q185939
-means_of_locomotion: '[[_Standards/WikiData/WD~brachiation,848840]]'
+means_of_locomotion: "[[_Standards/WikiData/WD~brachiation,848840]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-different_from: '[[_Standards/WikiData/WD~Gibbons,2650984]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9689569,9689569]]'
-award_received: '[[_Standards/WikiData/WD~Q25385081,25385081]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65320373,65320373]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65320373,65320373]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+different_from: "[[_Standards/WikiData/WD~Gibbons,2650984]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
+diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9689569,9689569]]"
+award_received: "[[_Standards/WikiData/WD~Q25385081,25385081]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
 start_time: -8000000-06
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 mass: 8.5
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: 572775
 Commons_gallery: Hylobatidae
 Commons_category: Hylobatidae
@@ -36,6 +37,35 @@ MeSH_tree_code: B01.050.150.900.649.313.988.400.112.420
 UMLS_CUI:
   - C0085234
   - C0086979
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Gibbon]] 
@@ -111,3 +141,22 @@ UMLS_CUI:
 
 ### #is_/same_as :: [Gibbon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon.secret.md)
 
+
+# [[Gibbon]] 
+
+#is_/part_of :: [[Gibbon 1]] 
+
+![[Gibbon.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Gibbon.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
