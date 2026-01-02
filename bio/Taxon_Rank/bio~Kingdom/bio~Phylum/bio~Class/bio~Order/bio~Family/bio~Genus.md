@@ -28,13 +28,13 @@ pronunciation_audio:
 short_name: g.
 ---
 
-# [[bio-Genus]] 
+# [[bio~Genus]] 
 
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
 #has_/previous_/item :: [[../bio~Family]]  
-#has_/next_/item :: [[bio-Genus/bio-Species]] 
+#has_/next_/item :: [[bio~Genus/bio~Species]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Genus,34740|WD~Genus,34740]]  
 
@@ -70,7 +70,7 @@ short_name: g.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Genus](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus.md) 
+### #is_/same_as :: [bio~Genus](bio~Genus.md) 
 
 ### #is_/same_as :: [bio-Genus.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus.public.md) 
 

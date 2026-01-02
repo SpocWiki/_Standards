@@ -34,7 +34,7 @@ part_of:
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Family,35409|WD~Family,35409]]  
 #has_/previous_/item :: [[../bio~Order]]  
-#has_/next_/item :: [[bio~Family/bio-Genus]]  
+#has_/next_/item :: [[bio~Family/bio~Genus]]  
 
 ## #has_/text_of_/abstract 
 

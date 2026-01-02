@@ -34,13 +34,13 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10663903
 ---
 
-# [[bio-Species]] 
+# [[bio~Species]] 
 
 #is_a_/taxon_rank 
 #is_a_ :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio-Genus]]  
-#has_/next_/item :: [[bio-Species/Subspecies]] 
+#has_/previous_/item :: [[../bio~Genus]]  
+#has_/next_/item :: [[bio~Species/bio~Subspecies]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Species,7432|WD~Species,7432]]  
 
@@ -106,7 +106,7 @@ U_S_National_Archives_Identifier: 10663903
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Species](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.md) 
+### #is_/same_as :: [bio~Species](bio~Species.md) 
 
 ### #is_/same_as :: [bio-Species.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species.public.md) 
 

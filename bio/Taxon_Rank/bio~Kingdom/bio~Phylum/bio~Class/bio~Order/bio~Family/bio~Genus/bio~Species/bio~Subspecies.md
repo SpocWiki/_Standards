@@ -25,11 +25,12 @@ subclass_of:
 part_of: '[[_Standards/WikiData/WD~species,7432]]'
 OmegaWiki_Defined_Meaning: 960607
 ---
-# [[Subspecies]] 
+# [[bio~Subspecies]] 
 
 #is_a_/taxon_rank  
 #is_a_ :: [[../../../../../../../../Taxon_Rank|Taxon_Rank]]  
-#has_/previous_/item :: [[../bio-Species]] 
+#has_/previous_/item :: [[../bio~Species]] 
+#is_/different_from :: [[Breed]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~subspecies,68947]] 
 
@@ -75,7 +76,7 @@ OmegaWiki_Defined_Meaning: 960607
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subspecies](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.md) 
+### #is_/same_as :: [bio~Subspecies](bio~Subspecies.md) 
 
 ### #is_/same_as :: [Subspecies.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.public.md) 
 

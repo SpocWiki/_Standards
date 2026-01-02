@@ -205,7 +205,7 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=9418
 
 # [[Pinus]] 
 
-#is_/instance_of :: [[../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus|bio-Genus]] 
+#is_/instance_of :: [[../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus|bio-Genus]] 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Pinus,12024|WD~Pinus,12024]] 
 
 Pine Trees 
