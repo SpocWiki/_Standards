@@ -23,8 +23,6 @@ uses: "[[_Standards/WikiData/WD~pseudonym,61002]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudonym) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity|Pseudonymity]] 
