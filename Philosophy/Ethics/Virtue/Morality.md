@@ -30,7 +30,15 @@ Commons_category: Morality
 ## #has_/text_of_/abstract 
 
 > **Morality** (from Latin  moralitas 'manner, character, proper behavior') 
-> is the categorization of intentions, decisions and actions into those that are proper, or right, and those that are improper, or wrong. Morality can be a body of standards or principles derived from a code of conduct from a particular philosophy, religion or culture, or it can derive from a standard that is understood to be universal. Morality may also be specifically synonymous with "goodness", "appropriateness" or "rightness".
+> is the categorization of intentions, decisions and actions into 
+> - those that are proper, or right, and 
+> - those that are improper, or wrong. 
+> 
+> Morality can be a body of standards or principles derived from a code of conduct 
+> from a particular philosophy, religion or culture, 
+> or it can derive from a standard that is understood to be universal. 
+> 
+> Morality may also be specifically synonymous with "goodness", "appropriateness" or "rightness".
 >
 > Moral philosophy includes meta-ethics, which studies abstract issues such as moral ontology and moral epistemology, and normative ethics, which studies more concrete systems of moral decision-making such as deontological ethics and consequentialism. An example of normative ethical philosophy is the Golden Rule, which states: "One should treat others as one would like others to treat oneself."
 >
@@ -41,7 +49,7 @@ Commons_category: Morality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morality](/_Standards/Philosophy/Ethics/Morality.md) 
+### #is_/same_as :: [Morality](Morality.md) 
 
 ### #is_/same_as :: [Morality.public](/_public/Philosophy/Ethics/Morality.public.md) 
 

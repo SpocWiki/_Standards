@@ -15,8 +15,8 @@ aliases:
 > is not consistent with foundational Islamic doctrine regarding anger and pride, lust or greed.   
 > 
 > According to the standard list, the seven deadly sins in Christianity are 
-> 1. [[Pride]], 
-> 2. [[Greed]], 
+> 1. [[../../../../../bio/Psychology/Affect/Emotion/Pride]], 
+> 2. [[../../../../Ethics/Vice/Greed]], 
 > 3. [[Wrath]], 
 > 4.[[../../../../../../Life/Psychological_Resilience/Envy]]], 
 > 5. [[../../../../../bio/Psychology/Affect/Emotion/Lust]], 

@@ -34,7 +34,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q207333-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Honor](/_Standards/Philosophy/Ethics/Honor.md) 
+### #is_/same_as :: [Honor](Honor.md) 
 
 ### #is_/same_as :: [Honor.public](/_public/Philosophy/Ethics/Honor.public.md) 
 

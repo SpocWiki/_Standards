@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Tugend
 has_id_wikidata: Q157811
 instance_of:
   - "[[_Standards/WikiData/WD~concept,151885]]"
