@@ -1,13 +1,49 @@
 ---
 aliases:
   - Vitamin A
+  - Retinol
+has_id_wikidata: Q182250
+subclass_of:
+  - "[[_Standards/WikiData/WD~learning,133500]]"
+  - "[[_Standards/WikiData/WD~distance_education,159595]]"
+  - "[[_Standards/WikiData/WD~computer_assisted_instruction,11303220]]"
+  - "[[_Standards/WikiData/WD~computer_aided_learning,123298994]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~self_education,2267590]]"
+  - "[[_Standards/WikiData/WD~Q123298903,123298903]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~virtual_education,3199031]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_E_learning,13260474]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
+instance_of: "[[_Standards/WikiData/WD~learning_approach,130609847]]"
+part_of: "[[_Standards/WikiData/WD~education,8434]]"
+IAB_code: "148"
+ACM_Classification_Code_2012_: "10010495"
+OmegaWiki_Defined_Meaning: "986296"
+ComputerLanguage_com_definition: e-learning
+Dewey_Decimal_Classification:
+  - "374.26"
+  - "371.3344678"
+  - "371.358"
+  - "378.17344678"
+Commons_category: E-learning
+IEV_number: 171-09-15
+GitHub_topic: elearning
 ---
 
 # [[Vitamin_A]] 
 
+#is_/same_as :: [[WD~Vitamin_A,18225]]  
+
 ## #has_/text_of_/abstract 
 
-> Vitamin A is a fat-soluble vitamin that is an essential nutrient. The term "vitamin A" encompasses a group of chemically related organic compounds that includes retinol, retinyl esters, and several provitamin (precursor) carotenoids, most notably β-carotene (beta-carotene). Vitamin A has multiple functions: growth during embryo development, maintaining the immune system, and healthy vision. For aiding vision specifically, it combines with the protein opsin to form rhodopsin, the light-absorbing molecule necessary for both low-light (scotopic vision) and color vision.
+> Vitamin A is a fat-soluble vitamin that is an essential nutrient. 
+> The term "vitamin A" encompasses a group of chemically related organic compounds that includes 
+> - retinol, 
+> - retinyl esters, and 
+> - several provitamin (precursor) carotenoids, 
+> - most notably β-carotene (beta-carotene). 
+> 
+> Vitamin A has multiple functions: growth during embryo development, maintaining the immune system, and healthy vision. For aiding vision specifically, it combines with the protein opsin to form rhodopsin, the light-absorbing molecule necessary for both low-light (scotopic vision) and color vision.
 >
 > Vitamin A occurs as two principal forms in foods: A) retinoids, found in animal-sourced foods, either as retinol or bound to a fatty acid to become a retinyl ester, and B) the carotenoids α-carotene (alpha-carotene), β-carotene, γ-carotene (gamma-carotene), and the xanthophyll beta-cryptoxanthin (all of which contain β-ionone rings) that function as provitamin A in herbivore and omnivore animals which possess the enzymes that cleave and convert provitamin carotenoids to retinol. Some carnivore species lack this enzyme. The other carotenoids do not have retinoid activity.
 >

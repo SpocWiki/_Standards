@@ -2,11 +2,33 @@
 aliases:
   - Vitamin_B3
   - Vitamin B3
+  - nicotinamide
+  - niacinamide
+  - niacin
+has_id_wikidata: Q30715691
+subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+subject_has_role: "[[_Standards/WikiData/WD~vitamin_B,183206]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~pellagra,221441]]"
+part_of: "[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323]]"
+instance_of: "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+Commons_category: Niacin
+chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Niacin.png
+UMLS_CUI: C0027996
 ---
+
+# [[Vitamin_B3]] 
+
+#is_/same_as :: [[WD~Vitamin_B3,30715691]]
 
 ## #has_/text_of_/abstract 
 
-> Vitamin B3, colloquially referred to as niacin, is a vitamin family that includes three forms, or vitamers: nicotinic acid (niacin), nicotinamide (niacinamide), and nicotinamide riboside. All three forms of vitamin B3 are converted within the body to nicotinamide adenine dinucleotide (NAD). NAD is required for human life and people are unable to make it within their bodies without either vitamin B3 or tryptophan. Nicotinamide riboside was identified as a form of vitamin B3 in 2004.
+> Vitamin B3, colloquially referred to as niacin, 
+> is a vitamin family that includes three forms, or vitamers: 
+> - nicotinic acid (niacin), 
+> - nicotinamide (niacinamide), and 
+> - nicotinamide riboside. 
+> 
+> All three forms of vitamin B3 are converted within the body to nicotinamide adenine dinucleotide (NAD). NAD is required for human life and people are unable to make it within their bodies without either vitamin B3 or tryptophan. Nicotinamide riboside was identified as a form of vitamin B3 in 2004.
 >
 > Niacin (the nutrient) can be manufactured by plants and animals from the amino acid tryptophan. Niacin is obtained in the diet from a variety of whole and processed foods, with highest contents in fortified packaged foods, meat, poultry, red fish such as tuna and salmon, lesser amounts in nuts, legumes and seeds. Niacin as a dietary supplement is used to treat pellagra, a disease caused by niacin deficiency. Signs and symptoms of pellagra include skin and mouth lesions, anemia, headaches, and tiredness. Many countries mandate its addition to wheat flour or other food grains, thereby reducing the risk of pellagra.
 >
@@ -21,7 +43,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin|Niacin]] 
+### #is_/same_as :: [[Vitamin_B3|Vitamin_B3]] 
 
 ### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.public|Niacin.public]] 
 

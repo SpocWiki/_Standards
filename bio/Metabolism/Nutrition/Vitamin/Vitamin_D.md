@@ -2,13 +2,44 @@
 aliases:
   - Vitamin_D
   - Vitamin D
-has_id_wikidata:
+has_id_wikidata: Q175621
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Vitamin_D,7370275]]"
+part_of:
+  - "[[_Standards/WikiData/WD~response_to_vitamin_D,14599705]]"
+  - "[[_Standards/WikiData/WD~vitamin_D_metabolic_process,14599717]]"
+  - "[[_Standards/WikiData/WD~vitamin_D_biosynthetic_process,14599721]]"
+  - "[[_Standards/WikiData/WD~vitamin_D_catabolic_process,14599725]]"
+  - "[[_Standards/WikiData/WD~vitamin_D_binding,14874296]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_vitamin_D,14907166]]"
+described_by_source: "[[_Standards/WikiData/WD~Vitamin_D_metabolism,29645849]]"
+subject_has_role:
+  - "[[_Standards/WikiData/WD~bone_density_conservation_agents,50430327]]"
+  - "[[_Standards/WikiData/WD~vitamin,34956]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
+LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]"
+subclass_of: "[[_Standards/WikiData/WD~vitamin,34956]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cholecalciferol-vitamin-D3-from-xtal-3D-sticks.png
+MCN_code: 2936.29.21
+exact_match:
+  - http://aims.fao.org/aos/agrovoc/c_8271
+  - http://aims.fao.org/aos/asfa/c_9719
+  - http://cat.aii.caas.cn/concept/46939
+  - http://lod.nal.usda.gov/nalt/1420
+CAS_Registry_Number: 1406-16-2
+EC_number: 215-797-2
+UNII: 9VU1KI44GP
+ATC_code: A11CC
+UMLS_CUI: C0042866
+MeSH_tree_code: D04.210.500.812.768
+Krugosvet_article_archived_: himiya/vitamin-d
+Commons_category: Vitamin D
 ---
 
 # [[Vitamin_D]] 
 
 
-#is_/same_as :: [[WD~Vitamine ]]
+#is_/same_as :: [[WD~Vitamine,175621]] 
+
 ## #has_/text_of_/abstract 
 
 > Vitamin D is a group of structurally related, fat-soluble compounds responsible for increasing intestinal absorption of calcium and phosphate, along with numerous other biological functions. 

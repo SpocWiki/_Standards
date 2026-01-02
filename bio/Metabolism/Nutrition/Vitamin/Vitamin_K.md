@@ -1,11 +1,34 @@
 ---
 aliases:
   - Vitamin K
+has_id_wikidata: Q182338
+manufacturer: "[[_Standards/WikiData/WD~Pfizer,206921]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~vitamin_K_deficiency,4138767]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Vitamin_K,7370256]]"
+part_of:
+  - "[[_Standards/WikiData/WD~response_to_vitamin_K,14864638]]"
+  - "[[_Standards/WikiData/WD~vitamin_K_catabolic_process,21109913]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_vitamin_K,21110909]]"
+  - "[[_Standards/WikiData/WD~vitamin_K_biosynthetic_process,21118314]]"
+  - "[[_Standards/WikiData/WD~vitamin_K_metabolic_process,21130039]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
+LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]"
+subclass_of: "[[_Standards/WikiData/WD~vitamin,34956]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/K-Vitamine.svg
+CAS_Registry_Number: 12001-79-5
+EC_number: 234-408-7
+UMLS_CUI: C0042878
+MeSH_tree_code:
+  - D02.455.426.559.847.638.721.374
+  - D02.455.849.291.523.500
+  - D04.615.638.721.374
+Krugosvet_article_archived_: meditsina/vitamin-k
+Commons_category: Vitamin K
 ---
 
 # [[Vitamin_K]] 
 
-#is_/same_as :: 
+#is_/same_as :: [[WD~Vitamin_K,182338]]
 
 ## #has_/text_of_/abstract 
 

@@ -1,11 +1,38 @@
 ---
 aliases:
   - Vitamin B12
+has_id_wikidata: Q187706
+discoverer_or_inventor:
+  - "[[_Standards/WikiData/WD~Alexander_R._Todd,_Baron_Todd,157242]]"
+  - "[[_Standards/WikiData/WD~Karl_August_Folkers,268874]]"
+  - "[[_Standards/WikiData/WD~Mary_Shaw_Shorb,6780705]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~vitamin_B,183206]]"
+  - "[[_Standards/WikiData/WD~metabolite,407595]]"
+  - "[[_Standards/WikiData/WD~cobalamin,71272629]]"
+has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+different_from: "[[_Standards/WikiData/WD~cyanocobalamin,252251]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~vitamin_B12_deficiency,3234995]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Vitamin_B12,7370305]]"
+mass: 1355.38
+PubChem_CID: "184933"
+OmegaWiki_Defined_Meaning: "682583"
+described_at_URL: https://www.mountsinai.org/health-library/supplement/vitamin-b12-cobalamin
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%20%D0%9212%20100%D1%85%20%283%29.jpg
+chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Cobalamin%20skeletal.svg
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/vitamin_b12_test
+FoodEx2_code: A0EXP
+ATC_code: B03BA
+Krugosvet_article_archived_: himiya/vitamin-v12
+Commons_category: Vitamin B12
+Dewey_Decimal_Classification:
+  - "612.399"
+  - "615.328"
 ---
 
 # [[Vitamin_B12]] 
 
-
+#is_/same_as :: [[WD~Vitamin_B12,187706]] 
 
 ## #has_/text_of_/abstract 
 

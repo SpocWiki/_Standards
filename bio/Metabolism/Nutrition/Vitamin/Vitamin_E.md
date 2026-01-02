@@ -1,9 +1,39 @@
 ---
 aliases:
   - Vitamin E
+has_id_wikidata: Q141180
+subject_has_role:
+  - "[[_Standards/WikiData/WD~antioxidant,133948]]"
+  - "[[_Standards/WikiData/WD~vitamin,34956]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Vitamin_E,7370326]]"
+part_of:
+  - "[[_Standards/WikiData/WD~response_to_vitamin_E,14819254]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_vitamin_E,21095693]]"
+  - "[[_Standards/WikiData/WD~vitamin_E_metabolic_process,21109917]]"
+  - "[[_Standards/WikiData/WD~vitamin_E_binding,21110614]]"
+  - "[[_Standards/WikiData/WD~vitamin_E_biosynthetic_process,21159195]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
+LiverTox_likelihood_score: "[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+subclass_of: "[[_Standards/WikiData/WD~vitamin,34956]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/VitE.png
+CAS_Registry_Number: 1406-18-4
+EC_number: 606-803-8
+ATC_code: A11HA03
+UMLS_CUI: C0042874
+MeSH_tree_code:
+  - D03.383.663.283.909
+  - D03.633.100.150.909
+Krugosvet_article_archived_: meditsina/vitamin-e
+Commons_category: Vitamin E
 ---
 
 # [[Vitamin_E]] 
+
+#is_/same_as :: [[WD~Vitamin_E,141180]]
 
 ## #has_/text_of_/abstract 
 

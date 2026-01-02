@@ -12,7 +12,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra|Pellagra]] 
+### #is_/same_as :: [[Pellagra|Pellagra]] 
 
 ### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.public|Pellagra.public]] 
 
