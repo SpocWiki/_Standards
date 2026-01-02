@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lock](/_Standards/Society/Agent/Management/Risk-Management/Security/Lock.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Lock|Lock]] 
 
-### #is_/same_as :: [Lock.public](/_public/Society/Agent/Management/Risk-Management/Security/Lock.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Lock.public|Lock.public]] 
 
-### #is_/same_as :: [Lock.internal](/_internal/Society/Agent/Management/Risk-Management/Security/Lock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Lock.internal|Lock.internal]] 
 
-### #is_/same_as :: [Lock.protect](/_protect/Society/Agent/Management/Risk-Management/Security/Lock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Lock.protect|Lock.protect]] 
 
-### #is_/same_as :: [Lock.private](/_private/Society/Agent/Management/Risk-Management/Security/Lock.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Lock.private|Lock.private]] 
 
-### #is_/same_as :: [Lock.personal](/_personal/Society/Agent/Management/Risk-Management/Security/Lock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Lock.personal|Lock.personal]] 
 
-### #is_/same_as :: [Lock.secret](/_secret/Society/Agent/Management/Risk-Management/Security/Lock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Lock.secret|Lock.secret]] 
 

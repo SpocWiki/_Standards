@@ -66,17 +66,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/passwords
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Password](/_Standards/Society/Agent/Management/Risk-Management/Security/Key/Password.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Key/Password|Password]] 
 
-### #is_/same_as :: [Password.public](/_public/Society/Agent/Management/Risk-Management/Security/Key/Password.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Key/Password.public|Password.public]] 
 
-### #is_/same_as :: [Password.internal](/_internal/Society/Agent/Management/Risk-Management/Security/Key/Password.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Key/Password.internal|Password.internal]] 
 
-### #is_/same_as :: [Password.protect](/_protect/Society/Agent/Management/Risk-Management/Security/Key/Password.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Key/Password.protect|Password.protect]] 
 
-### #is_/same_as :: [Password.private](/_private/Society/Agent/Management/Risk-Management/Security/Key/Password.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Key/Password.private|Password.private]] 
 
-### #is_/same_as :: [Password.personal](/_personal/Society/Agent/Management/Risk-Management/Security/Key/Password.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Key/Password.personal|Password.personal]] 
 
-### #is_/same_as :: [Password.secret](/_secret/Society/Agent/Management/Risk-Management/Security/Key/Password.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Key/Password.secret|Password.secret]] 
 

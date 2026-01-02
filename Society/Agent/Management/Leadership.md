@@ -61,17 +61,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leadership](/_Standards/Society/Agent/Management/Leadership.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Leadership|Leadership]] 
 
-### #is_/same_as :: [Leadership.public](/_public/Society/Agent/Management/Leadership.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Leadership.public|Leadership.public]] 
 
-### #is_/same_as :: [Leadership.internal](/_internal/Society/Agent/Management/Leadership.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Leadership.internal|Leadership.internal]] 
 
-### #is_/same_as :: [Leadership.protect](/_protect/Society/Agent/Management/Leadership.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Leadership.protect|Leadership.protect]] 
 
-### #is_/same_as :: [Leadership.private](/_private/Society/Agent/Management/Leadership.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Leadership.private|Leadership.private]] 
 
-### #is_/same_as :: [Leadership.personal](/_personal/Society/Agent/Management/Leadership.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Leadership.personal|Leadership.personal]] 
 
-### #is_/same_as :: [Leadership.secret](/_secret/Society/Agent/Management/Leadership.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Leadership.secret|Leadership.secret]] 
 

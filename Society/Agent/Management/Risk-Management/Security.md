@@ -95,17 +95,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Security](/_Standards/Society/Agent/Management/Risk-Management/Security.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security|Security]] 
 
-### #is_/same_as :: [Security.public](/_public/Society/Agent/Management/Risk-Management/Security.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security.public|Security.public]] 
 
-### #is_/same_as :: [Security.internal](/_internal/Society/Agent/Management/Risk-Management/Security.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security.internal|Security.internal]] 
 
-### #is_/same_as :: [Security.protect](/_protect/Society/Agent/Management/Risk-Management/Security.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security.protect|Security.protect]] 
 
-### #is_/same_as :: [Security.private](/_private/Society/Agent/Management/Risk-Management/Security.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security.private|Security.private]] 
 
-### #is_/same_as :: [Security.personal](/_personal/Society/Agent/Management/Risk-Management/Security.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security.personal|Security.personal]] 
 
-### #is_/same_as :: [Security.secret](/_secret/Society/Agent/Management/Risk-Management/Security.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security.secret|Security.secret]] 
 

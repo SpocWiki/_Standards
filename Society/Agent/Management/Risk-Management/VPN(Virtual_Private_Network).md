@@ -32,17 +32,17 @@ Similar to the [[Tor-Network]], VPNs operate Servers on most Continents and many
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network)](/_Standards/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network)|VPN(Virtual_Private_Network)]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).public](/_public/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).public|VPN(Virtual_Private_Network).public]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).internal](/_internal/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).internal|VPN(Virtual_Private_Network).internal]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).protect](/_protect/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).protect|VPN(Virtual_Private_Network).protect]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).private](/_private/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).private|VPN(Virtual_Private_Network).private]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).personal](/_personal/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).personal|VPN(Virtual_Private_Network).personal]] 
 
-### #is_/same_as :: [VPN(Virtual_Private_Network).secret](/_secret/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).secret|VPN(Virtual_Private_Network).secret]] 
 

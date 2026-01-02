@@ -67,17 +67,17 @@ ComputerLanguage_com_definition: risk+management
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Risk-Management](/_Standards/Society/Agent/Management/Risk-Management.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management|Risk-Management]] 
 
-### #is_/same_as :: [Risk-Management.public](/_public/Society/Agent/Management/Risk-Management.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management.public|Risk-Management.public]] 
 
-### #is_/same_as :: [Risk-Management.internal](/_internal/Society/Agent/Management/Risk-Management.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management.internal|Risk-Management.internal]] 
 
-### #is_/same_as :: [Risk-Management.protect](/_protect/Society/Agent/Management/Risk-Management.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management.protect|Risk-Management.protect]] 
 
-### #is_/same_as :: [Risk-Management.private](/_private/Society/Agent/Management/Risk-Management.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management.private|Risk-Management.private]] 
 
-### #is_/same_as :: [Risk-Management.personal](/_personal/Society/Agent/Management/Risk-Management.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management.personal|Risk-Management.personal]] 
 
-### #is_/same_as :: [Risk-Management.secret](/_secret/Society/Agent/Management/Risk-Management.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management.secret|Risk-Management.secret]] 
 

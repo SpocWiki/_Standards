@@ -104,17 +104,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confidentiality](/_Standards/Confidentiality.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Confidentiality|Confidentiality]] 
 
-### #is_/same_as :: [Confidentiality.public](/_public/Confidentiality.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Confidentiality.public|Confidentiality.public]] 
 
-### #is_/same_as :: [Confidentiality.internal](/_internal/Confidentiality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Confidentiality.internal|Confidentiality.internal]] 
 
-### #is_/same_as :: [Confidentiality.protect](/_protect/Confidentiality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Confidentiality.protect|Confidentiality.protect]] 
 
-### #is_/same_as :: [Confidentiality.private](/_private/Confidentiality.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Confidentiality.private|Confidentiality.private]] 
 
-### #is_/same_as :: [Confidentiality.personal](/_personal/Confidentiality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Confidentiality.personal|Confidentiality.personal]] 
 
-### #is_/same_as :: [Confidentiality.secret](/_secret/Confidentiality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Confidentiality.secret|Confidentiality.secret]] 
 

@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geofence](/_Standards/Society/Agent/Management/Risk-Management/Geofence.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Geofence|Geofence]] 
 
-### #is_/same_as :: [Geofence.public](/_public/Society/Agent/Management/Risk-Management/Geofence.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Geofence.public|Geofence.public]] 
 
-### #is_/same_as :: [Geofence.internal](/_internal/Society/Agent/Management/Risk-Management/Geofence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Geofence.internal|Geofence.internal]] 
 
-### #is_/same_as :: [Geofence.protect](/_protect/Society/Agent/Management/Risk-Management/Geofence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Geofence.protect|Geofence.protect]] 
 
-### #is_/same_as :: [Geofence.private](/_private/Society/Agent/Management/Risk-Management/Geofence.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Geofence.private|Geofence.private]] 
 
-### #is_/same_as :: [Geofence.personal](/_personal/Society/Agent/Management/Risk-Management/Geofence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Geofence.personal|Geofence.personal]] 
 
-### #is_/same_as :: [Geofence.secret](/_secret/Society/Agent/Management/Risk-Management/Geofence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Geofence.secret|Geofence.secret]] 
 

@@ -45,3 +45,22 @@ Dewey_Decimal_Classification: "323.448"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anonymity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity|Anonymity]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.public|Anonymity.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.internal|Anonymity.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.protect|Anonymity.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.private|Anonymity.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.personal|Anonymity.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Confidentiality/Anonymity.secret|Anonymity.secret]] 
+

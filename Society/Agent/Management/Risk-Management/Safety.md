@@ -27,17 +27,17 @@ Security is Safety against [[../../../Agent|Agent]]s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Safety](/_Standards/Society/Agent/Management/Risk-Management/Safety.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Safety|Safety]] 
 
-### #is_/same_as :: [Safety.public](/_public/Society/Agent/Management/Risk-Management/Safety.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Safety.public|Safety.public]] 
 
-### #is_/same_as :: [Safety.internal](/_internal/Society/Agent/Management/Risk-Management/Safety.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Safety.internal|Safety.internal]] 
 
-### #is_/same_as :: [Safety.protect](/_protect/Society/Agent/Management/Risk-Management/Safety.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Safety.protect|Safety.protect]] 
 
-### #is_/same_as :: [Safety.private](/_private/Society/Agent/Management/Risk-Management/Safety.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Safety.private|Safety.private]] 
 
-### #is_/same_as :: [Safety.personal](/_personal/Society/Agent/Management/Risk-Management/Safety.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Safety.personal|Safety.personal]] 
 
-### #is_/same_as :: [Safety.secret](/_secret/Society/Agent/Management/Risk-Management/Safety.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Safety.secret|Safety.secret]] 
 

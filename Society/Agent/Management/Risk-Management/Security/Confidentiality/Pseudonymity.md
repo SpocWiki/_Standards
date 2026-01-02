@@ -22,3 +22,22 @@ uses: "[[_Standards/WikiData/WD~pseudonym,61002]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudonym) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity|Pseudonymity]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.public|Pseudonymity.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.internal|Pseudonymity.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.protect|Pseudonymity.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.private|Pseudonymity.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.personal|Pseudonymity.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Confidentiality/Pseudonymity.secret|Pseudonymity.secret]] 
+

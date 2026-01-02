@@ -48,17 +48,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Llave%20bronce.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Key](/_Standards/Society/Agent/Management/Risk-Management/Security/Key.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Security/Key|Key]] 
 
-### #is_/same_as :: [Key.public](/_public/Society/Agent/Management/Risk-Management/Security/Key.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Security/Key.public|Key.public]] 
 
-### #is_/same_as :: [Key.internal](/_internal/Society/Agent/Management/Risk-Management/Security/Key.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Security/Key.internal|Key.internal]] 
 
-### #is_/same_as :: [Key.protect](/_protect/Society/Agent/Management/Risk-Management/Security/Key.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Security/Key.protect|Key.protect]] 
 
-### #is_/same_as :: [Key.private](/_private/Society/Agent/Management/Risk-Management/Security/Key.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Security/Key.private|Key.private]] 
 
-### #is_/same_as :: [Key.personal](/_personal/Society/Agent/Management/Risk-Management/Security/Key.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Security/Key.personal|Key.personal]] 
 
-### #is_/same_as :: [Key.secret](/_secret/Society/Agent/Management/Risk-Management/Security/Key.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Security/Key.secret|Key.secret]] 
 

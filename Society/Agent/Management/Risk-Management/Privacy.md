@@ -82,17 +82,17 @@ Colon_Classification: W:56
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Privacy](/_Standards/Society/Agent/Management/Risk-Management/Privacy.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Privacy|Privacy]] 
 
-### #is_/same_as :: [Privacy.public](/_public/Society/Agent/Management/Risk-Management/Privacy.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Privacy.public|Privacy.public]] 
 
-### #is_/same_as :: [Privacy.internal](/_internal/Society/Agent/Management/Risk-Management/Privacy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Privacy.internal|Privacy.internal]] 
 
-### #is_/same_as :: [Privacy.protect](/_protect/Society/Agent/Management/Risk-Management/Privacy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Privacy.protect|Privacy.protect]] 
 
-### #is_/same_as :: [Privacy.private](/_private/Society/Agent/Management/Risk-Management/Privacy.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Privacy.private|Privacy.private]] 
 
-### #is_/same_as :: [Privacy.personal](/_personal/Society/Agent/Management/Risk-Management/Privacy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Privacy.personal|Privacy.personal]] 
 
-### #is_/same_as :: [Privacy.secret](/_secret/Society/Agent/Management/Risk-Management/Privacy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Privacy.secret|Privacy.secret]] 
 
